@@ -299,7 +299,7 @@
   <Cell><Data ss:Type="String">重型掛點</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ,HARDPOINT.LIGHT</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">常規掛點</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">輕型掛點</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ,HARDPOINT.SUPERHEAVY</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">超重型掛點</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -494,7 +494,7 @@
   <Cell><Data ss:Type="String">偵察幽浮</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.strikecruiser</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">岸轟巡洋幽浮</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">巡洋岸轟幽浮</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.human.chinook</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">查理</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -584,7 +584,7 @@
   <Cell><Data ss:Type="String">機槍彈匣</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.particlebeam</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">奇點炮彈藥</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">奇點炮彈</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.pistol</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">手槍彈匣</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -2517,7 +2517,7 @@
   <Cell><Data ss:Type="String">異型奇點爐</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">岸轟巡洋幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">巡洋岸轟幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStunGrenades</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">異型震擊手雷</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -5513,7 +5513,7 @@
   <Cell><Data ss:Type="String">岸轟幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacore</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">岸轟巡洋幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">巡洋岸轟幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -5549,7 +5549,7 @@
   <Cell><Data ss:Type="String">岸轟幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">岸轟巡洋幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">巡洋岸轟幽浮數據中樞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasma</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">異型等離子狙擊槍</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
