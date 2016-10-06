@@ -2,9 +2,25 @@
 
 For community edition. Work In Progress.
 
-工事中。
+適用於 異族航員（又譯異種航員） 社群增強版。工事中。
 
 ## Testing ##
 
 You will need to create .mvec files (will be included in future)
 and manually override game font to see any Chinese at all.
+
+## Progress ##
+
+* [x] Translate UI strings (strings.xml)
+* [ ] Translate Xenopedia (xenopedia.xml 1128/1347)
+* [ ] Translate Soldier names (soldiernames ?/2609 soldiernamesfemale.xml 0/1479)
+* [ ] Translate custom solider and regiment (strings.xml ?/?)
+* [ ] Add and translate mod contents (Lore+ and others)
+* [ ] Edit strings.xml
+* [ ] Edit Xenopedia.xml
+* [ ] Build font and preview package
+* [ ] Translate splashscreen and launcher
+* [ ] Playtest - Adjust font sizes
+* [ ] Playtest - Fill in uncertain blanks
+* [ ] Proofreading
+* [ ] Release

@@ -1340,7 +1340,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傑出服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DistinguisedServiceMedal_desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積卅次帶英勇表現的作戰。&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積三十次帶英勇表現的作戰。&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.NoSurvivors</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被撃墜。沒找到生還者。</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -2883,7 +2883,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;長期服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LongServiceMedal_desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積廿次帶英勇表現的作戰。&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積二十次帶英勇表現的作戰。&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Los Angeles</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">洛杉磯</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -3439,7 +3439,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;地球衛士勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfTerra_desc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳累計打倒廿名外太空敵人的戰積。&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳累計打倒二十名外太空敵人的戰積。&lt;/font&gt;</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Papua New Guinea</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
   <Cell><Data ss:Type="String">巴布亞新幾內亞</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
