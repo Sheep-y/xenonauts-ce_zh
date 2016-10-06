@@ -1143,7 +1143,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/defencebattery</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">The Defence Battery is a point-defence structure that provides your base with protection against UFOs. In the event that your base is attacked by enemy forces, your defence batteries will each take a shot at the attacking craft with a 50% hit chance before the ground assault begins. &#10;&#10;Several defence batteries may be able to destroy an attacking UFO before it lands, averting the attack completely - but inflicting any damage on the UFO at all will reduce the size of the alien ground forces appropriately (to a minimum of 50%). These batteries upgrade automatically as you research more advanced weapon technology, so will not become obsolete over time.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">防禦陣地是攻擊來犯幽浮的據點防禦設施。萬一你的基地受到敵人攻擊，每座防禦陣地都會開火一次，有一半機率命中，然後就會開始守衛基地的戰鬥。&#10;&#10;如有多座防禦陣地，幽浮可能在登陸前就被擊墜，完全瓦解攻擊。不過即使不能，只要對幽浮做成傷害就能減了異型登陸部隊的數量，最多減一半。防禦陣地的武器會隨著技術開發而自動升級，不會過時。</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s72"><Data ss:Type="String">Garage</Data></Cell>
@@ -1151,7 +1151,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/garage</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">As the name implies, the Garage houses any Xenonaut vehicles stationed at the base. Each garage will hold up to three vehicles and a free Garage slot is required before construction can even begin on a ground vehicle.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">車房為異族航員的戰車提供停泊之所。每座車房可以泊三輛戰車，沒有空車位的話就不能制作新的戰車。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s72"><Data ss:Type="String">Hangar</Data></Cell>
@@ -1159,7 +1159,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/hangar</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Each Hangar will house a single interceptor or dropshop; a free hangar bay is necessary before you are able to purchase or construct an additional aircraft.&#10;&#10;These structures are quick to construct and have relatively low upkeep, but the aircraft they house do not. Decommission any unnecessary aircraft quickly!</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">每座機庫可以停泊一架戰鬥機或一架運輸機，沒有空機庫的話就不能購買或制作新的航機。&#10;&#10;機庫建造快速，維護費也低，但航機的維護費很高昴。沒有用的戰機請迅速除役！</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s72"><Data ss:Type="String">Laboratory</Data></Cell>
@@ -1167,7 +1167,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/laboratory</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Laboratories allow a base to conduct research. Each Laboratory will house up to 15 scientists, who require both living space and laboratory space to be available before they can be recruited. Research is networked across different bases, so multiple scientists working on the same project from different bases are just as effective as if they were housed in the same facility.&#10;&#10;Research performed in a laboratory suffers diminishing returns: the first scientist on a project works at 100% efficiency, the second at 99% efficiency, the third at 98% efficiency (and so forth). Finally, as laboratories are expensive and have unusually high maintenance costs, consider your finances carefully before constructing one.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">設置了實驗室的基地可以開展研究。每座實驗室可以容納 15 名科學家，不過同時要有足夠的居住空間才能雇用他們。研究進度在基地間是互通的，多個基地的科學家可以同時參與一項研究，效率等同將所有人集中起來。&#10;&#10;不過人數越多效率就越低；每個項目的首位科學家的研究效率是 100%，第二名是 99%，第三名 98%，如此類推。最後就是實驗室所費不非，維護費亦不容小覷，興建前請考慮一下財政狀況。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="25.5">
     <Cell ss:StyleID="s72"><Data ss:Type="String">LivingQuarters</Data></Cell>
@@ -1175,7 +1175,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/livingquarters</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Living Quarters provide housing for up to 35 personnel - either Soldiers, Scientists or Engineers (any combination of the three personnel types can be housed in the same structure). Living space and any appropriate work space must be in place before new staff can be hired, so ensure your bases have enough living quarters to accommodate your expansion plans.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">起居室提供足夠 35 人居住的空間，可以是士兵、科學家、和/或工程師。除了居所外，科學家和工程師亦需要有工作空間才能被雇用。請確保基地有足夠的居住配額支持你的擴展計劃。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s72"><Data ss:Type="String">MedicalCenter</Data></Cell>
@@ -1183,7 +1183,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/medicalcenter</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">The Medical Center structure provides Xenonauts with state-of-the-art medical care for any injuries they sustain in battle, halving the recovery times of any injuries inflicted on your soldiers. &#10;&#10;Building additional Medical Centers beyond the first has no extra effect on healing speed.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">醫護所為異族航員提供最先進的醫療設施，照料受傷的士兵，將他們養傷所需的時間減半。&#10;&#10;醫護所有一座就足夠，興建額外的醫護所不會再縮短養傷所需的時間。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s72"><Data ss:Type="String">RadarArray</Data></Cell>
@@ -1191,7 +1191,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/radararray</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Radar Array structures allow a base to detect extraterrestrial UFOs. The detection radius of the base is shown as a blue circle on the Geoscape; any UFOs that enter this circle will be detected almost immediately irrespective of distance from the facility.&#10;&#10;The radar range of a base can be expanded by constructing additional Radar Arrays, however this will only apply three times (i.e. there is no point building a fourth Radar Array). </Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">雷逹陣列令基地可以偵察外星幽浮。基地的偵察範圍在地圖示圖上顯示為藍色的圓圈。任何進入此圈的幽浮都會立刻被偵察到，不論遠近。&#10;&#10;興建額外的雷逹陣列可以擴展這個偵察距離，最多可以有三座（第四座及其後將沒有作用）。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="51">
     <Cell ss:StyleID="s72"><Data ss:Type="String">Storeroom</Data></Cell>
@@ -1199,7 +1199,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/storeroom</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">The Storeroom of a base houses all manufactured or recovered equipment at the base. This is not required for items that are available in unlimited quantities - so aircraft weapons / ammunition or ballistic weapons for your soldiers will still be available without a Storeroom. However, the base cannot receive any manufactured soldier weapons or armour until it has storage space for them, nor collect any Alenium / alien alloys.&#10;&#10;A single Storeroom is capable of holding an unlimited quantity of items.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">儲物室存放基地所生產或從戰場回收的所有物資。無限量供應的裝備不需儲物室，所以戰鬥機武器和彈道武器都可以如常裝備。但這基地將不能接收已經被生產的武器或護甲，也不能回收異能晶和異型合金。&#10;&#10;一個儲物室足以存放無限量的裝備。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s72"><Data ss:Type="String">Workshop</Data></Cell>
@@ -1207,7 +1207,7 @@
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/workshop</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">Workshops allow a base to construct aircraft, vehicles and battlefield equipment. Each Workshop will house up to 15 engineers, who require both living space and workshop space to be available before they can be recruited. Unlike Laboratories, Workshops are NOT networked - engineers in different bases cannot collaborate on projects.&#10;&#10;Engineers suffers diminishing returns when at work: the first engineer on a project works at 100% efficiency, the second at 99% efficiency, the third at 98% efficiency (and so forth). Finally, as workshops are expensive and have unusually high maintenance costs, consider your finances carefully before constructing one.</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">工房讓基地得以制造航機、戰車、及戰術裝備。每座工房可以容納 15 名工程師，不過同時要有足夠的居住空間才能雇用他們。跟實驗室不同，不同基地的製作是獨立進行的，不能分散製作。&#10;&#10;參與工程的人數越多效率就越低；每項製作的首位工程師的研究效率是 100%，第二名是 99%，第三名 98%，如此類推。最後就是工房所費不非，維護費亦不容小覷，興建前請考慮一下財政狀況。</Data></Cell>
    </Row>
    <Row ss:StyleID="s112">
     <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AdvancedMedpack</Data></Cell>
@@ -1340,7 +1340,7 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s72"><Data ss:Type="String">Epilogue</Data></Cell>
-    <Cell ss:StyleID="s72"><Data ss:Type="String">尾聲</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Epilogue</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s72"><Data ss:Type="String">NULL</Data></Cell>
