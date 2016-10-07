@@ -398,14 +398,14 @@
 		<FirstName>丹尼斯</FirstName>
 		<FirstName>唐納德</FirstName>
 		<FirstName>道格拉斯</FirstName>
-		<FirstName>Earl</FirstName>
+		<FirstName>厄爾</FirstName>
 		<FirstName>埃迪</FirstName>
 		<FirstName>愛德華</FirstName>
 		<FirstName>埃里克</FirstName>
 		<FirstName>歐內斯特</FirstName>
 		<FirstName>尤金</FirstName>
 		<FirstName>弗朗西斯</FirstName>
-		<FirstName>Frank</FirstName>
+		<FirstName>弗蘭克</FirstName>
 		<FirstName>弗雷德</FirstName>
 		<FirstName>加里</FirstName>
 		<FirstName>喬治</FirstName>
@@ -481,14 +481,14 @@
 		<LastName>巴恩斯</LastName>
 		<LastName>貝爾</LastName>
 		<LastName>貝內特</LastName>
-		<LastName>Brown</LastName>
+		<LastName>布朗</LastName>
 		<LastName>巴特勒</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>卡特</LastName>
 		<LastName>查普曼</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>柯林斯</LastName>
-		<LastName>Cook</LastName>
+		<LastName>庫克</LastName>
 		<LastName>庫珀</LastName>
 		<LastName>考克斯</LastName>
 		<LastName>戴維斯</LastName>
@@ -496,19 +496,19 @@
 		<LastName>埃利斯</LastName>
 		<LastName>埃文斯</LastName>
 		<LastName>費舍爾</LastName>
-		<LastName>Foster</LastName>
-		<LastName>Fox</LastName>
+		<LastName>福斯特</LastName>
+		<LastName>福克斯</LastName>
 		<LastName>弗雷澤</LastName>
 		<LastName>格雷厄姆</LastName>
-		<LastName>灰</LastName>
-		<LastName>綠</LastName>
+		<LastName>格雷</LastName>
+		<LastName>格林</LastName>
 		<LastName>格里菲思</LastName>
-		<LastName>Hall</LastName>
+		<LastName>霍爾</LastName>
 		<LastName>漢密爾頓</LastName>
 		<LastName>哈里斯</LastName>
 		<LastName>哈里森</LastName>
 		<LastName>亨德森</LastName>
-		<LastName>Hill</LastName>
+		<LastName>希爾</LastName>
 		<LastName>霍華德</LastName>
 		<LastName>休斯</LastName>
 		<LastName>傑克遜</LastName>
@@ -517,15 +517,15 @@
 		<LastName>瓊斯</LastName>
 		<LastName>凱利</LastName>
 		<LastName>肯尼迪</LastName>
-		<LastName>King</LastName>
+		<LastName>金</LastName>
 		<LastName>李</LastName>
 		<LastName>路易斯</LastName>
 		<LastName>馬歇爾</LastName>
 		<LastName>馬丁</LastName>
-		<LastName>Mason</LastName>
+		<LastName>梅森</LastName>
 		<LastName>麥當勞</LastName>
 		<LastName>麥格勞</LastName>
-		<LastName>Miller</LastName>
+		<LastName>米勒</LastName>
 		<LastName>米切爾</LastName>
 		<LastName>穆爾</LastName>
 		<LastName>摩根</LastName>
@@ -541,8 +541,8 @@
 		<LastName>彼得森</LastName>
 		<LastName>菲利普斯</LastName>
 		<LastName>鮑威爾</LastName>
-		<LastName>Price</LastName>
-		<LastName>Reed</LastName>
+		<LastName>普林斯</LastName>
+		<LastName>里德</LastName>
 		<LastName>雷諾茲</LastName>
 		<LastName>理查茲</LastName>
 		<LastName>理查德森</LastName>
@@ -552,7 +552,7 @@
 		<LastName>羅傑斯</LastName>
 		<LastName>羅斯</LastName>
 		<LastName>羅素</LastName>
-		<LastName>Ryan</LastName>
+		<LastName>瑞安</LastName>
 		<LastName>桑德斯</LastName>
 		<LastName>斯科特</LastName>
 		<LastName>蕭</LastName>
@@ -563,15 +563,15 @@
 		<LastName>泰勒</LastName>
 		<LastName>托馬斯</LastName>
 		<LastName>湯普森</LastName>
-		<LastName>Turner</LastName>
+		<LastName>特納</LastName>
 		<LastName>沃克</LastName>
 		<LastName>沃爾什</LastName>
 		<LastName>沃德</LastName>
 		<LastName>沃森</LastName>
-		<LastName>白</LastName>
+		<LastName>懷特</LastName>
 		<LastName>威廉姆斯</LastName>
 		<LastName>威爾遜</LastName>
-		<LastName>木</LastName>
+		<LastName>伍德</LastName>
 		<LastName>賴特</LastName>
 		<LastName>楊格</LastName>
 
@@ -611,7 +611,7 @@
 		<LastName>特倫布萊</LastName>
 		<LastName>加格農</LastName>
 		<LastName>羅伊</LastName>
-		<LastName>Cote</LastName>
+		<LastName>科特</LastName>
 		<LastName>布沙爾</LastName>
 		<LastName>戈捷</LastName>
 		<LastName>莫蘭</LastName>
@@ -695,7 +695,7 @@
 		<FirstName>安格斯</FirstName>
 		<FirstName>安塞爾</FirstName>
 		<FirstName>安東尼</FirstName>
-		<FirstName>Archer</FirstName>
+		<FirstName>阿徹</FirstName>
 		<FirstName>阿諾德</FirstName>
 		<FirstName>亞瑟</FirstName>
 		<FirstName>奧布里</FirstName>
@@ -728,7 +728,7 @@
 		<FirstName>布魯諾</FirstName>
 		<FirstName>布萊恩特</FirstName>
 		<FirstName>勃克</FirstName>
-		<FirstName>Bud</FirstName>
+		<FirstName>巴德</FirstName>
 		<FirstName>伯頓</FirstName>
 		<FirstName>拜倫</FirstName>
 		<FirstName>迦勒</FirstName>
@@ -747,7 +747,7 @@
 		<FirstName>查普曼</FirstName>
 		<FirstName>查爾斯</FirstName>
 		<FirstName>切斯特</FirstName>
-		<FirstName>Christian</FirstName>
+		<FirstName>克里斯琴</FirstName>
 		<FirstName>克里斯托弗</FirstName>
 		<FirstName>克拉倫斯</FirstName>
 		<FirstName>克勞德</FirstName>
@@ -769,7 +769,7 @@
 		<FirstName>達蒙</FirstName>
 		<FirstName>丹尼爾</FirstName>
 		<FirstName>大衛</FirstName>
-		<FirstName>Dean</FirstName>
+		<FirstName>迪安</FirstName>
 		<FirstName>戴克瀾</FirstName>
 		<FirstName>丹尼斯</FirstName>
 		<FirstName>德里克</FirstName>
@@ -779,7 +779,7 @@
 		<FirstName>德克斯特</FirstName>
 		<FirstName>狄龍</FirstName>
 		<FirstName>狄恩</FirstName>
-		<FirstName>Dirk</FirstName>
+		<FirstName>德克</FirstName>
 		<FirstName>多米尼克</FirstName>
 		<FirstName>唐納德</FirstName>
 		<FirstName>道格拉斯</FirstName>
@@ -788,8 +788,8 @@
 		<FirstName>鄧肯</FirstName>
 		<FirstName>德懷特</FirstName>
 		<FirstName>迪倫</FirstName>
-		<FirstName>Earl</FirstName>
-		<FirstName>Edan</FirstName>
+		<FirstName>厄爾</FirstName>
+		<FirstName>伊頓</FirstName>
 		<FirstName>埃迪</FirstName>
 		<FirstName>埃德加</FirstName>
 		<FirstName>愛德蒙</FirstName>
@@ -811,7 +811,7 @@
 		<FirstName>厄斯金</FirstName>
 		<FirstName>歐文</FirstName>
 		<FirstName>伊森</FirstName>
-		<FirstName>Ethanael</FirstName>
+		<FirstName>伊桑內爾</FirstName>
 		<FirstName>尤金</FirstName>
 		<FirstName>埃文</FirstName>
 		<FirstName>埃弗雷特</FirstName>
@@ -820,16 +820,16 @@
 		<FirstName>弗洛伊德</FirstName>
 		<FirstName>福布斯</FirstName>
 		<FirstName>福雷斯特</FirstName>
-		<FirstName>Foster</FirstName>
-		<FirstName>Fox</FirstName>
+		<FirstName>福斯特</FirstName>
+		<FirstName>福克斯</FirstName>
 		<FirstName>弗朗西斯</FirstName>
-		<FirstName>Frank</FirstName>
+		<FirstName>弗蘭克</FirstName>
 		<FirstName>弗雷澤</FirstName>
 		<FirstName>弗雷德</FirstName>
 		<FirstName>加布里埃爾</FirstName>
 		<FirstName>加里</FirstName>
 		<FirstName>高爾文</FirstName>
-		<FirstName>Garret</FirstName>
+		<FirstName>加勒特</FirstName>
 		<FirstName>加思</FirstName>
 		<FirstName>加文</FirstName>
 		<FirstName>喬治</FirstName>
@@ -841,7 +841,7 @@
 		<FirstName>格雷厄姆</FirstName>
 		<FirstName>格蘭特</FirstName>
 		<FirstName>格雷戈里</FirstName>
-		<FirstName>Guy</FirstName>
+		<FirstName>蓋伊</FirstName>
 		<FirstName>哈爾</FirstName>
 		<FirstName>哈雷</FirstName>
 		<FirstName>哈羅德</FirstName>
@@ -851,7 +851,7 @@
 		<FirstName>赫克托</FirstName>
 		<FirstName>亨利</FirstName>
 		<FirstName>霍華德</FirstName>
-		<FirstName>Hunter</FirstName>
+		<FirstName>享特</FirstName>
 		<FirstName>伊恩</FirstName>
 		<FirstName>歐文</FirstName>
 		<FirstName>艾薩克</FirstName>
@@ -861,7 +861,7 @@
 		<FirstName>傑克</FirstName>
 		<FirstName>詹姆士</FirstName>
 		<FirstName>賈森</FirstName>
-		<FirstName>Jasper</FirstName>
+		<FirstName>賈斯珀</FirstName>
 		<FirstName>傑德</FirstName>
 		<FirstName>傑弗裡</FirstName>
 		<FirstName>耶利米</FirstName>
@@ -951,7 +951,7 @@
 		<FirstName>羅斯</FirstName>
 		<FirstName>羅伊</FirstName>
 		<FirstName>羅素</FirstName>
-		<FirstName>Ryan</FirstName>
+		<FirstName>瑞安</FirstName>
 		<FirstName>山姆</FirstName>
 		<FirstName>塞繆爾</FirstName>
 		<FirstName>斯科特</FirstName>
@@ -1001,16 +1001,16 @@
 		<LastName>約翰遜</LastName>
 		<LastName>威廉姆斯</LastName>
 		<LastName>瓊斯</LastName>
-		<LastName>啡</LastName>
+		<LastName>布朗</LastName>
 		<LastName>戴維斯</LastName>
-		<LastName>Miller</LastName>
+		<LastName>米勒</LastName>
 		<LastName>威爾遜</LastName>
 		<LastName>穆爾</LastName>
 		<LastName>泰勒</LastName>
 		<LastName>安德森</LastName>
 		<LastName>托馬斯</LastName>
 		<LastName>傑克遜</LastName>
-		<LastName>白</LastName>
+		<LastName>懷特</LastName>
 		<LastName>哈里斯</LastName>
 		<LastName>馬丁</LastName>
 		<LastName>湯普森</LastName>
@@ -1022,16 +1022,16 @@
 		<LastName>路易斯</LastName>
 		<LastName>李</LastName>
 		<LastName>沃克</LastName>
-		<LastName>Hall</LastName>
+		<LastName>霍爾</LastName>
 		<LastName>阿倫</LastName>
 		<LastName>楊格</LastName>
 		<LastName>埃爾南德斯</LastName>
-		<LastName>King</LastName>
+		<LastName>金</LastName>
 		<LastName>賴特</LastName>
 		<LastName>洛佩茲</LastName>
-		<LastName>Hill</LastName>
+		<LastName>希爾</LastName>
 		<LastName>斯科特</LastName>
-		<LastName>綠</LastName>
+		<LastName>格林</LastName>
 		<LastName>亞當斯</LastName>
 		<LastName>貝克</LastName>
 		<LastName>岡薩雷斯</LastName>
@@ -1040,7 +1040,7 @@
 		<LastName>米切爾</LastName>
 		<LastName>佩雷斯</LastName>
 		<LastName>羅伯茨</LastName>
-		<LastName>Turner</LastName>
+		<LastName>特納</LastName>
 		<LastName>菲利普斯</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>帕克</LastName>
@@ -1051,8 +1051,8 @@
 		<LastName>桑切斯</LastName>
 		<LastName>莫里斯</LastName>
 		<LastName>羅傑斯</LastName>
-		<LastName>Reed</LastName>
-		<LastName>Cook</LastName>
+		<LastName>里德</LastName>
+		<LastName>庫克</LastName>
 		<LastName>摩根</LastName>
 		<LastName>貝爾</LastName>
 		<LastName>墨菲</LastName>
@@ -1065,16 +1065,16 @@
 		<LastName>沃德</LastName>
 		<LastName>托雷斯</LastName>
 		<LastName>彼得森</LastName>
-		<LastName>灰</LastName>
+		<LastName>格雷</LastName>
 		<LastName>拉米雷斯</LastName>
 		<LastName>詹姆士</LastName>
 		<LastName>沃森</LastName>
 		<LastName>布魯克斯</LastName>
 		<LastName>凱利</LastName>
 		<LastName>桑德斯</LastName>
-		<LastName>Price</LastName>
+		<LastName>普林斯</LastName>
 		<LastName>貝內特</LastName>
-		<LastName>木</LastName>
+		<LastName>伍德</LastName>
 		<LastName>巴恩斯</LastName>
 		<LastName>羅斯</LastName>
 		<LastName>亨德森</LastName>
@@ -1089,7 +1089,7 @@
 		<LastName>華盛頓</LastName>
 		<LastName>巴特勒</LastName>
 		<LastName>西蒙斯</LastName>
-		<LastName>Foster</LastName>
+		<LastName>福斯特</LastName>
 		<LastName>岡薩雷斯</LastName>
 		<LastName>布萊恩特</LastName>
 		<LastName>亞歷山大</LastName>
@@ -1145,13 +1145,13 @@
 		<FirstName>賈森</FirstName>
 		<FirstName>傑弗裡</FirstName>
 		<FirstName>加里</FirstName>
-		<FirstName>Ryan</FirstName>
+		<FirstName>瑞安</FirstName>
 		<FirstName>Nick</FirstName>
 		<FirstName>埃里克</FirstName>
 		<FirstName>斯蒂芬</FirstName>
 		<FirstName>傑克</FirstName>
 		<FirstName>拉里</FirstName>
-		<FirstName>Frank</FirstName>
+		<FirstName>弗蘭克</FirstName>
 		<FirstName>喬納森</FirstName>
 		<FirstName>斯科特</FirstName>
 		<FirstName>賈斯汀</FirstName>
@@ -1193,7 +1193,7 @@
 		<FirstName>比利</FirstName>
 		<FirstName>奧斯汀</FirstName>
 		<FirstName>布魯斯</FirstName>
-		<FirstName>Christian</FirstName>
+		<FirstName>克里斯琴</FirstName>
 		<FirstName>羅伊</FirstName>
 		<FirstName>布賴恩</FirstName>
 		<FirstName>路易斯</FirstName>
@@ -1217,7 +1217,7 @@
 		<LastName>瓊斯</LastName>
 		<LastName>威廉姆斯</LastName>
 		<LastName>泰勒</LastName>
-		<LastName>啡</LastName>
+		<LastName>布朗</LastName>
 		<LastName>戴維斯</LastName>
 		<LastName>埃文斯</LastName>
 		<LastName>威爾遜</LastName>
@@ -1228,26 +1228,26 @@
 		<LastName>湯普森</LastName>
 		<LastName>賴特</LastName>
 		<LastName>沃克</LastName>
-		<LastName>白</LastName>
+		<LastName>懷特</LastName>
 		<LastName>愛德華茲</LastName>
 		<LastName>休斯</LastName>
-		<LastName>綠</LastName>
-		<LastName>Hall</LastName>
+		<LastName>格林</LastName>
+		<LastName>霍爾</LastName>
 		<LastName>路易斯</LastName>
 		<LastName>哈里斯</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>傑克遜</LastName>
-		<LastName>木</LastName>
-		<LastName>Turner</LastName>
+		<LastName>伍德</LastName>
+		<LastName>特納</LastName>
 		<LastName>馬丁</LastName>
 		<LastName>庫珀</LastName>
-		<LastName>Hill</LastName>
+		<LastName>希爾</LastName>
 		<LastName>沃德</LastName>
 		<LastName>莫里斯</LastName>
 		<LastName>穆爾</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>李</LastName>
-		<LastName>King</LastName>
+		<LastName>金</LastName>
 		<LastName>貝克</LastName>
 		<LastName>哈里森</LastName>
 		<LastName>摩根</LastName>
@@ -1258,13 +1258,13 @@
 		<LastName>沃森</LastName>
 		<LastName>戴維斯</LastName>
 		<LastName>帕克</LastName>
-		<LastName>Price</LastName>
+		<LastName>普林斯</LastName>
 		<LastName>貝內特</LastName>
 		<LastName>楊格</LastName>
 		<LastName>格里菲思</LastName>
 		<LastName>米切爾</LastName>
 		<LastName>凱利</LastName>
-		<LastName>Cook</LastName>
+		<LastName>庫克</LastName>
 		<LastName>卡特</LastName>
 		<LastName>理查德森</LastName>
 		<LastName>貝利</LastName>
@@ -1272,7 +1272,7 @@
 		<LastName>貝爾</LastName>
 		<LastName>蕭</LastName>
 		<LastName>墨菲</LastName>
-		<LastName>Miller</LastName>
+		<LastName>米勒</LastName>
 		<LastName>考克斯</LastName>
 		<LastName>理查茲</LastName>
 		<LastName>馬歇爾</LastName>
@@ -1281,13 +1281,13 @@
 		<LastName>埃利斯</LastName>
 		<LastName>亞當斯</LastName>
 		<LastName>威爾金森</LastName>
-		<LastName>Foster</LastName>
+		<LastName>福斯特</LastName>
 		<LastName>查普曼</LastName>
 		<LastName>鮑威爾</LastName>
 		<LastName>韋伯</LastName>
 		<LastName>羅傑斯</LastName>
-		<LastName>灰</LastName>
-		<LastName>Mason</LastName>
+		<LastName>格雷</LastName>
+		<LastName>梅森</LastName>
 		<LastName>Hunt</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>馬修斯</LastName>
@@ -1328,7 +1328,7 @@
 		<Ethnicity name="med" chance="1" />
 
 		<FirstName>亞歷克斯</FirstName>
-		<FirstName>Frank</FirstName>
+		<FirstName>弗蘭克</FirstName>
 		<FirstName>馬丁</FirstName>
 		<FirstName>卡斯滕</FirstName>
 		<FirstName>安德烈亞斯</FirstName>
@@ -1343,7 +1343,7 @@
 		<FirstName>延斯</FirstName>
 		<FirstName>貝恩德</FirstName>
 		<FirstName>多米尼克</FirstName>
-		<FirstName>Jan</FirstName>
+		<FirstName>簡</FirstName>
 		<FirstName>克勞斯</FirstName>
 		<FirstName>盧卡斯</FirstName>
 		<FirstName>馬爾科</FirstName>
@@ -1429,7 +1429,7 @@
 		<Ethnicity name="nor" chance="2" />
 		<Ethnicity name="med" chance="1" />
 		<FirstName>亞歷克斯</FirstName>
-		<FirstName>Frank</FirstName>
+		<FirstName>弗蘭克</FirstName>
 		<FirstName>馬丁</FirstName>
 		<FirstName>卡斯滕</FirstName>
 		<FirstName>安德烈亞斯</FirstName>
@@ -1444,7 +1444,7 @@
 		<FirstName>延斯</FirstName>
 		<FirstName>貝恩德</FirstName>
 		<FirstName>多米尼克</FirstName>
-		<FirstName>Jan</FirstName>
+		<FirstName>簡</FirstName>
 		<FirstName>克勞斯</FirstName>
 		<FirstName>盧卡斯</FirstName>
 		<FirstName>馬爾科</FirstName>
@@ -1625,7 +1625,7 @@
 	<Nation name="Czechoslovakian" chance="2" flag="czechoslovakia">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
-		<FirstName>Jan</FirstName>
+		<FirstName>簡</FirstName>
 		<FirstName>約瑟夫</FirstName>
 		<FirstName>埃米爾</FirstName>
 		<FirstName>Jakub</FirstName>
@@ -1804,7 +1804,7 @@
 		<FirstName>塞繆爾</FirstName>
 		<FirstName>傑克</FirstName>
 		<FirstName>約書亞</FirstName>
-		<FirstName>Mason</FirstName>
+		<FirstName>梅森</FirstName>
 		<FirstName>萊利</FirstName>
 		<FirstName>馬克斯</FirstName>
 		<FirstName>亞歷克斯</FirstName>
@@ -1813,8 +1813,8 @@
 		<FirstName>本傑明</FirstName>
 		<FirstName>哈里森</FirstName>
 		<FirstName>泰勒</FirstName>
-		<FirstName>Hunter</FirstName>
-		<FirstName>Ryan</FirstName>
+		<FirstName>享特</FirstName>
+		<FirstName>瑞安</FirstName>
 		<FirstName>列維</FirstName>
 		<FirstName>艾薩克</FirstName>
 		<FirstName>傑克遜</FirstName>
@@ -1845,7 +1845,7 @@
 		<LastName>瓊斯</LastName>
 		<LastName>威廉姆斯</LastName>
 		<LastName>泰勒</LastName>
-		<LastName>啡</LastName>
+		<LastName>布朗</LastName>
 		<LastName>戴維斯</LastName>
 		<LastName>埃文斯</LastName>
 		<LastName>威爾遜</LastName>
@@ -1856,26 +1856,26 @@
 		<LastName>湯普森</LastName>
 		<LastName>賴特</LastName>
 		<LastName>沃克</LastName>
-		<LastName>白</LastName>
+		<LastName>懷特</LastName>
 		<LastName>愛德華茲</LastName>
 		<LastName>休斯</LastName>
-		<LastName>綠</LastName>
-		<LastName>Hall</LastName>
+		<LastName>格林</LastName>
+		<LastName>霍爾</LastName>
 		<LastName>路易斯</LastName>
 		<LastName>哈里斯</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>傑克遜</LastName>
-		<LastName>木</LastName>
-		<LastName>Turner</LastName>
+		<LastName>伍德</LastName>
+		<LastName>特納</LastName>
 		<LastName>馬丁</LastName>
 		<LastName>庫珀</LastName>
-		<LastName>Hill</LastName>
+		<LastName>希爾</LastName>
 		<LastName>沃德</LastName>
 		<LastName>莫里斯</LastName>
 		<LastName>穆爾</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>李</LastName>
-		<LastName>King</LastName>
+		<LastName>金</LastName>
 		<LastName>貝克</LastName>
 		<LastName>哈里森</LastName>
 		<LastName>摩根</LastName>
@@ -1886,13 +1886,13 @@
 		<LastName>沃森</LastName>
 		<LastName>戴維斯</LastName>
 		<LastName>帕克</LastName>
-		<LastName>Price</LastName>
+		<LastName>普林斯</LastName>
 		<LastName>貝內特</LastName>
 		<LastName>楊格</LastName>
 		<LastName>格里菲思</LastName>
 		<LastName>米切爾</LastName>
 		<LastName>凱利</LastName>
-		<LastName>Cook</LastName>
+		<LastName>庫克</LastName>
 		<LastName>卡特</LastName>
 		<LastName>理查德森</LastName>
 		<LastName>貝利</LastName>
@@ -1900,7 +1900,7 @@
 		<LastName>貝爾</LastName>
 		<LastName>蕭</LastName>
 		<LastName>墨菲</LastName>
-		<LastName>Miller</LastName>
+		<LastName>米勒</LastName>
 		<LastName>考克斯</LastName>
 		<LastName>理查茲</LastName>
 		<LastName>馬歇爾</LastName>
@@ -1909,13 +1909,13 @@
 		<LastName>埃利斯</LastName>
 		<LastName>亞當斯</LastName>
 		<LastName>威爾金森</LastName>
-		<LastName>Foster</LastName>
+		<LastName>福斯特</LastName>
 		<LastName>查普曼</LastName>
 		<LastName>鮑威爾</LastName>
 		<LastName>韋伯</LastName>
 		<LastName>羅傑斯</LastName>
-		<LastName>灰</LastName>
-		<LastName>Mason</LastName>
+		<LastName>格雷</LastName>
+		<LastName>梅森</LastName>
 		<LastName>Hunt</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>馬修斯</LastName>
@@ -1967,7 +1967,7 @@
 		<FirstName>塞繆爾</FirstName>
 		<FirstName>傑克</FirstName>
 		<FirstName>約書亞</FirstName>
-		<FirstName>Mason</FirstName>
+		<FirstName>梅森</FirstName>
 		<FirstName>萊利</FirstName>
 		<FirstName>馬克斯</FirstName>
 		<FirstName>亞歷克斯</FirstName>
@@ -1976,8 +1976,8 @@
 		<FirstName>本傑明</FirstName>
 		<FirstName>哈里森</FirstName>
 		<FirstName>泰勒</FirstName>
-		<FirstName>Hunter</FirstName>
-		<FirstName>Ryan</FirstName>
+		<FirstName>享特</FirstName>
+		<FirstName>瑞安</FirstName>
 		<FirstName>列維</FirstName>
 		<FirstName>艾薩克</FirstName>
 		<FirstName>傑克遜</FirstName>
@@ -2008,7 +2008,7 @@
 		<LastName>瓊斯</LastName>
 		<LastName>威廉姆斯</LastName>
 		<LastName>泰勒</LastName>
-		<LastName>啡</LastName>
+		<LastName>布朗</LastName>
 		<LastName>戴維斯</LastName>
 		<LastName>埃文斯</LastName>
 		<LastName>威爾遜</LastName>
@@ -2019,26 +2019,26 @@
 		<LastName>湯普森</LastName>
 		<LastName>賴特</LastName>
 		<LastName>沃克</LastName>
-		<LastName>白</LastName>
+		<LastName>懷特</LastName>
 		<LastName>愛德華茲</LastName>
 		<LastName>休斯</LastName>
-		<LastName>綠</LastName>
-		<LastName>Hall</LastName>
+		<LastName>格林</LastName>
+		<LastName>霍爾</LastName>
 		<LastName>路易斯</LastName>
 		<LastName>哈里斯</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>傑克遜</LastName>
-		<LastName>木</LastName>
-		<LastName>Turner</LastName>
+		<LastName>伍德</LastName>
+		<LastName>特納</LastName>
 		<LastName>馬丁</LastName>
 		<LastName>庫珀</LastName>
-		<LastName>Hill</LastName>
+		<LastName>希爾</LastName>
 		<LastName>沃德</LastName>
 		<LastName>莫里斯</LastName>
 		<LastName>穆爾</LastName>
 		<LastName>克拉克</LastName>
 		<LastName>李</LastName>
-		<LastName>King</LastName>
+		<LastName>金</LastName>
 		<LastName>貝克</LastName>
 		<LastName>哈里森</LastName>
 		<LastName>摩根</LastName>
@@ -2049,13 +2049,13 @@
 		<LastName>沃森</LastName>
 		<LastName>戴維斯</LastName>
 		<LastName>帕克</LastName>
-		<LastName>Price</LastName>
+		<LastName>普林斯</LastName>
 		<LastName>貝內特</LastName>
 		<LastName>楊格</LastName>
 		<LastName>格里菲思</LastName>
 		<LastName>米切爾</LastName>
 		<LastName>凱利</LastName>
-		<LastName>Cook</LastName>
+		<LastName>庫克</LastName>
 		<LastName>卡特</LastName>
 		<LastName>理查德森</LastName>
 		<LastName>貝利</LastName>
@@ -2063,7 +2063,7 @@
 		<LastName>貝爾</LastName>
 		<LastName>蕭</LastName>
 		<LastName>墨菲</LastName>
-		<LastName>Miller</LastName>
+		<LastName>米勒</LastName>
 		<LastName>考克斯</LastName>
 		<LastName>理查茲</LastName>
 		<LastName>馬歇爾</LastName>
@@ -2072,13 +2072,13 @@
 		<LastName>埃利斯</LastName>
 		<LastName>亞當斯</LastName>
 		<LastName>威爾金森</LastName>
-		<LastName>Foster</LastName>
+		<LastName>福斯特</LastName>
 		<LastName>查普曼</LastName>
 		<LastName>鮑威爾</LastName>
 		<LastName>韋伯</LastName>
 		<LastName>羅傑斯</LastName>
-		<LastName>灰</LastName>
-		<LastName>Mason</LastName>
+		<LastName>格雷</LastName>
+		<LastName>梅森</LastName>
 		<LastName>Hunt</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>馬修斯</LastName>
@@ -2171,7 +2171,7 @@
 		<FirstName>亞當</FirstName>
 		<FirstName>Wiktor</FirstName>
 		<FirstName>彼得</FirstName>
-		<FirstName>Jan</FirstName>
+		<FirstName>簡</FirstName>
 		<FirstName>大衛</FirstName>
 		<FirstName>米科</FirstName>
 		<FirstName>伊戈爾</FirstName>
@@ -2273,7 +2273,7 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Jan</FirstName>
+		<FirstName>簡</FirstName>
 		<FirstName>Bjorn</FirstName>
 		<FirstName>Ole</FirstName>
 		<FirstName>Lars</FirstName>
@@ -2332,13 +2332,13 @@
 		<FirstName>Ruud</FirstName>
 		<FirstName>Ruben</FirstName>
 		<FirstName>Sven</FirstName>
-		<FirstName>Dirk</FirstName>
+		<FirstName>德克</FirstName>
 		<FirstName>Ron</FirstName>
 		<FirstName>Paul</FirstName>
 		<FirstName>Stijn</FirstName>
 		<FirstName>Robin</FirstName>
 		<FirstName>Arjen</FirstName>
-		<FirstName>Jasper</FirstName>
+		<FirstName>賈斯珀</FirstName>
 		<FirstName>Michel</FirstName>
 		<FirstName>Kevin</FirstName>
 
