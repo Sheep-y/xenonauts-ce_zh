@@ -2274,40 +2274,40 @@
 		<Ethnicity name="nor" chance="3" />
 
 		<FirstName>簡</FirstName>
-		<FirstName>Bjorn</FirstName>
-		<FirstName>Ole</FirstName>
-		<FirstName>Lars</FirstName>
+		<FirstName>比約恩</FirstName>
+		<FirstName>奧勒</FirstName>
+		<FirstName>拉爾斯</FirstName>
 		<FirstName>Kjell</FirstName>
-		<FirstName>Arne</FirstName>
-		<FirstName>Knut</FirstName>
-		<FirstName>Svein</FirstName>
+		<FirstName>阿恩</FirstName>
+		<FirstName>克努特</FirstName>
+		<FirstName>斯韋恩</FirstName>
 		<FirstName>Hans</FirstName>
-		<FirstName>Tor</FirstName>
-		<FirstName>Morten</FirstName>
-		<FirstName>Erik</FirstName>
-		<FirstName>Olav</FirstName>
-		<FirstName>Magnus</FirstName>
-		<FirstName>Espen</FirstName>
-		<FirstName>Nils</FirstName>
-		<FirstName>Frode</FirstName>
-		<FirstName>Gunnar</FirstName>
+		<FirstName>托爾</FirstName>
+		<FirstName>莫滕</FirstName>
+		<FirstName>埃里克</FirstName>
+		<FirstName>奧拉夫</FirstName>
+		<FirstName>馬格努斯</FirstName>
+		<FirstName>埃斯</FirstName>
+		<FirstName>尼爾斯</FirstName>
+		<FirstName>弗羅德</FirstName>
+		<FirstName>貢納爾</FirstName>
 
-		<LastName>Hansen</LastName>
-		<LastName>Johansen</LastName>
-		<LastName>Olsen</LastName>
-		<LastName>Larsen</LastName>
-		<LastName>Andersen</LastName>
-		<LastName>Nilsen</LastName>
-		<LastName>Pedersen</LastName>
-		<LastName>Jensen</LastName>
-		<LastName>Berg</LastName>
-		<LastName>Haugen</LastName>
-		<LastName>Lund</LastName>
-		<LastName>Solberg</LastName>
-		<LastName>Bakken</LastName>
-		<LastName>Lunde</LastName>
-		<LastName>Eriksen</LastName>
-		<LastName>Arnesen</LastName>
+		<LastName>漢森</LastName>
+		<LastName>約翰森</LastName>
+		<LastName>奧爾森</LastName>
+		<LastName>拉森</LastName>
+		<LastName>安德森</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>佩德森</LastName>
+		<LastName>詹森</LastName>
+		<LastName>伯格</LastName>
+		<LastName>豪根</LastName>
+		<LastName>隆德</LastName>
+		<LastName>索爾伯格</LastName>
+		<LastName>巴肯</LastName>
+		<LastName>倫德</LastName>
+		<LastName>埃里克森</LastName>
+		<LastName>阿內森</LastName>
 		<LastName>Holm</LastName>
 
 		<Regiment name="regiment.norway1">
@@ -2323,41 +2323,41 @@
 		<Ethnicity name="nor" chance="4" />
 		<Ethnicity name="afri" chance="1" />
 
-		<FirstName>Lucas</FirstName>
-		<FirstName>Daan</FirstName>
-		<FirstName>Thomas</FirstName>
+		<FirstName>盧卡斯</FirstName>
+		<FirstName>達安</FirstName>
+		<FirstName>托馬斯</FirstName>
 		<FirstName>Luuk</FirstName>
-		<FirstName>Lars</FirstName>
-		<FirstName>Nigel</FirstName>
+		<FirstName>拉爾斯</FirstName>
+		<FirstName>奈傑爾</FirstName>
 		<FirstName>Ruud</FirstName>
-		<FirstName>Ruben</FirstName>
-		<FirstName>Sven</FirstName>
+		<FirstName>魯本</FirstName>
+		<FirstName>斯文</FirstName>
 		<FirstName>德克</FirstName>
-		<FirstName>Ron</FirstName>
-		<FirstName>Paul</FirstName>
-		<FirstName>Stijn</FirstName>
-		<FirstName>Robin</FirstName>
+		<FirstName>羅恩</FirstName>
+		<FirstName>保羅</FirstName>
+		<FirstName>斯泰恩</FirstName>
+		<FirstName>羅賓</FirstName>
 		<FirstName>Arjen</FirstName>
 		<FirstName>賈斯珀</FirstName>
-		<FirstName>Michel</FirstName>
-		<FirstName>Kevin</FirstName>
+		<FirstName>米歇爾</FirstName>
+		<FirstName>凱文</FirstName>
 
-		<LastName>de Jong</LastName>
-		<LastName>de Vries</LastName>
-		<LastName>Jansen</LastName>
+		<LastName>德容</LastName>
+		<LastName>德弗里斯</LastName>
+		<LastName>詹森</LastName>
 		<LastName>de Berg</LastName>
-		<LastName>Bakker</LastName>
+		<LastName>貝克</LastName>
 		<LastName>van Dijk</LastName>
 		<LastName>Visser</LastName>
 		<LastName>Jannsen</LastName>
-		<LastName>Smit</LastName>
-		<LastName>Meyer</LastName>
-		<LastName>Willems</LastName>
+		<LastName>斯密特</LastName>
+		<LastName>邁耶</LastName>
+		<LastName>威廉姆斯</LastName>
 		<LastName>Mulder</LastName>
 		<LastName>Vos</LastName>
-		<LastName>Peters</LastName>
-		<LastName>Hendriks</LastName>
-		<LastName>Dekker</LastName>
+		<LastName>彼得斯</LastName>
+		<LastName>亨德里克斯</LastName>
+		<LastName>德克爾</LastName>
 		<LastName>de Graaf</LastName>
 		<Regiment name="regiment.dutch1">
 			<Experience>experience.none</Experience>
@@ -2376,42 +2376,42 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Frederik</FirstName>
+		<FirstName>弗雷德里克</FirstName>
 		<FirstName>Mikkel</FirstName>
-		<FirstName>Magnus</FirstName>
+		<FirstName>馬格努斯</FirstName>
 		<FirstName>Mads</FirstName>
-		<FirstName>Kasper</FirstName>
-		<FirstName>Niklas</FirstName>
+		<FirstName>卡斯帕</FirstName>
+		<FirstName>尼克拉斯</FirstName>
 		<FirstName>Malthe</FirstName>
-		<FirstName>Jonas</FirstName>
-		<FirstName>Marcus</FirstName>
-		<FirstName>Sander</FirstName>
-		<FirstName>Mathias</FirstName>
-		<FirstName>Carl</FirstName>
-		<FirstName>Noah</FirstName>
-		<FirstName>Lucas</FirstName>
+		<FirstName>喬納斯</FirstName>
+		<FirstName>馬庫斯</FirstName>
+		<FirstName>桑德</FirstName>
+		<FirstName>馬蒂亞斯</FirstName>
+		<FirstName>卡爾</FirstName>
+		<FirstName>諾亞</FirstName>
+		<FirstName>盧卡斯</FirstName>
 		<FirstName>維克托</FirstName>
-		<FirstName>Oliver</FirstName>
-		<FirstName>Emil</FirstName>
-		<FirstName>Oscar</FirstName>
+		<FirstName>奧利弗</FirstName>
+		<FirstName>埃米爾</FirstName>
+		<FirstName>奧斯卡</FirstName>
 
-		<LastName>Jensen</LastName>
-		<LastName>Nielsen</LastName>
-		<LastName>Larsen</LastName>
-		<LastName>Madsen</LastName>
-		<LastName>Knudsen</LastName>
-		<LastName>Nissen</LastName>
-		<LastName>Jepsen</LastName>
-		<LastName>Clausen</LastName>
-		<LastName>Jakobsen</LastName>
-		<LastName>Kjaer</LastName>
-		<LastName>Hansen</LastName>
-		<LastName>Pedersen</LastName>
-		<LastName>Andersen</LastName>
-		<LastName>Kristensen</LastName>
-		<LastName>Thomsen</LastName>
-		<LastName>Olesen</LastName>
-		<LastName>Eriksen</LastName>
+		<LastName>詹森</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>拉森</LastName>
+		<LastName>馬德森</LastName>
+		<LastName>克努森</LastName>
+		<LastName>尼森</LastName>
+		<LastName>傑普森</LastName>
+		<LastName>克勞森</LastName>
+		<LastName>雅各布森</LastName>
+		<LastName>克亞爾</LastName>
+		<LastName>漢森</LastName>
+		<LastName>佩德森</LastName>
+		<LastName>安德森</LastName>
+		<LastName>克里斯騰森</LastName>
+		<LastName>湯姆森</LastName>
+		<LastName>奧爾森</LastName>
+		<LastName>埃里克森</LastName>
 
 		<Regiment name="regiment.danish1">
 			<Experience>experience.none</Experience>
@@ -2429,42 +2429,42 @@
 		<Ethnicity name="nor" chance="4" />
 		<Ethnicity name="afri" chance="1" />
 
-		<FirstName>Hugo</FirstName>
-		<FirstName>Louis</FirstName>
-		<FirstName>Raphael</FirstName>
-		<FirstName>Maxime</FirstName>
-		<FirstName>Gabriel</FirstName>
-		<FirstName>Jules</FirstName>
-		<FirstName>Romain</FirstName>
-		<FirstName>Pierre</FirstName>
-		<FirstName>Remi</FirstName>
-		<FirstName>Luc</FirstName>
-		<FirstName>Camille</FirstName>
-		<FirstName>Florian</FirstName>
-		<FirstName>Gael</FirstName>
-		<FirstName>Adrien</FirstName>
-		<FirstName>Alexis</FirstName>
-		<FirstName>Jean</FirstName>
-		<FirstName>Andre</FirstName>
-		<FirstName>Lucien</FirstName>
+		<FirstName>烏戈</FirstName>
+		<FirstName>路易斯</FirstName>
+		<FirstName>拉斐爾</FirstName>
+		<FirstName>馬克西姆</FirstName>
+		<FirstName>加布里埃爾</FirstName>
+		<FirstName>朱爾斯</FirstName>
+		<FirstName>羅曼</FirstName>
+		<FirstName>皮埃爾</FirstName>
+		<FirstName>雷米</FirstName>
+		<FirstName>盧克</FirstName>
+		<FirstName>卡米爾</FirstName>
+		<FirstName>弗洛里安</FirstName>
+		<FirstName>蓋爾</FirstName>
+		<FirstName>阿德里安</FirstName>
+		<FirstName>亞歷克西斯</FirstName>
+		<FirstName>吉恩</FirstName>
+		<FirstName>安德烈</FirstName>
+		<FirstName>盧西恩</FirstName>
 
-		<LastName>Bernard</LastName>
-		<LastName>Dubois</LastName>
-		<LastName>Thomas</LastName>
+		<LastName>伯納德</LastName>
+		<LastName>杜波依斯</LastName>
+		<LastName>托馬斯</LastName>
 		<LastName>Petit</LastName>
-		<LastName>Durand</LastName>
-		<LastName>Leroy</LastName>
-		<LastName>Moreau</LastName>
-		<LastName>Laurent</LastName>
-		<LastName>Lefevre</LastName>
+		<LastName>杜蘭德</LastName>
+		<LastName>勒羅伊</LastName>
+		<LastName>莫羅</LastName>
+		<LastName>勞倫特</LastName>
+		<LastName>勒菲弗</LastName>
 		<LastName>Mercier</LastName>
 		<LastName>Blanc</LastName>
-		<LastName>Morin</LastName>
-		<LastName>Duval</LastName>
+		<LastName>莫蘭</LastName>
+		<LastName>杜瓦爾</LastName>
 		<LastName>Roche</LastName>
 		<LastName>Noel</LastName>
-		<LastName>Faure</LastName>
-		<LastName>Renaud</LastName>
+		<LastName>福雷</LastName>
+		<LastName>雷諾</LastName>
 
 		<Regiment name="regiment.french1">
 			<Experience>experience.none</Experience>
@@ -2490,43 +2490,43 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Robin</FirstName>
-		<FirstName>Erik</FirstName>
+		<FirstName>羅賓</FirstName>
+		<FirstName>埃里克</FirstName>
 		<FirstName>Markus</FirstName>
-		<FirstName>Olle</FirstName>
-		<FirstName>Mattias</FirstName>
-		<FirstName>Viktor</FirstName>
-		<FirstName>Joakim</FirstName>
-		<FirstName>Mikael</FirstName>
-		<FirstName>Tobias</FirstName>
-		<FirstName>Karl</FirstName>
-		<FirstName>Henrik</FirstName>
-		<FirstName>Patrik</FirstName>
-		<FirstName>Rasmus</FirstName>
+		<FirstName>歐萊</FirstName>
+		<FirstName>馬蒂亞斯</FirstName>
+		<FirstName>維克托</FirstName>
+		<FirstName>喬金</FirstName>
+		<FirstName>邁克爾</FirstName>
+		<FirstName>托比亞斯</FirstName>
+		<FirstName>卡爾</FirstName>
+		<FirstName>亨里克</FirstName>
+		<FirstName>帕特里克</FirstName>
+		<FirstName>拉斯穆斯</FirstName>
 		<FirstName>Per</FirstName>
-		<FirstName>Olof</FirstName>
-		<FirstName>Nils</FirstName>
-		<FirstName>Stefan</FirstName>
-		<FirstName>Bjorn</FirstName>
+		<FirstName>奧洛夫</FirstName>
+		<FirstName>尼爾斯</FirstName>
+		<FirstName>斯特凡</FirstName>
+		<FirstName>比約恩</FirstName>
 		<FirstName>Mats</FirstName>
 
-		<LastName>Karlsson</LastName>
-		<LastName>Nilsson</LastName>
-		<LastName>Larsson</LastName>
-		<LastName>Persson</LastName>
-		<LastName>Jonsson</LastName>
-		<LastName>Lindberg</LastName>
-		<LastName>Lindgren</LastName>
-		<LastName>Berg</LastName>
-		<LastName>Eklund</LastName>
-		<LastName>Bergman</LastName>
-		<LastName>Wallin</LastName>
-		<LastName>Nordin</LastName>
+		<LastName>卡爾森</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>拉爾森</LastName>
+		<LastName>佩爾松</LastName>
+		<LastName>瓊森</LastName>
+		<LastName>林德伯格</LastName>
+		<LastName>林格倫</LastName>
+		<LastName>伯格</LastName>
+		<LastName>埃克隆德</LastName>
+		<LastName>伯格曼</LastName>
+		<LastName>沃林</LastName>
+		<LastName>諾丁</LastName>
 		<LastName>Blom</LastName>
-		<LastName>Norberg</LastName>
-		<LastName>Falk</LastName>
-		<LastName>Bergman</LastName>
-		<LastName>Holmgren</LastName>
+		<LastName>諾伯格</LastName>
+		<LastName>福爾克</LastName>
+		<LastName>伯格曼</LastName>
+		<LastName>霍姆格倫</LastName>
 
 		<Regiment name="regiment.swede1">
 			<Experience>experience.none</Experience>
@@ -2542,41 +2542,41 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Elias</FirstName>
+		<FirstName>埃利亞斯</FirstName>
 		<FirstName>Onni</FirstName>
-		<FirstName>Lero</FirstName>
+		<FirstName>勒羅</FirstName>
 		<FirstName>Veeti</FirstName>
-		<FirstName>Niilo</FirstName>
-		<FirstName>Matias</FirstName>
+		<FirstName>尼洛</FirstName>
+		<FirstName>馬蒂亞斯</FirstName>
 		<FirstName>Vilho</FirstName>
 		<FirstName>Aaro</FirstName>
 		<FirstName>Peetu</FirstName>
 		<FirstName>Konsta</FirstName>
-		<FirstName>Miro</FirstName>
+		<FirstName>米羅</FirstName>
 		<FirstName>Oskari</FirstName>
-		<FirstName>Kasper</FirstName>
-		<FirstName>Luka</FirstName>
+		<FirstName>卡斯帕</FirstName>
+		<FirstName>盧卡</FirstName>
 		<FirstName>Juho</FirstName>
-		<FirstName>Lauri</FirstName>
-		<FirstName>Tapio</FirstName>
+		<FirstName>勞裡</FirstName>
+		<FirstName>塔皮奧</FirstName>
 
-		<LastName>Korhonen</LastName>
-		<LastName>Virtanen</LastName>
-		<LastName>Makinen</LastName>
-		<LastName>Nieminen</LastName>
+		<LastName>爾霍寧</LastName>
+		<LastName>維爾塔寧</LastName>
+		<LastName>馬基寧</LastName>
+		<LastName>涅米寧</LastName>
 		<LastName>Laine</LastName>
 		<LastName>Heikennen</LastName>
-		<LastName>Koskinen</LastName>
-		<LastName>Salonen</LastName>
-		<LastName>Heinonen</LastName>
-		<LastName>Mattila</LastName>
+		<LastName>科斯基寧</LastName>
+		<LastName>薩洛寧</LastName>
+		<LastName>海諾寧</LastName>
+		<LastName>馬蒂拉</LastName>
 		<LastName>Salo</LastName>
-		<LastName>Laitinen</LastName>
-		<LastName>Ahonen</LastName>
+		<LastName>萊蒂寧</LastName>
+		<LastName>阿霍寧</LastName>
 		<LastName>Turunen</LastName>
 		<LastName>Kinnunen</LastName>
-		<LastName>Saarinen</LastName>
-		<LastName>Jokinen</LastName>
+		<LastName>沙裡寧</LastName>
+		<LastName>約基寧</LastName>
 
 		<Regiment name="regiment.finn1">
 			<Experience>experience.none</Experience>
