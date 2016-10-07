@@ -9,7 +9,7 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
-		<FirstName>Adojan</FirstName>
+		<FirstName>阿道賈</FirstName>
 		<FirstName>阿戈什頓</FirstName>
 		<FirstName>阿爾伯特</FirstName>
 		<FirstName>安布魯斯</FirstName>
@@ -21,20 +21,20 @@
 		<FirstName>恩德雷</FirstName>
 		<FirstName>歐文</FirstName>
 		<FirstName>費倫茨</FirstName>
-		<FirstName>Ferko</FirstName>
-		<FirstName>Fredek</FirstName>
+		<FirstName>法科</FirstName>
+		<FirstName>弗雷德克</FirstName>
 		<FirstName>富洛普</FirstName>
-		<FirstName>Gabor</FirstName>
-		<FirstName>Gazsi</FirstName>
-		<FirstName>Gergo</FirstName>
-		<FirstName>Gyala</FirstName>
-		<FirstName>Gyurka</FirstName>
-		<FirstName>Gyuszi</FirstName>
+		<FirstName>加博</FirstName>
+		<FirstName>蓋西</FirstName>
+		<FirstName>加戈</FirstName>
+		<FirstName>蓋耶拉</FirstName>
+		<FirstName>蓋尤爾卡</FirstName>
+		<FirstName>久斯齊</FirstName>
 		<FirstName>伊姆雷</FirstName>
 		<FirstName>伊什特萬</FirstName>
 		<FirstName>伊扎克</FirstName>
 		<FirstName>亞諾什</FirstName>
-		<FirstName>Jenci</FirstName>
+		<FirstName>詹西</FirstName>
 		<FirstName>約卡</FirstName>
 		<FirstName>約瑟夫</FirstName>
 		<FirstName>約西</FirstName>
@@ -43,80 +43,80 @@
 		<FirstName>克里斯托夫</FirstName>
 		<FirstName>拉茲洛</FirstName>
 		<FirstName>洛倫特</FirstName>
-		<FirstName>Lorencz</FirstName>
+		<FirstName>洛倫西</FirstName>
 		<FirstName>盧卡奇</FirstName>
 		<FirstName>馬戈</FirstName>
 		<FirstName>馬科斯</FirstName>
 		<FirstName>馬庫斯</FirstName>
 		<FirstName>馬頓</FirstName>
-		<FirstName>Matayas</FirstName>
-		<FirstName>Moricz</FirstName>
+		<FirstName>馬泰亞斯</FirstName>
+		<FirstName>莫里西</FirstName>
 		<FirstName>莫澤什</FirstName>
-		<FirstName>Neci</FirstName>
+		<FirstName>尼西</FirstName>
 		<FirstName>諾伯特</FirstName>
 		<FirstName>奧利弗</FirstName>
-		<FirstName>Oszkar</FirstName>
+		<FirstName>奧塞卡</FirstName>
 		<FirstName>彼得</FirstName>
-		<FirstName>Peterke</FirstName>
+		<FirstName>彼得基</FirstName>
 		<FirstName>皮斯塔</FirstName>
 		<FirstName>皮斯弟</FirstName>
 		<FirstName>波爾迪</FirstName>
-		<FirstName>Rendor</FirstName>
+		<FirstName>倫多</FirstName>
 		<FirstName>蘇亞雷斯</FirstName>
 		<FirstName>里卡德</FirstName>
 		<FirstName>羅伯特</FirstName>
-		<FirstName>Samuka</FirstName>
+		<FirstName>塞繆卡</FirstName>
 		<FirstName>桑德爾</FirstName>
 		<FirstName>塞博</FirstName>
 		<FirstName>索瑪</FirstName>
 		<FirstName>泰伯</FirstName>
 		<FirstName>塔馬斯</FirstName>
-		<FirstName>Ubul</FirstName>
+		<FirstName>尤布</FirstName>
 		<FirstName>文采爾</FirstName>
 		<FirstName>維多</FirstName>
 		<FirstName>維克托</FirstName>
-		<FirstName>Vincze</FirstName>
+		<FirstName>文西澤</FirstName>
 		<FirstName>佐爾坦</FirstName>
 
-		<LastName>Abduvaliyev</LastName>
+		<LastName>阿布杜瓦利伊</LastName>
 		<LastName>Ajkler</LastName>
 		<LastName>阿拉達爾</LastName>
-		<LastName>Alfoldi</LastName>
+		<LastName>亞福爾迪</LastName>
 		<LastName>安德拉什</LastName>
-		<LastName>Andrassy</LastName>
-		<LastName>Annus</LastName>
+		<LastName>安德拉西</LastName>
+		<LastName>安努斯</LastName>
 		<LastName>阿蘭尼</LastName>
 		<LastName>阿帕德</LastName>
-		<LastName>Artali</LastName>
-		<LastName>Bakics</LastName>
+		<LastName>阿托利</LastName>
+		<LastName>巴基西</LastName>
 		<LastName>巴拉薩</LastName>
 		<LastName>巴拉</LastName>
 		<LastName>巴爾塔</LastName>
-		<LastName>Balzar</LastName>
+		<LastName>鮑爾扎</LastName>
 		<LastName>巴拉蒂</LastName>
-		<LastName>Barsony</LastName>
+		<LastName>巴索尼</LastName>
 		<LastName>巴托克</LastName>
-		<LastName>Basirius</LastName>
+		<LastName>巴茲厄斯</LastName>
 		<LastName>巴托</LastName>
-		<LastName>Belkacem</LastName>
-		<LastName>Benyacs</LastName>
-		<LastName>Bocskay</LastName>
-		<LastName>Borbala</LastName>
-		<LastName>Bori</LastName>
+		<LastName>鮑克森</LastName>
+		<LastName>班亞西</LastName>
+		<LastName>博西凱</LastName>
+		<LastName>博伯拉</LastName>
+		<LastName>博里</LastName>
 		<LastName>博羅什</LastName>
-		<LastName>Buksbaum</LastName>
+		<LastName>布克巴姆</LastName>
 		<LastName>布里安</LastName>
-		<LastName>Cizinski</LastName>
+		<LastName>西津斯基</LastName>
 		<LastName>維努斯</LastName>
 		<LastName>喬鮑</LastName>
 		<LastName>喬柏</LastName>
 		<LastName>奇洛勒</LastName>
 		<LastName>奇洛格</LastName>
-		<LastName>Csollang</LastName>
-		<LastName>Csollany</LastName>
+		<LastName>切索蘭</LastName>
+		<LastName>切索拉尼</LastName>
 		<LastName>丘爾戈</LastName>
-		<LastName>Czako</LastName>
-		<LastName>Czene</LastName>
+		<LastName>恰科</LastName>
+		<LastName>切尼</LastName>
 		<LastName>Czingler</LastName>
 		<LastName>Czobor</LastName>
 		<LastName>Dardai</LastName>
@@ -922,7 +922,7 @@
 		<FirstName>穆雷</FirstName>
 		<FirstName>內森</FirstName>
 		<FirstName>尼爾</FirstName>
-		<FirstName>Nick</FirstName>
+		<FirstName>尼克</FirstName>
 		<FirstName>奈傑爾</FirstName>
 		<FirstName>諾埃爾</FirstName>
 		<FirstName>奧利弗</FirstName>
@@ -982,7 +982,7 @@
 		<FirstName>泰勒</FirstName>
 		<FirstName>萬斯</FirstName>
 		<FirstName>沃恩</FirstName>
-		<FirstName>Victor</FirstName>
+		<FirstName>維克托</FirstName>
 		<FirstName>文森特</FirstName>
 		<FirstName>沃爾特</FirstName>
 		<FirstName>華倫</FirstName>
@@ -1146,7 +1146,7 @@
 		<FirstName>傑弗裡</FirstName>
 		<FirstName>加里</FirstName>
 		<FirstName>瑞安</FirstName>
-		<FirstName>Nick</FirstName>
+		<FirstName>尼克</FirstName>
 		<FirstName>埃里克</FirstName>
 		<FirstName>斯蒂芬</FirstName>
 		<FirstName>傑克</FirstName>
@@ -1206,7 +1206,7 @@
 		<FirstName>菲利普</FirstName>
 		<FirstName>蘭迪</FirstName>
 		<FirstName>霍華德</FirstName>
-		<FirstName>Vincent</FirstName>
+		<FirstName>溫森特</FirstName>
 		<FirstName>鮑比</FirstName>
 		<FirstName>迪倫</FirstName>
 		<FirstName>約翰尼</FirstName>
@@ -1288,7 +1288,7 @@
 		<LastName>羅傑斯</LastName>
 		<LastName>格雷</LastName>
 		<LastName>梅森</LastName>
-		<LastName>Hunt</LastName>
+		<LastName>享特</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>馬修斯</LastName>
 		<LastName>歐文</LastName>
@@ -1296,7 +1296,7 @@
 		<LastName>霍姆斯</LastName>
 		<LastName>米爾斯</LastName>
 		<LastName>巴恩斯</LastName>
-		<LastName>Knight</LastName>
+		<LastName>奈特</LastName>
 		<LastName>勞埃德</LastName>
 		<LastName>巴特勒</LastName>
 		<LastName>羅素</LastName>
@@ -1333,7 +1333,7 @@
 		<FirstName>卡斯滕</FirstName>
 		<FirstName>安德烈亞斯</FirstName>
 		<FirstName>迪特爾</FirstName>
-		<FirstName>Dolf</FirstName>
+		<FirstName>多夫</FirstName>
 		<FirstName>馬庫斯</FirstName>
 		<FirstName>拉爾斯</FirstName>
 		<FirstName>庫爾特</FirstName>
@@ -1434,7 +1434,7 @@
 		<FirstName>卡斯滕</FirstName>
 		<FirstName>安德烈亞斯</FirstName>
 		<FirstName>迪特爾</FirstName>
-		<FirstName>Dolf</FirstName>
+		<FirstName>多夫</FirstName>
 		<FirstName>馬庫斯</FirstName>
 		<FirstName>拉爾斯</FirstName>
 		<FirstName>庫爾特</FirstName>
@@ -1916,7 +1916,7 @@
 		<LastName>羅傑斯</LastName>
 		<LastName>格雷</LastName>
 		<LastName>梅森</LastName>
-		<LastName>Hunt</LastName>
+		<LastName>享特</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>馬修斯</LastName>
 		<LastName>歐文</LastName>
@@ -1924,7 +1924,7 @@
 		<LastName>霍姆斯</LastName>
 		<LastName>米爾斯</LastName>
 		<LastName>巴恩斯</LastName>
-		<LastName>Knight</LastName>
+		<LastName>奈特</LastName>
 		<LastName>勞埃德</LastName>
 		<LastName>巴特勒</LastName>
 		<LastName>羅素</LastName>
@@ -2079,7 +2079,7 @@
 		<LastName>羅傑斯</LastName>
 		<LastName>格雷</LastName>
 		<LastName>梅森</LastName>
-		<LastName>Hunt</LastName>
+		<LastName>享特</LastName>
 		<LastName>坎貝爾</LastName>
 		<LastName>馬修斯</LastName>
 		<LastName>歐文</LastName>
@@ -2087,7 +2087,7 @@
 		<LastName>霍姆斯</LastName>
 		<LastName>米爾斯</LastName>
 		<LastName>巴恩斯</LastName>
-		<LastName>Knight</LastName>
+		<LastName>奈特</LastName>
 		<LastName>勞埃德</LastName>
 		<LastName>巴特勒</LastName>
 		<LastName>羅素</LastName>
@@ -2390,7 +2390,7 @@
 		<FirstName>Carl</FirstName>
 		<FirstName>Noah</FirstName>
 		<FirstName>Lucas</FirstName>
-		<FirstName>Victor</FirstName>
+		<FirstName>維克托</FirstName>
 		<FirstName>Oliver</FirstName>
 		<FirstName>Emil</FirstName>
 		<FirstName>Oscar</FirstName>
