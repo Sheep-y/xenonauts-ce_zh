@@ -9,28 +9,28 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
-		<FirstName>Alida</FirstName>
-		<FirstName>Ema</FirstName>
-		<FirstName>Eva</FirstName>
-		<FirstName>Frida</FirstName>
-		<FirstName>Hajnal</FirstName>
-		<FirstName>Ilona</FirstName>
-		<FirstName>Judit</FirstName>
-		<FirstName>Kata</FirstName>
-		<FirstName>Katalin</FirstName>
-		<FirstName>Kayta</FirstName>
-		<FirstName>Sara</FirstName>
-		<FirstName>Vilma</FirstName>
+		<FirstName>阿莉逹</FirstName>
+		<FirstName>埃瑪</FirstName>
+		<FirstName>埃娃</FirstName>
+		<FirstName>弗麗逹</FirstName>
+		<FirstName>豪伊瑙爾</FirstName>
+		<FirstName>伊洛娜</FirstName>
+		<FirstName>尤迪塔</FirstName>
+		<FirstName>卡陶</FirstName>
+		<FirstName>卡塔琳</FirstName>
+		<FirstName>凱塔</FirstName>
+		<FirstName>莎勞</FirstName>
+		<FirstName>比爾瑪</FirstName>
 
-		<LastName>Alfoldi</LastName>
-		<LastName>Horvath</LastName>
-		<LastName>Kiss</LastName>
-		<LastName>Kovacs</LastName>
-		<LastName>Nagy</LastName>
-		<LastName>Perneky</LastName>
-		<LastName>Safar</LastName>
-		<LastName>Szabo</LastName>
-		<LastName>Toth</LastName>
+		<LastName>阿霍迪</LastName>
+		<LastName>霍瓦特</LastName>
+		<LastName>基什</LastName>
+		<LastName>科瓦奇</LastName>
+		<LastName>納吉</LastName>
+		<LastName>派爾奈基</LastName>
+		<LastName>沙法爾</LastName>
+		<LastName>紹博</LastName>
+		<LastName>托特</LastName>
 
 		<Regiment name="regiment.hungary1">
 			<Experience>experience.none</Experience>
@@ -42,41 +42,41 @@
 		<Ethnicity name="nor" chance="2" />
 		<Ethnicity name="afri" chance="1" />
 
-		<FirstName>Allison</FirstName>
-		<FirstName>Anna</FirstName>
-		<FirstName>Carol</FirstName>
-		<FirstName>Chloe</FirstName>
-		<FirstName>Claire</FirstName>
-		<FirstName>Emma</FirstName>
-		<FirstName>Jane</FirstName>
-		<FirstName>Jennifer</FirstName>
-		<FirstName>Kate</FirstName>
-		<FirstName>Laura</FirstName>
-		<FirstName>Lauren</FirstName>
-		<FirstName>Lucy</FirstName>
-		<FirstName>Natalie</FirstName>
-		<FirstName>Sarah</FirstName>
-		<FirstName>Sophie</FirstName>
-		<FirstName>Victoria</FirstName>
-		<FirstName>Violet</FirstName>
+		<FirstName>阿莉森</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克洛艾</FirstName>
+		<FirstName>克萊蕾</FirstName>
+		<FirstName>埃瑪</FirstName>
+		<FirstName>珍</FirstName>
+		<FirstName>珍妮弗</FirstName>
+		<FirstName>凱特</FirstName>
+		<FirstName>勞菈</FirstName>
+		<FirstName>勞倫</FirstName>
+		<FirstName>露茜</FirstName>
+		<FirstName>納塔莉</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>索菲爾</FirstName>
+		<FirstName>維多利亞</FirstName>
+		<FirstName>維奧萊</FirstName>
 
-		<LastName>Anderson</LastName>
-		<LastName>Brown</LastName>
-		<LastName>Campbell</LastName>
-		<LastName>Clark</LastName>
-		<LastName>Gagne</LastName>
-		<LastName>Jackson</LastName>
-		<LastName>Jones</LastName>
-		<LastName>Lee</LastName>
-		<LastName>Martin</LastName>
-		<LastName>McGraw</LastName>
-		<LastName>Smith</LastName>
-		<LastName>Taylor</LastName>
-		<LastName>Tremblay</LastName>
-		<LastName>Walker</LastName>
-		<LastName>White</LastName>
-		<LastName>Williams</LastName>
-		<LastName>Wilson</LastName>
+		<LastName>安德森</LastName>
+		<LastName>布朗</LastName>
+		<LastName>坎貝爾</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>加涅</LastName>
+		<LastName>傑克遜</LastName>
+		<LastName>霍內斯</LastName>
+		<LastName>利</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>麥格勞</LastName>
+		<LastName>史密斯</LastName>
+		<LastName>泰勒</LastName>
+		<LastName>特倫布萊</LastName>
+		<LastName>瓦爾克</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
 
 		<Regiment name="regiment.canada1">
 			<Experience>experience.canada1</Experience>
@@ -90,26 +90,26 @@
 	<Nation name="Canadian" chance="1" flag="canada">
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Alexia</FirstName>
-		<FirstName>Alice</FirstName>
-		<FirstName>Alicia</FirstName>
-		<FirstName>Anais</FirstName>
-		<FirstName>Ariane</FirstName>
-		<FirstName>Aurelie</FirstName>
-		<FirstName>Chloe</FirstName>
-		<FirstName>Coralie</FirstName>
-		<FirstName>Elodie</FirstName>
-		<FirstName>Emilie</FirstName>
-		<FirstName>Emma</FirstName>
-		<FirstName>Gabrielle</FirstName>
-		<FirstName>Juliette</FirstName>
-		<FirstName>Lea</FirstName>
-		<FirstName>Maelie</FirstName>
-		<FirstName>Megane</FirstName>
-		<FirstName>Noemie</FirstName>
-		<FirstName>Oceane</FirstName>
-		<FirstName>Rosalie</FirstName>
-		<FirstName>Zoe</FirstName>
+		<FirstName>亞歷克西婭</FirstName>
+		<FirstName>艾麗斯</FirstName>
+		<FirstName>艾莉西亞</FirstName>
+		<FirstName>安奈</FirstName>
+		<FirstName>阿拉因娜</FirstName>
+		<FirstName>奧雷莉</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>科拉莉</FirstName>
+		<FirstName>埃洛迪</FirstName>
+		<FirstName>埃米兒</FirstName>
+		<FirstName>埃瑪</FirstName>
+		<FirstName>加布麗埃勒</FirstName>
+		<FirstName>朱麗葉</FirstName>
+		<FirstName>萊婭</FirstName>
+		<FirstName>馬埃妮</FirstName>
+		<FirstName>馬加麗</FirstName>
+		<FirstName>諾埃米兒</FirstName>
+		<FirstName>奧切安妮</FirstName>
+		<FirstName>羅莎莉</FirstName>
+		<FirstName>佐薇</FirstName>
 
 		<LastName>Beaulieu</LastName>
 		<LastName>Bedard</LastName>
@@ -128,7 +128,7 @@
 		<LastName>Dube</LastName>
 		<LastName>Fortin</LastName>
 		<LastName>Fournier</LastName>
-		<LastName>Gagne</LastName>
+		<LastName>加涅</LastName>
 		<LastName>Gagnon</LastName>
 		<LastName>Gauthier</LastName>
 		<LastName>Girard</LastName>
@@ -145,7 +145,7 @@
 		<LastName>Lessard</LastName>
 		<LastName>Levesque</LastName>
 		<LastName>Martel</LastName>
-		<LastName>Martin</LastName>
+		<LastName>馬丁</LastName>
 		<LastName>Michaud</LastName>
 		<LastName>Morin</LastName>
 		<LastName>Nadeau</LastName>
@@ -159,7 +159,7 @@
 		<LastName>Savard</LastName>
 		<LastName>Simard</LastName>
 		<LastName>St Pierre</LastName>
-		<LastName>Tremblay</LastName>
+		<LastName>特倫布萊</LastName>
 		<LastName>Turcotte</LastName>
 
 		<Regiment name="regiment.canada1">
@@ -178,9 +178,9 @@
 		<FirstName>Allison</FirstName>
 		<FirstName>Anna</FirstName>
 		<FirstName>Carol</FirstName>
-		<FirstName>Chloe</FirstName>
+		<FirstName>克洛兒</FirstName>
 		<FirstName>Claire</FirstName>
-		<FirstName>Emma</FirstName>
+		<FirstName>埃瑪</FirstName>
 		<FirstName>Jennifer</FirstName>
 		<FirstName>Kate</FirstName>
 		<FirstName>Laura</FirstName>
@@ -203,12 +203,12 @@
 		<LastName>Bell</LastName>
 		<LastName>Bennett</LastName>
 		<LastName>Brooks</LastName>
-		<LastName>Brown</LastName>
+		<LastName>布朗</LastName>
 		<LastName>Bryant</LastName>
 		<LastName>Butler</LastName>
-		<LastName>Campbell</LastName>
+		<LastName>坎貝爾</LastName>
 		<LastName>Carter</LastName>
-		<LastName>Clark</LastName>
+		<LastName>克拉克</LastName>
 		<LastName>Coleman</LastName>
 		<LastName>Collins</LastName>
 		<LastName>Cook</LastName>
@@ -234,18 +234,18 @@
 		<LastName>Hill</LastName>
 		<LastName>Howard</LastName>
 		<LastName>Hughes</LastName>
-		<LastName>Jackson</LastName>
+		<LastName>傑克遜</LastName>
 		<LastName>James</LastName>
 		<LastName>Jenkins</LastName>
 		<LastName>Johnson</LastName>
-		<LastName>Jones</LastName>
+		<LastName>霍內斯</LastName>
 		<LastName>Kelly</LastName>
 		<LastName>King</LastName>
-		<LastName>Lee</LastName>
+		<LastName>利</LastName>
 		<LastName>Lewis</LastName>
 		<LastName>Long</LastName>
 		<LastName>Lopez</LastName>
-		<LastName>Martin</LastName>
+		<LastName>馬丁</LastName>
 		<LastName>Martinez</LastName>
 		<LastName>Miller</LastName>
 		<LastName>Mitchell</LastName>
@@ -276,20 +276,20 @@
 		<LastName>Sanders</LastName>
 		<LastName>Scott</LastName>
 		<LastName>Simmons</LastName>
-		<LastName>Smith</LastName>
+		<LastName>史密斯</LastName>
 		<LastName>Stewart</LastName>
-		<LastName>Taylor</LastName>
+		<LastName>泰勒</LastName>
 		<LastName>Thomas</LastName>
 		<LastName>Thompson</LastName>
 		<LastName>Torres</LastName>
 		<LastName>Turner</LastName>
-		<LastName>Walker</LastName>
+		<LastName>瓦爾克</LastName>
 		<LastName>Ward</LastName>
 		<LastName>Washington</LastName>
 		<LastName>Watson</LastName>
-		<LastName>White</LastName>
-		<LastName>Williams</LastName>
-		<LastName>Wilson</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
 		<LastName>Wood</LastName>
 		<LastName>Wright</LastName>
 		<LastName>Young</LastName>
@@ -313,9 +313,9 @@
 		<FirstName>Allison</FirstName>
 		<FirstName>Anna</FirstName>
 		<FirstName>Carol</FirstName>
-		<FirstName>Chloe</FirstName>
+		<FirstName>克洛兒</FirstName>
 		<FirstName>Claire</FirstName>
-		<FirstName>Emma</FirstName>
+		<FirstName>埃瑪</FirstName>
 		<FirstName>Jennifer</FirstName>
 		<FirstName>Kate</FirstName>
 		<FirstName>Laura</FirstName>
@@ -336,12 +336,12 @@
 		<LastName>Barnes</LastName>
 		<LastName>Bell</LastName>
 		<LastName>Bennett</LastName>
-		<LastName>Brown</LastName>
+		<LastName>布朗</LastName>
 		<LastName>Butler</LastName>
-		<LastName>Campbell</LastName>
+		<LastName>坎貝爾</LastName>
 		<LastName>Carter</LastName>
 		<LastName>Chapman</LastName>
-		<LastName>Clark</LastName>
+		<LastName>克拉克</LastName>
 		<LastName>Clarke</LastName>
 		<LastName>Collins</LastName>
 		<LastName>Cook</LastName>
@@ -366,19 +366,19 @@
 		<LastName>Holmes</LastName>
 		<LastName>Hughes</LastName>
 		<LastName>Hunt</LastName>
-		<LastName>Jackson</LastName>
+		<LastName>傑克遜</LastName>
 		<LastName>James</LastName>
 		<LastName>Jenkins</LastName>
 		<LastName>Johnson</LastName>
-		<LastName>Jones</LastName>
+		<LastName>霍內斯</LastName>
 		<LastName>Kelly</LastName>
 		<LastName>King</LastName>
 		<LastName>Knight</LastName>
-		<LastName>Lee</LastName>
+		<LastName>利</LastName>
 		<LastName>Lewis</LastName>
 		<LastName>Lloyd</LastName>
 		<LastName>Marshall</LastName>
-		<LastName>Martin</LastName>
+		<LastName>馬丁</LastName>
 		<LastName>Mason</LastName>
 		<LastName>Matthews</LastName>
 		<LastName>Miller</LastName>
@@ -404,20 +404,20 @@
 		<LastName>Scott</LastName>
 		<LastName>Shaw</LastName>
 		<LastName>Simpson</LastName>
-		<LastName>Smith</LastName>
+		<LastName>史密斯</LastName>
 		<LastName>Stevens</LastName>
-		<LastName>Taylor</LastName>
+		<LastName>泰勒</LastName>
 		<LastName>Thomas</LastName>
 		<LastName>Thompson</LastName>
 		<LastName>Turner</LastName>
-		<LastName>Walker</LastName>
+		<LastName>瓦爾克</LastName>
 		<LastName>Ward</LastName>
 		<LastName>Watson</LastName>
 		<LastName>Webb</LastName>
-		<LastName>White</LastName>
+		<LastName>懷特</LastName>
 		<LastName>Wilkinson</LastName>
-		<LastName>Williams</LastName>
-		<LastName>Wilson</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
 		<LastName>Wood</LastName>
 		<LastName>Wright</LastName>
 		<LastName>Young</LastName>
@@ -610,7 +610,7 @@
 		<FirstName>Anna</FirstName>
 		<FirstName>Dina</FirstName>
 		<FirstName>Elena</FirstName>
-		<FirstName>Emma</FirstName>
+		<FirstName>埃瑪</FirstName>
 		<FirstName>Inga</FirstName>
 		<FirstName>Katerina</FirstName>
 		<FirstName>Klara</FirstName>
@@ -811,9 +811,9 @@
 		<FirstName>Allison</FirstName>
 		<FirstName>Anna</FirstName>
 		<FirstName>Carol</FirstName>
-		<FirstName>Chloe</FirstName>
+		<FirstName>克洛兒</FirstName>
 		<FirstName>Claire</FirstName>
-		<FirstName>Emma</FirstName>
+		<FirstName>埃瑪</FirstName>
 		<FirstName>Jane</FirstName>
 		<FirstName>Jennifer</FirstName>
 		<FirstName>Kate</FirstName>
@@ -835,12 +835,12 @@
 		<LastName>Barnes</LastName>
 		<LastName>Bell</LastName>
 		<LastName>Bennett</LastName>
-		<LastName>Brown</LastName>
+		<LastName>布朗</LastName>
 		<LastName>Butler</LastName>
-		<LastName>Campbell</LastName>
+		<LastName>坎貝爾</LastName>
 		<LastName>Carter</LastName>
 		<LastName>Chapman</LastName>
-		<LastName>Clark</LastName>
+		<LastName>克拉克</LastName>
 		<LastName>Clarke</LastName>
 		<LastName>Collins</LastName>
 		<LastName>Cook</LastName>
@@ -865,19 +865,19 @@
 		<LastName>Holmes</LastName>
 		<LastName>Hughes</LastName>
 		<LastName>Hunt</LastName>
-		<LastName>Jackson</LastName>
+		<LastName>傑克遜</LastName>
 		<LastName>James</LastName>
 		<LastName>Jenkins</LastName>
 		<LastName>Johnson</LastName>
-		<LastName>Jones</LastName>
+		<LastName>霍內斯</LastName>
 		<LastName>Kelly</LastName>
 		<LastName>King</LastName>
 		<LastName>Knight</LastName>
-		<LastName>Lee</LastName>
+		<LastName>利</LastName>
 		<LastName>Lewis</LastName>
 		<LastName>Lloyd</LastName>
 		<LastName>Marshall</LastName>
-		<LastName>Martin</LastName>
+		<LastName>馬丁</LastName>
 		<LastName>Mason</LastName>
 		<LastName>Matthews</LastName>
 		<LastName>Miller</LastName>
@@ -903,20 +903,20 @@
 		<LastName>Scott</LastName>
 		<LastName>Shaw</LastName>
 		<LastName>Simpson</LastName>
-		<LastName>Smith</LastName>
+		<LastName>史密斯</LastName>
 		<LastName>Stevens</LastName>
-		<LastName>Taylor</LastName>
+		<LastName>泰勒</LastName>
 		<LastName>Thomas</LastName>
 		<LastName>Thompson</LastName>
 		<LastName>Turner</LastName>
-		<LastName>Walker</LastName>
+		<LastName>瓦爾克</LastName>
 		<LastName>Ward</LastName>
 		<LastName>Watson</LastName>
 		<LastName>Webb</LastName>
-		<LastName>White</LastName>
+		<LastName>懷特</LastName>
 		<LastName>Wilkinson</LastName>
-		<LastName>Williams</LastName>
-		<LastName>Wilson</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
 		<LastName>Wood</LastName>
 		<LastName>Wright</LastName>
 		<LastName>Young</LastName>
@@ -936,9 +936,9 @@
 		<FirstName>Allison</FirstName>
 		<FirstName>Anna</FirstName>
 		<FirstName>Carol</FirstName>
-		<FirstName>Chloe</FirstName>
+		<FirstName>克洛兒</FirstName>
 		<FirstName>Claire</FirstName>
-		<FirstName>Emma</FirstName>
+		<FirstName>埃瑪</FirstName>
 		<FirstName>Jane</FirstName>
 		<FirstName>Jennifer</FirstName>
 		<FirstName>Kate</FirstName>
@@ -960,12 +960,12 @@
 		<LastName>Barnes</LastName>
 		<LastName>Bell</LastName>
 		<LastName>Bennett</LastName>
-		<LastName>Brown</LastName>
+		<LastName>布朗</LastName>
 		<LastName>Butler</LastName>
-		<LastName>Campbell</LastName>
+		<LastName>坎貝爾</LastName>
 		<LastName>Carter</LastName>
 		<LastName>Chapman</LastName>
-		<LastName>Clark</LastName>
+		<LastName>克拉克</LastName>
 		<LastName>Clarke</LastName>
 		<LastName>Collins</LastName>
 		<LastName>Cook</LastName>
@@ -990,19 +990,19 @@
 		<LastName>Holmes</LastName>
 		<LastName>Hughes</LastName>
 		<LastName>Hunt</LastName>
-		<LastName>Jackson</LastName>
+		<LastName>傑克遜</LastName>
 		<LastName>James</LastName>
 		<LastName>Jenkins</LastName>
 		<LastName>Johnson</LastName>
-		<LastName>Jones</LastName>
+		<LastName>霍內斯</LastName>
 		<LastName>Kelly</LastName>
 		<LastName>King</LastName>
 		<LastName>Knight</LastName>
-		<LastName>Lee</LastName>
+		<LastName>利</LastName>
 		<LastName>Lewis</LastName>
 		<LastName>Lloyd</LastName>
 		<LastName>Marshall</LastName>
-		<LastName>Martin</LastName>
+		<LastName>馬丁</LastName>
 		<LastName>Mason</LastName>
 		<LastName>Matthews</LastName>
 		<LastName>Miller</LastName>
@@ -1028,20 +1028,20 @@
 		<LastName>Scott</LastName>
 		<LastName>Shaw</LastName>
 		<LastName>Simpson</LastName>
-		<LastName>Smith</LastName>
+		<LastName>史密斯</LastName>
 		<LastName>Stevens</LastName>
-		<LastName>Taylor</LastName>
+		<LastName>泰勒</LastName>
 		<LastName>Thomas</LastName>
 		<LastName>Thompson</LastName>
 		<LastName>Turner</LastName>
-		<LastName>Walker</LastName>
+		<LastName>瓦爾克</LastName>
 		<LastName>Ward</LastName>
 		<LastName>Watson</LastName>
 		<LastName>Webb</LastName>
-		<LastName>White</LastName>
+		<LastName>懷特</LastName>
 		<LastName>Wilkinson</LastName>
-		<LastName>Williams</LastName>
-		<LastName>Wilson</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
 		<LastName>Wood</LastName>
 		<LastName>Wright</LastName>
 		<LastName>Young</LastName>
@@ -1193,7 +1193,7 @@
 		<Ethnicity name="nor" chance="3" />
 
 		<FirstName>Elise</FirstName>
-		<FirstName>Emma</FirstName>
+		<FirstName>埃瑪</FirstName>
 		<FirstName>Frida</FirstName>
 		<FirstName>Ida</FirstName>
 		<FirstName>Ingrid</FirstName>
@@ -1293,7 +1293,7 @@
 		<FirstName>Ida</FirstName>
 		<FirstName>Julie</FirstName>
 		<FirstName>Karla</FirstName>
-		<FirstName>Lea</FirstName>
+		<FirstName>萊婭</FirstName>
 		<FirstName>Luna</FirstName>
 		<FirstName>Maja</FirstName>
 		<FirstName>Sofie</FirstName>
@@ -1340,20 +1340,20 @@
 		<FirstName>Anais</FirstName>
 		<FirstName>Ariane</FirstName>
 		<FirstName>Aurelie</FirstName>
-		<FirstName>Chloe</FirstName>
-		<FirstName>Coralie</FirstName>
-		<FirstName>Elodie</FirstName>
-		<FirstName>Emilie</FirstName>
-		<FirstName>Emma</FirstName>
-		<FirstName>Gabrielle</FirstName>
-		<FirstName>Juliette</FirstName>
-		<FirstName>Lea</FirstName>
-		<FirstName>Maelie</FirstName>
-		<FirstName>Megane</FirstName>
-		<FirstName>Noemie</FirstName>
-		<FirstName>Oceane</FirstName>
-		<FirstName>Rosalie</FirstName>
-		<FirstName>Zoe</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>科拉莉</FirstName>
+		<FirstName>埃洛迪</FirstName>
+		<FirstName>埃米兒</FirstName>
+		<FirstName>埃瑪</FirstName>
+		<FirstName>加布麗埃勒</FirstName>
+		<FirstName>朱麗葉</FirstName>
+		<FirstName>萊婭</FirstName>
+		<FirstName>馬埃妮</FirstName>
+		<FirstName>馬加麗</FirstName>
+		<FirstName>諾埃米兒</FirstName>
+		<FirstName>奧切安妮</FirstName>
+		<FirstName>羅莎莉</FirstName>
+		<FirstName>佐薇</FirstName>
 
 		<LastName>Bernard</LastName>
 		<LastName>Blanc</LastName>
