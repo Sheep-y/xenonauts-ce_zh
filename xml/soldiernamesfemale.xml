@@ -615,7 +615,7 @@
 		<FirstName>卡特里娜</FirstName>
 		<FirstName>克拉菈</FirstName>
 		<FirstName>克謝尼婭</FirstName>
-		<FirstName>露西婭</FirstName>
+		<FirstName>奈茜婭</FirstName>
 		<FirstName>馬爾塔</FirstName>
 		<FirstName>妮卡</FirstName>
 		<FirstName>奧莉加</FirstName>
@@ -670,34 +670,34 @@
 		<FirstName>拉德卡</FirstName>
 		<FirstName>西蒙娜</FirstName>
 
-		<LastName>Balazova</LastName>
-		<LastName>Benesova</LastName>
-		<LastName>Blazkova</LastName>
-		<LastName>Cermakova</LastName>
-		<LastName>Cerna</LastName>
-		<LastName>Dvorakova</LastName>
-		<LastName>Fialova</LastName>
-		<LastName>Hajkova</LastName>
-		<LastName>Horakova</LastName>
-		<LastName>Jelinkova</LastName>
-		<LastName>Kolarova</LastName>
-		<LastName>Kovacova</LastName>
-		<LastName>Kralova</LastName>
-		<LastName>Kucerova</LastName>
-		<LastName>Lukacova</LastName>
-		<LastName>Mala</LastName>
-		<LastName>Markova</LastName>
-		<LastName>Nemcova</LastName>
-		<LastName>Novakova</LastName>
-		<LastName>Novotna</LastName>
-		<LastName>Pokorna</LastName>
-		<LastName>Polakova</LastName>
-		<LastName>Rusnakova</LastName>
-		<LastName>Ruzickova</LastName>
-		<LastName>Svobodova</LastName>
-		<LastName>Vavrova</LastName>
-		<LastName>Vesela</LastName>
-		<LastName>Zemanova</LastName>
+		<LastName>巴拉若娃</LastName>
+		<LastName>貝內紹娃</LastName>
+		<LastName>布拉科娃</LastName>
+		<LastName>切爾馬科娃</LastName>
+		<LastName>切爾納</LastName>
+		<LastName>德沃爾納科娃</LastName>
+		<LastName>菲亞洛娃</LastName>
+		<LastName>哈伊科娃</LastName>
+		<LastName>霍拉科娃</LastName>
+		<LastName>耶林科娃</LastName>
+		<LastName>科拉若娃</LastName>
+		<LastName>科爾喬娃</LastName>
+		<LastName>克拉洛娃</LastName>
+		<LastName>庫切羅娃</LastName>
+		<LastName>盧卡喬娃</LastName>
+		<LastName>馬拉</LastName>
+		<LastName>馬爾科娃</LastName>
+		<LastName>涅姆卓娃</LastName>
+		<LastName>諾瓦科娃</LastName>
+		<LastName>諾沃特娜</LastName>
+		<LastName>波科爾娜</LastName>
+		<LastName>波拉科娃</LastName>
+		<LastName>魯斯納科娃</LastName>
+		<LastName>魯日奇科娃</LastName>
+		<LastName>斯科博多娃</LastName>
+		<LastName>瓦夫羅娃</LastName>
+		<LastName>卡塞拉</LastName>
+		<LastName>澤曼諾娃</LastName>
 
 		<Regiment name="regiment.czech1">
 			<Experience>experience.russian1</Experience>
@@ -708,46 +708,46 @@
 	<Nation name="Japanese" chance="4" flag="japan">
 		<Ethnicity name="asi" chance="1" />
 
-		<FirstName>Aiko</FirstName>
-		<FirstName>Ayako</FirstName>
-		<FirstName>Chinyo</FirstName>
-		<FirstName>Etsuko</FirstName>
-		<FirstName>Haruko</FirstName>
-		<FirstName>Itsuko</FirstName>
-		<FirstName>Kei</FirstName>
-		<FirstName>Kotori</FirstName>
-		<FirstName>Mai</FirstName>
-		<FirstName>Matsako</FirstName>
-		<FirstName>Miyu</FirstName>
-		<FirstName>Nagako</FirstName>
-		<FirstName>Nao</FirstName>
-		<FirstName>Ruri</FirstName>
-		<FirstName>Saya</FirstName>
+		<FirstName>愛子</FirstName>
+		<FirstName>綾子</FirstName>
+		<FirstName>知乃</FirstName>
+		<FirstName>悅子</FirstName>
+		<FirstName>美子</FirstName>
+		<FirstName>豐子</FirstName>
+		<FirstName>惠</FirstName>
+		<FirstName>小鳥井</FirstName>
+		<FirstName>舞</FirstName>
+		<FirstName>雅子</FirstName>
+		<FirstName>美優</FirstName>
+		<FirstName>有希</FirstName>
+		<FirstName>奈穗</FirstName>
+		<FirstName>瑠璃</FirstName>
+		<FirstName>沙耶</FirstName>
 
-		<LastName>Ando</LastName>
-		<LastName>Endo</LastName>
-		<LastName>Fujita</LastName>
-		<LastName>Hara</LastName>
-		<LastName>Hongo</LastName>
-		<LastName>Ikeda</LastName>
-		<LastName>Ito</LastName>
-		<LastName>Kimura</LastName>
-		<LastName>Kondo</LastName>
-		<LastName>Kubo</LastName>
-		<LastName>Maeda</LastName>
-		<LastName>Matsuda</LastName>
-		<LastName>Matsui</LastName>
-		<LastName>Mori</LastName>
-		<LastName>Nakano</LastName>
-		<LastName>Okada</LastName>
-		<LastName>Sakai</LastName>
-		<LastName>Sato</LastName>
-		<LastName>Suzuki</LastName>
-		<LastName>Tachibana</LastName>
-		<LastName>Takada</LastName>
-		<LastName>Tanaka</LastName>
-		<LastName>Uchida</LastName>
-		<LastName>Yasuda</LastName>
+		<LastName>安藤</LastName>
+		<LastName>遠滕</LastName>
+		<LastName>滕田</LastName>
+		<LastName>原</LastName>
+		<LastName>本鄉</LastName>
+		<LastName>池田</LastName>
+		<LastName>伊藤</LastName>
+		<LastName>木村</LastName>
+		<LastName>近藤</LastName>
+		<LastName>久保</LastName>
+		<LastName>前田</LastName>
+		<LastName>松田</LastName>
+		<LastName>松井</LastName>
+		<LastName>森</LastName>
+		<LastName>中野</LastName>
+		<LastName>岡田</LastName>
+		<LastName>西海</LastName>
+		<LastName>佐藤</LastName>
+		<LastName>鈴木</LastName>
+		<LastName>橘</LastName>
+		<LastName>高田</LastName>
+		<LastName>田中</LastName>
+		<LastName>內田</LastName>
+		<LastName>安田</LastName>
 
 		<Regiment name="regiment.japan1">
 			<Experience>experience.none</Experience>
@@ -761,37 +761,37 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
-		<FirstName>Alda</FirstName>
-		<FirstName>Alessia</FirstName>
-		<FirstName>Bruna</FirstName>
-		<FirstName>Camilla</FirstName>
-		<FirstName>Carlotta</FirstName>
-		<FirstName>Concetta</FirstName>
-		<FirstName>Federica</FirstName>
-		<FirstName>Giulia</FirstName>
-		<FirstName>Irene</FirstName>
-		<FirstName>Lucia</FirstName>
+		<FirstName>阿爾逹</FirstName>
+		<FirstName>阿萊西雅</FirstName>
+		<FirstName>布許娜</FirstName>
+		<FirstName>卡米菈</FirstName>
+		<FirstName>卡洛塔</FirstName>
+		<FirstName>孔切塔</FirstName>
+		<FirstName>費德麗卡</FirstName>
+		<FirstName>朱利婭</FirstName>
+		<FirstName>伊雷妮</FirstName>
+		<FirstName>奈茜婭</FirstName>
 		<FirstName>馬爾塔</FirstName>
-		<FirstName>Ottavia</FirstName>
-		<FirstName>Rosa</FirstName>
-		<FirstName>Stella</FirstName>
-		<FirstName>Valeria</FirstName>
-		<FirstName>Veronica</FirstName>
+		<FirstName>奧塔維婭</FirstName>
+		<FirstName>羅莎</FirstName>
+		<FirstName>斯泰菈</FirstName>
+		<FirstName>瓦萊里婭</FirstName>
+		<FirstName>韋羅妮卡</FirstName>
 
-		<LastName>Bianchi</LastName>
-		<LastName>Bulgarelli</LastName>
-		<LastName>Degli Esposti</LastName>
-		<LastName>Esposito</LastName>
-		<LastName>Gubellini</LastName>
-		<LastName>Pancaldi</LastName>
-		<LastName>Ricci</LastName>
-		<LastName>Romano</LastName>
-		<LastName>Rossi</LastName>
-		<LastName>Sabatini</LastName>
-		<LastName>Suzzi</LastName>
-		<LastName>Vanti</LastName>
-		<LastName>Veronese</LastName>
-		<LastName>Virgili</LastName>
+		<LastName>比安希</LastName>
+		<LastName>布爾加雷利</LastName>
+		<LastName>德利 埃斯波西提</LastName>
+		<LastName>埃斯波西圫</LastName>
+		<LastName>吉貝利尼</LastName>
+		<LastName>潘卡爾迪</LastName>
+		<LastName>里奇</LastName>
+		<LastName>羅馬諾</LastName>
+		<LastName>羅西</LastName>
+		<LastName>薩巴蒂尼</LastName>
+		<LastName>蘇齊</LastName>
+		<LastName>凡蒂</LastName>
+		<LastName>韋羅內塞</LastName>
+		<LastName>維爾吉利</LastName>
 
 		<Regiment name="regiment.italian1">
 			<Experience>experience.none</Experience>
@@ -814,7 +814,7 @@
 		<FirstName>克洛兒</FirstName>
 		<FirstName>克萊菈克</FirstName>
 		<FirstName>埃瑪</FirstName>
-		<FirstName>Jane</FirstName>
+		<FirstName>珍</FirstName>
 		<FirstName>珍妮弗</FirstName>
 		<FirstName>卡蒂</FirstName>
 		<FirstName>勞菈</FirstName>
@@ -939,7 +939,7 @@
 		<FirstName>克洛兒</FirstName>
 		<FirstName>克萊菈克</FirstName>
 		<FirstName>埃瑪</FirstName>
-		<FirstName>Jane</FirstName>
+		<FirstName>珍</FirstName>
 		<FirstName>珍妮弗</FirstName>
 		<FirstName>卡蒂</FirstName>
 		<FirstName>勞菈</FirstName>
@@ -1062,30 +1062,30 @@
 		<Ethnicity name="med" chance="1" />
 
 		<FirstName>安娜</FirstName>
-		<FirstName>Demetra</FirstName>
-		<FirstName>Eirene</FirstName>
-		<FirstName>Eleni</FirstName>
-		<FirstName>Georgia</FirstName>
-		<FirstName>Ioanna</FirstName>
-		<FirstName>Maria</FirstName>
+		<FirstName>德梅特菈</FirstName>
+		<FirstName>艾麗妮</FirstName>
+		<FirstName>葉萊妮</FirstName>
+		<FirstName>喬治婭</FirstName>
+		<FirstName>約安娜</FirstName>
+		<FirstName>瑪麗亞</FirstName>
 		<FirstName>索菲婭</FirstName>
 
-		<LastName>Anastos</LastName>
-		<LastName>Angelis</LastName>
-		<LastName>Athas</LastName>
-		<LastName>Baros</LastName>
-		<LastName>Drakos</LastName>
-		<LastName>Dukas</LastName>
-		<LastName>Gabris</LastName>
-		<LastName>Hallas</LastName>
-		<LastName>Kairis</LastName>
-		<LastName>Lazos</LastName>
-		<LastName>Leos</LastName>
-		<LastName>Loris</LastName>
-		<LastName>Malas</LastName>
-		<LastName>Nicoli</LastName>
-		<LastName>Petras</LastName>
-		<LastName>Vlahos</LastName>
+		<LastName>阿納斯托斯</LastName>
+		<LastName>安潔利斯</LastName>
+		<LastName>阿塔</LastName>
+		<LastName>巴羅斯</LastName>
+		<LastName>茲拉科斯</LastName>
+		<LastName>杜卡</LastName>
+		<LastName>加布里斯</LastName>
+		<LastName>哈拉斯</LastName>
+		<LastName>凱里斯</LastName>
+		<LastName>拉索斯</LastName>
+		<LastName>萊奧斯</LastName>
+		<LastName>洛里斯</LastName>
+		<LastName>馬拉斯</LastName>
+		<LastName>尼科利</LastName>
+		<LastName>彼得拉斯</LastName>
+		<LastName>弗洛霍西</LastName>
 
 		<Regiment name="regiment.greek1">
 			<Experience>experience.none</Experience>
@@ -1102,32 +1102,32 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Julia</FirstName>
-		<FirstName>Lena</FirstName>
-		<FirstName>Maja</FirstName>
-		<FirstName>Natalia</FirstName>
-		<FirstName>Oliwia</FirstName>
-		<FirstName>Wiktoria</FirstName>
-		<FirstName>Zofia</FirstName>
-		<FirstName>Zuzanna</FirstName>
+		<FirstName>朱麗婭</FirstName>
+		<FirstName>莉娜</FirstName>
+		<FirstName>馬婭</FirstName>
+		<FirstName>納塔利婭</FirstName>
+		<FirstName>奧利維婭</FirstName>
+		<FirstName>維克托婭</FirstName>
+		<FirstName>索菲婭</FirstName>
+		<FirstName>蘇珊娜</FirstName>
 
-		<LastName>Bieniak</LastName>
-		<LastName>Dabrowski</LastName>
-		<LastName>Duda</LastName>
-		<LastName>Dudek</LastName>
-		<LastName>Gorski</LastName>
-		<LastName>Kaminski</LastName>
-		<LastName>Kania</LastName>
-		<LastName>Kopik</LastName>
-		<LastName>Kowalski</LastName>
-		<LastName>Krawczyk</LastName>
-		<LastName>Mazur</LastName>
-		<LastName>Nowak</LastName>
-		<LastName>Pawlak</LastName>
-		<LastName>Sroka</LastName>
-		<LastName>Wojcik</LastName>
-		<LastName>Wozniak</LastName>
-		<LastName>Zielinski</LastName>
+		<LastName>比尼克</LastName>
+		<LastName>東布羅夫斯基</LastName>
+		<LastName>杜道</LastName>
+		<LastName>杜德克</LastName>
+		<LastName>戈爾斯基</LastName>
+		<LastName>卡明斯基</LastName>
+		<LastName>卡尼亞</LastName>
+		<LastName>科皮克</LastName>
+		<LastName>科瓦爾斯基</LastName>
+		<LastName>克拉夫奇克</LastName>
+		<LastName>馬祖爾</LastName>
+		<LastName>諾瓦克</LastName>
+		<LastName>帕夫拉克</LastName>
+		<LastName>斯羅卡</LastName>
+		<LastName>武伊齊茨</LastName>
+		<LastName>沃希尼亞克</LastName>
+		<LastName>傑林斯基</LastName>
 
 		<Regiment name="regiment.poland1">
 			<Experience>experience.none</Experience>
@@ -1147,35 +1147,35 @@
 		<Ethnicity name="med" chance="3" />
 		<Ethnicity name="nor" chance="1" />
 
-		<FirstName>Alba</FirstName>
-		<FirstName>Ana</FirstName>
-		<FirstName>Antonia</FirstName>
-		<FirstName>Carmen</FirstName>
-		<FirstName>Cristina</FirstName>
-		<FirstName>Isabel</FirstName>
-		<FirstName>Lucia</FirstName>
-		<FirstName>Maria</FirstName>
-		<FirstName>Nerea</FirstName>
-		<FirstName>Raquel</FirstName>
-		<FirstName>Sara</FirstName>
+		<FirstName>阿爾芭</FirstName>
+		<FirstName>阿尼婭</FirstName>
+		<FirstName>安東尼婭</FirstName>
+		<FirstName>卡門</FirstName>
+		<FirstName>克里斯蒂娜</FirstName>
+		<FirstName>伊莎貝</FirstName>
+		<FirstName>奈茜婭</FirstName>
+		<FirstName>瑪麗亞</FirstName>
+		<FirstName>奈蕾雅</FirstName>
+		<FirstName>拉克爾</FirstName>
+		<FirstName>薩菈</FirstName>
 
-		<LastName>Alonso</LastName>
+		<LastName>阿隆索</LastName>
 		<LastName>迪亞茲</LastName>
-		<LastName>Fernandez</LastName>
+		<LastName>費爾南德斯</LastName>
 		<LastName>加西亞</LastName>
-		<LastName>Gomez</LastName>
+		<LastName>戈密斯</LastName>
 		<LastName>岡薩雷斯</LastName>
 		<LastName>洛佩斯</LastName>
 		<LastName>馬丁內斯</LastName>
-		<LastName>Navarro</LastName>
+		<LastName>納瓦羅</LastName>
 		<LastName>佩雷斯</LastName>
-		<LastName>Ramos</LastName>
-		<LastName>Romero</LastName>
-		<LastName>Ruiz</LastName>
+		<LastName>拉莫斯</LastName>
+		<LastName>羅梅奧</LastName>
+		<LastName>魯伊斯</LastName>
 		<LastName>桑切斯</LastName>
-		<LastName>Serrano</LastName>
+		<LastName>薩拉勞</LastName>
 		<LastName>托里斯</LastName>
-		<LastName>Vazquez</LastName>
+		<LastName>巴斯克斯</LastName>
 
 		<Regiment name="regiment.spain1">
 			<Experience>experience.none</Experience>
@@ -1198,13 +1198,13 @@
 		<FirstName>Ida</FirstName>
 		<FirstName>英格麗德</FirstName>
 		<FirstName>Linnea</FirstName>
-		<FirstName>Maja</FirstName>
-		<FirstName>Maria</FirstName>
+		<FirstName>馬婭</FirstName>
+		<FirstName>瑪麗亞</FirstName>
 		<FirstName>Mia</FirstName>
 		<FirstName>諾菈</FirstName>
 		<FirstName>Oda</FirstName>
 		<FirstName>Olivia</FirstName>
-		<FirstName>Sara</FirstName>
+		<FirstName>薩菈</FirstName>
 		<FirstName>Thea</FirstName>
 
 		<LastName>Andersen</LastName>
@@ -1244,7 +1244,7 @@
 		<FirstName>Femke</FirstName>
 		<FirstName>Fluer</FirstName>
 		<FirstName>Isa</FirstName>
-		<FirstName>Julia</FirstName>
+		<FirstName>朱麗婭</FirstName>
 		<FirstName>Lieke</FirstName>
 		<FirstName>Lynn</FirstName>
 		<FirstName>Noa</FirstName>
@@ -1295,7 +1295,7 @@
 		<FirstName>Karla</FirstName>
 		<FirstName>萊婭</FirstName>
 		<FirstName>Luna</FirstName>
-		<FirstName>Maja</FirstName>
+		<FirstName>馬婭</FirstName>
 		<FirstName>Sofie</FirstName>
 		<FirstName>Tilde</FirstName>
 		<FirstName>Tilde</FirstName>
@@ -1398,8 +1398,8 @@
 		<FirstName>Elsa</FirstName>
 		<FirstName>Julie</FirstName>
 		<FirstName>Linnea</FirstName>
-		<FirstName>Maja</FirstName>
-		<FirstName>Maria</FirstName>
+		<FirstName>馬婭</FirstName>
+		<FirstName>瑪麗亞</FirstName>
 		<FirstName>Nellie</FirstName>
 		<FirstName>Nova</FirstName>
 		<FirstName>Tyra</FirstName>
