@@ -608,40 +608,40 @@
 		<Ethnicity name="nor" chance="2" />
 
 		<FirstName>安娜</FirstName>
-		<FirstName>Dina</FirstName>
-		<FirstName>Elena</FirstName>
+		<FirstName>迪娜</FirstName>
+		<FirstName>葉連娜</FirstName>
 		<FirstName>埃瑪</FirstName>
-		<FirstName>Inga</FirstName>
-		<FirstName>Katerina</FirstName>
-		<FirstName>Klara</FirstName>
-		<FirstName>Kseniya</FirstName>
-		<FirstName>Lucya</FirstName>
-		<FirstName>Marta</FirstName>
-		<FirstName>Nika</FirstName>
-		<FirstName>Olga</FirstName>
-		<FirstName>Renata</FirstName>
-		<FirstName>Sofia</FirstName>
-		<FirstName>Vera</FirstName>
-		<FirstName>Yana</FirstName>
-		<FirstName>Zhanna</FirstName>
+		<FirstName>瑛格</FirstName>
+		<FirstName>卡特里娜</FirstName>
+		<FirstName>克拉菈</FirstName>
+		<FirstName>克謝尼婭</FirstName>
+		<FirstName>露西婭</FirstName>
+		<FirstName>馬爾塔</FirstName>
+		<FirstName>妮卡</FirstName>
+		<FirstName>奧莉加</FirstName>
+		<FirstName>雷娜塔</FirstName>
+		<FirstName>索菲婭</FirstName>
+		<FirstName>薇拉</FirstName>
+		<FirstName>亞娜</FirstName>
+		<FirstName>然娜</FirstName>
 
-		<LastName>Andropova</LastName>
-		<LastName>Bogdanova</LastName>
-		<LastName>Chekova</LastName>
-		<LastName>Ivanova</LastName>
-		<LastName>Kozlova</LastName>
-		<LastName>Kuznetsova</LastName>
-		<LastName>Lebedeva</LastName>
-		<LastName>Marilova</LastName>
-		<LastName>Novikova</LastName>
-		<LastName>Pavlova</LastName>
-		<LastName>Petrova</LastName>
-		<LastName>Popova</LastName>
-		<LastName>Romanova</LastName>
-		<LastName>Smirnova</LastName>
-		<LastName>Sokolova</LastName>
-		<LastName>Vasilyeva</LastName>
-		<LastName>Zaytseva</LastName>
+		<LastName>安德羅波夫娃</LastName>
+		<LastName>波格丹諾娃</LastName>
+		<LastName>切科夫娃</LastName>
+		<LastName>伊凡諾娃</LastName>
+		<LastName>科茲洛娃</LastName>
+		<LastName>庫茲涅佐娃</LastName>
+		<LastName>烈別傑娃</LastName>
+		<LastName>馬里洛娃</LastName>
+		<LastName>諾維科娃</LastName>
+		<LastName>帕夫諾娃</LastName>
+		<LastName>彼得羅娃</LastName>
+		<LastName>波波娃</LastName>
+		<LastName>羅曼諾娃</LastName>
+		<LastName>斯米爾諾娃</LastName>
+		<LastName>索科諾娃</LastName>
+		<LastName>瓦西里耶娃</LastName>
+		<LastName>扎耶切娃</LastName>
 
 		<Regiment name="regiment.russian1">
 			<Experience>experience.none</Experience>
@@ -658,17 +658,17 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
-		<FirstName>Alena</FirstName>
+		<FirstName>阿萊納</FirstName>
 		<FirstName>安娜</FirstName>
-		<FirstName>Dana</FirstName>
-		<FirstName>Dorota</FirstName>
+		<FirstName>逹娜</FirstName>
+		<FirstName>多蘿塔</FirstName>
 		<FirstName>亞娜</FirstName>
-		<FirstName>Kamila</FirstName>
-		<FirstName>Nikol</FirstName>
-		<FirstName>Nora</FirstName>
-		<FirstName>Olga</FirstName>
-		<FirstName>Radka</FirstName>
-		<FirstName>Simona</FirstName>
+		<FirstName>卡米菈</FirstName>
+		<FirstName>尼古菈</FirstName>
+		<FirstName>諾菈</FirstName>
+		<FirstName>奧莉加</FirstName>
+		<FirstName>拉德卡</FirstName>
+		<FirstName>西蒙娜</FirstName>
 
 		<LastName>Balazova</LastName>
 		<LastName>Benesova</LastName>
@@ -771,7 +771,7 @@
 		<FirstName>Giulia</FirstName>
 		<FirstName>Irene</FirstName>
 		<FirstName>Lucia</FirstName>
-		<FirstName>Marta</FirstName>
+		<FirstName>馬爾塔</FirstName>
 		<FirstName>Ottavia</FirstName>
 		<FirstName>Rosa</FirstName>
 		<FirstName>Stella</FirstName>
@@ -1068,7 +1068,7 @@
 		<FirstName>Georgia</FirstName>
 		<FirstName>Ioanna</FirstName>
 		<FirstName>Maria</FirstName>
-		<FirstName>Sofia</FirstName>
+		<FirstName>索菲婭</FirstName>
 
 		<LastName>Anastos</LastName>
 		<LastName>Angelis</LastName>
@@ -1201,7 +1201,7 @@
 		<FirstName>Maja</FirstName>
 		<FirstName>Maria</FirstName>
 		<FirstName>Mia</FirstName>
-		<FirstName>Nora</FirstName>
+		<FirstName>諾菈</FirstName>
 		<FirstName>Oda</FirstName>
 		<FirstName>Olivia</FirstName>
 		<FirstName>Sara</FirstName>
