@@ -1192,38 +1192,38 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Elise</FirstName>
+		<FirstName>埃莉絲</FirstName>
 		<FirstName>埃瑪</FirstName>
-		<FirstName>Frida</FirstName>
-		<FirstName>Ida</FirstName>
+		<FirstName>弗麗逹</FirstName>
+		<FirstName>伊逹</FirstName>
 		<FirstName>英格麗德</FirstName>
-		<FirstName>Linnea</FirstName>
+		<FirstName>林內婭</FirstName>
 		<FirstName>馬婭</FirstName>
 		<FirstName>瑪麗亞</FirstName>
-		<FirstName>Mia</FirstName>
+		<FirstName>米婭</FirstName>
 		<FirstName>諾菈</FirstName>
-		<FirstName>Oda</FirstName>
-		<FirstName>Olivia</FirstName>
+		<FirstName>奧逹</FirstName>
+		<FirstName>奧莉維亞</FirstName>
 		<FirstName>薩菈</FirstName>
-		<FirstName>Thea</FirstName>
+		<FirstName>特婭</FirstName>
 
-		<LastName>Andersen</LastName>
-		<LastName>Arnesen</LastName>
-		<LastName>Bakken</LastName>
-		<LastName>Berg</LastName>
-		<LastName>Eriksen</LastName>
-		<LastName>Hansen</LastName>
-		<LastName>Haugen</LastName>
-		<LastName>Holm</LastName>
-		<LastName>Jensen</LastName>
-		<LastName>Johansen</LastName>
-		<LastName>Larsen</LastName>
-		<LastName>Lund</LastName>
-		<LastName>Lunde</LastName>
-		<LastName>Nilsen</LastName>
-		<LastName>Olsen</LastName>
-		<LastName>Pedersen</LastName>
-		<LastName>Solberg</LastName>
+		<LastName>安德森</LastName>
+		<LastName>阿爾內森</LastName>
+		<LastName>巴肯</LastName>
+		<LastName>貝爾赫</LastName>
+		<LastName>埃里克森</LastName>
+		<LastName>漢森</LastName>
+		<LastName>海于根</LastName>
+		<LastName>霍爾姆</LastName>
+		<LastName>詹森</LastName>
+		<LastName>約翰森</LastName>
+		<LastName>拉森</LastName>
+		<LastName>倫德</LastName>
+		<LastName>倫迪</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>奧爾森</LastName>
+		<LastName>佩德森</LastName>
+		<LastName>瑟爾貝格</LastName>
 
 		<Regiment name="regiment.norway1">
 			<Experience>experience.none</Experience>
@@ -1239,36 +1239,36 @@
 		<Ethnicity name="afri" chance="1" />
 
 		<FirstName>安娜</FirstName>
-		<FirstName>Anne</FirstName>
-		<FirstName>Eva</FirstName>
-		<FirstName>Femke</FirstName>
-		<FirstName>Fluer</FirstName>
-		<FirstName>Isa</FirstName>
+		<FirstName>安尼</FirstName>
+		<FirstName>伊娃</FirstName>
+		<FirstName>費潔</FirstName>
+		<FirstName>弗蕾爾</FirstName>
+		<FirstName>伊莎</FirstName>
 		<FirstName>朱麗婭</FirstName>
-		<FirstName>Lieke</FirstName>
-		<FirstName>Lynn</FirstName>
-		<FirstName>Noa</FirstName>
-		<FirstName>Roos</FirstName>
-		<FirstName>Sanne</FirstName>
+		<FirstName>列琪</FirstName>
+		<FirstName>林恩</FirstName>
+		<FirstName>諾婭</FirstName>
+		<FirstName>羅絲</FirstName>
+		<FirstName>珊奈</FirstName>
 		<FirstName>索菲</FirstName>
 
-		<LastName>Bakker</LastName>
-		<LastName>Dekker</LastName>
-		<LastName>Hendriks</LastName>
-		<LastName>Jannsen</LastName>
-		<LastName>Jansen</LastName>
+		<LastName>巴克</LastName>
+		<LastName>德克爾</LastName>
+		<LastName>昴德里克雅</LastName>
+		<LastName>揚森</LastName>
+		<LastName>揚遜</LastName>
 		<LastName>邁耶</LastName>
-		<LastName>Mulder</LastName>
-		<LastName>Peters</LastName>
-		<LastName>Smit</LastName>
-		<LastName>Visser</LastName>
-		<LastName>Vos</LastName>
-		<LastName>Willems</LastName>
-		<LastName>de Berg</LastName>
-		<LastName>de Graaf</LastName>
-		<LastName>de Jong</LastName>
-		<LastName>de Vries</LastName>
-		<LastName>van Dijk</LastName>
+		<LastName>米爾德</LastName>
+		<LastName>彼得斯</LastName>
+		<LastName>斯米特</LastName>
+		<LastName>菲瑟</LastName>
+		<LastName>沃斯</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>德 貝格</LastName>
+		<LastName>德 格拉夫</LastName>
+		<LastName>德 容</LastName>
+		<LastName>德 弗里斯</LastName>
+		<LastName>凡 載克</LastName>
 
 		<Regiment name="regiment.dutch1">
 			<Experience>experience.none</Experience>
@@ -1285,38 +1285,37 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Alma</FirstName>
-		<FirstName>Asta</FirstName>
+		<FirstName>阿爾瑪</FirstName>
+		<FirstName>阿絲塔</FirstName>
 		<FirstName>卡蘿爾</FirstName>
-		<FirstName>Clara</FirstName>
-		<FirstName>Freja</FirstName>
-		<FirstName>Ida</FirstName>
-		<FirstName>Julie</FirstName>
-		<FirstName>Karla</FirstName>
+		<FirstName>克菈拉</FirstName>
+		<FirstName>弗蕾雅</FirstName>
+		<FirstName>伊逹</FirstName>
+		<FirstName>尤麗葉</FirstName>
+		<FirstName>卡菈</FirstName>
 		<FirstName>萊婭</FirstName>
-		<FirstName>Luna</FirstName>
+		<FirstName>露娜</FirstName>
 		<FirstName>馬婭</FirstName>
-		<FirstName>Sofie</FirstName>
-		<FirstName>Tilde</FirstName>
-		<FirstName>Tilde</FirstName>
+		<FirstName>蘇非兒</FirstName>
+		<FirstName>蒂爾德</FirstName>
 
-		<LastName>Andersen</LastName>
-		<LastName>Clausen</LastName>
-		<LastName>Eriksen</LastName>
-		<LastName>Hansen</LastName>
-		<LastName>Jakobsen</LastName>
-		<LastName>Jensen</LastName>
-		<LastName>Jepsen</LastName>
-		<LastName>Kjaer</LastName>
-		<LastName>Knudsen</LastName>
-		<LastName>Kristensen</LastName>
-		<LastName>Larsen</LastName>
-		<LastName>Madsen</LastName>
-		<LastName>Nielsen</LastName>
-		<LastName>Nissen</LastName>
-		<LastName>Olesen</LastName>
-		<LastName>Pedersen</LastName>
-		<LastName>Thomsen</LastName>
+		<LastName>安德森</LastName>
+		<LastName>克勞森</LastName>
+		<LastName>埃里克森</LastName>
+		<LastName>漢森</LastName>
+		<LastName>雅各布森</LastName>
+		<LastName>詹森</LastName>
+		<LastName>傑普森</LastName>
+		<LastName>凱</LastName>
+		<LastName>克勞森</LastName>
+		<LastName>克里斯藤森</LastName>
+		<LastName>拉森</LastName>
+		<LastName>馬森</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>尼森</LastName>
+		<LastName>奧勒森</LastName>
+		<LastName>佩德森</LastName>
+		<LastName>湯姆森</LastName>
 
 		<Regiment name="regiment.danish1">
 			<Experience>experience.none</Experience>
@@ -1334,12 +1333,12 @@
 		<Ethnicity name="nor" chance="4" />
 		<Ethnicity name="afri" chance="1" />
 
-		<FirstName>Alexia</FirstName>
-		<FirstName>Alice</FirstName>
-		<FirstName>Alicia</FirstName>
-		<FirstName>Anais</FirstName>
-		<FirstName>Ariane</FirstName>
-		<FirstName>Aurelie</FirstName>
+		<FirstName>阿歷克茜亞</FirstName>
+		<FirstName>愛麗絲</FirstName>
+		<FirstName>艾麗西亞</FirstName>
+		<FirstName>阿奈</FirstName>
+		<FirstName>阿里婭納</FirstName>
+		<FirstName>奧蕾莉</FirstName>
 		<FirstName>克洛兒</FirstName>
 		<FirstName>科拉莉</FirstName>
 		<FirstName>埃洛迪</FirstName>
@@ -1355,22 +1354,22 @@
 		<FirstName>羅莎莉</FirstName>
 		<FirstName>佐薇</FirstName>
 
-		<LastName>Bernard</LastName>
-		<LastName>Blanc</LastName>
-		<LastName>Dubois</LastName>
-		<LastName>Durand</LastName>
-		<LastName>Duval</LastName>
-		<LastName>Faure</LastName>
-		<LastName>Laurent</LastName>
-		<LastName>Lefevre</LastName>
-		<LastName>Leroy</LastName>
-		<LastName>Mercier</LastName>
-		<LastName>Moreau</LastName>
+		<LastName>巴納德</LastName>
+		<LastName>勃朗</LastName>
+		<LastName>迪布瓦<LastName>
+		<LastName>迪朗</LastName>
+		<LastName>杜瓦爾</LastName>
+		<LastName>福蕾</LastName>
+		<LastName>洛朗</LastName>
+		<LastName>勒菲弗</LastName>
+		<LastName>勒羅伊</LastName>
+		<LastName>梅西耶</LastName>
+		<LastName>莫羅</LastName>
 		<LastName>莫林</LastName>
-		<LastName>Noel</LastName>
-		<LastName>Petit</LastName>
-		<LastName>Renaud</LastName>
-		<LastName>Roche</LastName>
+		<LastName>諾埃爾</LastName>
+		<LastName>珀蒂</LastName>
+		<LastName>雷諾</LastName>
+		<LastName>羅謝</LastName>
 		<LastName>托馬斯</LastName>
 
 		<Regiment name="regiment.french1">
@@ -1391,37 +1390,37 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Agnes</FirstName>
-		<FirstName>Alice</FirstName>
-		<FirstName>Alma</FirstName>
-		<FirstName>Alva</FirstName>
-		<FirstName>Elsa</FirstName>
-		<FirstName>Julie</FirstName>
-		<FirstName>Linnea</FirstName>
+		<FirstName>昴內絲</FirstName>
+		<FirstName>愛麗絲</FirstName>
+		<FirstName>阿爾瑪</FirstName>
+		<FirstName>阿爾沃</FirstName>
+		<FirstName>艾爾莎</FirstName>
+		<FirstName>尤麗葉</FirstName>
+		<FirstName>林內婭</FirstName>
 		<FirstName>馬婭</FirstName>
 		<FirstName>瑪麗亞</FirstName>
-		<FirstName>Nellie</FirstName>
-		<FirstName>Nova</FirstName>
-		<FirstName>Tyra</FirstName>
-		<FirstName>Vilda</FirstName>
-		<FirstName>Wilma</FirstName>
+		<FirstName>奈莉</FirstName>
+		<FirstName>諾娃</FirstName>
+		<FirstName>蒂拉</FirstName>
+		<FirstName>維爾逹</FirstName>
+		<FirstName>威爾瑪</FirstName>
 
-		<LastName>Berg</LastName>
-		<LastName>Bergman</LastName>
-		<LastName>Blom</LastName>
-		<LastName>Eklund</LastName>
-		<LastName>Falk</LastName>
-		<LastName>Holmgren</LastName>
-		<LastName>Jonsson</LastName>
-		<LastName>Karlsson</LastName>
-		<LastName>Larsson</LastName>
-		<LastName>Lindberg</LastName>
-		<LastName>Lindgren</LastName>
-		<LastName>Nilsson</LastName>
-		<LastName>Norberg</LastName>
-		<LastName>Nordin</LastName>
-		<LastName>Persson</LastName>
-		<LastName>Wallin</LastName>
+		<LastName>貝爾赫</LastName>
+		<LastName>貝里曼</LastName>
+		<LastName>布盧姆</LastName>
+		<LastName>埃克隆德</LastName>
+		<LastName>法爾克</LastName>
+		<LastName>霍姆格倫</LastName>
+		<LastName>榮遜</LastName>
+		<LastName>卡爾遜</LastName>
+		<LastName>拉松</LastName>
+		<LastName>林德貝克</LastName>
+		<LastName>林德格倫</LastName>
+		<LastName>尼爾遜</LastName>
+		<LastName>努德貝里</LastName>
+		<LastName>努丁</LastName>
+		<LastName>佩爾遜</LastName>
+		<LastName>瓦林</LastName>
 
 		<Regiment name="regiment.swede1">
 			<Experience>experience.none</Experience>
@@ -1435,38 +1434,38 @@
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
-		<FirstName>Aada</FirstName>
-		<FirstName>Aino</FirstName>
-		<FirstName>Alisa</FirstName>
-		<FirstName>Eevi</FirstName>
-		<FirstName>Iida</FirstName>
-		<FirstName>Milja</FirstName>
-		<FirstName>Milla</FirstName>
-		<FirstName>Neea</FirstName>
-		<FirstName>Nella</FirstName>
-		<FirstName>Pinja</FirstName>
-		<FirstName>Ronja</FirstName>
-		<FirstName>Siiri</FirstName>
-		<FirstName>Veera</FirstName>
-		<FirstName>Venla</FirstName>
+		<FirstName>雅逹</FirstName>
+		<FirstName>愛諾</FirstName>
+		<FirstName>愛莉莎</FirstName>
+		<FirstName>埃維</FirstName>
+		<FirstName>伊逹</FirstName>
+		<FirstName>米莉婭</FirstName>
+		<FirstName>米菈</FirstName>
+		<FirstName>妮亞</FirstName>
+		<FirstName>奈娜</FirstName>
+		<FirstName>皮尼雅</FirstName>
+		<FirstName>倫雅</FirstName>
+		<FirstName>茜菈</FirstName>
+		<FirstName>維菈</FirstName>
+		<FirstName>文娜</FirstName>
 
-		<LastName>Ahonen</LastName>
-		<LastName>Heikennen</LastName>
-		<LastName>Heinonen</LastName>
-		<LastName>Jokinen</LastName>
-		<LastName>Kinnunen</LastName>
-		<LastName>Korhonen</LastName>
-		<LastName>Koskinen</LastName>
-		<LastName>Laine</LastName>
-		<LastName>Laitinen</LastName>
-		<LastName>Makinen</LastName>
-		<LastName>Mattila</LastName>
-		<LastName>Nieminen</LastName>
-		<LastName>Saarinen</LastName>
-		<LastName>Salo</LastName>
-		<LastName>Salonen</LastName>
-		<LastName>Turunen</LastName>
-		<LastName>Virtanen</LastName>
+		<LastName>阿霍寧</LastName>
+		<LastName>海凱寧</LastName>
+		<LastName>海諾寧</LastName>
+		<LastName>約基寧</LastName>
+		<LastName>金努寧</LastName>
+		<LastName>科爾霍寧</LastName>
+		<LastName>科斯基寧</LastName>
+		<LastName>萊恩</LastName>
+		<LastName>萊蒂寧</LastName>
+		<LastName>梅基寧</LastName>
+		<LastName>馬蒂拉</LastName>
+		<LastName>涅米寧</LastName>
+		<LastName>薩里寧</LastName>
+		<LastName>薩洛</LastName>
+		<LastName>薩洛寧</LastName>
+		<LastName>圖儂奈亞</LastName>
+		<LastName>維爾塔寧</LastName>
 
 		<Regiment name="regiment.finn1">
 			<Experience>experience.none</Experience>
