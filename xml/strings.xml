@@ -3660,7 +3660,7 @@
   <Cell><Data ss:Type="String">陸軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.britain1</Data></Cell>
-  <Cell><Data ss:Type="String">SAS</Data></Cell>
+  <Cell><Data ss:Type="String">特種空勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.britain2</Data></Cell>
   <Cell><Data ss:Type="String">傘兵團</Data></Cell>
@@ -3675,28 +3675,28 @@
   <Cell><Data ss:Type="String">加拿大皇家軍團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.czech1</Data></Cell>
-  <Cell><Data ss:Type="String">2nd Guards Army</Data></Cell>
+  <Cell><Data ss:Type="String">第二2守衛軍團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.germany1</Data></Cell>
-  <Cell><Data ss:Type="String">79th Rifle Corps</Data></Cell>
+  <Cell><Data ss:Type="String">第79步槍軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.germany2</Data></Cell>
-  <Cell><Data ss:Type="String">5th Shock Army</Data></Cell>
+  <Cell><Data ss:Type="String">第5突擊軍團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.germany3</Data></Cell>
-  <Cell><Data ss:Type="String">40th Fallschirmjager</Data></Cell>
+  <Cell><Data ss:Type="String">第40空降獵兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.hungary1</Data></Cell>
-  <Cell><Data ss:Type="String">Soviet Southern Group</Data></Cell>
+  <Cell><Data ss:Type="String">蘇軍南方集團軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.italian1</Data></Cell>
-  <Cell><Data ss:Type="String">Folgore Parachute Brigade</Data></Cell>
+  <Cell><Data ss:Type="String">弗格爾傘兵師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.italian2</Data></Cell>
-  <Cell><Data ss:Type="String">1st Bersaglieri Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">第1狙擊兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.italian3</Data></Cell>
-  <Cell><Data ss:Type="String">Julia Alpine Brigade</Data></Cell>
+  <Cell><Data ss:Type="String">朱麗亞山地旅</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.japan1</Data></Cell>
   <Cell><Data ss:Type="String">第4師團</Data></Cell>
@@ -3714,13 +3714,13 @@
   <Cell><Data ss:Type="String">第216特種營</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.russian3</Data></Cell>
-  <Cell><Data ss:Type="String">16th Air Army</Data></Cell>
+  <Cell><Data ss:Type="String">第16空軍兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.ukraine1</Data></Cell>
-  <Cell><Data ss:Type="String">3rd Marine Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">第3海軍陸戰團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.ukraine2</Data></Cell>
-  <Cell><Data ss:Type="String">60th Air Defence Army</Data></Cell>
+  <Cell><Data ss:Type="String">第60空防團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Relation.Average</Data></Cell>
   <Cell><Data ss:Type="String">普通</Data></Cell>
@@ -5980,40 +5980,40 @@
   <Cell><Data ss:Type="String">遊騎兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.aus1</Data></Cell>
-  <Cell><Data ss:Type="String">Special Air Service Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">澳大利亞特種空勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.aus2</Data></Cell>
-  <Cell><Data ss:Type="String">Royal Australian Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">澳大利亞皇家兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.britain1</Data></Cell>
-  <Cell><Data ss:Type="String">Special Air Service</Data></Cell>
+  <Cell><Data ss:Type="String">特種空勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.britain2</Data></Cell>
-  <Cell><Data ss:Type="String">Parachute Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">傘兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.britain3</Data></Cell>
-  <Cell><Data ss:Type="String">Royal Marines</Data></Cell>
+  <Cell><Data ss:Type="String">皇家海軍陸戰隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.britain4</Data></Cell>
-  <Cell><Data ss:Type="String">Special Boat Squadron</Data></Cell>
+  <Cell><Data ss:Type="String">特種海勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.canada1</Data></Cell>
-  <Cell><Data ss:Type="String">Canadian Airborne</Data></Cell>
+  <Cell><Data ss:Type="String">加拿大傘兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.canada2</Data></Cell>
-  <Cell><Data ss:Type="String">Royal Canadian Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">加拿大皇家兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.canada3</Data></Cell>
-  <Cell><Data ss:Type="String">Royal 22e Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">第22皇家兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.danish1</Data></Cell>
-  <Cell><Data ss:Type="String">Jaeger Corps</Data></Cell>
+  <Cell><Data ss:Type="String">耶格軍團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.danish2</Data></Cell>
-  <Cell><Data ss:Type="String">Frogman Corps</Data></Cell>
+  <Cell><Data ss:Type="String">弗朗曼軍團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.danish3</Data></Cell>
-  <Cell><Data ss:Type="String">Sirius Sledge Patrol</Data></Cell>
+  <Cell><Data ss:Type="String">西留斯犬雪撬巡邏隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.dutch1</Data></Cell>
   <Cell><Data ss:Type="String">KCT</Data></Cell>
@@ -6022,31 +6022,31 @@
   <Cell><Data ss:Type="String">BBE-M</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.dutch3</Data></Cell>
-  <Cell><Data ss:Type="String">Korps Mariniers</Data></Cell>
+  <Cell><Data ss:Type="String">海軍陸戰隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.Egermany1</Data></Cell>
   <Cell><Data ss:Type="String">KSK-18</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.Egermany2</Data></Cell>
-  <Cell><Data ss:Type="String">40th Fallschirmjager</Data></Cell>
+  <Cell><Data ss:Type="String">第40空降獵兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.Egermany3</Data></Cell>
-  <Cell><Data ss:Type="String">Diensteinheit IX</Data></Cell>
+  <Cell><Data ss:Type="String">第9勤務部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.Egermany4</Data></Cell>
-  <Cell><Data ss:Type="String">40th Fallschirmjager</Data></Cell>
+  <Cell><Data ss:Type="String">第40空降獵兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.finn1</Data></Cell>
-  <Cell><Data ss:Type="String">Erikoisjaakarit</Data></Cell>
+  <Cell><Data ss:Type="String">耶格特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.french1</Data></Cell>
-  <Cell><Data ss:Type="String">1er RPIMa</Data></Cell>
+  <Cell><Data ss:Type="String">第1海軍陸戰傘兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.french2</Data></Cell>
-  <Cell><Data ss:Type="String">13e RDP</Data></Cell>
+  <Cell><Data ss:Type="String">第13龍騎兵傘兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.french3</Data></Cell>
-  <Cell><Data ss:Type="String">Commandos Marine</Data></Cell>
+  <Cell><Data ss:Type="String">海軍陸戰隊特勤隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.french4</Data></Cell>
   <Cell><Data ss:Type="String">GIGN</Data></Cell>
@@ -6058,13 +6058,13 @@
   <Cell><Data ss:Type="String">MYK</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.greek3</Data></Cell>
-  <Cell><Data ss:Type="String">Raider Forces</Data></Cell>
+  <Cell><Data ss:Type="String">掠奪者傘兵旅</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.hungary1</Data></Cell>
-  <Cell><Data ss:Type="String">37th Air Assault Battalion</Data></Cell>
+  <Cell><Data ss:Type="String">第37空降突擊營</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.italy1</Data></Cell>
-  <Cell><Data ss:Type="String">9th Parachute Battalion</Data></Cell>
+  <Cell><Data ss:Type="String">第9傘兵營</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.italy2</Data></Cell>
   <Cell><Data ss:Type="String">COMSUBIN</Data></Cell>
@@ -6082,46 +6082,46 @@
   <Cell><Data ss:Type="String">MJK</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.nz1</Data></Cell>
-  <Cell><Data ss:Type="String">1st Ranger Squadron</Data></Cell>
+  <Cell><Data ss:Type="String">第1遊騎兵空降部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.nz2</Data></Cell>
-  <Cell><Data ss:Type="String">Royal New Zealand Infantry</Data></Cell>
+  <Cell><Data ss:Type="String">紐西蘭皇家兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.poland1</Data></Cell>
-  <Cell><Data ss:Type="String">4101st Paratroop Battalion</Data></Cell>
+  <Cell><Data ss:Type="String">第4101傘兵營</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.poland2</Data></Cell>
-  <Cell><Data ss:Type="String">WOP Highland Brigade</Data></Cell>
+  <Cell><Data ss:Type="String">WOP 高地旅</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.poland3</Data></Cell>
-  <Cell><Data ss:Type="String">7th Naval Assault Division</Data></Cell>
+  <Cell><Data ss:Type="String">第7海軍突擊隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.poland4</Data></Cell>
-  <Cell><Data ss:Type="String">6th Pomeranian Air Assault</Data></Cell>
+  <Cell><Data ss:Type="String">第6波蘭空降突擊師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.russian1</Data></Cell>
-  <Cell><Data ss:Type="String">Spetsnaz GRU</Data></Cell>
+  <Cell><Data ss:Type="String">格魯烏特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.russian2</Data></Cell>
-  <Cell><Data ss:Type="String">Group Alfa</Data></Cell>
+  <Cell><Data ss:Type="String">阿爾法特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.russian3</Data></Cell>
-  <Cell><Data ss:Type="String">Airborne VDV</Data></Cell>
+  <Cell><Data ss:Type="String">俄羅斯空降部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.spain1</Data></Cell>
-  <Cell><Data ss:Type="String">Unidad Especiales</Data></Cell>
+  <Cell><Data ss:Type="String">特別介入部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.spain2</Data></Cell>
-  <Cell><Data ss:Type="String">Grupo Especiales</Data></Cell>
+  <Cell><Data ss:Type="String">聯拜特別行動組</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.spain3</Data></Cell>
   <Cell><Data ss:Type="String">EZAPAC</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.swede1</Data></Cell>
-  <Cell><Data ss:Type="String">Fallskarmsjagarna</Data></Cell>
+  <Cell><Data ss:Type="String">遊騎傘兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.swede2</Data></Cell>
-  <Cell><Data ss:Type="String">Kustjagarna</Data></Cell>
+  <Cell><Data ss:Type="String">海岸遊騎兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.Wgermany1</Data></Cell>
   <Cell><Data ss:Type="String">GSG 9</Data></Cell>
@@ -6130,7 +6130,7 @@
   <Cell><Data ss:Type="String">FSLK200</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">regiment.Wgermany3</Data></Cell>
-  <Cell><Data ss:Type="String">26th Fallschirmjager</Data></Cell>
+  <Cell><Data ss:Type="String">第26空降獵兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Hungarian</Data></Cell>
   <Cell><Data ss:Type="String">匈牙利</Data></Cell>
@@ -6672,7 +6672,7 @@
   <Cell><Data ss:Type="String">亞當 威克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Air Assault</Data></Cell>
-  <Cell><Data ss:Type="String">Air Assault</Data></Cell>
+  <Cell><Data ss:Type="String">空中突擊隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Alec Pearson</Data></Cell>
   <Cell><Data ss:Type="String">亞歷克斯 皮爾遜</Data></Cell>
@@ -6696,13 +6696,13 @@
   <Cell><Data ss:Type="String">亞歷克斯 瓦萊羅</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Alfa FSB</Data></Cell>
-  <Cell><Data ss:Type="String">Alfa FSB</Data></Cell>
+  <Cell><Data ss:Type="String">FSB 阿爾法部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Allan Sanseau</Data></Cell>
   <Cell><Data ss:Type="String">艾倫 桑斯歐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Alpha Group</Data></Cell>
-  <Cell><Data ss:Type="String">Alpha Group</Data></Cell>
+  <Cell><Data ss:Type="String">阿爾法部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.American</Data></Cell>
   <Cell><Data ss:Type="String">美國</Data></Cell>
@@ -6738,7 +6738,7 @@
   <Cell><Data ss:Type="String">陸軍遊騎兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Army Ranger Wing</Data></Cell>
-  <Cell><Data ss:Type="String">Army Ranger Wing</Data></Cell>
+  <Cell><Data ss:Type="String">陸軍遊騎兵部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Australia</Data></Cell>
   <Cell><Data ss:Type="String">澳洲</Data></Cell>
@@ -6762,7 +6762,7 @@
   <Cell><Data ss:Type="String">本掃 卡連盧</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Black Watch of Canada</Data></Cell>
-  <Cell><Data ss:Type="String">Black Watch of Canada</Data></Cell>
+  <Cell><Data ss:Type="String">加拿大 黑衛士兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Blake Kiefer</Data></Cell>
   <Cell><Data ss:Type="String">布萊克 基弗</Data></Cell>
@@ -6786,10 +6786,10 @@
   <Cell><Data ss:Type="String">加拿大</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Canadian Airborne Regiment</Data></Cell>
-  <Cell><Data ss:Type="String">Canadian Airborne Regiment</Data></Cell>
+  <Cell><Data ss:Type="String">加拿大空降團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Canadian Airborne Reigment</Data></Cell>
-  <Cell><Data ss:Type="String">Canadian Airborne Reigment</Data></Cell>
+  <Cell><Data ss:Type="String">加拿大空降團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Carl Uebelhart</Data></Cell>
   <Cell><Data ss:Type="String">卡爾 于貝爾哈特</Data></Cell>
@@ -6930,7 +6930,7 @@
   <Cell><Data ss:Type="String">FAB</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Fallskaermsjaegare</Data></Cell>
-  <Cell><Data ss:Type="String">法爾舍卡埃姆斯耶加維</Data></Cell>
+  <Cell><Data ss:Type="String">空降遊騎兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.FDF</Data></Cell>
   <Cell><Data ss:Type="String">FDF</Data></Cell>
@@ -6945,16 +6945,16 @@
   <Cell><Data ss:Type="String">芬蘭</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Finnish Defence Forces</Data></Cell>
-  <Cell><Data ss:Type="String">Finnish Defence Forces</Data></Cell>
+  <Cell><Data ss:Type="String">芬蘭國防軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.FJS</Data></Cell>
   <Cell><Data ss:Type="String">FJS</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Francois Peens</Data></Cell>
-  <Cell><Data ss:Type="String">弗朗索瓦 Peens</Data></Cell>
+  <Cell><Data ss:Type="String">弗朗索瓦 皮連斯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Frank Raskow</Data></Cell>
-  <Cell><Data ss:Type="String">弗蘭克 Raskow</Data></Cell>
+  <Cell><Data ss:Type="String">弗蘭克 拉斯科夫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.French-Brazilian</Data></Cell>
   <Cell><Data ss:Type="String">法藉巴西</Data></Cell>
@@ -6969,7 +6969,7 @@
   <Cell><Data ss:Type="String">FSK-HJK</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Gebirgsdivision</Data></Cell>
-  <Cell><Data ss:Type="String">Gebirgsdivision</Data></Cell>
+  <Cell><Data ss:Type="String">山地獵兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.German</Data></Cell>
   <Cell><Data ss:Type="String">德國</Data></Cell>
@@ -6981,7 +6981,7 @@
   <Cell><Data ss:Type="String">GOE</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Goose Fishkin</Data></Cell>
-  <Cell><Data ss:Type="String">Goose 費什金</Data></Cell>
+  <Cell><Data ss:Type="String">古斯 費什金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Green Berets</Data></Cell>
   <Cell><Data ss:Type="String">綠扁帽</Data></Cell>
@@ -7020,13 +7020,13 @@
   <Cell><Data ss:Type="String">HJS</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Huntsmen Corps</Data></Cell>
-  <Cell><Data ss:Type="String">Huntsmen Corps</Data></Cell>
+  <Cell><Data ss:Type="String">獵兵軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.HV-02 214</Data></Cell>
   <Cell><Data ss:Type="String">HV-02 214</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Chad Redtorik</Data></Cell>
-  <Cell><Data ss:Type="String">乍得 Redtorik</Data></Cell>
+  <Cell><Data ss:Type="String">乍得 雷托維奇</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Charles Buschmann</Data></Cell>
   <Cell><Data ss:Type="String">查爾斯 布施曼</Data></Cell>
@@ -7152,7 +7152,7 @@
   <Cell><Data ss:Type="String">傑西 塞爾坦提</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.JGSDF 1st Airborne</Data></Cell>
-  <Cell><Data ss:Type="String">JGSDF 1st Airborne</Data></Cell>
+  <Cell><Data ss:Type="String">JGSDF 第1空降團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Jim McKeon</Data></Cell>
   <Cell><Data ss:Type="String">吉姆 麥基翁</Data></Cell>
@@ -7212,7 +7212,7 @@
   <Cell><Data ss:Type="String">賈斯汀 傑伊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Karhu Team</Data></Cell>
-  <Cell><Data ss:Type="String">Karhu Team</Data></Cell>
+  <Cell><Data ss:Type="String">快速反應小組</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Katriina Anisimoff</Data></Cell>
   <Cell><Data ss:Type="String">卡特里娜 西尼西莫</Data></Cell>
@@ -7278,7 +7278,7 @@
   <Cell><Data ss:Type="String">林賽 希梵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Lord Strathcona's Horse</Data></Cell>
-  <Cell><Data ss:Type="String">Lord Strathcona's Horse</Data></Cell>
+  <Cell><Data ss:Type="String">斯特拉思科納男爵軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Lukasz Serbenski</Data></Cell>
   <Cell><Data ss:Type="String">盧卡斯 謝爾貝斯基</Data></Cell>
@@ -7542,13 +7542,13 @@
   <Cell><Data ss:Type="String">塞繆爾 博哈米</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.SAS</Data></Cell>
-  <Cell><Data ss:Type="String">SAS</Data></Cell>
+  <Cell><Data ss:Type="String">特種空勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.SASR</Data></Cell>
-  <Cell><Data ss:Type="String">SASR</Data></Cell>
+  <Cell><Data ss:Type="String">澳大利亞特種空勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.SBS</Data></Cell>
-  <Cell><Data ss:Type="String">SBS</Data></Cell>
+  <Cell><Data ss:Type="String">特種海勤團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Scott Anderson</Data></Cell>
   <Cell><Data ss:Type="String">斯科特 安德森</Data></Cell>
@@ -7560,10 +7560,10 @@
   <Cell><Data ss:Type="String">蘇格蘭</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.SEAL Team 2</Data></Cell>
-  <Cell><Data ss:Type="String">SEAL Team 2</Data></Cell>
+  <Cell><Data ss:Type="String">海豹部隊 第2小隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Seal Team 6</Data></Cell>
-  <Cell><Data ss:Type="String">Seal Team 6</Data></Cell>
+  <Cell><Data ss:Type="String">海豹部隊 第6小隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Seth Klenowski</Data></Cell>
   <Cell><Data ss:Type="String">賽斯 克列諾威斯基</Data></Cell>
@@ -7581,7 +7581,7 @@
   <Cell><Data ss:Type="String">斯洛伐克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Soviet Fifth Army</Data></Cell>
-  <Cell><Data ss:Type="String">蘇聯第五軍</Data></Cell>
+  <Cell><Data ss:Type="String">蘇聯第5軍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Spanish</Data></Cell>
   <Cell><Data ss:Type="String">西班牙</Data></Cell>
@@ -7599,10 +7599,10 @@
   <Cell><Data ss:Type="String">美國空軍特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Spetsnaz</Data></Cell>
-  <Cell><Data ss:Type="String">Spetsnaz</Data></Cell>
+  <Cell><Data ss:Type="String">俄羅斯特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Spetsnaz GRU</Data></Cell>
-  <Cell><Data ss:Type="String">Spetsnaz GRU</Data></Cell>
+  <Cell><Data ss:Type="String">GRU 俄羅斯特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.SSG</Data></Cell>
   <Cell><Data ss:Type="String">SSG</Data></Cell>
@@ -7641,10 +7641,10 @@
   <Cell><Data ss:Type="String">塔斯社 查普曼</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.The Activity</Data></Cell>
-  <Cell><Data ss:Type="String">The Activity</Data></Cell>
+  <Cell><Data ss:Type="String">情報支援組</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.The Princess Pat's</Data></Cell>
-  <Cell><Data ss:Type="String">The Princess Pat's</Data></Cell>
+  <Cell><Data ss:Type="String">帕特公主兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Thomas Helms</Data></Cell>
   <Cell><Data ss:Type="String">托馬斯 赫爾姆斯</Data></Cell>
@@ -7656,7 +7656,7 @@
   <Cell><Data ss:Type="String">托馬斯 梅爾貝里</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Tiger Force, 101st Airborne</Data></Cell>
-  <Cell><Data ss:Type="String">第 101 空降師 Tiger Force</Data></Cell>
+  <Cell><Data ss:Type="String">第101空降師 飛虎部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.TIGRIS</Data></Cell>
   <Cell><Data ss:Type="String">TIGRIS</Data></Cell>
@@ -7722,7 +7722,7 @@
   <Cell><Data ss:Type="String">詹娜 日瓦凡尼斯耶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.1 Commando Group</Data></Cell>
-  <Cell><Data ss:Type="String">1 Commando Group</Data></Cell>
+  <Cell><Data ss:Type="String">第1特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.1 PPCLI</Data></Cell>
   <Cell><Data ss:Type="String">1 PPCLI</Data></Cell>
@@ -7731,46 +7731,46 @@
   <Cell><Data ss:Type="String">1 PSK</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.1st Bat. Scots Guards</Data></Cell>
-  <Cell><Data ss:Type="String">1st Bat. Scots Guards</Data></Cell>
+  <Cell><Data ss:Type="String">第1蘇格蘭衛隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.10th Special Forces Group</Data></Cell>
-  <Cell><Data ss:Type="String">10th Special Forces Group</Data></Cell>
+  <Cell><Data ss:Type="String">第10特種部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.101st Airborne</Data></Cell>
-  <Cell><Data ss:Type="String">第 101 空降師</Data></Cell>
+  <Cell><Data ss:Type="String">第101空降師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.156th Infantry Regiment</Data></Cell>
-  <Cell><Data ss:Type="String">第 156 步兵團</Data></Cell>
+  <Cell><Data ss:Type="String">第156步兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.160th SOAR</Data></Cell>
   <Cell><Data ss:Type="String">160th SOAR</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.2nd Cavalry Regiment</Data></Cell>
-  <Cell><Data ss:Type="String">第 2 騎兵團</Data></Cell>
+  <Cell><Data ss:Type="String">第2騎兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.2 Para</Data></Cell>
-  <Cell><Data ss:Type="String">第 2 傘兵團</Data></Cell>
+  <Cell><Data ss:Type="String">第2傘兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.22nd Airborne CSLA</Data></Cell>
-  <Cell><Data ss:Type="String">22nd Airborne CSLA</Data></Cell>
+  <Cell><Data ss:Type="String">人民軍第22空降旅</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.24th Special Tactics</Data></Cell>
-  <Cell><Data ss:Type="String">24th Special Tactics</Data></Cell>
+  <Cell><Data ss:Type="String">第24特種戰術部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.3 Commando Brigade</Data></Cell>
-  <Cell><Data ss:Type="String">3 Commando Brigade</Data></Cell>
+  <Cell><Data ss:Type="String">第3突擊旅</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.42nd Infantry</Data></Cell>
-  <Cell><Data ss:Type="String">42nd Infantry</Data></Cell>
+  <Cell><Data ss:Type="String">第42步兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.5th Jager</Data></Cell>
-  <Cell><Data ss:Type="String">5th Jager</Data></Cell>
+  <Cell><Data ss:Type="String">第5獵兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.5-1 CAV</Data></Cell>
   <Cell><Data ss:Type="String">5-1 CAV</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.542 Parachute Infantry</Data></Cell>
-  <Cell><Data ss:Type="String">542 Parachute Infantry</Data></Cell>
+  <Cell><Data ss:Type="String">第542傘兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.601 SFG</Data></Cell>
   <Cell><Data ss:Type="String">601 SFG</Data></Cell>
@@ -7785,13 +7785,13 @@
   <Cell><Data ss:Type="String">8/7 RVR</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.9. Kompanie</Data></Cell>
-  <Cell><Data ss:Type="String">9. Kompanie</Data></Cell>
+  <Cell><Data ss:Type="String">第9.軍團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.9 Para Commandos</Data></Cell>
-  <Cell><Data ss:Type="String">9 Para Commandos</Data></Cell>
+  <Cell><Data ss:Type="String">第9傘兵突擊隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.9th Parachute Regiment</Data></Cell>
-  <Cell><Data ss:Type="String">第 9 傘兵團</Data></Cell>
+  <Cell><Data ss:Type="String">第9傘兵團</Data></Cell>
  </Row>
 </Table>
 <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
