@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Chris</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-06-05T13:13:11Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5145</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3135</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s62">
+   <Alignment ss:Vertical="Center"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="10" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s64" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s67">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Singularity Core</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/aliensingularitycore</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Technology</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: Only one complication - as we obviously do not possess the capacity to harvest singularities ourselves, we will need to capture these devices from the extraterrestrials if we want to use them. MODMERGEWITH: If only we had the capacity to capture singularities for ourselves, then humankind would possess limitless energy for the remainder of its existance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">X-120 Fury</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fury</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Xenonaut Aircraft</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">As the alien invasion has progressed, the size of its ships have increased significantly.  Our aircraft and weapons remain effective - for the most part - but even my genius is being taxed by the most recent alien vessels we have encountered.&#10;&#10;Accordingly, I have designed the X-120 &quot;Fury&quot; interceptor as what will be the ultimate weapon in the battle for our skies. Influenced by the allegedly secret SR-71 &quot;Blackbird&quot;, I have adapted it in accordance with my successful Corsair design through employing alien alloys in the air-frame and alenium-based technology for propulsion.  The key innovation, however, is that the aircraft is controlled remotely using captured alien computing equipment.  This has allowed the cabin to be removed, reducing the weight and streamlining the design considerably to allow operation at unparalleled heights and speeds.  Accordingly, it can travel at Mach 8 (some 10,000 kilometers per hour) and can reach any point in the world in under two hours.&#10;&#10;As a result of its speed and high service-ceiling, the Fury is practically invulnerable to harm.  However, as a result of it being remotely piloted, the aircraft is unsuited for conventional interception.  In spite of the alien technology employed, the response rates are not sufficient for close-range dogfighting and the Fury would be outmatched in such an encounter.  Instead, the Fury is designed as a fast-attack plane, launching a Gravity Pulse Torpedo from a safe distance before returning home to base for rearming and refuelling.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Gravity Pulse Torpedo</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/gravitypulsetorpedo</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Oppenheimer may rest in peace, for in my brilliance I have devised a weapon so terrible in its power that nothing humankind has devised before now can stand in comparison.&#10;&#10;This weapon - the Gravity Pulse Torpedo - emits a brief but devastating pulse of oscillating gravitational fields which rend apart anything within its range at the molecular level.  Nothing can withstand this: in my tests even the hardest diamond and most durable alien materials are disintegrated instantaneously.&#10;&#10;Accordingly, the Gravity Pulse Torpedo can be used to utterly annihilate any alien vessels it is deployed against.  Mounted on an enhanced alenium-powered torpedo, the Bomb can be launched from a considerable distance and detonated remotely when in range of its targets.  The design I have opted for effects a 5km radius and, as such only the exceptional speed of the X-120 Fury can deliver the weapon without being consumed by its devastation.  More powerful versions could easily be produced,  but anything larger would no doubt cause collateral damage beyond acceptable limits in the eyes of the worlds' governments.&#10;&#10;A key component in the Gravity Bomb is technology expropriated from an alien Anti-Gravity Generator.  In spite of my genius, I have been unable to replicate this technology and therefore we will be reliant upon capturing Anti-Gravity Generators from larger alien vessels if we wish to deploy these weapons en masse.  Indeed, it is only this restriction which stops us from replacing all of our weaponry with these devices; if only I could recreate the anti-gravity technology then we could win this war in a matter of days.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153" ss:StyleID="s71">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">airplane.alien.assaultlander</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Assault Lander UFO</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOassaultlander</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">The Assault Lander is an evolution of the Landing Ship that we have grown familiar to. Whereas the Landing Ship was a slow, bulky transport, the Assault Lander is a sleek, lightning fast, and armed to the teeth. Like the alien Bomber however, the Assault Lander’s ammunition will detonate if the vessel has been damaged enough to be “sunk”, so to speak, leaving little to salvage.&#10;&#10;The armament consists of a two rapid fire missile launchers at the tips of the front section. These missiles seem to have an extremely high tracking and turning ability, making evasive maneuvers nearly useless and shredding any craft should they attempt close combat. It also sports a small beam whose purpose is to shoot down any missiles that are fired at the vessel, making long range attacks useless. In addition, the Assault Lander is capable of attaining speeds greater than any UFO we have previously encountered.&#10;&#10;Like its predecessor, the Assault Lander possesses an abnormally large crew for its size. Unlike its predecessor however, the Assault does not seem to be stocked for long-term goals. Indeed, with a not-insignificant amount of space taken up by the weapons, there is barely room for the soldiers, let alone supplies for a base. With these factors in mind, I have determined that the Assault Lander was meant to strike deep in enemy territory, using its weaponry and speed to bypass any defenses.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s71">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">airplane.alien.dreadnought</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">Dreadnought UFO</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="String">xenopediaimages/UFOdreadnought</Data></Cell>
+    <Cell ss:StyleID="s77"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">UFO</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">If the Battleship was a thunderstorm, then the Dreadnought is a typhoon. I have reason to believe that the Dreadnought is the aliens’ most powerful ship class in the alien fleet. Its crew complement is similarly fearsome, holding the cream of the aliens’ army.&#10;&#10;The vessel is even faster and armored than a Battleship, cruising at 48 hundred kilometers an hour and sporting hardened alenium plating more than a meter thick. Its armament is even more impressive. Not only does it have a powerful forward-facing beam that is capable of annihilating skyscrapers, it also has a point-defense system that renders our missiles and torpedoes useless.&#10;&#10;Battling this beast with conventional interceptors is highly unadvised. Even our venerable Marauders are unable to keep up with this vessel, and even if they were able to catch one their weaponry is outmatched and they will be easily swatted aside. Not all is lost however. Our Furies are capable of intercepting these vessels and the Gravity Pulse Torpedo can be detonated out of the effective range of the point-defense system.&#10;&#10;I must also note that even if we were to down a Dreadnought using conventional methods, the damages sustained seem to trigger a large detonation that all but destroys the entire ship. Although it is regrettable that the technology contained within will never be retrieved, even I understand sacrifices must be made in the battle against extinction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s71">
+    <Cell ss:StyleID="s75"><Data ss:Type="String">airplane.alien.battleship</Data></Cell>
+    <Cell ss:StyleID="s70" ss:Index="6"><Data ss:Type="String">MODMERGEREPLACE:it represents the largest UFO class in the alien fleet, matching the largest orbital signals MODMERGEWITH:it represents the one of the largest UFO class in the alien fleet, matching the second largest orbital signals</Data></Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:Index="6" ss:StyleID="s79"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>4</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>6</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
