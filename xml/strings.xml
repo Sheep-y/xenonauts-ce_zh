@@ -6645,13 +6645,13 @@
   <Cell><Data ss:Type="String">提供 %1% 名生產配&#10;共有生產配額：%2%/%3%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienBase.Small</Data></Cell>
-  <Cell><Data ss:Type="String">異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型前哨基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienBase.Medium</Data></Cell>
-  <Cell><Data ss:Type="String">異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型軍事基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienBase.Large</Data></Cell>
-  <Cell><Data ss:Type="String">異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.AlienBase.Imprecise</Data></Cell>
   <Cell><Data ss:Type="String">最近的目擊事件顯示異型可能在%1%某處建立了基地！</Data></Cell>
@@ -7792,6 +7792,159 @@
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.9th Parachute Regiment</Data></Cell>
   <Cell><Data ss:Type="String">第9傘兵團</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ImpossibleResearch</Data></Cell>
+  <Cell><Data ss:Type="String">Impossible Research</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.RecursiveResearch</Data></Cell>
+  <Cell><Data ss:Type="String">Recursive Research</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
+  <Cell><Data ss:Type="String">Missing?</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.Espionage2</Data></Cell>
+  <Cell><Data ss:Type="String">A spy!</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.Espionage3</Data></Cell>
+  <Cell><Data ss:Type="String">Laser Mass Production</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
+  <Cell><Data ss:Type="String">Sebillian Non-Combatant Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
+  <Cell><Data ss:Type="String">Sebillian Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
+  <Cell><Data ss:Type="String">Advanced Sebillian Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
+  <Cell><Data ss:Type="String">Caesan Non-Combatant Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
+  <Cell><Data ss:Type="String">Caesan Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
+  <Cell><Data ss:Type="String">Caesan Psion Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
+  <Cell><Data ss:Type="String">Advanced Caesan Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
+  <Cell><Data ss:Type="String">Andron Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
+  <Cell><Data ss:Type="String">Advanced Andron Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
+  <Cell><Data ss:Type="String">Reaper Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.WraithClass</Data></Cell>
+  <Cell><Data ss:Type="String">Wraith Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
+  <Cell><Data ss:Type="String">Harridan Class Analysis</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
+  <Cell><Data ss:Type="String">Scouting Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
+  <Cell><Data ss:Type="String">Research Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
+  <Cell><Data ss:Type="String">Terror Attack Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
+  <Cell><Data ss:Type="String">Ground Attack Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
+  <Cell><Data ss:Type="String">Bombing Run Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
+  <Cell><Data ss:Type="String">Interception Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
+  <Cell><Data ss:Type="String">Base Construction Mission</Data></Cell>
+ </Row> <Row>
+  <Cell><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
+  <Cell><Data ss:Type="String">Xenonaut Base Assault Mission</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AndronVivisection</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">Andron Analysis</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">An Andron shell has been recovered intact. This research topic will analyse the recovered shell in order to identify weaknesses. On completion, our troops will gain a damage boost against this alien species.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.grenade.incendiary</Data></Cell>
+  <Cell><Data ss:Type="String">Incendiary Grenade</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.grenade.incendiary.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Incendiary Grenade:&lt;/b&gt;&#10;&#10;The Incendiary Grenade causes only moderate damage on its own, but it sets the area within its blast radius on fire.&#10;&#10;Grenades can be thrown from the hand, or can be thrown from the backpack using the grenade quickslot in the combat UI (this costs more TUs than if the grenade was already in the soldier's hand, and still more if the soldier does not have an empty hand).&#10;&#10;Fire Radius:                                                      4 Tiles</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.rocket.incendiary.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Incendiary Rocket:&lt;/b&gt;&#10;&#10;The Incendiary Rocket is an rocket that inflicts fires in a large radius around its detonation point. The explosion has poor armour penetration but can kill or injure multiple enemy units at the same time if they are standing too close to one another. &#10;&#10;Damage Type:                                                    30 Incendiary (4x damage against terrain)&#10;Suppression:                                                      60 Suppression&#10;Armour Mitigation:                                              0&#10;Blast Radius:                                                      4 Tiles</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">VV.ALENIUMROCKET</Data></Cell>
+  <Cell><Data ss:Type="String">Alenium Rocket</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">VV.PLASMAROCKET</Data></Cell>
+  <Cell><Data ss:Type="String">Plasma Rocket</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">VV.FUSIONROCKET</Data></Cell>
+  <Cell><Data ss:Type="String">Fusion Rocket</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">airplane.alien.assaultlander</Data></Cell>
+  <Cell><Data ss:Type="String">Assault Lander</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">airplane.alien.dreadnought</Data></Cell>
+  <Cell><Data ss:Type="String">Dreadnought</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienAssaultLanderDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">Assault Lander Datacore</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienDreadnoughtDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">Dreadnought Datacore</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCapitalShips</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">Capital Ship Datacore Decryption</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCapitalShipsDesc</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+  <Cell><Data ss:Type="String">The datacore we recovered from the alien capital ship is heavily encrypted.  It will take my team time to fully decrypt the contents within.</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.SINGULARITYTORP</Data></Cell>
+  <Cell><Data ss:Type="String">Gravity Pulse Torpedo</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
+  <Cell><Data ss:Type="String">Gravity Pulse Torpedo</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
+  <Cell><Data ss:Type="String">Gravity Pulse Torpedo</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienAssaultLanderDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">Assault Lander Datacore</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienDreadnought</Data></Cell>
+  <Cell><Data ss:Type="String">Dreadnought Datacore</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
+  <Cell><Data ss:Type="String">Gravity Pulse Torpedo</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DESTROYERSHIELD</Data></Cell>
+  <Cell><Data ss:Type="String">Assault Lander Missile Shield</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DESTROYERBEAM</Data></Cell>
+  <Cell><Data ss:Type="String">Assault Lander Beam Turrets</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DESTROYERMISSILES</Data></Cell>
+  <Cell><Data ss:Type="String">Assault Lander Missile Launchers</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DREADNOUGHTSHIELD</Data></Cell>
+  <Cell><Data ss:Type="String">Dreadnought Missile Shield</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DREADNOUGHTBEAM</Data></Cell>
+  <Cell><Data ss:Type="String">Dreadnought Beam Turrets</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DREADNOUGHTCANNON</Data></Cell>
+  <Cell><Data ss:Type="String">Dreadnought Super-Plasma Cannon</Data></Cell>
  </Row>
 </Table>
 <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
