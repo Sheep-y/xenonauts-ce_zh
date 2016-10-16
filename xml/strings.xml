@@ -2240,7 +2240,7 @@
   <Cell><Data ss:Type="String">格陵蘭</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GroundAttack</Data></Cell>
-  <Cell><Data ss:Type="String">地面攻擊</Data></Cell>
+  <Cell><Data ss:Type="String">空襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GSLaunchInterceptors</Data></Cell>
   <Cell><Data ss:Type="String">派出航機</Data></Cell>
@@ -7809,40 +7809,40 @@
   <Cell><Data ss:Type="String">激光槍量產</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人技術員分析</Data></Cell>
+  <Cell><Data ss:Type="String">斯巴蜥人技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人職能分析</Data></Cell>
+  <Cell><Data ss:Type="String">斯巴蜥人職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人職能深入分析</Data></Cell>
+  <Cell><Data ss:Type="String">斯巴蜥人進階職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
-  <Cell><Data ss:Type="String">灰人技術員分析</Data></Cell>
+  <Cell><Data ss:Type="String">灰人技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
-  <Cell><Data ss:Type="String">灰人職能分析</Data></Cell>
+  <Cell><Data ss:Type="String">灰人職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
-  <Cell><Data ss:Type="String">灰人靈能師分析</Data></Cell>
+  <Cell><Data ss:Type="String">灰人靈能師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
-  <Cell><Data ss:Type="String">灰人職能進階分析</Data></Cell>
+  <Cell><Data ss:Type="String">灰人進階職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人職能分析</Data></Cell>
+  <Cell><Data ss:Type="String">安卓機人職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人職能進階分析</Data></Cell>
+  <Cell><Data ss:Type="String">安卓機人進階職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲職能分析</Data></Cell>
+  <Cell><Data ss:Type="String">鐮刀蟲職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithClass</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈職能分析</Data></Cell>
+  <Cell><Data ss:Type="String">鬼靈職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔職能分析</Data></Cell>
+  <Cell><Data ss:Type="String">醜魔職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
   <Cell><Data ss:Type="String">偵察任務</Data></Cell>
@@ -7854,7 +7854,7 @@
   <Cell><Data ss:Type="String">恐襲任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
-  <Cell><Data ss:Type="String">遊擊任務</Data></Cell>
+  <Cell><Data ss:Type="String">空襲任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
   <Cell><Data ss:Type="String">轟炸任務</Data></Cell>
@@ -7893,13 +7893,13 @@
   <Cell><Data ss:Type="String">核融火箭</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.assaultlander</Data></Cell>
-  <Cell><Data ss:Type="String">突擊登陸幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">突擊運輸幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.dreadnought</Data></Cell>
   <Cell><Data ss:Type="String">無畏幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAssaultLanderDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">突擊登陸幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">突擊運輸幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienDreadnoughtDatacore</Data></Cell>
   <Cell><Data ss:Type="String">無畏幽浮數據中樞</Data></Cell>
