@@ -69,8 +69,7 @@
   <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
  </Names>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="136" x:FullColumns="1"
-   x:FullRows="1">
+  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="159" x:FullColumns="1" x:FullRows="1">
    <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
    <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="130.5"/>
@@ -148,7 +147,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienalloyfabrication</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">好消息，指揮官。我們現在有方法塑造所採集的異型合金，終於能著手應用它。這得歸功於異能晶所蘊藏的巨大力量。簡單的解釋是，我們升級了實驗室的雷射，猛射合金直到它熔解（技術詳情就從略）。&#10;&#10;不用多說，這是個重大發現。我們可以用異型的物料大幅改良現有技術，亦可追逐在數星期前還是遙不可及的幻想。這些合金有很多只能勉強算是理論上存在；近幾個月的科學發現，比整個世紀的加起來都要多。這進展實在是太快，不得不承認我的團隊有點力不從心，我們有限的科學認知既啓蒙了我們亦限制了我們。&#10;&#10;用異型合金改善步兵護甲的提案雖然簡樸，卻能開展全新的技術。在不久的將來我們可能可以用它做車做飛機。順便一提，如果你看見休班的研究員在基地內遊盪，請提醒他們需要睡覺，以及實驗材料不應被攜離實驗室。在基地各處冒現的違法&quot;升級&quot;多到幾乎比得上實驗室裡的哈欠。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">好消息，指揮官。我們現在有方法塑造所採集的異型合金，終於能著手應用它。這得歸功於異能晶所蘊藏的巨大力量。簡單的解釋是，我們升級了實驗室的雷射，猛射合金直到它熔解（技術詳情就從略）。&#10;&#10;不用多說，這是個重大發現。我們可以用異型的物料大幅改良現有技術，亦可追逐在數星期前還是遙不可及的幻想。這些合金有很多只能勉強算是理論上存在；近幾個月的科學發現，比整個世紀的加起來都要多。這進展實在是太快，不得不承認我的團隊有點力不從心，我們有限的科學認知既啟蒙了我們亦限制了我們。&#10;&#10;用異型合金改善步兵護甲的提案雖然簡樸，卻能開展全新的技術。在不久的將來我們可能可以用它做車做飛機。順便一提，如果你看見休班的研究員在基地內遊盪，請提醒他們需要睡覺，以及實驗材料不應被攜離實驗室。在基地各處冒現的違法&quot;升級&quot;多到幾乎比得上實驗室裡的哈欠。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
@@ -172,7 +171,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/rapidfirelasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">有位工程師最近向我提出了製作速射激光武器的想法，雖然很簡陋（意料之內）但理論上可行。&#10;&#10;最理想的武器能發出持續不間斷的激光&quot;橫掃&quot;戰場，但所產生的巨大熱量就算是異型超導體都來不及散掉。提案採用多管設計，啓發自攔機的空戰炮。雖然多管設計無助提升射速，但卻能分散連續射擊的熱量。我們成功測試了兩款三管設計。&#10;&#10;散射激光是速射單兵武器，用來取代彈道機槍。它有更強的傷害力和壓制力，代價是較少彈藥。不幸地，&quot;反作用力&quot;依然存在（不過由槍彈的回彈改成冷卻機件的迴旋力），所以要發揮它的準確度還是需要找強壯的士兵。&#10;&#10;格林激光炮則適合用作戰鬥機的機載炮，其三組強力激光能輸出遠優於傳統機載炮的傷害。由於它的體積和重量都比較大，整體大部分都可採用傳統物料，反常理地比步兵武器更易生產。我們己經升級現有的機載炮，你只要知道現在它們更強。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">有位工程師最近向我提出了製作速射激光武器的想法，雖然很簡陋（意料之內）但理論上可行。&#10;&#10;最理想的武器能發出持續不間斷的激光&quot;橫掃&quot;戰場，但所產生的巨大熱量就算是異型超導體都來不及散掉。提案採用多管設計，啟發自攔機的空戰炮。雖然多管設計無助提升射速，但卻能分散連續射擊的熱量。我們成功測試了兩款三管設計。&#10;&#10;散射激光是速射單兵武器，用來取代彈道機槍。它有更強的傷害力和壓制力，代價是較少彈藥。不幸地，&quot;反作用力&quot;依然存在（不過由槍彈的回彈改成冷卻機件的迴旋力），所以要發揮它的準確度還是需要找強壯的士兵。&#10;&#10;格林激光炮則適合用作戰鬥機的機載炮，其三組強力激光能輸出遠優於傳統機載炮的傷害。由於它的體積和重量都比較大，整體大部分都可採用傳統物料，反常理地比步兵武器更易生產。我們己經升級現有的機載炮，你只要知道現在它們更強。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PulseLasers</Data></Cell>
@@ -364,7 +363,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fury</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">X-120 &quot;天怒&quot; Fury 戰鬥機是終極的空戰武器。這架無人機有近乎無限的航程，速度和爬升極限能追上任何幽浮，亦能甩掉任何幽浮。它的巡航速度逹 8 馬赫（約每小時 10,000 公里），前往地球的任一點都花不超過兩小時。武器只有一項，就是單一支超重型的奇點飛雷。&#10;&#10;天怒的設計受高度機密的 SR-71 &quot;黑鳥&quot; Blackbird 影響，其極高的速度和高度基本上完全免疫傳統武器（不過以我們的戰力，要對付地球的軍隊綽綽有餘）。天怒的設計經進一步改良和進化，包括移走機師及機師所需的所有維生裝置。一套自動化的飛控系統會用感測器的數據時刻對比任務目標，確保任務以最快最安全的方式完成。引擎是 增壓噴射/衝壓噴射/超音速衝壓噴射 的三段式設計，分階段將戰機推至極速。&#10;&#10;當速度達到 4 馬赫時兩個超音速衝壓噴射引擎就會啓動，各提供 75,000 磅的出力，將天怒迅速推至 8 馬赫。在此速度下空氣阻力會將航機的表面燒到攝氏 4,000 度，以地球的技術只能用需要每次替換的太空船隔熱磚去阻隔。不過，這對硬化過的異型合金完全不是問題，根本不會構成磨損。因此天怒可以常常保持極速，幽浮的武根本打不到。不幸的是因此武器也要重新設計，迎合超音速條件下的發射，除此以外的所有武器都不能用。這項特殊武器就是超重型奇點飛雷。&#10;&#10;想當然耳，這些怪獸級的引擎和先進的飛控系統都會消耗龐大的能量，只有奇點爐可以滿足需求。因此每製作一架天怒都要先虜獲一隻異型的主力幽浮。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">X-120 &quot;天怒&quot; Fury 戰鬥機是終極的空戰武器。這架無人機有近乎無限的航程，速度和爬升極限能追上任何幽浮，亦能甩掉任何幽浮。它的巡航速度逹 8 馬赫（約每小時 10,000 公里），前往地球的任一點都花不超過兩小時。武器只有一項，就是單一支超重型的奇點飛雷。&#10;&#10;天怒的設計受高度機密的 SR-71 &quot;黑鳥&quot; Blackbird 影響，其極高的速度和高度基本上完全免疫傳統武器（不過以我們的戰力，要對付地球的軍隊綽綽有餘）。天怒的設計經進一步改良和進化，包括移走機師及機師所需的所有維生裝置。一套自動化的飛控系統會用感測器的數據時刻對比任務目標，確保任務以最快最安全的方式完成。引擎是 增壓噴射/衝壓噴射/超音速衝壓噴射 的三段式設計，分階段將戰機推至極速。&#10;&#10;當速度達到 4 馬赫時兩個超音速衝壓噴射引擎就會啟動，各提供 75,000 磅的出力，將天怒迅速推至 8 馬赫。在此速度下空氣阻力會將航機的表面燒到攝氏 4,000 度，以地球的技術只能用需要每次替換的太空船隔熱磚去阻隔。不過，這對硬化過的異型合金完全不是問題，根本不會構成磨損。因此天怒可以常常保持極速，幽浮的武根本打不到。不幸的是因此武器也要重新設計，迎合超音速條件下的發射，除此以外的所有武器都不能用。這項特殊武器就是超重型奇點飛雷。&#10;&#10;想當然耳，這些怪獸級的引擎和先進的飛控系統都會消耗龐大的能量，只有奇點爐可以滿足需求。因此每製作一架天怒都要先虜獲一隻異型的主力幽浮。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
@@ -388,7 +387,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/hyperion</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VH</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">太陽神是在戰鬥區域內支援異種航員部隊的浮空坦克。它採用異型的反重力科技，永遠浮在空中一米高左右，能穿過水面等障礙地型。&#10;&#10;太陽神的戰鬥力遠大於它所取代的彎刀，有更高的機動力，駛得更快，採用強化異型合金提升硬度、減輕重量。懸浮設計給它一個比接地車輛更穩定的射擊平臺，加上升級的射控系統，令它不論遠近目標都有優異的命中率。雖然只有現代戰車的一半一小， 這些飄浮物可以獨力打敗一整個裝甲排。&#10;&#10;飄浮效應由反重力裝置產生，當啓動時會將坦克的有效重量減到幾百公斤（而關閉時它就是六噸重的固定鐵塊）。一個小型噴射引擎提供向量推力，產生滑移的效果並令狹窄空間下的精細操作變得可能。內置的 AR-6 反應爐需要大量異能晶去製作，但足以維持反重力效果超過一年。到那時這場仗都應該打完了，不管是贏是輸。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">太陽神是在戰鬥區域內支援異種航員部隊的浮空坦克。它採用異型的反重力科技，永遠浮在空中一米高左右，能穿過水面等障礙地型。&#10;&#10;太陽神的戰鬥力遠大於它所取代的彎刀，有更高的機動力，駛得更快，採用強化異型合金提升硬度、減輕重量。懸浮設計給它一個比接地車輛更穩定的射擊平臺，加上升級的射控系統，令它不論遠近目標都有優異的命中率。雖然只有現代戰車的一半一小， 這些飄浮物可以獨力打敗一整個裝甲排。&#10;&#10;飄浮效應由反重力裝置產生，當啟動時會將坦克的有效重量減到幾百公斤（而關閉時它就是六噸重的固定鐵塊）。一個小型噴射引擎提供向量推力，產生滑移的效果並令狹窄空間下的精細操作變得可能。內置的 AR-6 反應爐需要大量異能晶去製作，但足以維持反重力效果超過一年。到那時這場仗都應該打完了，不管是贏是輸。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
@@ -540,7 +539,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fusionexplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">傳統的二段式原子/氫彈的大部分爆炸能量來自第一階段用來啓動核融合的的核分裂爆炸，而不是來自核融合反應。不幸地這核分裂也會做成久久不散的輻射污染。&#10;&#10;純綷的核融合更細、更乾淨、更致命。只有不顧士兵死活的指揮官會給部隊配給短程核聚變武器...但迷你的純核融合就不同了，完全適合作為戰術武器用。它們不單止強，而且能將爆炸範圍限制到不會炸到使用者，也可以在友方的地上安心使用而不會留下核輻射。&#10;&#10;要做到這點就需要用其他方法獲得足夠大的能量，能令彈頭內的重氫和氚產生核聚變。新的技術能從劣質異能晶提取足夠能量，讓我們為你的手下設計出純核融合的火箭彈和手雷，比等離子的更強。切記提醒他們佩帶新配給的黑色護目鏡。雖然載護目鏡不好看，但視網膜燒傷也不好受。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">傳統的二段式原子/氫彈的大部分爆炸能量來自第一階段用來啟動核融合的的核分裂爆炸，而不是來自核融合反應。不幸地這核分裂也會做成久久不散的輻射污染。&#10;&#10;純綷的核融合更細、更乾淨、更致命。只有不顧士兵死活的指揮官會給部隊配給短程核聚變武器...但迷你的純核融合就不同了，完全適合作為戰術武器用。它們不單止強，而且能將爆炸範圍限制到不會炸到使用者，也可以在友方的地上安心使用而不會留下核輻射。&#10;&#10;要做到這點就需要用其他方法獲得足夠大的能量，能令彈頭內的重氫和氚產生核聚變。新的技術能從劣質異能晶提取足夠能量，讓我們為你的手下設計出純核融合的火箭彈和手雷，比等離子的更強。切記提醒他們佩帶新配給的黑色護目鏡。雖然載護目鏡不好看，但視網膜燒傷也不好受。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
@@ -739,7 +738,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/UFOdreadnought</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">我們的敵人有無窮無盡的部隊。不論我們的士兵有多勇敢，機師有多精湛，我們都不能永久抗戰下去……不過也許這不是唯一的出路。異型有一點失算：不用超空間跳躍的話，即使是最快的幽浮都只能逹到光速的十分一。&#10;&#10;我們在實驗室內已經做出了一部超空間禁制器。原理跟電波干擾差不多：它會產生大量的隨機&quot;雜訊&quot;，導致附近的超空間通道變得不穩定，未能完成跳躍就崩坍。它的有效半徑有一千光年，以地球為中心，能阻隔異型的增援。&#10;&#10;但現在還不能啓動它；當它一啓動，軌道上的侵略艦隊就會結束這場侵略遊戲。在異型的巨型母艦上載有為此而設的保障：足以消滅地上所有生物的鐮刀蟲。如果在人口稠密的地區釋放它們，幾小時內就會產生數以千萬的鐮刀蟲。當它們消滅了人類，裁判官可以回收這些蟲子並攸閒地細察它們所吸收的基因，一勞永逸。&#10;&#10;但這個計劃也給了我們一線生機。當母艦進入大氣層時，我們有時間派出一隊突擊隊登陸母艦。只要他們能在鐮刀蟲登陸之前幹掉大裁判官，我們就打敗了異型的艦隊，支援也被拒於幾千年以外。失敗的話就不用說，全人類都會跟著陪葬。&#10;&#10;這項任務名為&quot;終局行動&quot;。這行動隨時都可以實行，指揮官。我們只需要按下超空間禁制器的開關。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我們的敵人有無窮無盡的部隊。不論我們的士兵有多勇敢，機師有多精湛，我們都不能永久抗戰下去……不過也許這不是唯一的出路。異型有一點失算：不用超空間跳躍的話，即使是最快的幽浮都只能逹到光速的十分一。&#10;&#10;我們在實驗室內已經做出了一部超空間禁制器。原理跟電波干擾差不多：它會產生大量的隨機&quot;雜訊&quot;，導致附近的超空間通道變得不穩定，未能完成跳躍就崩坍。它的有效半徑有一千光年，以地球為中心，能阻隔異型的增援。&#10;&#10;但現在還不能啟動它；當它一啟動，軌道上的侵略艦隊就會結束這場侵略遊戲。在異型的巨型母艦上載有為此而設的保障：足以消滅地上所有生物的鐮刀蟲。如果在人口稠密的地區釋放它們，幾小時內就會產生數以千萬的鐮刀蟲。當它們消滅了人類，裁判官可以回收這些蟲子並攸閒地細察它們所吸收的基因，一勞永逸。&#10;&#10;但這個計劃也給了我們一線生機。當母艦進入大氣層時，我們有時間派出一隊突擊隊登陸母艦。只要他們能在鐮刀蟲登陸之前幹掉大裁判官，我們就打敗了異型的艦隊，支援也被拒於幾千年以外。失敗的話就不用說，全人類都會跟著陪葬。&#10;&#10;這項任務名為&quot;終局行動&quot;。這行動隨時都可以實行，指揮官。我們只需要按下超空間禁制器的開關。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">FinalMissionBriefing</Data></Cell>
@@ -747,7 +746,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/finalmission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">本行動的目的非常簡單，就是殺死大裁判官。全人類的命運就看牠的死活。被抓的裁判官提供了母艦上層的停泊密碼。異型很快就會察覺發生甚麼事，因此運輸船會在停機坪上投放部隊然後立刻撤離。我們不知道它能不能在母艦的射控系統啓動前及時逃離，但機師已經準備好捨身成仁。&#10;&#10;停機坪往前一直走應該就是大裁判官所在的艦橋。你的士兵必需克服所有異型的抵抗並幹掉牠們的指揮官。時間會非常緊迫；大裁判官一察覺到有異樣就會呼喚母艦下層的鐮刀蟲。它們會透過各種通道爬上來，這會需要一些時間但增援會源源不絕。突擊隊要在被淹沒前解決大裁判官。&#10;&#10;除此之外還有一道難題：母艦的逃生艙只會在飛船陷入危機的時候啓動。摧毀上層的兩個動力爐將能啓用逃生倉，但這會佔用寶貴的時間。但如果你先向艦橋進發，完事後可能就沒有回頭的時間。你必需決定是不是值得賭上全人類的命運去冒險救下人類的拯救者。&#10;&#10;一切就交在你手上，指揮官。盡人事，聽天命。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">本行動的目的非常簡單，就是殺死大裁判官。全人類的命運就看牠的死活。被抓的裁判官提供了母艦上層的停泊密碼。異型很快就會察覺發生甚麼事，因此運輸船會在停機坪上投放部隊然後立刻撤離。我們不知道它能不能在母艦的射控系統啟動前及時逃離，但機師已經準備好捨身成仁。&#10;&#10;停機坪往前一直走應該就是大裁判官所在的艦橋。你的士兵必需克服所有異型的抵抗並幹掉牠們的指揮官。時間會非常緊迫；大裁判官一察覺到有異樣就會呼喚母艦下層的鐮刀蟲。它們會透過各種通道爬上來，這會需要一些時間但增援會源源不絕。突擊隊要在被淹沒前解決大裁判官。&#10;&#10;除此之外還有一道難題：母艦的逃生艙只會在飛船陷入危機的時候啟動。摧毀上層的兩個動力爐將能啟用逃生倉，但這會佔用寶貴的時間。但如果你先向艦橋進發，完事後可能就沒有回頭的時間。你必需決定是不是值得賭上全人類的命運去冒險救下人類的拯救者。&#10;&#10;一切就交在你手上，指揮官。盡人事，聽天命。</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"/>
@@ -931,7 +930,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/icelandincident</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">於 1958 的冰島事件，我們首次接觸外太空生命體。一隻幽浮進入亞特蘭大上空，相信是在進行偵察任務。偵察到它的北約以為是蘇聯的新型實驗機，派戰機攔截。&#10;&#10;但當能目視確認幽浮後就知道不是這回事，因為它比雷逹訊號顯示的大上許多，比較接近空中戰艦而不是飛機。嘗試溝通的結果是對方用能量武器掃射，即時粉碎一半的戰機並重創餘下的，令它們連滾帶爬地撤回基地。之後北約再派出了數隊戰機去攔截，損失了不少但卻沒能對目標做成明顯傷害。後來這艘幽浮突然更改航向要飛往美國東岸，導致決定動用核武。&#10;&#10;二十分鐘後，六粒配備核彈頭的洲際彈道導彈在冰島一處無人地帶的上空爆炸。驚人的是，幽浮沒被粉碎，只是大致完整地急速迫降。到了這時，北約別無選擇，只能向蘇聯通報異型飛船的事並請求派員協助回收它和它裡面的科技。據聞這是出於自保多於互惠互利，因為蘇聯對突然的大量核彈發射感到氣憤，幾乎就一起發射自己的核彈。&#10;&#10;雙方都派出了地面部隊去回收幽浮，但多名外星人挺過了迫降並奮力抵抗。人類軍隊傷亡慘重，但總算是漸漸將牠們迫退到墜機點一帶。接下來發生的事只有很少人知道，從結果而言就是這艘飛船發生超巨型的大爆炸，毁滅了幽浮的一切及方圓十里內的所有部隊，無人生還。爆炸後幽浮甚麼都沒剩下，親眼見過它的目擊證人只有極少數能避過此刧。&#10;&#10;不過這也方便了後續的大規摸掩飾。T不過這也方便了事後的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家卻開始合作，聯合組成完全秘密的特戰組織，集合雙方的資源和精英。它的非官方名稱是&quot;異種航員&quot;，職責是對付來犯的異型、守衛地球。結果牠們過去二十年都沒再來過，令我們看似無聊的冗員，但養兵千日用在一時，我們知道這一日總會到來。那天已經到來了，指揮官。&#10;&#10;&lt;i&gt;冰島事件的故事、爆炸的原因、倖存者如何生還等細節被記載於 Xenonauts: Crimson Dagger，一本免費的中篇小說，可以用遊戲的啓動器打開閱讀。&lt;/i&gt;</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">於 1958 的冰島事件，我們首次接觸外太空生命體。一隻幽浮進入亞特蘭大上空，相信是在進行偵察任務。偵察到它的北約以為是蘇聯的新型實驗機，派戰機攔截。&#10;&#10;但當能目視確認幽浮後就知道不是這回事，因為它比雷逹訊號顯示的大上許多，比較接近空中戰艦而不是飛機。嘗試溝通的結果是對方用能量武器掃射，即時粉碎一半的戰機並重創餘下的，令它們連滾帶爬地撤回基地。之後北約再派出了數隊戰機去攔截，損失了不少但卻沒能對目標做成明顯傷害。後來這艘幽浮突然更改航向要飛往美國東岸，導致決定動用核武。&#10;&#10;二十分鐘後，六粒配備核彈頭的洲際彈道導彈在冰島一處無人地帶的上空爆炸。驚人的是，幽浮沒被粉碎，只是大致完整地急速迫降。到了這時，北約別無選擇，只能向蘇聯通報異型飛船的事並請求派員協助回收它和它裡面的科技。據聞這是出於自保多於互惠互利，因為蘇聯對突然的大量核彈發射感到氣憤，幾乎就一起發射自己的核彈。&#10;&#10;雙方都派出了地面部隊去回收幽浮，但多名外星人挺過了迫降並奮力抵抗。人類軍隊傷亡慘重，但總算是漸漸將牠們迫退到墜機點一帶。接下來發生的事只有很少人知道，從結果而言就是這艘飛船發生超巨型的大爆炸，毁滅了幽浮的一切及方圓十里內的所有部隊，無人生還。爆炸後幽浮甚麼都沒剩下，親眼見過它的目擊證人只有極少數能避過此刧。&#10;&#10;不過這也方便了後續的大規摸掩飾。T不過這也方便了事後的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家卻開始合作，聯合組成完全秘密的特戰組織，集合雙方的資源和精英。它的非官方名稱是&quot;異種航員&quot;，職責是對付來犯的異型、守衛地球。結果牠們過去二十年都沒再來過，令我們看似無聊的冗員，但養兵千日用在一時，我們知道這一日總會到來。那天已經到來了，指揮官。&#10;&#10;&lt;i&gt;冰島事件的故事、爆炸的原因、倖存者如何生還等細節被記載於 Xenonauts: Crimson Dagger，一本免費的中篇小說，可以用遊戲的啟動器打開閱讀。&lt;/i&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
@@ -1160,7 +1159,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">The radar screens are silent. The death of the High Praetor has reduced the aliens held in our labs to a catatonic state; even our captured Praetor is utterly unresponsive. It seems the war is finally over.&#10;&#10;Humanity is rightly celebrating our victory – the sacrifices made by the brave men and women of our organisation will echo through the ages. Though nobody has done more than I to ensure the survival of the human race, I have little doubt your name will be written into history just below my own. This does not mean our mission is over: the world will not simply return to how it was before the invasion began. It is inevitable that our new technology will drastically alter the balance of world power; even one of our singularity cores produces sufficient energy to supply the entire planet for centuries. &#10;&#10;The squabbling has already begun. Some are already lobbying for our organisation to be placed under Soviet or American oversight. This technology could be used for the benefit of all humanity, irrespective of race or creed. Our backers instead seek to turn my inventions to their own narrow ends. But who better to decide the shape of our new world than those who saved it? We have bargaining chips of our own: direct control of both the cores themselves and the most sophisticated military force on the planet. I could annihilate the entire planet in the blink of an eye if I so chose. Are they really in a position to dictate to us?&#10;&#10;The Xenonauts were established to protect humanity, Commander.  You did exceptional work to protect us from the extraterrestrial menace; you must now plot a path that protects us from ourselves.</Data></Cell>
    </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
     <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
     <Cell><Data ss:Type="String">失蹤？</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/missing</Data></Cell>
@@ -1337,20 +1336,20 @@
     <Cell><Data ss:Type="String">彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了奇蹟般的異型科技，我都從來、從來沒想過心靈能力並非只出於迷信和愚昧。但事實勝於雄辯，我不會巧立名目自我欺騙。指揮官，靈能是真正存在的。&#10;&#10;現在我們知道為甚麼灰人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們尚未瞭解的反應，提供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被選上旳少數真的能使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只保留給少數精英。我們把這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。&#10;&#10;幸運地，靈能似乎只限於不同模式的心靈感應。對靈能師所作的徹查顯示牠可以操作整體思緒，特別是恐懼，但絕不能用念力舉起汽車丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也此加倍危險。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell ss:StyleID="s73"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
+    <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
     <Cell><Data ss:Type="String">灰人進階職能</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/caesan_officer</Data></Cell>
     <Cell><Data ss:Type="String">Alien Units</Data></Cell>
     <Cell><Data ss:Type="String">ACW</Data></Cell>
     <Cell><Data ss:Type="String">指揮官，灰人們升級了戰事。我們注意到灰人部隊的素質有顯著提升，正在蹍壓各國的軍隊。即使是面對靈能師以外的灰人，士兵們都有報告出現頭痛、莫名的絕望、及其他類似的生理或心理現像。我非常擔憂靈能可能比我原先預期的遠要普及，但我們缺乏足夠數據。以下是我們所能肯定的新型灰人的情報。&#10;&#10;戰士/精英：跟斯巴蜥人一樣，灰人也有自己的老兵和特種部隊，雖然我有點懷疑牠們能簡單地生產這些部隊。牠們穿載具獨特鈄向肩甲的顯眼護甲，精英的穿的更稱得上是全身甲。牠們拿最可怕的武器，包括令人聞風喪脆的等離子炮。戰士的護甲是紫色調，而精英是紅色。&#10;&#10;士官/領袖：只有這兩者會載頭盔，而大部分的異常心理現像都圍繞著士官發生，能目擊到士官的時候尤其多。如果你能帶回完整的頭盔給我們分析就再好不過；這頭盔可能並不簡單，也許某種裝置能導致這些現像，我們甚至也許能仿製。較常見的士官穿藍調的護甲，而領袖的則是紅調，設計類似精英所穿的。</Data></Cell>
    </Row>
-      <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
-    <Cell ss:StyleID="s115"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
+   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+    <Cell><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
     <Cell><Data ss:Type="String">安卓機人職能</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/andronanalysis</Data></Cell>
-    <Cell ss:StyleID="s113"><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell ss:StyleID="s113"><Data ss:Type="String">ACW</Data></Cell>
-    <Cell ss:StyleID="s116"><Data ss:Type="String">做得好，指揮官。不管是誰幸運地打壞了它的自我毁滅裝置，我們現在有了一分完整的樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦，也合情理地取得了成果。&#10;&#10;安卓機人的腦袋令人嘆為觀止。跟身體一樣，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷卻劑會避開冷的地方只聚在熱的地方，逹成針對重點局部冷卻的效果。也跟其他結構一樣，這樣的設計不會帶來顯著的優勢。將處理單元分佈在全身會更易冷卻，存活性更好，被打掉一些單元也不會倒下。&#10;&#10;對操作系統進行的電子鑑證揭示了兩層截然不同的指令碼。第一層較深層的是自動化、自由、有自我意識的神經網路。這層的思考和學習方式跟高等哺乳動物相若。不過要掘出它並不容易，因為第二層代碼將它暴力地覆蓋了，只重用了自我學習和自我改善的能力，而強力的服從指引則強迫決策矩陣只能參照來自主人的正式指令，將本來應有自我意志的生靈變成盲目的機械奴隸。兩層指令之間的差異很令人在意。很明顯安卓機人以前不是現在這樣的……但在它們被改造成戰爭機器之前又是甚麼樣子的？我們已經在試驗能否修改控制層。讓安卓機人所操作的幽浮群起叛變可能可以瓦解異型的入侵。&#10;&#10;縱然安卓機人有卓越的速度和力量，它們的奴隸式指令集令它們很易預測，低至握武器的手法和戰鬥時會採取的精細行動。這些破綻及它們的裝甲的弱點己經被詳細記錄並分發給你的手下。利用這些情報，他們可以將對機人做成的傷害提升約十分一。 </Data></Cell>
+    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">做得好，指揮官。不管是誰幸運地打壞了它的自我毁滅裝置，我們現在有了一分完整的樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦，也合情理地取得了成果。&#10;&#10;安卓機人的腦袋令人嘆為觀止。跟身體一樣，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷卻劑會避開冷的地方只聚在熱的地方，逹成針對重點局部冷卻的效果。也跟其他結構一樣，這樣的設計不會帶來顯著的優勢。將處理單元分佈在全身會更易冷卻，存活性更好，被打掉一些單元也不會倒下。&#10;&#10;對操作系統進行的電子鑑證揭示了兩層截然不同的指令碼。第一層較深層的是自動化、自由、有自我意識的神經網路。這層的思考和學習方式跟高等哺乳動物相若。不過要掘出它並不容易，因為第二層代碼將它暴力地覆蓋了，只重用了自我學習和自我改善的能力，而強力的服從指引則強迫決策矩陣只能參照來自主人的正式指令，將本來應有自我意志的生靈變成盲目的機械奴隸。兩層指令之間的差異很令人在意。很明顯安卓機人以前不是現在這樣的……但在它們被改造成戰爭機器之前又是甚麼樣子的？我們已經在試驗能否修改控制層。讓安卓機人所操作的幽浮群起叛變可能可以瓦解異型的入侵。&#10;&#10;縱然安卓機人有卓越的速度和力量，它們的奴隸式指令集令它們很易預測，低至握武器的手法和戰鬥時會採取的精細行動。這些破綻及它們的裝甲的弱點己經被詳細記錄並分發給你的手下。利用這些情報，他們可以將對機人做成的傷害提升約十分一。 </Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

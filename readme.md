@@ -17,12 +17,45 @@ and manually override game font to see any Chinese at all.
 * [x] Translate Female Soldier names (soldiernamesfemale.xml)
 * [x] Translate custom solider and regiment (strings.xml)
 * [x] Add and translate mod contents (Lore+ and others)
+* [ ] Update to X:CE 0.34.2
+* [ ] Playtest - Adjust font sizes
+* [ ] Playtest - Fill in uncertain blanks
+* [ ] Build font and preview package
+* [ ] Translate splashscreen and launcher
 * [ ] Edit strings.xml
 * [ ] Edit Xenopedia.xml
 * [ ] Edit solider names
-* [ ] Build font and preview package
-* [ ] Translate splashscreen and launcher
-* [ ] Playtest - Adjust font sizes
-* [ ] Playtest - Fill in uncertain blanks
 * [ ] Proofreading
 * [ ] Release
+
+## Mod list ##
+
+XCE mods with translate-able resource and status.
+
+* Armoured Assault
+* * Default Off
+* * Merged and translated
+
+* Extended Weapon Descriptions for Fighters
+* * Default On
+* * Unmerged and untranslated
+
+* Furies, Terror, and Dreadnoughts Oh My
+* * Default Off
+* * Must be done as a separate translation mod.
+
+* Khall's More Portraits
+* * Default On
+* * Would not work if soldiernames.xml is overridden, need to try to work with it.
+
+* Lore+
+* * Default On
+* * Merged and translated
+
+* X:CE Balance Adjustment
+* * Default On
+* * Merged and translated
+
+* X:CE Settings
+* * Default On
+* * Ignored because it simply swaps colonal and commander title, which cause no problem in Chinese

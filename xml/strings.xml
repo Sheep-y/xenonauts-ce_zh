@@ -36,7 +36,7 @@
 </Style>
  </Styles>
  <Worksheet ss:Name="strings">
-<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2579" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2611" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
  <Column ss:AutoFitWidth="0" ss:Width="246"/>
  <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
  <Row>
@@ -62,7 +62,7 @@
   <Cell><Data ss:Type="String">Auto ON</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.DANGER</Data></Cell>
-  <Cell><Data ss:Type="String">危險</Data></Cell>
+  <Cell><Data ss:Type="String">受損嚴重</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.DESTROYEDSTAT1</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10;已摧毀</Data></Cell>
@@ -83,7 +83,7 @@
   <Cell><Data ss:Type="String">燃料：%1%%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.LOWFUEL</Data></Cell>
-  <Cell><Data ss:Type="String">燃料不足</Data></Cell>
+  <Cell><Data ss:Type="String">燃料短缺</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.NOAMMO</Data></Cell>
   <Cell><Data ss:Type="String">無彈藥</Data></Cell>
@@ -97,8 +97,6 @@
   <Cell><Data ss:Type="String">AC.PLAYERSTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%%%&#10; 耐久：%3%%%&#10; 速度：%4% km/h</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">AC.PLAYERSTAT_SHORT</Data></Cell>
- </Row><Row>
   <Cell><Data ss:Type="String">AC.PROJECTILESTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%</Data></Cell>
  </Row><Row>
@@ -106,7 +104,7 @@
   <Cell><Data ss:Type="String">失去訊號</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.AFTERBURNER</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;後燃器：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;啓動後燃器能提升戰機的最大速度，&lt;br /&gt;但會增加燃料消耗。請小心使用！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;後燃器：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;啟動後燃器能提升戰機的最大速度，&lt;br /&gt;但會增加燃料消耗。請小心使用！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.EVADE</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;迴避滾轉：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機進行側向迴避滾轉，避開來襲的投射物。&lt;br /&gt;滾轉要消耗燃料，且不能連續迴避，&lt;br /&gt;請酌量使用（試試暫停遊戲抓緊時機）！&lt;br/&gt;&lt;br/&gt;部分攔截機不能進行迴避滾轉。</Data></Cell>
@@ -130,7 +128,7 @@
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;無法摧毀&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACAutoresolveDlg.Text.Victory</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;成功撃落&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;成功擊落&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACAutoresolveDlg.Title.Loss</Data></Cell>
   <Cell><Data ss:Type="String">攔截失敗</Data></Cell>
@@ -175,7 +173,7 @@
   <Cell><Data ss:Type="String">選擇所有戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACTest</Data></Cell>
-  <Cell><Data ss:Type="String">Air combat test</Data></Cell>
+  <Cell><Data ss:Type="String">空戰測試</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACW.Cannon</Data></Cell>
   <Cell><Data ss:Type="String">機載炮</Data></Cell>
@@ -265,7 +263,7 @@
   <Cell><Data ss:Type="String">%1% kg</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KILLS</Data></Cell>
-  <Cell><Data ss:Type="String">撃墜數</Data></Cell>
+  <Cell><Data ss:Type="String">擊墜數</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KM</Data></Cell>
   <Cell><Data ss:Type="String">%1% km</Data></Cell>
@@ -280,7 +278,7 @@
   <Cell><Data ss:Type="String">長度</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.M</Data></Cell>
-  <Cell><Data ss:Type="String">%1% m</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 米</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.MANCOST</Data></Cell>
   <Cell><Data ss:Type="String">維護費</Data></Cell>
@@ -424,7 +422,7 @@
   <Cell><Data ss:Type="String">重型空戰幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.interceptor</Data></Cell>
-  <Cell><Data ss:Type="String">截撃幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">截擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.landingship</Data></Cell>
   <Cell><Data ss:Type="String">運輸幽浮</Data></Cell>
@@ -466,28 +464,28 @@
   <Cell><Data ss:Type="String">女武神</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.grounded</Data></Cell>
-  <Cell><Data ss:Type="String">停飛 %1% 小時H</Data></Cell>
+  <Cell><Data ss:Type="String">停飛%1%小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.inair</Data></Cell>
-  <Cell><Data ss:Type="String">出撃</Data></Cell>
+  <Cell><Data ss:Type="String">出擊中</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.ready</Data></Cell>
   <Cell><Data ss:Type="String">就緒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.rearming</Data></Cell>
-  <Cell><Data ss:Type="String">裝彈中 %1%%%</Data></Cell>
+  <Cell><Data ss:Type="String">裝彈中%1%%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.recovering</Data></Cell>
-  <Cell><Data ss:Type="String">搜救中 %1%H</Data></Cell>
+  <Cell><Data ss:Type="String">搜救需%1%小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.refueling</Data></Cell>
-  <Cell><Data ss:Type="String">加油中 %1%H</Data></Cell>
+  <Cell><Data ss:Type="String">加油需%1%小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.transferring</Data></Cell>
   <Cell><Data ss:Type="String">轉移中</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplanestatus.repairing</Data></Cell>
-  <Cell><Data ss:Type="String">修理中 %1%H</Data></Cell>
+  <Cell><Data ss:Type="String">修理需%1%小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AIRSTATS.INTERCEPTOR.AIR</Data></Cell>
   <Cell><Data ss:Type="String">燃料：%1%%%</Data></Cell>
@@ -499,7 +497,7 @@
   <Cell><Data ss:Type="String">%1%的目標</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AIRSTATS.TRANSFERRING</Data></Cell>
-  <Cell><Data ss:Type="String">轉移到%1%途中</Data></Cell>
+  <Cell><Data ss:Type="String">往%1%轉移</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AirSuperiority</Data></Cell>
   <Cell><Data ss:Type="String">空優</Data></Cell>
@@ -535,13 +533,13 @@
   <Cell><Data ss:Type="String">步槍彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.shockbaton</Data></Cell>
-  <Cell><Data ss:Type="String">電撃棍電池</Data></Cell>
+  <Cell><Data ss:Type="String">電擊棍電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.shotgun</Data></Cell>
   <Cell><Data ss:Type="String">霰彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.sniper</Data></Cell>
-  <Cell><Data ss:Type="String">狙撃槍彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">狙擊槍彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.laser.lasercell</Data></Cell>
   <Cell><Data ss:Type="String">激光電池</Data></Cell>
@@ -667,16 +665,16 @@
   <Cell><Data ss:Type="String">視角</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.DefFailedHasTroops</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎撃幽浮但無法撃落！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防守！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎擊幽浮但無法擊落！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防守！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.DefFailedNoTroops</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎撃幽浮但無法撃落！&lt;br/&gt;&lt;br/&gt;基地被地面部隊攻陷，因為缺乏駐兵！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎擊幽浮但無法擊落！&lt;br/&gt;&lt;br/&gt;基地被地面部隊攻陷，因為缺乏駐兵！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.DefFiring</Data></Cell>
   <Cell><Data ss:Type="String">偵察到&lt;font color='FAA902'&gt;%1%&lt;/font&gt;於&lt;font color='FAA902'&gt;%2%&lt;/font&gt;附近準備投放部隊！&lt;br/&gt;&lt;br/&gt;防禦陣地正鎖定目標... %3% %4% 發射！&lt;br/&gt;&lt;br/&gt;目標：%5%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.DefSuccessful</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地已撃落幽浮。終止非戰鬥人員的撤離，恢復正常運作。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地已擊落幽浮。終止非戰鬥人員的撤離，恢復正常運作。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.NoDefHasTroops</Data></Cell>
   <Cell><Data ss:Type="String">偵察到&lt;font color='FAA902'&gt;%1%&lt;/font&gt; 於&lt;font color='FAA902'&gt;%2%&lt;/font&gt;附近投放部隊！&lt;br/&gt;&lt;br/&gt;沒有防禦陣地，異型部隊全軍登陸！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防守！</Data></Cell>
@@ -823,7 +821,7 @@
   <Cell><Data ss:Type="String">巴西</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.AlienBase.Description</Data></Cell>
-  <Cell><Data ss:Type="String">運輸機&lt;font color='FAA902'&gt;%1%&lt;/font&gt;正靠近&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。突撃隊員將會從地面突入異型基地的進出通道。&lt;br /&gt;&lt;br /&gt;最理想的戰果是解決基地內的所有異型單位，這樣我們就能夠回收基地內的所有技術。否則只要能找出並破壞基地的所有動力爐，士兵們就可以撤退。這樣做沒回收可言，但依然能摧毀基地。&lt;br /&gt;&lt;br /&gt;預期基地有大量重裝敵人駐守，請步步為營。祝武運昌隆。</Data></Cell>
+  <Cell><Data ss:Type="String">運輸機&lt;font color='FAA902'&gt;%1%&lt;/font&gt;正靠近&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。突擊隊員將會從地面突入異型基地的進出通道。&lt;br /&gt;&lt;br /&gt;最理想的戰果是解決基地內的所有異型單位，這樣我們就能夠回收基地內的所有技術。否則只要能找出並破壞基地的所有動力爐，士兵們就可以撤退。這樣做沒回收可言，但依然能摧毀基地。&lt;br /&gt;&lt;br /&gt;預期基地有大量重裝敵人駐守，請步步為營。祝武運昌隆。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.AlienBase.FailureConditions</Data></Cell>
   <Cell><Data ss:Type="String">&lt;br /&gt;- 失去所有單位</Data></Cell>
@@ -862,7 +860,7 @@
   <Cell><Data ss:Type="String">&lt;br /&gt;- 解決所有異型單位</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.TerrorSite.Description</Data></Cell>
-  <Cell><Data ss:Type="String">運輸機&lt;font color='FAA902'&gt;%1%&lt;/font&gt;正靠近&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。當地部隊說異型的恐襲活動集中於市內的一個小地區。我們的職責是消滅這區域內的所有異型單位。&lt;br /&gt;&lt;br /&gt;這是任務的唯一目標。如果我們失敗，軍隊將會投放戰術核彈。除了令本地跟我們的關係鬧僵，財政資助也會受重大打撃。&lt;br /&gt;&lt;br /&gt;據報區域內有倖存的市民和軍隊，可能的話請保護他們。祝武運昌隆。</Data></Cell>
+  <Cell><Data ss:Type="String">運輸機&lt;font color='FAA902'&gt;%1%&lt;/font&gt;正靠近&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。當地部隊說異型的恐襲活動集中於市內的一個小地區。我們的職責是消滅這區域內的所有異型單位。&lt;br /&gt;&lt;br /&gt;這是任務的唯一目標。如果我們失敗，軍隊將會投放戰術核彈。除了令本地跟我們的關係鬧僵，財政資助也會受重大打擊。&lt;br /&gt;&lt;br /&gt;據報區域內有倖存的市民和軍隊，可能的話請保護他們。祝武運昌隆。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.TerrorSite.FailureConditions</Data></Cell>
   <Cell><Data ss:Type="String">&lt;br /&gt;- 失去所有單位</Data></Cell>
@@ -883,7 +881,7 @@
   <Cell><Data ss:Type="String">勝利條件：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.XenoBase.Description</Data></Cell>
-  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地正被&lt;font color='FAA902'&gt;%2%&lt;/font&gt;搶攻。來襲的幽浮撐過了對空武器，登陸的異型部隊正入侵維修通道。所有非戰鬥人員已經撤到指揮中心下的避難所。士兵們整裝待發，候命驅逐入侵者。&lt;br /&gt;&lt;br /&gt;異型的目標是指揮中心及其內的發電機。一定要守住它，如果它生爆柞那麼這基地就完了。也請記著這是我們的基地；破壞太嚴重的建構會無法運作一段時間，直到維修人員搶修完畢。&lt;br /&gt;&lt;br /&gt;如果異型成功炸毁異種航員的的基地，這可能會是個無法復原的重大打撃。絕不能讓這事發生。祝武運昌隆。</Data></Cell>
+  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地正被&lt;font color='FAA902'&gt;%2%&lt;/font&gt;搶攻。來襲的幽浮撐過了對空武器，登陸的異型部隊正入侵維修通道。所有非戰鬥人員已經撤到指揮中心下的避難所。士兵們整裝待發，候命驅逐入侵者。&lt;br /&gt;&lt;br /&gt;異型的目標是指揮中心及其內的發電機。一定要守住它，如果它生爆柞那麼這基地就完了。也請記著這是我們的基地；破壞太嚴重的建構會無法運作一段時間，直到維修人員搶修完畢。&lt;br /&gt;&lt;br /&gt;如果異型成功炸毁異種航員的的基地，這可能會是個無法復原的重大打擊。絕不能讓這事發生。祝武運昌隆。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.XenoBase.FailureConditions</Data></Cell>
   <Cell><Data ss:Type="String">&lt;br /&gt;- 指揮中心被異型佔領三回合，或&lt;br /&gt;- 失去所有單位</Data></Cell>
@@ -1087,13 +1085,13 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳虜獲異型領袖。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CSDiscoveredDialog.Deploy</Data></Cell>
-  <Cell><Data ss:Type="String">派出突撃隊</Data></Cell>
+  <Cell><Data ss:Type="String">派出突擊隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CSDiscoveredDialog.Title</Data></Cell>
   <Cell><Data ss:Type="String">新的墜機點</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CSDiscoveredDialog.Text</Data></Cell>
-  <Cell><Data ss:Type="String">當地部隊撃落一隻小型幽浮，並請求異種航員派員協助回收。</Data></Cell>
+  <Cell><Data ss:Type="String">當地部隊擊落一隻小型幽浮，並請求異種航員派員協助回收。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Cuba</Data></Cell>
   <Cell><Data ss:Type="String">古巴</Data></Cell>
@@ -1231,10 +1229,10 @@
   <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的異型恐襲被阻止，拯救了無數生命。&lt;br /&gt;&lt;br /&gt;當地官員讚揚異種航員行動迅速。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.terrorfwot</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻撃告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員強烈譴責異種航員袖手旁觀。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻擊告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員強烈譴責異種航員袖手旁觀。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.terrorfwt</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻撃告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異種航員事敗表示不滿。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻擊告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異種航員事敗表示不滿。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.transportarrived</Data></Cell>
   <Cell><Data ss:Type="String">物資抵逹%1%基地。</Data></Cell>
@@ -1255,7 +1253,7 @@
   <Cell><Data ss:Type="String">鐵人模式：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ironmandesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;14&quot; face=&quot;/fonts/tahoma.mvec&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式下，玩家不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;14&quot; face=&quot;fonts/tahoma.mvec&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式下，玩家不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.normdiff</Data></Cell>
   <Cell><Data ss:Type="String">正常</Data></Cell>
@@ -1285,16 +1283,16 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積三十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.NoSurvivors</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被撃墜。沒找到生還者。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。沒找到生還者。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.OverEnemy</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;在敵國上空被撃墜。以下士兵逃過了追補：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;在敵國上空被擊墜。以下士兵逃過了追補：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.OverFriendly</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被撃墜。當地部隊救出以下倖存者：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。當地部隊救出以下倖存者：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.OverSea</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被撃墜。當地海軍救出以下倖存者：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。當地海軍救出以下倖存者：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Dubai</Data></Cell>
   <Cell><Data ss:Type="String">杜拜</Data></Cell>
@@ -1327,7 +1325,7 @@
   <Cell><Data ss:Type="String">接戰</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ENGAGE.COMBATFUEL</Data></Cell>
-  <Cell><Data ss:Type="String">戰鬥時間（燃料）</Data></Cell>
+  <Cell><Data ss:Type="String">作戰時限</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ENGAGE.DISENGAGE</Data></Cell>
   <Cell><Data ss:Type="String">脫離</Data></Cell>
@@ -1369,7 +1367,7 @@
   <Cell><Data ss:Type="String">%2% %1%附近有異型活動。當地部隊報告 %3% 死 %4% 被虜。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近目撃到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
+  <Cell><Data ss:Type="String">%2% %1%附近目擊到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land3</Data></Cell>
   <Cell><Data ss:Type="String">民用雷逹在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
@@ -1393,10 +1391,10 @@
   <Cell><Data ss:Type="String">發現無人的%1%，有明顯的能量放射痕跡。%2%名乘員估計被虜。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">漁民目撃幽浮。當地居民擔心人身安危。</Data></Cell>
+  <Cell><Data ss:Type="String">漁民目擊幽浮。當地居民擔心人身安危。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">商船目撃神秘光點，船員不願出航。</Data></Cell>
+  <Cell><Data ss:Type="String">商船目擊神秘光點，船員不願出航。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea4</Data></Cell>
   <Cell><Data ss:Type="String">潮汐反常，原因不明。海洋學家苦無頭緒。</Data></Cell>
@@ -1408,22 +1406,22 @@
   <Cell><Data ss:Type="String">漁民發現死亡海域，有數以千計的海洋生物死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">航班 %1%-%2% 被撃墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">空軍戰機小隊被幽浮撃墜，%3% 名機師陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">空軍戰機小隊被幽浮擊墜，%3% 名機師陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">軍用運輸機被幽浮撃墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">軍用運輸機被幽浮擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">航班 %1%-%2% 被撃墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">海軍巡邏機被幽浮撃墜，%3% 名機組人員據報失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">海軍巡邏機被幽浮擊墜，%3% 名機組人員據報失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">海岸防衛隊的直昇機被幽浮撃墜，%3% 名機組人員陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">海岸防衛隊的直昇機被幽浮擊墜，%3% 名機組人員陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land1</Data></Cell>
   <Cell><Data ss:Type="String">%2%政府報告%1%附近的%4%電廠被毁，%3% 人死亡。</Data></Cell>
@@ -1465,31 +1463,31 @@
   <Cell><Data ss:Type="String">海上油井 %2% 被幽浮炸毁，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">高速公路受到幽浮炮撃，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">高速公路受到幽浮炮擊，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">住宅區受到幽浮炮撃，%3% 死 %4% 失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">住宅區受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">機場受到幽浮炮撃，估計 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">機場受到幽浮炮擊，估計 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">商場受到幽浮炮撃，%3% 死 %4% 失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">商場受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">列車因受到幽浮炮撃而出軌，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">列車因受到幽浮炮擊而出軌，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">公園受到幽浮炮撃，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">公園受到幽浮炮擊，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">捕漁船隊受到幽浮攻撃，%1% 隻拖船沉沒，%2% 名船員死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">捕漁船隊受到幽浮攻擊，%1% 隻拖船沉沒，%2% 名船員死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">海上油井 %3% 受到幽浮炮撃，嚴重受損，%2% 名工人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">海上油井 %3% 受到幽浮炮擊，嚴重受損，%2% 名工人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">軍機 %3% 被幽浮攻撃，%2% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">軍機 %3% 被幽浮攻擊，%2% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land1</Data></Cell>
   <Cell><Data ss:Type="String">%1% %2% 附近的軍事基地受到轟炸，損失 %4% 輛裝甲車及 %3% 名軍人。</Data></Cell>
@@ -1516,13 +1514,13 @@
   <Cell><Data ss:Type="String">%1%.%2%：虜拐事件</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目撃幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目撃幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目撃幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land5</Data></Cell>
   <Cell><Data ss:Type="String">%1%.%2%：電磁干擾</Data></Cell>
@@ -1540,10 +1538,10 @@
   <Cell><Data ss:Type="String">%1%.%2%：虜拐事件</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目撃幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目撃幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea4</Data></Cell>
   <Cell><Data ss:Type="String">%1%.%2%：潮汐反常</Data></Cell>
@@ -1687,19 +1685,19 @@
   <Cell><Data ss:Type="String">阿富汗</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.AirCombat</Data></Cell>
-  <Cell><Data ss:Type="String">您可以略過空戰，也可以親自指揮空戰，視乎你的個人喜好。現在這是指揮模式。&lt;br&gt;&lt;br&gt;您隨時可以按空白鍵以暫停或繼續作戰。每名單位都獨立運作，有各自的武器射界。飛彈必需完成鎖定及目標進入射程後才可以發射。&lt;br&gt;&lt;br&gt;雙方各有最多三名單位。選擇自己的單位後，左按以指定航向目標，速度則在右方的資訊欄設定。某些戰鬥機和幽浮能進行迴避滾轉，預設Q鍵左滾、E鍵右滾，也可以按資訊欄裡的迴避鍵。&lt;br&gt;&lt;br&gt;如有戰鬥機被撃墜，它會被回收然後修復，但這會頗為需時。所以如果戰鬥機受損嚴重，請用資訊欄裡的撤退鍵命令它轉進。</Data></Cell>
+  <Cell><Data ss:Type="String">您可以略過空戰，也可以親自指揮空戰，視乎你的個人喜好。現在這是指揮模式。&lt;br&gt;&lt;br&gt;您隨時可以按空白鍵以暫停或繼續作戰。每名單位都獨立運作，有各自的武器射界。飛彈必需完成鎖定及目標進入射程後才可以發射。&lt;br&gt;&lt;br&gt;雙方各有最多三名單位。選擇自己的單位後，左按以指定航向目標，速度則在右方的資訊欄設定。某些戰鬥機和幽浮能進行迴避滾轉，預設Q鍵左滾、E鍵右滾，也可以按資訊欄裡的迴避鍵。&lt;br&gt;&lt;br&gt;如有戰鬥機被擊墜，它會被回收然後修復，但這會頗為需時。所以如果戰鬥機受損嚴重，請用資訊欄裡的撤退鍵命令它轉進。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.AirCombat.Title</Data></Cell>
   <Cell><Data ss:Type="String">空戰解說</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape</Data></Cell>
-  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一斷時間就會入侵大氣層，持續傷害異種航員與資助國的關係，直到幽浮被撃落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷逹的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是撃落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一斷時間就會入侵大氣層，持續傷害異種航員與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷逹的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是擊落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape.Title</Data></Cell>
   <Cell><Data ss:Type="String">地球示圖解說</Data></Cell>
  </Row><Row ss:Height="82.5">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.GroundCombat</Data></Cell>
-  <Cell><Data ss:Type="String">這是異種航員的回合制地面戰鬥。每名單位都有定量的時間點（TU）可以用來進行動作，例如移動或開火。按下紅色的&quot;結束回合&quot;就會結束目前的回合，輪到異型的回合。異型動完後就是新的玩家回合，您的單位會恢復所有 TU。&lt;br&gt;&lt;br&gt;左按地面會顯示移動路線及所剩的 TU，再按一次就會實行移動。右鍵可以令單位轉向，和/或開關身旁的門。&lt;br&gt;&lt;br&gt;遊標移動異型身上會變成射撃狀態，顯示命中率和所需的 TU。左按以實行射撃，或右按調整所花的 TU 以調整命中率。 按著 Ctrl 鍵不放或按下武器圖示都可以進入自由射撃模式。&lt;br&gt;&lt;br&gt;地面戰鬥非常複雜，需要花點時間熟習。用遊標懸浮各介面元素以理解它們。&#10;</Data></Cell>
+  <Cell><Data ss:Type="String">這是異種航員的回合制地面戰鬥。每名單位都有定量的時間點（TU）可以用來進行動作，例如移動或開火。按下紅色的&quot;結束回合&quot;就會結束目前的回合，輪到異型的回合。異型動完後就是新的玩家回合，您的單位會恢復所有 TU。&lt;br&gt;&lt;br&gt;左按地面會顯示移動路線及所剩的 TU，再按一次就會實行移動。右鍵可以令單位轉向，和/或開關身旁的門。&lt;br&gt;&lt;br&gt;遊標移動異型身上會變成射擊狀態，顯示命中率和所需的 TU。左按以實行射擊，或右按調整所花的 TU 以調整命中率。 按著 Ctrl 鍵不放或按下武器圖示都可以進入自由射擊模式。&lt;br&gt;&lt;br&gt;地面戰鬥非常複雜，需要花點時間熟習。用遊標懸浮各介面元素以理解它們。&#10;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.GroundCombat.Title</Data></Cell>
   <Cell><Data ss:Type="String">地面戰鬥說明</Data></Cell>
@@ -1832,10 +1830,10 @@
   <Cell><Data ss:Type="String">連發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.APReservedMsg.FuncNotSupported</Data></Cell>
-  <Cell><Data ss:Type="String">無此射撃模式</Data></Cell>
+  <Cell><Data ss:Type="String">無此射擊模式</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.APReservedMsg.Msg</Data></Cell>
-  <Cell><Data ss:Type="String">不能完成動作：需保留 TU 進行%1%射撃。</Data></Cell>
+  <Cell><Data ss:Type="String">不能完成動作：需保留 TU 進行%1%射擊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.APReservedMsg.Normal</Data></Cell>
   <Cell><Data ss:Type="String">正常</Data></Cell>
@@ -2000,7 +1998,7 @@
   <Cell><Data ss:Type="String">%1%思覺失調。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.ReactionFire</Data></Cell>
-  <Cell><Data ss:Type="String">反應射撃</Data></Cell>
+  <Cell><Data ss:Type="String">反應射擊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCAbort</Data></Cell>
   <Cell><Data ss:Type="String">終止進行中的移動</Data></Cell>
@@ -2027,28 +2025,28 @@
   <Cell><Data ss:Type="String">結束回合</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCFireModeBurst</Data></Cell>
-  <Cell><Data ss:Type="String">切換單發/連發射撃</Data></Cell>
+  <Cell><Data ss:Type="String">切換單發/連發射擊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCFireModePrimary</Data></Cell>
-  <Cell><Data ss:Type="String">切換主武器射撃模式</Data></Cell>
+  <Cell><Data ss:Type="String">切換主武器射擊模式</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCFireModeSecondary</Data></Cell>
-  <Cell><Data ss:Type="String">切換副武器射撃模式</Data></Cell>
+  <Cell><Data ss:Type="String">切換副武器射擊模式</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCReserveTUNone</Data></Cell>
   <Cell><Data ss:Type="String">不保留 TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCReserveTUSnap</Data></Cell>
-  <Cell><Data ss:Type="String">保留足以快速射撃的 TU </Data></Cell>
+  <Cell><Data ss:Type="String">保留足以快速射擊的 TU </Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCReserveTUNormal</Data></Cell>
-  <Cell><Data ss:Type="String">保留足以正常射撃的 TU</Data></Cell>
+  <Cell><Data ss:Type="String">保留足以正常射擊的 TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCReserveTUAimed</Data></Cell>
-  <Cell><Data ss:Type="String">保留足以精準射撃的 TU</Data></Cell>
+  <Cell><Data ss:Type="String">保留足以精準射擊的 TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCReserveTUBurst</Data></Cell>
-  <Cell><Data ss:Type="String">保留足以連發射撃的 TU</Data></Cell>
+  <Cell><Data ss:Type="String">保留足以連發射擊的 TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GcGUI.GrenadeSelector.HandsFull</Data></Cell>
   <Cell><Data ss:Type="String">空出手來：%1% TU</Data></Cell>
@@ -2273,7 +2271,7 @@
   <Cell><Data ss:Type="String">哈瓦那</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">HeadingToWaypoint</Data></Cell>
-  <Cell><Data ss:Type="String">Heading to waypoint</Data></Cell>
+  <Cell><Data ss:Type="String">前往航行點中</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">hiddenmove.text</Data></Cell>
   <Cell><Data ss:Type="String">異型回合</Data></Cell>
@@ -2348,7 +2346,7 @@
   <Cell><Data ss:Type="String">燃料</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">InterceptDialog.OutOfRange</Data></Cell>
-  <Cell><Data ss:Type="String">超出作戰半徑</Data></Cell>
+  <Cell><Data ss:Type="String">超出航程</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">InterceptDialog.Status</Data></Cell>
   <Cell><Data ss:Type="String">狀態</Data></Cell>
@@ -3033,10 +3031,9 @@
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.MACHINEGUN</Data></Cell>
   <Cell><Data ss:Type="String">機炮</Data></Cell>
- </Row>
- <Row>
-  <Cell ss:StyleID="Default"><Data ss:Type="String">ManTech.VV.MAGSTORM</Data></Cell>
-  <Cell ss:StyleID="Default"><Data ss:Type="String">車載電磁風暴</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">ManTech.VV.MAGSTORM</Data></Cell>
+  <Cell><Data ss:Type="String">車載電磁風暴</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.PLASMABLASTER</Data></Cell>
   <Cell><Data ss:Type="String">等離子噴射炮</Data></Cell>
@@ -3207,7 +3204,7 @@
   <Cell><Data ss:Type="String">尼日利亞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">No</Data></Cell>
-  <Cell><Data ss:Type="String">No</Data></Cell>
+  <Cell><Data ss:Type="String">否</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoAmmoForSHSlot</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;不足，無法給&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;補充彈藥。&lt;br/&gt;當&lt;font color='FBBD03'&gt;%3%&lt;/font&gt;基地獲得%1%的時候會繼續裝彈作業。</Data></Cell>
@@ -5106,10 +5103,10 @@
   <Cell><Data ss:Type="String">電擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.shockbaton</Data></Cell>
-  <Cell><Data ss:Type="String">電撃棍</Data></Cell>
+  <Cell><Data ss:Type="String">電擊棍</Data></Cell>
  </Row><Row ss:Height="99">
   <Cell><Data ss:Type="String">weapon.grenade.shockbaton.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電撃棍：&lt;/b&gt;&#10;&#10;電撃棍是用來擊暈敵人的非致命性單手武器。它只能用來攻擊臨接的敵人（不包括鈄角），但大部分敵人都捱不住兩三棍。&#10;&#10;暈眩傷害：60&#10;攻擊花費：20%% TU</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電擊棍：&lt;/b&gt;&#10;&#10;電擊棍是用來擊暈敵人的非致命性單手武器。它只能用來攻擊臨接的敵人（不包括鈄角），但大部分敵人都捱不住兩三棍。&#10;&#10;暈眩傷害：60&#10;攻擊花費：20%% TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.smoke</Data></Cell>
   <Cell><Data ss:Type="String">煙霧彈</Data></Cell>
@@ -5416,7 +5413,7 @@
   <Cell><Data ss:Type="String">雅庫茨克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Yes</Data></Cell>
-  <Cell><Data ss:Type="String">Yes</Data></Cell>
+  <Cell><Data ss:Type="String">是</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Rhodesia</Data></Cell>
   <Cell><Data ss:Type="String">羅德西亞</Data></Cell>
@@ -5449,7 +5446,7 @@
   <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截撃幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBomberDatacore</Data></Cell>
   <Cell><Data ss:Type="String">岸轟幽浮數據中樞</Data></Cell>
@@ -5485,7 +5482,7 @@
   <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截撃幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBomberDatacore</Data></Cell>
   <Cell><Data ss:Type="String">岸轟幽浮數據中樞</Data></Cell>
@@ -6364,7 +6361,7 @@
   <Cell><Data ss:Type="String">抵逹目的地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MainMenuOn</Data></Cell>
-  <Cell><Data ss:Type="String">啓用</Data></Cell>
+  <Cell><Data ss:Type="String">啟用</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MainMenuOff</Data></Cell>
   <Cell><Data ss:Type="String">停用</Data></Cell>
@@ -7860,7 +7857,7 @@
   <Cell><Data ss:Type="String">轟炸任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
-  <Cell><Data ss:Type="String">截撃任務</Data></Cell>
+  <Cell><Data ss:Type="String">截擊任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
   <Cell><Data ss:Type="String">基地建設任務</Data></Cell>
