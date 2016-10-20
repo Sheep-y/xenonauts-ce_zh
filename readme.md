@@ -16,7 +16,7 @@ and manually override game font to see any Chinese at all.
 * [x] Translate Male Soldier names (soldiernames.xml)
 * [x] Translate Female Soldier names (soldiernamesfemale.xml)
 * [x] Translate custom solider and regiment (strings.xml)
-* [ ] Add and translate mod contents (Lore+ and others)
+* [x] Add and translate mod contents (Lore+ and others)
 * [ ] Edit strings.xml
 * [ ] Edit Xenopedia.xml
 * [ ] Edit solider names

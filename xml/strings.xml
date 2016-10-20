@@ -3210,7 +3210,7 @@
   <Cell><Data ss:Type="String">No</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoAmmoForSHSlot</Data></Cell>
-  <Cell><Data ss:Type="String">No &lt;font color='FBBD03'&gt;%1%&lt;/font&gt; available to rearm &lt;font color='FBBD03'&gt;%2%&lt;/font&gt;. &lt;br/&gt;Rearm will be completed when %1% will be manufactured or transferred to &lt;font color='FBBD03'&gt;%3%&lt;/font&gt; base</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;不足，無法給&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;補充彈藥。&lt;br/&gt;當&lt;font color='FBBD03'&gt;%3%&lt;/font&gt;基地獲得%1%的時候會繼續裝彈作業。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoFreeGarage</Data></Cell>
   <Cell><Data ss:Type="String">需要空置的車庫。</Data></Cell>
@@ -7872,16 +7872,16 @@
   <Cell><Data ss:Type="String">安卓機人分析</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">An Andron shell has been recovered intact. This research topic will analyse the recovered shell in order to identify weaknesses. On completion, our troops will gain a damage boost against this alien species.</Data></Cell>
+  <Cell><Data ss:Type="String">一名正常運作的安卓機人被成功回收。此研究會分析所回收的機人，尋找它們的弱點。完成後能提升部隊對安卓機人所做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.incendiary</Data></Cell>
   <Cell><Data ss:Type="String">燃燒手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.incendiary.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Incendiary Grenade:&lt;/b&gt;&#10;&#10;The Incendiary Grenade causes only moderate damage on its own, but it sets the area within its blast radius on fire.&#10;&#10;Grenades can be thrown from the hand, or can be thrown from the backpack using the grenade quickslot in the combat UI (this costs more TUs than if the grenade was already in the soldier's hand, and still more if the soldier does not have an empty hand).&#10;&#10;Fire Radius:                                                      4 Tiles</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒手雷：&lt;/b&gt;&#10;&#10;燃燒手雷本身沒多少傷害力，但可以令爆炸範圍起火。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：10&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.incendiary.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Incendiary Rocket:&lt;/b&gt;&#10;&#10;The Incendiary Rocket is an rocket that inflicts fires in a large radius around its detonation point. The explosion has poor armour penetration but can kill or injure multiple enemy units at the same time if they are standing too close to one another. &#10;&#10;Damage Type:                                                    30 Incendiary (4x damage against terrain)&#10;Suppression:                                                      60 Suppression&#10;Armour Mitigation:                                              0&#10;Blast Radius:                                                      4 Tiles</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒火箭彈：&lt;/b&gt;&#10;&#10;燃燒火箭彈能令大面積的範圍起火。爆炸本身沒貫穿力可言，但可以燒灼多名聚集的敵人。&#10;&#10;傷害類型：39 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VV.ALENIUMROCKET</Data></Cell>
   <Cell><Data ss:Type="String">異能晶火箭</Data></Cell>
