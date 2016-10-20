@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Chris</Author>
+  <LastAuthor>Sheepy</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2016-10-07T13:26:02Z</LastSaved>
+  <Version>14.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" />
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s82">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Interior ss:Color="#00B0F0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s112">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#C0C0C0"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="136" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s67">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Singularity Core</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/aliensingularitycore</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Technology</Data></Cell>
+    <Cell><Data ss:Type="String">NULL</Data></Cell>
+    <Cell><Data ss:Type="String">MODMERGEREPLACE: Only one complication - as we obviously do not possess the capacity to harvest singularities ourselves, we will need to capture these devices from the extraterrestrials if we want to use them. MODMERGEWITH: If only we had the capacity to capture singularities for ourselves, then humankind would possess limitless energy for the remainder of its existance.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+    <Cell><Data ss:Type="String">airplane.human.fury</Data></Cell>
+    <Cell><Data ss:Type="String">X-120 Fury</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/fury</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft</Data></Cell>
+    <Cell><Data ss:Type="String">AC</Data></Cell>
+    <Cell><Data ss:Type="String">As the alien invasion has progressed, the size of its ships have increased significantly.  Our aircraft and weapons remain effective - for the most part - but even my genius is being taxed by the most recent alien vessels we have encountered.&#10;&#10;Accordingly, I have designed the X-120 &quot;Fury&quot; interceptor as what will be the ultimate weapon in the battle for our skies. Influenced by the allegedly secret SR-71 &quot;Blackbird&quot;, I have adapted it in accordance with my successful Corsair design through employing alien alloys in the air-frame and alenium-based technology for propulsion.  The key innovation, however, is that the aircraft is controlled remotely using captured alien computing equipment.  This has allowed the cabin to be removed, reducing the weight and streamlining the design considerably to allow operation at unparalleled heights and speeds.  Accordingly, it can travel at Mach 8 (some 10,000 kilometers per hour) and can reach any point in the world in under two hours.&#10;&#10;As a result of its speed and high service-ceiling, the Fury is practically invulnerable to harm.  However, as a result of it being remotely piloted, the aircraft is unsuited for conventional interception.  In spite of the alien technology employed, the response rates are not sufficient for close-range dogfighting and the Fury would be outmatched in such an encounter.  Instead, the Fury is designed as a fast-attack plane, launching a Gravity Pulse Torpedo from a safe distance before returning home to base for rearming and refuelling.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
+    <Cell><Data ss:Type="String">Gravity Pulse Torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/gravitypulsetorpedo</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">Oppenheimer may rest in peace, for in my brilliance I have devised a weapon so terrible in its power that nothing humankind has devised before now can stand in comparison.&#10;&#10;This weapon - the Gravity Pulse Torpedo - emits a brief but devastating pulse of oscillating gravitational fields which rend apart anything within its range at the molecular level.  Nothing can withstand this: in my tests even the hardest diamond and most durable alien materials are disintegrated instantaneously.&#10;&#10;Accordingly, the Gravity Pulse Torpedo can be used to utterly annihilate any alien vessels it is deployed against.  Mounted on an enhanced alenium-powered torpedo, the Bomb can be launched from a considerable distance and detonated remotely when in range of its targets.  The design I have opted for effects a 5km radius and, as such only the exceptional speed of the X-120 Fury can deliver the weapon without being consumed by its devastation.  More powerful versions could easily be produced,  but anything larger would no doubt cause collateral damage beyond acceptable limits in the eyes of the worlds' governments.&#10;&#10;A key component in the Gravity Bomb is technology expropriated from an alien Anti-Gravity Generator.  In spite of my genius, I have been unable to replicate this technology and therefore we will be reliant upon capturing Anti-Gravity Generators from larger alien vessels if we wish to deploy these weapons en masse.  Indeed, it is only this restriction which stops us from replacing all of our weaponry with these devices; if only I could recreate the anti-gravity technology then we could win this war in a matter of days.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="153">
+    <Cell><Data ss:Type="String">airplane.alien.assaultlander</Data></Cell>
+    <Cell><Data ss:Type="String">突擊運輸幽浮</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/UFOassaultlander</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell><Data ss:Type="String">UFO</Data></Cell>
+    <Cell><Data ss:Type="String">The Assault Lander is an evolution of the Landing Ship that we have grown familiar to. Whereas the Landing Ship was a slow, bulky transport, the Assault Lander is a sleek, lightning fast, and armed to the teeth. Like the alien Bomber however, the Assault Lander’s ammunition will detonate if the vessel has been damaged enough to be “sunk”, so to speak, leaving little to salvage.&#10;&#10;The armament consists of a two rapid fire missile launchers at the tips of the front section. These missiles seem to have an extremely high tracking and turning ability, making evasive maneuvers nearly useless and shredding any craft should they attempt close combat. It also sports a small beam whose purpose is to shoot down any missiles that are fired at the vessel, making long range attacks useless. In addition, the Assault Lander is capable of attaining speeds greater than any UFO we have previously encountered.&#10;&#10;Like its predecessor, the Assault Lander possesses an abnormally large crew for its size. Unlike its predecessor however, the Assault does not seem to be stocked for long-term goals. Indeed, with a not-insignificant amount of space taken up by the weapons, there is barely room for the soldiers, let alone supplies for a base. With these factors in mind, I have determined that the Assault Lander was meant to strike deep in enemy territory, using its weaponry and speed to bypass any defenses.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell><Data ss:Type="String">airplane.alien.dreadnought</Data></Cell>
+    <Cell><Data ss:Type="String">無畏幽浮</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/UFOdreadnought</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell><Data ss:Type="String">UFO</Data></Cell>
+    <Cell><Data ss:Type="String">If the Battleship was a thunderstorm, then the Dreadnought is a typhoon. I have reason to believe that the Dreadnought is the aliens’ most powerful ship class in the alien fleet. Its crew complement is similarly fearsome, holding the cream of the aliens’ army.&#10;&#10;The vessel is even faster and armored than a Battleship, cruising at 48 hundred kilometers an hour and sporting hardened alenium plating more than a meter thick. Its armament is even more impressive. Not only does it have a powerful forward-facing beam that is capable of annihilating skyscrapers, it also has a point-defense system that renders our missiles and torpedoes useless.&#10;&#10;Battling this beast with conventional interceptors is highly unadvised. Even our venerable Marauders are unable to keep up with this vessel, and even if they were able to catch one their weaponry is outmatched and they will be easily swatted aside. Not all is lost however. Our Furies are capable of intercepting these vessels and the Gravity Pulse Torpedo can be detonated out of the effective range of the point-defense system.&#10;&#10;I must also note that even if we were to down a Dreadnought using conventional methods, the damages sustained seem to trigger a large detonation that all but destroys the entire ship. Although it is regrettable that the technology contained within will never be retrieved, even I understand sacrifices must be made in the battle against extinction.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
+    <Cell><Data ss:Type="String">Gatling Laser</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/scatterlaser_cannon</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">Although at first glance similar to the conventional autocannons we've been using on our interceptors, the Gatling Laser's similarities with its predecessor end upon closer inspection.  We've reduced the number of barrels to three and instead of propelling ballistic rounds they now house a trio of the most promising combat laser prototypes from our labs.  Due to our atmospheric conditions and the attenuation they cause on the Gatling Laser's beams, its effective range is just over 15% better than that of the autocannon.  However the UFOs we've been encountering seem overwhelmingly more susceptible to the thermal damage it inflicts compared to conventional ballistic rounds.  We estimate that within its operational range the Gatling Laser is twice as effective at inflicting battle damage on enemy craft.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
+    <Cell><Data ss:Type="String">Alenium Missile</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/alenium_missile</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">Upgrading our Sidewinders with Alenium warheads was relatively simple.  Although packing in the same amount of Alenium as conventional explosives that we used previously would have dramatically increased the explosive yield, we have settled on a balanced approach.  The new missile should provide a 50% increase in explosive damage dealt to alien craft.  The weight saved by shrinking the warhead has let us to increase the amount of propellant thereby increasing the range of the missile.  Finally, analysis of alien craft from air engagements to date has given us some ideas for adapting our air-to-air targeting systems to exclusively track alien craft.  The Alenium Missile is the first to benefit from this work which has given it a much shorter lock-on time compared to its predecessor.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
+    <Cell><Data ss:Type="String">Alenium Torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/alenium_torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">We were a little surprised by how effective the improvised Avalanche Torpedo has been against the larger, less maneuverable alien craft.  We've decided to upgrade the design alongside the Alenium Missile.  A large Alenium warhead should give the Alenium Torpedo a 30% increase in damage over the Avalanche.  This upgraded design also features an increase in range.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
+    <Cell><Data ss:Type="String">Plasma Blaster</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/plasmablaster_cannon</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">We have finally been able to integrate the alien's plasma technology into our own aircraft weapons.  With the relatively mild size and weight restrictions of our aircraft's hardpoints we've been able to mount a plasma chamber capable of creating a staggering stream of superheated particles.  This is proving 50% more effective than our laser weapons at damaging alien craft.  An added bonus is the effectiveness of the graviton generators we've installed in the terminal end of the Plasma Blaster.  We've found that they focus the plasma into discrete bolts which can travel cohesively over a surprisingly long distance giving the engagement range of our fighter craft a slight boost.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
+    <Cell><Data ss:Type="String">Plasma Missile</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/plasma_missile</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">We've found that the armor of the more recent alien fighter craft is increasingly resistant to the warheads on our Alenium Missiles.  Our newly designed solution borrows heavily from the Plasma Torpedo.  The resulting Plasma Missile should provide at least a 66% increase in combat damage compared to the previous variant.  We've also finished testing a new blend of rocket propellant which we've switched over to for the Plasma Missile.  Although not dramatically better than our older mix, it should give our missiles slightly increased stand-off range.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
+    <Cell><Data ss:Type="String">Plasma Torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/plasma_torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">The hull armor on alien craft we've seen in recent weeks was becoming a serious problem in our interception efforts.  The blast cone of our Alenium Torpedoes was being increasingly absorbed and dissipated by the layers of alien shielding present on the heavier UFOs.  One of the prototypes from our labs designed to address this problem used a plasma generator as a penetrator of sorts at the tip of the warhead.  The effect it had on the armor of alien craft quickly convinced me to move it into immediate production.  The directed plasma stream from the penetrator allows a significantly larger blast front from the Alenium explosion to reach the interior or the alien craft.  A new advanced propellant mix has also allowed us to extend the range of the Plasma Torpedo.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
+    <Cell><Data ss:Type="String">MAGSTORM</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/MAGSTORM_cannon</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">It seems we have come a full circle.  Our latest craft weapon causes kinetic damage in very much the same way as the autocannon we were using not too long ago.  However the scale and speed of destruction that the MAGSTORM is capable of is truly out of this world.  Where we not facing a dire extraterrestial threat, a handful of these could turn the tide of any military campaign.  Unfortunately despite offering significant increases in both damage and range over the Plasma Blaster, the MAGSTORM only lets us level the playing field in the face of endless waves of alien battleships.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
+    <Cell><Data ss:Type="String">Hyper Missile</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/hyper_missile</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">Our most advanced missile design swaps out the explosive Alenium payload in favor of a small scale fusion device.  Scaled to fit on the missile hardpoints of our interceptors the damage yield of the Hyper Missile is only 50% more than that of the Plasma Missile but we've also managed to refine our rocket motor design.  The result is roughly a 12% increase in operational range.  These should make short work of any but the most advanced alien craft.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
+    <Cell><Data ss:Type="String">Fusion Torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/fusion_torpedo</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Aircraft Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">ACW</Data></Cell>
+    <Cell><Data ss:Type="String">Ever since we've first started seeing hostile alien craft in our airspace we've been debating whether it is feasible to use our nuclear arsenal against the extraterrestials.  The overwhelming consensus has been against such an approach but not without some fierce pressure from a couple of Cold War stalwarts.  I fear that regardless of whether our thermonuclear weapons could damage the alien vessels such a course of action would not have been prudent since it would have slowly rendered our planet inhospitable.  However, recent advances in fusion technology have finally given our scientists the confidence to recommend the deployment of such weapons on our interceptors.  The Fusion Torpedo is our latest weapon against the less maneuverable UFOs.  With increased damage and range it should give our pilots the edge they need to bring down the largest alien craft.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

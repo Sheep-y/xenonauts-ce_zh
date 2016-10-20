@@ -7891,57 +7891,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">VV.FUSIONROCKET</Data></Cell>
   <Cell><Data ss:Type="String">核融火箭</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">airplane.alien.assaultlander</Data></Cell>
-  <Cell><Data ss:Type="String">突擊運輸幽浮</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">airplane.alien.dreadnought</Data></Cell>
-  <Cell><Data ss:Type="String">無畏幽浮</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAssaultLanderDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">突擊運輸幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienDreadnoughtDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">無畏幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCapitalShips</Data></Cell>
-  <Cell><Data ss:Type="String">主力幽浮數據中樞破譯</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCapitalShipsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">The datacore we recovered from the alien capital ship is heavily encrypted.  It will take my team time to fully decrypt the contents within.</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.SINGULARITYTORP</Data></Cell>
-  <Cell><Data ss:Type="String">重力脈衝飛雷</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">重力脈衝飛雷</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienAssaultLanderDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">突擊登陸幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienDreadnought</Data></Cell>
-  <Cell><Data ss:Type="String">無畏幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">重力脈衝飛雷</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.DESTROYERSHIELD</Data></Cell>
-  <Cell><Data ss:Type="String">突擊登陸幽浮飛彈防盾</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.DESTROYERBEAM</Data></Cell>
-  <Cell><Data ss:Type="String">突擊登陸幽浮等離子炮臺</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.DESTROYERMISSILES</Data></Cell>
-  <Cell><Data ss:Type="String">突擊登陸幽浮飛彈發射器</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.DREADNOUGHTSHIELD</Data></Cell>
-  <Cell><Data ss:Type="String">無畏幽浮飛彈防盾</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.DREADNOUGHTBEAM</Data></Cell>
-  <Cell><Data ss:Type="String">無畏幽浮等離子炮臺</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AV.DREADNOUGHTCANNON</Data></Cell>
-  <Cell><Data ss:Type="String">無畏幽浮等離子超重炮</Data></Cell>
  </Row>
 </Table>
 <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
