@@ -98,7 +98,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.mig31</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MIG-32 狐步</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/mig32</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MiG-32 &quot;狐步&quot; Foxtort 是蘇維埃 MiG-31 &quot;獵狐犬&quot; Foxhound  試驗機的衍生機種。獵狐犬的原意是攔捷北約的戰略轟炸機，因此擁有追捕幽浮所需的高航速、高爬升力，及擊落重型幽浮所需的闊綽火力。&#10;&#10;當然，為了攔捷外星飛船，我們還是得將獵狐犬改裝（亦因此改稱&quot;狐步&quot;）。 狐步的機體以鈦鎂合金強化，跟神鷲用以抵禦異型武器的相同。油箱也加大了。機載的航電設備亦需更換；攔捷人類飛機跟攔捷幽浮是兩碼子事。這些改裝大約需時 40 人日。&#10;&#10;完成的狐步將會是抗戰異型的有力武裝。它有兩個翼下武裝掛點，各能掛載一支輕型飛彈（例如響尾蛇），也能改掛緩慢但威力驚人的重型空對空&quot;飛雷&quot;（例如山崩）。美中不足的是，狐步沒有機載炮，也不能進行迴避滾轉。兩枚飛彈都射出後狐步就沒有反擊之力，輕盈的幽浮只需避開飛彈就能輕易取勝。因此對於有護衛的敵人請伴似擅長纏鬥的戰機。&#10;&#10;你現在去工房就可以立刻開始生產狐步。但我可不會久留；我每次視察那幫巨魔都覺得智力受損。</Data></Cell>
    </Row>
@@ -162,7 +162,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">激光武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/laserweapons</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">單兵激光武器一直是科幻小說的專利。當任何激光武器都需要貨車那麼大的電池才能逹成實戰輸出，說它們&quot;不切實際&quot;完全不為過。&#10;&#10;異型科技改變了一切。異能晶的能量密度高到彈匣這麼大的電池就能驅動貫穿一寸厚鋼鐵的激光，還能發射十數次。超導陶瓷可以吸收發出激光所產生的廢熱，安全地慢慢散掉（只要注意手別摸錯地方）。省去龐大的冷卻器，武器就能做得又細又輕。&#10;&#10;為了減省士兵的適應時間，這些激光武器的操作方式跟傳統火器相近，射程和準確性也相差無幾。主要的分別是這些熱能武器會做成更大的傷害，但發射次數略遜於彈道槍械。為了簡約，我們的激光槍都使用統一的標準電池。電池結構非常簡單，就是內藏異能晶的圓型鋼筒，扭一下就可以鬆開或固定。由於太簡單，太易生產，電池基本上可以無限量供應。武器就剛好相反。&#10;&#10;要注意，製作這些武器昴貴而耗時，而且會消耗大量異型合金。但我依然相信它們是良好的投資；新玩具最少能提高士氣。</Data></Cell>
    </Row>
@@ -170,7 +170,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">速射激光</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/rapidfirelasers</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">有位工程師最近向我提出了製作速射激光武器的想法，雖然很簡陋（意料之內）但理論上可行。&#10;&#10;最理想的武器能發出持續不間斷的激光&quot;橫掃&quot;戰場，但所產生的巨大熱量就算是異型超導體都來不及散掉。提案採用多管設計，啓發自攔機的空戰炮。雖然多管設計無助提升射速，但卻能分散連續射擊的熱量。我們成功測試了兩款三管設計。&#10;&#10;散射激光是速射單兵武器，用來取代彈道機槍。它有更強的傷害力和壓制力，代價是較少彈藥。不幸地，&quot;反作用力&quot;依然存在（不過由槍彈的回彈改成冷卻機件的迴旋力），所以要發揮它的準確度還是需要找強壯的士兵。&#10;&#10;格林激光炮則適合用作戰鬥機的機載炮，其三組強力激光能輸出遠優於傳統機載炮的傷害。由於它的體積和重量都比較大，整體大部分都可採用傳統物料，反常理地比步兵武器更易生產。我們己經升級現有的機載炮，你只要知道現在它們更強。</Data></Cell>
    </Row>
@@ -178,7 +178,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PulseLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">脈衝激光</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/heavylasers</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">脈衝激光的目的是令每發都能做成最大傷害，用強力激光從遠處對防護周全的敵人作出重大打擊。&#10;&#10;除了增大激光發射器，我們也研發了振盪激光的技術，每秒轉變強度幾千次。目標不再承受持平的熱照射，而是高速衝擊的&quot;熱周波&quot;，令物料迅速裂解。面層解離後，衝擊只會變得更有效，因此脈衝激光比一般激光有更優異的貫穿力。&#10;&#10;我們開發了車載用的小型版，立刻就能裝在獵手戰車上。內建的電池足以驅動好幾發，應能顯著提升裝甲車的戰鬥力。大型版則升級基地的防禦陣地，直連基地的發電機，應能大大提升迎擊來犯外星飛船的火力，減低登陸部隊的搶攤機率。升級工程早已動工，等你讀到這篇報告的時候應該已經完成。未來新建的陣地會直接應用激光科技（直到我們有更好的炮）。</Data></Cell>
    </Row>
@@ -186,7 +186,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.wolf</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰狼戰甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/wolfarmour</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ARM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">&quot;灰狼&quot; Wolf 戰鬥裝甲直接取代豺狼戰鬥裝甲，利用異型合金的神奇特性給你的手下提供額外保護。每一套戰甲都需要花可觀的金錢和異型合金去製作，但應該會大大提升我們的地面作戰能力。&#10;&#10;灰狼戰甲包括幾個部件：連強化護目鏡的裝甲頭盔，分量十足的胸甲，裝甲護肩、護肘、護膝，防彈手套，防彈靴，及一套防火戰鬥服。整套合起來能提供周全的強力保護。一厘米厚的胸甲可以擋下零距離發射的.50cal彈，等同在胸口掛著三寸厚的鋼版。裝甲板和戰鬥服都織有一層高密度超導體線網，能吸收能量武器的熱量發散到整套護甲，提升士兵的存活率。&#10;&#10;唯一沒有提升的是士氣；打從侵略開始我就沒見過那些苦力笑，連強顏歡笑都沒。他們肯定不知道實驗室的工作可以有多艱苦。做人該知足感恩。</Data></Cell>
    </Row>
@@ -202,7 +202,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">非致命武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/stunweapons</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異究完異型的生理後，我們就能找方法令牠們暈倒，方便帶回來作進一步審問。可行的方法大約有三種，對人對異型都同樣有效：&#10;&#10;一是重擊受害者的腦袋或神經系統，可以是直接敲打也以是爆炸所產生的爆風。很明顯這既原始又不可靠，特別是對上斯巴蜥人等強壯的異型，不過有時還是會碰巧發生。二是令受害者缺氧，令腦袋無法保持清醒。吸入過量濃煙會有此後果，但用一種特制的&quot;迷暈氣體&quot;會更有效。這氣體會短暫性綁定血液裡的輸氧蛋白質，大量吸入會導致身體短暫缺氧但又不至於死亡。&#10;&#10;三是用高壓電流干擾受害者的神經系統，使牠暈倒。這方法非常有效，但也很高風險，因為只有近戰武器可以放出所需的高壓電。我的團隊設計了近距離敲倒敵人用的電擊棍，以及可以隔一段距離投放的迷暈手雷和迷暈火箭彈。無論選用那一種，只要你能把珍貴的實驗對像抓回來就沒有問題。</Data></Cell>
    </Row>
@@ -226,7 +226,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.corsair</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-37 海賊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/corsair</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-37 &quot;海賊&quot; Corsair 是首架專為對付幽浮而設計戰鬥機。我們在機體中大量採用了異型合金，其餘部分也精心挑選較為抵抗異型武器的物料，結果就是比 F-17 神鷲更快、更耐打，但纏鬥能力一樣優秀的新代戰機。它不能攜帶重型飛雷，所以還不能取代 Mig-32 狐步。&#10;&#10;就各方面而言，海賊都只是演化而不是進化。即使聰明如我，要在這麼短時間之內重新設計一整架戰機依然難比登天。因此大部分的數值提升源自更高效的異型物料或製程。要數突破的話有兩項，首先是可變後掠翼設計，既提升了低速的機動性也能優化高速的表現。第二是全新的 ER-3 異能晶脈衝渦輪引擎，提供的推力比現有的渦輪引擎多一倍。將所有改進合起來之後，雖然海賊因裝甲關係比神鷲更大更重，但依然能用時速 3,000 公里的速度巡航。&#10;&#10;建造一架海賊需要大量的時間、金錢、和異型合金，但我絕對相信傳統戰機會隨著戰爭升溫而迅速落伍。</Data></Cell>
    </Row>
@@ -234,7 +234,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.SCIMITAR</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">彎刀裝甲車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/scimitar</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VH</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">我們終於完成了 VH-2 彎刀的設計。它是一輛遙控的戰車，能近距離支援我們的地面部隊。雖然比獵手裝甲車慢，不過戰鬥力卻青出於藍。它比獵手堅固許多，配備脈衝激光炮塔（可以隨我們的武器技術升級）。&#10;&#10;彎刀的車體較扁而堅固，減低截面並為戰車的引擎提供充足空間。引擎採用 ER-4 異能晶脈衝引擎，是海賊的 ER-3 異能晶脈衝引擎的縮小版。炮塔直接從引擎獲取能源，省卻炮塔的彈倉，省下的空間用來裝傳感器。車內的半智能異型電路能代控制員處理多項簡單的工作，令控制員能坐在安全的基地。我甚至親自給運輸機安裝了訊號放大器，確保控制員即使在千里以外都能身歷其景。理所當然地，至今為止的測試都表明我的系統是完美的。&#10;&#10;拿走駕駛員有幾大好處。首先是駕駛座和空調的空間可以拿來換裝甲，當然是異型合金裝甲。由於戰車是個顯眼的目標，這些裝甲非常重要。第二就是將有血有肉的角色換成一塊鐵（即使是很貴的鐵）也許能減輕你在戰場上的決策壓力。</Data></Cell>
    </Row>
@@ -242,7 +242,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ElectroshockGrenade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">電擊手雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/shockgrenade</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">研究異型航電不單止教導了我們如何模仿它們，也教導了我們如何摧毁它們。這其實是場意外；我的團隊不止一次用過大的電流燒燬異型的電子系統，而你的工程師也親身示範了肉身承受這些高壓電流會如何暈倒。我當時並不覺得這有甚麼好笑的，但這些經驗現在能派上用場。&#10;&#10;讓我向你介紹電擊手雷。它不會爆炸，但會產生一度巨大的電磁脈衝，對範圍內的機械單位做成頗大的電磁傷害，而有生單位則做成暈眩傷害。由於不涉及爆炸，景物會完全不受影響。這手雷的暈眩效果比不上電擊棍，但也不用近身肉搏。這應該能令你的人如釋重責；我注意到負責抓活口的那些士兵特別士氣低落。&#10;&#10;電擊手雷也很適合用來對付機械單位，因為電磁脈衝會完全無視目標的裝甲，直接燒燬裡面的電子系統。雖然實際的傷害不算很高，但用來對付重裝甲的外星無人機總比槍彈好。</Data></Cell>
    </Row>
@@ -250,7 +250,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.buzzard</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">狼鷲飛行裝</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/buzzardarmour</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ARM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">狼鷲飛行裝是灰狼戰甲的變體，側重機動性高於防護力。它內建一套跳躍裝置，讓戰場上的士兵進行垂直機動。改良的裝甲版犧牲少許防護力換來輕量化，讓士兵帶更多裝備上戰場。&#10;&#10;跳躍裝置就是那具顯眼的背包，裡面有一副微縮版異能晶反應爐，驅動雙肩上的一對推進器，及零碎的陀螺儀飛行管制系統和其他傳感器。雖然這跳躍裝置不足以維持長期飛行，但要懸浮一段短時間絕對沒有問題。即使沒受過機師訓練的人都可以操作它，用手套上的觸控盤就可以改變航向。不過這也意味著在飛行期間他們不能操作武器。從異型的多角度推力裝置複制而來的向量推力噴嘴提供精細的操控及自動穩定功能。&#10;&#10;想當然，在戰場上&quot;跳&quot;上屋頂或跨過障礙物的能力會很有用，特別是在偵察和狙擊方面。但經常遭受敵人炮火的士兵最好繼續用保護性較好的灰狼。</Data></Cell>
    </Row>
@@ -290,7 +290,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasmaweapons</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">從戰爭一開始我們就在研究虜獲的異型等離子武器，但一直都無法複制它們。 隨著我們漸漸深入理解異型科技，我們終於獲得足以抄襲的技術。突破點是我們終於能正確地複制重力子發射器。&#10;&#10;研發過程沒甚麼好說的；我們對等離子產生器和負責成形的電磁鐵都已經深入瞭解，所以剩下的就是不斷地盲目試驗，直到找出三者能連成一體的配置。進一步調整它們的體積和相對距離就能射出特性各異的等離子束，做出不同的一系列武器。跟激光武器一樣，我們參考了現有的射程和準確性，縮減適應所需的時間，所以主要是傷害方面的升級。&#10;&#10;最後就是，我最近發現諾貝爾獎只拒收抄襲人類的科學發現，盜自外星生物的話就沒有問題。我現在能拿下最少六個獎，希望你能用新的等離子武器好好保衛斯德哥爾摩直到戰爭結束好讓我後過去領獎。</Data></Cell>
    </Row>
@@ -306,7 +306,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">D-42 伯勞鳥</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/shrike</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">D-42 &quot;伯勞鳥&quot; Shrike 是一架垂直升降的航機，揉合了直昇機的即場起降能力及傳統飛機的速度和效率。它能完全取代 CH-48 查理，飛得更快、載員更多。它也更適合都市行動；在鬧市中降落一架巨型直昇機幾乎是自尋死路，我們的運輸機到目前為止都沒變成一堆廢鐵只能證明機師的技術爐火純青。&#10;&#10;伯勞鳥的機體四方而粗壯，雖然難看但很實用。它由一對可旋轉的 TF-19 渦輪風扇驅動，能進行超音速巡航，抵步後能垂直起降。支持這對渦輪風扇的是兩件體積不小的 ER-12 異能晶反應爐，足以讓滿載的伯勞鳥飛好幾日。但我們還是很限制它的航程，以免機師過勞。&#10;&#10;最重要的是新引擎提升的載重。跟 CH-48 查理相比，伯勞鳥的裝甲機艙能運送十名全副武裝的士兵（多了兩名），而前後兩面的開口也帶給士兵更多進出的選擇。即使是比我蠢的人都應該能理解多帶四分一的部隊的優勢。</Data></Cell>
    </Row>
@@ -330,7 +330,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.predator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">獵戶突擊裝甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/predatorarmour</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ARM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">S-2 &quot;獵戶&quot; Predator 突擊裝甲是一套自帶動力的個人外骨骼，專為重火力突擊而設。它有超卓的保護力，並能輔助重型武器的使用，免卻回彈力的限制也不會削減機動力，將穿載者變成所向披靡的人型坦克。&#10;&#10;獵戶的主要裝甲足足有一寸厚，用強化的異型合金一體成型，而關節位也用上多層連鎖的薄甲板確保防護力。即使是最薄弱的地方也有最少一厘米裝甲。背部裝甲整合了 SA-16 單人異能晶反應爐（幾乎可以永久地全力操作這套裝甲）及密閉式循環呼吸器，保障穿載者完全免受環境毒素侵害。傳統的保護力指標已經無用武之地，獵戶甲可以直接踩入熔岩或抵受輕量的原子彈攻擊而不會有實質損傷。&#10;&#10;本甲載有強力的伺服馬達，給穿載者等同兩三倍於常人的力量。因此重武器可以當作正常武器使用，命中率不受移動或回彈力影響。也不用擔心超載，即使是最重的戰術負荷都難不倒獵戶。甚至不用擔心牆壁：本裝甲的分量足以直接衝破大部分牆壁而不影響戰力。&#10;&#10;不過缺點也是有的。密閉式的頭盔降低了空間感和週邊視野，等同揮之不去的管狀視力。獵戶的厚重手套亦難以操作我們的大部分武器；重型武器不難改裝，不過輕武器、手雷、電擊棍、突擊盾等免問。跟真的坦克一樣，獵戶需要步兵支援才能發揮全力。</Data></Cell>
    </Row>
@@ -346,7 +346,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.sentinel</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">衛士戰衣</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sentinelarmour</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ARM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">S-6 &quot;衛士&quot; Sentinel 戰衣是多用途的戰術外骨骼。它的保護能力不及 S-2 獵戶 外骨骼，但繼承了狼鷲的跳躍裝置，也保留了使用各種武器的能力。新形的頭盔裝有獨特的全景視像系統，帶給穿載者 360 度視角。&#10;&#10;衛士有數以千計的微形感測器，偵察及輔助穿載者的動作，令它像一層皮膚多於半調子的裝甲。它支持人類能做到的所有動作，毫不設限，只會進一步提供強化的力量及保護。頭盔連接一套密閉式循環呼吸器，完全不用懼怕濃煙或毒氣。連接眼罩的感應器和鏡頭則給穿載者前所未見的戰場觸覺。跳躍裝置不再用狼鷲的迷你噴射引擎，改用異型的反重力技術，即使加上反應爐後體積還是縮減了。&#10;&#10;不過這程度的精細工藝絕對做不到獵戶的防護力。獵戶那相對原始的設計始終能吸收較多傷害，依然是突擊的首選，但在其餘情況下衛士甲比較有戰術彈性。兩者混合使用就能互補不足，一起為戰場護甲的發展劃下完美的句號。</Data></Cell>
    </Row>
@@ -354,7 +354,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">電磁武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/magweapons</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">當你考慮到我們的等離子技術恐怕永遠無法超越異型的，要勝過牠們就需要新思路。而有時新思路的最佳來源是走回頭路。電磁武器是揉合異型的先進合金及地球的彈道武器技術所做的電磁線圈武器。&#10;&#10;這種槍又稱高斯槍或線圈槍，早於一百年前已經有此概念，主體是一組連續發功的電磁鐵，將子彈沿槍管推到致命的極速。這跟異型的等離子武器有很多相似之處，不過等離子武器的電磁鐵只是一個過程，而線圈武器的重點根本就是電磁線圈。很多等離子武器的技術都能沿用，而且好處多多。例如說，能量武器主要做成熱能傷害，很容易被大氣等因素吸收/反射/散發掉。一滴雨水又怎能擋以五倍音速飛行的鐵塊？&#10;&#10;現階段的電磁武器有手槍、霰彈槍、步槍、狙擊槍四種，可以被士兵輕易攜帶，但都能將用異型合金做的彈頭推到超音速。它們幾乎一定會是地球上最強的步兵武器；如果進一步提升槍口初速，空氣阻力的高溫會引爆彈頭後面的空氣，高機率殺傷發射武器的士兵。現在我們的武器發展到了一個極點，受大氣所限大於受技術所限。</Data></Cell>
    </Row>
@@ -362,7 +362,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-120 天怒</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fury</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-120 &quot;天怒&quot; Fury 戰鬥機是終極的空戰武器。這架無人機有近乎無限的航程，速度和爬升極限能追上任何幽浮，亦能甩掉任何幽浮。它的巡航速度逹 8 馬赫（約每小時 10,000 公里），前往地球的任一點都花不超過兩小時。武器只有一項，就是單一支超重型的奇點飛雷。&#10;&#10;天怒的設計受高度機密的 SR-71 &quot;黑鳥&quot; Blackbird 影響，其極高的速度和高度基本上完全免疫傳統武器（不過以我們的戰力，要對付地球的軍隊綽綽有餘）。天怒的設計經進一步改良和進化，包括移走機師及機師所需的所有維生裝置。一套自動化的飛控系統會用感測器的數據時刻對比任務目標，確保任務以最快最安全的方式完成。引擎是 增壓噴射/衝壓噴射/超音速衝壓噴射 的三段式設計，分階段將戰機推至極速。&#10;&#10;當速度達到 4 馬赫時兩個超音速衝壓噴射引擎就會啓動，各提供 75,000 磅的出力，將天怒迅速推至 8 馬赫。在此速度下空氣阻力會將航機的表面燒到攝氏 4,000 度，以地球的技術只能用需要每次替換的太空船隔熱磚去阻隔。不過，這對硬化過的異型合金完全不是問題，根本不會構成磨損。因此天怒可以常常保持極速，幽浮的武根本打不到。不幸的是因此武器也要重新設計，迎合超音速條件下的發射，除此以外的所有武器都不能用。這項特殊武器就是超重型奇點飛雷。&#10;&#10;想當然耳，這些怪獸級的引擎和先進的飛控系統都會消耗龐大的能量，只有奇點爐可以滿足需求。因此每製作一架天怒都要先虜獲一隻異型的主力幽浮。</Data></Cell>
    </Row>
@@ -370,7 +370,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">奇點飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/singularitytorpedo</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">奇點飛雷是史上最具破壞力的人造武器。它發出的球體能量會將半徑五公里以內的所有物質立刻還原成基本原子；被這玩意打中的幽浮不會剩下任何渣滓。由於它是為超音速發射而設，只有我們的 X-120 天怒戰鬥機能使用它。&#10;&#10;這武器的巨大破壞力源自奇點爐的無窮能量：維持奇點的粒子場也可以用作儲存能量，一度的新粒子場可以從奇點爐獲得能量，等粒子場被打破時就會釋放。這就是本飛雷的彈頭，充能之後可以完全毁滅爆炸範圍內的任何東西。事實上為此開發了利用它所存的能量做出副粒子場的技術，以此限制爆炸的範圍；沒有這度副粒子場的話，有一個微小（但不能忽略）的機率會毁滅整個地球。&#10;&#10;其餘部分相對簡單；主推進器是超音速衝壓引擎，能以 15 馬赫（約每小時 20,000 公里）飛行 30 秒。這樣不單止容許超音速飛行中的天怒發射它，而且只能被這樣發射。這引擎要 4 馬赫或以上才能開始運作，其他戰鬥機根本逹不到。</Data></Cell>
    </Row>
@@ -378,7 +378,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.marauder</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-59 賊王</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/marauder</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-59 &quot;賊王&quot; Marauder 是設計來攔截所有已知幽浮的先進戰鬥機。又快，又耐打，又高火力（一支機載炮、兩支飛彈或飛雷），還能進行迴避翻滾。它既能打靈活的空戰幽浮，也能截擊大型主力幽浮。&#10;&#10;性能的最大改良源自抛開飛機的傳統設計。賊王的機體整合了強力的推力陣列提供舉升和推進，粗壯的前掠翼則主要提供機動力。這對主翼對戰機的靈活性貢獻很大，不過被炸掉也不影響飛行。尾部的穩定翼也一樣，傳統的垂直尾翼換成了新穎的鈄角設計。&#10;&#10;去除了大部分的氣動力顧慮，我們可以專心提升戰鬥效能。它的裝甲&quot;外殼&quot;完全由強化過的異型合金制成，最厚有四寸，像飛行坦克多於普通戰鬥機。增大的引擎出力讓它可以同時攜帶機炮和飛雷，比前代都更為面面俱圓。綜合以上的賊王粗大、難看、會破壞所遇上的一切事物（跟我們的工程師一樣）。</Data></Cell>
    </Row>
@@ -386,9 +386,9 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HYPERION</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">太陽神浮空坦克</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/hyperion</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VH</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">太陽神是在戰鬥區域內支援異族航員部隊的浮空坦克。它採用異型的反重力科技，永遠浮在空中一米高左右，能穿過水面等障礙地型。&#10;&#10;太陽神的戰鬥力遠大於它所取代的彎刀，有更高的機動力，駛得更快，採用強化異型合金提升硬度、減輕重量。懸浮設計給它一個比接地車輛更穩定的射擊平臺，加上升級的射控系統，令它不論遠近目標都有優異的命中率。雖然只有現代戰車的一半一小， 這些飄浮物可以獨力打敗一整個裝甲排。&#10;&#10;飄浮效應由反重力裝置產生，當啓動時會將坦克的有效重量減到幾百公斤（而關閉時它就是六噸重的固定鐵塊）。一個小型噴射引擎提供向量推力，產生滑移的效果並令狹窄空間下的精細操作變得可能。內置的 AR-6 反應爐需要大量異能晶去製作，但足以維持反重力效果超過一年。到那時這場仗都應該打完了，不管是贏是輸。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">太陽神是在戰鬥區域內支援異種航員部隊的浮空坦克。它採用異型的反重力科技，永遠浮在空中一米高左右，能穿過水面等障礙地型。&#10;&#10;太陽神的戰鬥力遠大於它所取代的彎刀，有更高的機動力，駛得更快，採用強化異型合金提升硬度、減輕重量。懸浮設計給它一個比接地車輛更穩定的射擊平臺，加上升級的射控系統，令它不論遠近目標都有優異的命中率。雖然只有現代戰車的一半一小， 這些飄浮物可以獨力打敗一整個裝甲排。&#10;&#10;飄浮效應由反重力裝置產生，當啓動時會將坦克的有效重量減到幾百公斤（而關閉時它就是六噸重的固定鐵塊）。一個小型噴射引擎提供向量推力，產生滑移的效果並令狹窄空間下的精細操作變得可能。內置的 AR-6 反應爐需要大量異能晶去製作，但足以維持反重力效果超過一年。到那時這場仗都應該打完了，不管是贏是輸。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
@@ -410,7 +410,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">核融彈頭</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fusionwarheads</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">純綷的核融合不難增大，要做出空對空導彈易如反掌。我們已經在給航機升級到核融飛彈和核融飛雷。&&#10;&#10;這些核融武器做成的傷害比等離子彈頭大，其餘表現則差不多。飛彈的當量約五百噸，飛雷約兩千噸，雖然不算大但我們要的也不是核彈式大殺傷武器。設計沿襲山崩所用的高爆反裝甲彈頭，爆炸的能量會集中向前方噴射，貫穿幽浮的外殼。&#10;&#10;要逹成此效果，兩種導彈都在彈頭前裝有高密度的鋨制圓錐。爆炸會將圓錐汽化，化成一串超音速粒子流。它的破壞力頗為可觀，但主要目的是破壞幽浮的耐熱表層，令緊接而來的熱衝擊波更有效。不得不讚一下我的這設計。</Data></Cell>
    </Row>
@@ -418,7 +418,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">突擊盾</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/assaultshield</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">突擊盾是戰鬥盾的升級版，應用強化的異型合金大幅提升耐久力。它的用法維持不變：抵擋、吸收迎面而來的攻擊。&#10;&#10;強化異型合金的耐熱性和抗衝擊力大大提升了抵擋的能力。製作方形的盾並不困難，所以主要的取捨是要計一個較便的盾還是維持重量但提升保護。你的手下幾乎全部支持後者，而突擊兵的高死亡率也提供了數據支持。結論是突擊盾應要能抵受大部分異型等離子武器的數擊，最好能撐完一場任務。&#10;&#10;當然，突擊盾會佔用一隻手，持盾的人只能拿手槍。請記著盾不是萬全的，露出盾外的身體部位總有機會被打中。</Data></Cell>
    </Row>
@@ -434,15 +434,15 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">D-54 女武神</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/valkyrie</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">D-54 女武神 Valkyrie 突擊艇是終極的運輸船，有強大的運載能力及優良的速度和航程。&#10;&#10;女武神的設計運用強化異型合金的高硬度做出一個空曠的輕量機倉，以往用鋁是做不到的。配上一對強力噴射引擎及 A-23 異能晶脈衝反應爐，我們就有了能載十二名士兵或同等戰力的運輸機。考慮到我們的戰車和戰甲越來越重，這並不是易事。載著這麼多都能用時速 2,000 公里航行只是錦上添花。&#10;&#10;出於航母幽浮的電磁發射管可以將異族航員單位投放至著陸區的任何地方，以便開展戰鬥。雖然空降倉看上去其貌不揚，但卻是一大突破。投射之後，每個倉都會發出隱型的等離子場保護乘客，並以音速的幾倍速度劃過天際。離地幾百米左右，緩速火箭會發射，將空降拖到安全的速度。等離子場會在著陸的一刻散去，允許乘客離開。&#10;&#10;被以時速一千米射向戰場可能會令你的士兵感到不快，不過他們要習慣一下；我看不出運輸船的技術還有甚麼改善的空間，所以女武神應該是我們的最終設計。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">D-54 女武神 Valkyrie 突擊艇是終極的運輸船，有強大的運載能力及優良的速度和航程。&#10;&#10;女武神的設計運用強化異型合金的高硬度做出一個空曠的輕量機倉，以往用鋁是做不到的。配上一對強力噴射引擎及 A-23 異能晶脈衝反應爐，我們就有了能載十二名士兵或同等戰力的運輸機。考慮到我們的戰車和戰甲越來越重，這並不是易事。載著這麼多都能用時速 2,000 公里航行只是錦上添花。&#10;&#10;出於航母幽浮的電磁發射管可以將異種航員單位投放至著陸區的任何地方，以便開展戰鬥。雖然空降倉看上去其貌不揚，但卻是一大突破。投射之後，每個倉都會發出隱型的等離子場保護乘客，並以音速的幾倍速度劃過天際。離地幾百米左右，緩速火箭會發射，將空降拖到安全的速度。等離子場會在著陸的一刻散去，允許乘客離開。&#10;&#10;被以時速一千米射向戰場可能會令你的士兵感到不快，不過他們要習慣一下；我看不出運輸船的技術還有甚麼改善的空間，所以女武神應該是我們的最終設計。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFirePlasmas</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">速射等離子</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/rapidfireplasmas</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">現在我們有了等離子版的輕型步兵武器，但還沒有對等的速射武器例如機槍或機載炮。為此我們設計了步兵用的等離子噴射器和機載的等離子噴射炮去填補這空隙。&#10;&#10;兩者都利用大型的產生器陣列去持續噴出大量等離子。一般情況下這樣的等離子流難以聚焦，很快就會消散，導玫短射程及低下的貫穿力。我們的解決辦法是在槍管裝上一圈五個的重力子發射器。它們會逐一連環發射，為等離子流注入重力子，將它分割成獨立的等離子束。&#10;&#10;效果上這等同將傳統武器的高射速跟等離子武器的高傷害合二為一。為了對抗外星生物，兩者都是實用的升級。</Data></Cell>
    </Row>
@@ -450,7 +450,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子集束炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasmabolt</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VHW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子集束炮是發射爆炸性等離子團的重型武器，能對目標和附近範圍做成嚴重破壞。基地中的防禦陣地已經升級，但也可以主動給戰車換裝。&#10;&#10;武器的等離子產生器採用步兵武器的升級版，用盡建築或戰車所提供的每寸空間。為了提升出力，其餘部分也都按各自的需要增大了，例如異能晶電池的就加得特別大以增加裝彈量。車載的集串炮幾乎有步槍的兩倍大，破壞力和貫穿力都大大提升。&#10;&#10;作為基地的點防禦系統也一點兒不失色；我們給等離子束加了扭轉力，令它能飛行好幾公里而不會偏遠太遠。否則，螺旋形電磁鐵所添加的旋轉力只能維持一百米左右（作為對空武器形同虛設）。但我們發現可以在槍口加上第二組重力子發射器，跟原來的一組配合，發出成對互相環行的重力子。這樣就能令整束等離子一直旋轉，保持穩定的彈道逹幾公里之遠。</Data></Cell>
    </Row>
@@ -458,7 +458,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子彈頭</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasmawarheads</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">新開發的等離子彈頭是新一代的先進空對空武器，可以完全替換現有的異能晶彈頭。&#10;&#10;現有的異能晶彈頭絕對不弱，不過始終依賴熱爆炸去穿甲，要對付為進入大氣層的高熱而設的裝甲實在不太理想。比較有效的方式是在爆炸前用異能晶的能量驅動小型的等離子產生器，形成一股高能等離子團。效果就如同利用一個等離子&quot;鑽頭&quot;借助火箭的動能去溶解、穿透裝甲。&#10;&#10;異能晶所剩的能量就繼續用來爆炸，跟之前的彈頭一樣。但由於貫穿力的提升所以破壞力也增加了一半左右。其他數值基本不變；我們可以直接無視成本量產新彈頭並換裝現有的導彈。我已經代你指示我們的戰機升級武裝。</Data></Cell>
    </Row>
@@ -482,7 +482,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">速射電磁彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/rapidfiremag</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">重近動能武器頗令人心曠神怡。人類用了它們幾千年，我覺得人類跟它們特別親切。電磁武器科技的細節非常複雜，跟傳統彈道武器很不同，不過兩者依然有共通的基礎理論。&#10;&#10;多槍管設計是其中一項，對以往的速射武器都貢獻良多。它被再次應用於我們的最終武器：電磁風暴，一種用暴雨般的超音速子彈徹底毁滅目標的武器。它有四根槍管，每根的電磁鐵都比標準的電磁武器多扭一倍的圈。更多的圈可以更用力推動子彈，但我們沒有這樣做，而是將線圈分給兩粒子彈。於是每支槍管能同時推動兩粒子彈，而不減破壞力。&#10;&#10;這技術同時適用於低口徑的步兵武器和大口徑的機載武器。這是我們的終極速射武器；你的手下已經急不可耐想要它。</Data></Cell>
    </Row>
@@ -490,7 +490,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">磁軌炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/magrailgun</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VHW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">磁軌炮是我們能裝在戰車上的最強武器，發射口徑可觀的超音速彈頭。放到防禦陣地也很適合，作為唯一能打穿主力幽浮的重裝甲的地面武器。&#10;&#10;磁軌炮不同於電磁炮，並不採用線圈。取而代之，磁軌炮用一對正負兩極的電磁軌道推進炮彈。炮彈處於中央，連接兩邊成為迴路的一部分，產生推動自己的電磁力，直到從炮口高速射出。實際上磁軌炮比線圈炮更複雜，但效率更好，可以逹到更高的彈速。&#10;&#10;我們的原型炮很強，甚至強到可以將炮彈打到太空軌道……只不過炮彈會被空氣阻力磨到沒意思這樣做。但它依然是很有的武器，可以一炮摧毀大部分目標，並產生大爆炸去破壞附近的任何東西。我們已經升級了基地的防禦陣地，大大提升了火力。從某角度而言只可惜地球有大氣層，否則現在我們可以直接轟爆軌道上的幽浮艦隊。</Data></Cell>
    </Row>
@@ -498,7 +498,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">獵手裝甲車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/hunter</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VH</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">&quot;獵手&quot; Hunter 偵察戰車是一輛小型的裝甲車，能在地面戰鬥中協助偵察和提供火力支援。它會佔用運輸船的兩名運載配額，但比士兵耐打、快速、視界遠。&#10;&#10;獵手改裝自 Daimler Ferret 裝甲車，少數夠輕夠細能以戰備狀態用查理運輸機載送的戰車，即使每次只有足夠空間帶一輛。&quot;偵察車&quot;不是瞎說的；獵手不是主戰坦克。任何能被直昇機運送的戰車都不會有重裝甲，而獵手也不例外。不過更換裝甲版總比士兵養傷快，使用得宜的話它很適合在戰場上作為偵察用。&#10;&#10;獵手裝備有雙 .30 口徑機槍，威力不錯但命中率不過爾爾，適合壓制敵人多於直接攻擊，所以獵手比較適合作為士兵的支援。但如果你想升級它的火力，你的工程師說過也可以將炮塔換成火箭炮，但這樣就大概不會剩下甚麼給我的團隊研究。&#10;&#10;你可以去工房下令開始制作獵手。提醒那幫粗人要照足藍圖做，一分都不能偏；如果他們能理解設計動機的話就該是在實驗室工作而不是工房。</Data></Cell>
    </Row>
@@ -506,7 +506,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.jackal</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">豺狼戰甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/jackalarmour</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ARM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">&quot;豺狼&quot; Jackal 戰鬥護甲給我們的士兵提供額外保護，但會增加他們的負重。也許它不適合所有情況，但在大部分情況下多點存活率都是好事。&#10;&#10;用虜獲的異型等子武器所做的實驗顯示傳統護甲對能量武器基本上等同無效，因為它們的設計是抵擋動能衝擊而不是熱衝擊。因此我們測試了一套用不防彈的抗熱陶瓷板做的戰術背心，效果不錯。這陶瓷能承擔及散發熱能，足以提升存活率，即使無法完全防止傷害。&#10;&#10;提升防護率的代價是它重量不輕，會減少彈藥等其他戰鬥裝備的攜帶量。受到攻擊的護甲會快速衰敗，所以不能抵禦多次攻擊。它也不一定能提供保護：當面吃一槍的話身穿甚麼都沒有用。不過那總比沒有好，你現在就能去工房下令開始制作豺狼甲。</Data></Cell>
    </Row>
@@ -514,7 +514,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶炸彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/aleniumexplosives</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">在幽浮內搜到的異能晶大都是動力爐用剩的殘餘物，沒有作為燃料的價值。這些劣質異能晶只能燒幾分鐘，而全新的異能晶可以燒數小時。但我想到一個方法利用這些不愁供應的廢棄物：用來做爆炸物。&#10;&#10;異能晶渣滓所含的能量依然高於同等分量的黃色炸藥。我的團隊計了改良的高爆火箭彈和破片手雷，換上異能晶炸藥後破壞力提升了約一半。由於材料充足，基本上可以無限量供應。你的手下頗為著迷：他們花了很長時間測試，長到測試場需要進行結構維修。&#10;&#10;新武器的原理非常簡單：一塊異能晶權充炸藥，當被觸發時就將它的能量釋放。火箭彈的彈頭足夠大，會做成大爆炸。手雷則會將鋼殼化成玫命的破片雲。注意的是它們炸的不止是異型，也包括異型的外星裝備。被炸死的異型連屍骨都不全，更妄論手持的裝備。</Data></Cell>
    </Row>
@@ -522,7 +522,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶彈頭</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/aleniumwarhead</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">劣質的異能晶也適用於戰鬥機的導彈。這比步兵武器複雜少許，因為對空彈頭既要爆炸力也要貫穿力。不過我們還是成功了，而且由於新彈頭兼容現有的彈體，我們已經升級了戰鬥機的武裝。&#10;&#10;為了提升貫穿力，我們在異型塊頂部裝了個小型激光發射器。藉由調整激光的發射模式，我們可以控制爆炸的形狀，將爆炸力聚焦到任意方向。我們沒時間去試驗怎樣的形狀最有效，所以我們簡單地確保爆炸力會集中向前，而不會無謂地四散。雖然原始但有效。&#10;&#10;異能晶飛彈直接取代替代我們的響尾蛇輕型空對空飛彈，而異能晶飛雷則取代山崩重型飛雷。後者適宜攻擊笨重、無法滾轉迴避的幽浮。飛彈的傷害力較低，但較易命中靈活的小幽浮。兩種導彈都只涉及更換彈頭，應該不會影響目前的空戰戰術，只會降低難度。</Data></Cell>
    </Row>
@@ -530,7 +530,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子炸彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasmaexplosives</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">拿異型反應爐能跟動力爐相比，反應爐能從同一塊異能晶中抽取更多能量。雖然我們不能直接將反應爐做成炸彈，但它示範了能如何提升能量效益。&#10;&#10;直接引爆劣質異能晶的效果還算不錯，但始終比較原始，很浪費。爆炸的熱能會浪費到加熱空氣，高熱阻的空氣。作為武器，用這些能量去產生等離子團會比較有效。為此我們開發了微型的等離子產生器。等離子團會推開週圍的空氣，而不需透過空氣傳遞能量，省下耗在熱阻上的能量就可以增加爆炸的破壞力。 &#10;&#10;我們設計了等離子手雷及等離子火箭，取代現有的異能晶爆炸武器，以及等離子炸彈取代現有的 C4 炸藥包。這些等離子爆破物幾乎可以供限量供應，我們已經直接廢除了舊的版本。為了減低對戰術的影響，只有傷害增加了，其餘一切不變。</Data></Cell>
    </Row>
@@ -538,7 +538,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">核融炸彈Fusion Explosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fusionexplosives</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">傳統的二段式原子/氫彈的大部分爆炸能量來自第一階段用來啓動核融合的的核分裂爆炸，而不是來自核融合反應。不幸地這核分裂也會做成久久不散的輻射污染。&#10;&#10;純綷的核融合更細、更乾淨、更致命。只有不顧士兵死活的指揮官會給部隊配給短程核聚變武器...但迷你的純核融合就不同了，完全適合作為戰術武器用。它們不單止強，而且能將爆炸範圍限制到不會炸到使用者，也可以在友方的地上安心使用而不會留下核輻射。&#10;&#10;要做到這點就需要用其他方法獲得足夠大的能量，能令彈頭內的重氫和氚產生核聚變。新的技術能從劣質異能晶提取足夠能量，讓我們為你的手下設計出純核融合的火箭彈和手雷，比等離子的更強。切記提醒他們佩帶新配給的黑色護目鏡。雖然載護目鏡不好看，但視網膜燒傷也不好受。</Data></Cell>
    </Row>
@@ -546,7 +546,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">獵手&quot;毒蛇&quot;炮塔</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/huntermissiles</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員戰車武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">VHW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">&quot;毒蛇&quot; Viper 火箭炮塔是獵手偵察戰車的另一炮塔選擇，可以取代 .30 口徑雙管炮塔並大大提升戰車的火力。&#10;&#10;它所用的高爆火箭改裝自輕型的空對空飛彈，爆炸範圍不廣但依然能做成可觀的大範圍爆焰，適合用來爆破建築物，但也可以直接攻擊較弱的異型。缺點有二：首先是獵手只能攜帶八發火箭。其次是爆炸會炸毀本來能回收到的異型裝備。&#10;&#10;不過很多時士兵的名會比回收更重要。你可以隨時去車房指示換裝。</Data></Cell>
    </Row>
@@ -865,23 +865,23 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.f17</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">F-17 神鷲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/f17</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">F-17 &quot;神鷲&quot; Condor 是異族航員的主力戰鬥機，是衍生自 F-16 戰隼的多用途纏鬥戰機。神鷲的空戰炮適宜擊墜較小的幽浮，而所攜帶的響尾蛇導彈即使面對中型幽浮也有殺傷力。&#10;&#10;神鷲的整體性能跟它的始祖差不多，但機體改用一種特殊的鈦鎂合金制作，雖然滅少了酬載量但航程和耐久力都大大增強。這項改動是出於冰島事件後對受損的 F-4 幽靈進行的分析，當時發現了用鈦或鎂做的零件受損較輕，也許對異型的能量武器有一定的抵抗力。我們希望這種強化機體會令我們的神鷲比一般空軍更適合對付異型的幽浮。&#10;&#10;額外航程也是必需的：我們要保護幅員遼闊的土地。這些改動減少了神鷲的酬載，但它還是能帶兩發輕型飛彈和一根機載炮。這是個很有彈性的組合；響尾蛇導彈在對人類的戰鬥中證實非常有效，不過我們還不知道是不是真的能鎖定幽浮作為飛彈目標。空戰炮射程較短，但在纏鬥中應該能大派用場。兩款武器總會有一款合用。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">F-17 &quot;神鷲&quot; Condor 是異種航員的主力戰鬥機，是衍生自 F-16 戰隼的多用途纏鬥戰機。神鷲的空戰炮適宜擊墜較小的幽浮，而所攜帶的響尾蛇導彈即使面對中型幽浮也有殺傷力。&#10;&#10;神鷲的整體性能跟它的始祖差不多，但機體改用一種特殊的鈦鎂合金制作，雖然滅少了酬載量但航程和耐久力都大大增強。這項改動是出於冰島事件後對受損的 F-4 幽靈進行的分析，當時發現了用鈦或鎂做的零件受損較輕，也許對異型的能量武器有一定的抵抗力。我們希望這種強化機體會令我們的神鷲比一般空軍更適合對付異型的幽浮。&#10;&#10;額外航程也是必需的：我們要保護幅員遼闊的土地。這些改動減少了神鷲的酬載，但它還是能帶兩發輕型飛彈和一根機載炮。這是個很有彈性的組合；響尾蛇導彈在對人類的戰鬥中證實非常有效，不過我們還不知道是不是真的能鎖定幽浮作為飛彈目標。空戰炮射程較短，但在纏鬥中應該能大派用場。兩款武器總會有一款合用。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.chinook</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">CH-48 查理</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/charlie</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">CH-48 &quot;查理&quot;Charlie 是一款雙旋翼的運輸直昇機，改裝自可靠的 CH-47 奇諾克。它是異族航員的運輸船，可以將最多八名全副武裝的士兵運到地球的每一角。&#10;&#10;出於異族航員的獨特需求，查理經過重大的改裝。首先是航程大幅增強，一滿缸燃油可以飛到地球的幾乎每個角落，當地政府足夠合作的話甚至可以為它空中加油。它也換裝了更厚的裝甲，因為可以預期我們的部隊會直接跳入交火中的戰場，可能會立刻就受到攻擊。未著陸就被地面炮火打下運輸船可不是好玩的事。這些必要的改動令載客量減到八名士兵。&#10;&#10;查理很慢，完全沒有防禦能力，遇上幽浮將束手無策。如果運輸船在航行途中被擊落，你的部隊很可能會出現死傷者，所以當任務區域有危險時可以派戰鬥機加入查理的編隊為它護航。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">CH-48 &quot;查理&quot;Charlie 是一款雙旋翼的運輸直昇機，改裝自可靠的 CH-47 奇諾克。它是異種航員的運輸船，可以將最多八名全副武裝的士兵運到地球的每一角。&#10;&#10;出於異種航員的獨特需求，查理經過重大的改裝。首先是航程大幅增強，一滿缸燃油可以飛到地球的幾乎每個角落，當地政府足夠合作的話甚至可以為它空中加油。它也換裝了更厚的裝甲，因為可以預期我們的部隊會直接跳入交火中的戰場，可能會立刻就受到攻擊。未著陸就被地面炮火打下運輸船可不是好玩的事。這些必要的改動令載客量減到八名士兵。&#10;&#10;查理很慢，完全沒有防禦能力，遇上幽浮將束手無策。如果運輸船在航行途中被擊落，你的部隊很可能會出現死傷者，所以當任務區域有危險時可以派戰鬥機加入查理的編隊為它護航。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AUTOCANNON</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">空戰炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/autocannon</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">空戰炮 Autocannon 是 M61 火神式 20毫米口徑機炮的變體，是短射程、高射速的武器，適宜對付飛彈所難以命中的靈活的目標。&#10;&#10;我們的 F-17 神鷲一般都會裝載它。它能持續傷害目標，但當然需要機師先接近到射擊距離，也許會令神鷲遭受回禮。如果你想用空戰炮進行纏鬥，注意避開敵人的射界。從側面或背面攻擊的成功率會比迎頭直擊來得高。</Data></Cell>
    </Row>
@@ -889,7 +889,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SIDEWINDER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">響尾蛇飛彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sidewinder</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AIM-9 &quot;響尾蛇&quot; Sidewinder 是一種輕型的空對空飛彈。它的射程頗長，做成的爆發性傷害高於空戰炮，但只能用一次並且可能會被敏捷的飛船避開。輕型掛點和重型掛點都可以掛載它。&#10;&#10;迅速做成大量傷害的能力令它在纏鬥中非常有用，因為我們相信在近距離的戰鬥中異型的武器會比我們的空戰炮強。響尾蛇可以讓我們在進入它們的射程前先開火，給予我們先手優勢。出動多架戰鬥機組成編隊的話，也許甚至可以用一堆響尾蛇搶先擊落對手，而不用遭受還火。&#10;&#10;A 響尾蛇必需要先鎖定目標然後才能發射，只需要保持目標在機身前方並在射程內幾秒就可以。不過別忘記它們不是百發百中的，輕盈的幽浮完全可能具有迴避它們的能力。</Data></Cell>
    </Row>
@@ -897,7 +897,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AVALANCHE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">山崩飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/avalanche</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員空戰武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">&quot;山崩&quot;飛雷  Avalanche Torpedo 是種重型的空對空導彈，有非常重的彈頭。它的射程很遠，但速度很慢而且轉向更慢，只適合用來攻擊不能進行迴避動作的較大型幽浮。它只能掛在重型掛點。&#10;&#10;實際上山崩是改裝用以對付幽浮的亞音速反艦巡航導彈。它可以從遠距離發射，所設的穿甲彈頭對厚裝甲的飛船比較有效，最理想是讓攜帶的戰鬥機在進入對方射程前發射並逃走。要注意它的鎖定需時比響尾蛇長。</Data></Cell>
    </Row>
@@ -905,7 +905,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.ballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">彈道武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/ballisticweapons</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">我們的彈道武器就是傳統的火器，由我們的資助人無限量提供。輕武器有四種，以下是各種的優缺點：&#10;&#10;手槍是短射程、低傷害的單手武器，但可以迅速發射。在近距戰鬥中它算是不錯的，但主要是作為後備武器（例如狙擊手），或當士兵只有一隻空手時用（例如擲彈兵或護盾兵）。雙手各握一槍也不會帶來任何優勢，那只是幼稚的做法。&#10;&#10;霰彈槍的子彈會分裂成數個彈頭，最適合近距離戰鬥，因為彈頭不會分佈太遠能全部命中同一目標。它的發射速度很快，傷害也可觀，但長距離就沒甚麼用了。它適合作為攻堅用的武器，比其他武器能更快地打倒敵人。&#10;&#10;突擊步槍是最多用途的武器，各種距離下都有不錯的命中率並且可以連射。它的射速比不過手槍或霰彈槍，害也不如狙擊槍，但卻適用於各種戰況。常備一些步槍手作為部隊的骨幹總沒錯。&#10;&#10;狙擊槍是遠距離射擊用的，比步槍更準更高傷害，但瞄準需時較長並且不能連射。在短距離戰鬥時不太有用，但在開礦地型就是王道。</Data></Cell>
    </Row>
@@ -913,15 +913,15 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.heavyballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">重型彈道武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/heavyballistics</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員接受過兩種重武器的使用訓練，分別是機槍和火箭發射器。兩種都有回彈力，移動後才發射的話命中率會大為下降。它們也是命符其實的重武器，會佔用士兵的不少戰鬥負重，減少能帶的裝備量。&#10;&#10;機槍是向目標發射大量強力子彈的武器。它不很準確，但射程很遠適合壓制。回彈力也很高，給強壯的士兵用會比較好。在開曠的地型上或對付緊密的敵人時可以做成重大傷害，但一般情況下是作為封鎖敵人行動的支援武器使用。&#10;&#10;火箭發射器你應該已經知道了，就是發射火箭彈的武器。每支火箭彈都不輕，要逐一攜帶，但不論是殺敵還是掃平障礙物都很有用。唯一要注意的是炸死敵人通常不會留下甚麼能回收的物資。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員接受過兩種重武器的使用訓練，分別是機槍和火箭發射器。兩種都有回彈力，移動後才發射的話命中率會大為下降。它們也是命符其實的重武器，會佔用士兵的不少戰鬥負重，減少能帶的裝備量。&#10;&#10;機槍是向目標發射大量強力子彈的武器。它不很準確，但射程很遠適合壓制。回彈力也很高，給強壯的士兵用會比較好。在開曠的地型上或對付緊密的敵人時可以做成重大傷害，但一般情況下是作為封鎖敵人行動的支援武器使用。&#10;&#10;火箭發射器你應該已經知道了，就是發射火箭彈的武器。每支火箭彈都不輕，要逐一攜帶，但不論是殺敵還是掃平障礙物都很有用。唯一要注意的是炸死敵人通常不會留下甚麼能回收的物資。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.basic</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">常規護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/basicarmour</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">ARM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">常規護甲是突擊隊穿的標準裝備。它不提供多少保護，但也不會增加穿載者的負擔，也不會防礙視線。&#10;&#10;它的主要用途是遮風擋雨，及提供攜帶戰鬥裝備的空間。保護力主要來自鋼盔，能抵擋破片或飛石。目前我們對外太空的武器所知甚少，無謂用可能形同虛設的護具拖慢士兵。你的手下也評論過顯眼的藍色制服；我們懷疑異型的視力跟我們的不同，所以用不著迷彩。讓大家能一眼辨認戰友會更有用。&#10;&#10;當我們獲得異型的武器進行研究時，我們應該能設計出較為適合的護甲。在此之前就靠你的戰術才華確保士兵的安全。</Data></Cell>
    </Row>
@@ -931,13 +931,13 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/icelandincident</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">於 1958 的冰島事件，我們首次接觸外太空生命體。一隻幽浮進入亞特蘭大上空，相信是在進行偵察任務。偵察到它的北約以為是蘇聯的新型實驗機，派戰機攔截。&#10;&#10;但當能目視確認幽浮後就知道不是這回事，因為它比雷逹訊號顯示的大上許多，比較接近空中戰艦而不是飛機。嘗試溝通的結果是對方用能量武器掃射，即時粉碎一半的戰機並重創餘下的，令它們連滾帶爬地撤回基地。之後北約再派出了數隊戰機去攔截，損失了不少但卻沒能對目標做成明顯傷害。後來這艘幽浮突然更改航向要飛往美國東岸，導致決定動用核武。&#10;&#10;二十分鐘後，六粒配備核彈頭的洲際彈道導彈在冰島一處無人地帶的上空爆炸。驚人的是，幽浮沒被粉碎，只是大致完整地急速迫降。到了這時，北約別無選擇，只能向蘇聯通報異型飛船的事並請求派員協助回收它和它裡面的科技。據聞這是出於自保多於互惠互利，因為蘇聯對突然的大量核彈發射感到氣憤，幾乎就一起發射自己的核彈。&#10;&#10;雙方都派出了地面部隊去回收幽浮，但多名外星人挺過了迫降並奮力抵抗。人類軍隊傷亡慘重，但總算是漸漸將牠們迫退到墜機點一帶。接下來發生的事只有很少人知道，從結果而言就是這艘飛船發生超巨型的大爆炸，毁滅了幽浮的一切及方圓十里內的所有部隊，無人生還。爆炸後幽浮甚麼都沒剩下，親眼見過它的目擊證人只有極少數能避過此刧。&#10;&#10;不過這也方便了後續的大規摸掩飾。T不過這也方便了事後的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家卻開始合作，聯合組成完全秘密的特戰組織，集合雙方的資源和精英。它的非官方名稱是&quot;異族航員&quot;，職責是對付來犯的異型、守衛地球。結果牠們過去二十年都沒再來過，令我們看似無聊的冗員，但養兵千日用在一時，我們知道這一日總會到來。那天已經到來了，指揮官。&#10;&#10;&lt;i&gt;冰島事件的故事、爆炸的原因、倖存者如何生還等細節被記載於 Xenonauts: Crimson Dagger，一本免費的中篇小說，可以用遊戲的啓動器打開閱讀。&lt;/i&gt;</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">於 1958 的冰島事件，我們首次接觸外太空生命體。一隻幽浮進入亞特蘭大上空，相信是在進行偵察任務。偵察到它的北約以為是蘇聯的新型實驗機，派戰機攔截。&#10;&#10;但當能目視確認幽浮後就知道不是這回事，因為它比雷逹訊號顯示的大上許多，比較接近空中戰艦而不是飛機。嘗試溝通的結果是對方用能量武器掃射，即時粉碎一半的戰機並重創餘下的，令它們連滾帶爬地撤回基地。之後北約再派出了數隊戰機去攔截，損失了不少但卻沒能對目標做成明顯傷害。後來這艘幽浮突然更改航向要飛往美國東岸，導致決定動用核武。&#10;&#10;二十分鐘後，六粒配備核彈頭的洲際彈道導彈在冰島一處無人地帶的上空爆炸。驚人的是，幽浮沒被粉碎，只是大致完整地急速迫降。到了這時，北約別無選擇，只能向蘇聯通報異型飛船的事並請求派員協助回收它和它裡面的科技。據聞這是出於自保多於互惠互利，因為蘇聯對突然的大量核彈發射感到氣憤，幾乎就一起發射自己的核彈。&#10;&#10;雙方都派出了地面部隊去回收幽浮，但多名外星人挺過了迫降並奮力抵抗。人類軍隊傷亡慘重，但總算是漸漸將牠們迫退到墜機點一帶。接下來發生的事只有很少人知道，從結果而言就是這艘飛船發生超巨型的大爆炸，毁滅了幽浮的一切及方圓十里內的所有部隊，無人生還。爆炸後幽浮甚麼都沒剩下，親眼見過它的目擊證人只有極少數能避過此刧。&#10;&#10;不過這也方便了後續的大規摸掩飾。T不過這也方便了事後的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家卻開始合作，聯合組成完全秘密的特戰組織，集合雙方的資源和精英。它的非官方名稱是&quot;異種航員&quot;，職責是對付來犯的異型、守衛地球。結果牠們過去二十年都沒再來過，令我們看似無聊的冗員，但養兵千日用在一時，我們知道這一日總會到來。那天已經到來了，指揮官。&#10;&#10;&lt;i&gt;冰島事件的故事、爆炸的原因、倖存者如何生還等細節被記載於 Xenonauts: Crimson Dagger，一本免費的中篇小說，可以用遊戲的啓動器打開閱讀。&lt;/i&gt;</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">奇點炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/singularitycannon</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">進一步研究異型的奇點爐之後，我們找到了方法用它製作武器而不會消耗掉這奇點。這一點很重要，因為我們沒多少奇點在手，而且直接引爆奇點的話會做成巨大的破壞。奇點炮非常重型，重到必需要有獵戶戰甲的協助才能使用，但用起來驚天動地泣鬼神。&#10;&#10;武器內置一個奇點爐，運作原理是抽取當中的少量能量，置入一粒特殊設計的異型合金彈體。這粒彈體的主體是環型的超導體，是唯一可以儲存這麼多能量的方法。然後就用現有的電磁技術將彈體高速射出，它在撞擊目標的時候自然就會變形，打破超導迴圈。目標的時候自然就會變形，打破超導迴圈。效果雖然比不上奇點飛雷，不過在地面戰中已經足夠驚人。&#10;&#10;奇點炮每次發射後都需要裝填新的彈體，但奇點爐本身可以打一百萬發。製作奇點炮是一項重大挑戰，但它所帶來的威力絕對值得投資。我認真懷疑沒有任何異型單位能吃它一發；我可以向你保證沒有人類單位能。</Data></Cell>
    </Row>
@@ -965,7 +965,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/garage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">車房為異族航員的戰車提供停泊之所。每座車房可以泊三輛戰車，沒有空車位的話就不能制作新的戰車。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">車房為異種航員的戰車提供停泊之所。每座車房可以泊三輛戰車，沒有空車位的話就不能制作新的戰車。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Hangar</Data></Cell>
@@ -997,7 +997,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/medicalcenter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">醫護所為異族航員提供最先進的醫療設施，照料受傷的士兵，將他們養傷所需的時間減半。&#10;&#10;醫護所有一座就足夠，興建額外的醫護所不會再縮短養傷所需的時間。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">醫護所為異種航員提供最先進的醫療設施，照料受傷的士兵，將他們養傷所需的時間減半。&#10;&#10;醫護所有一座就足夠，興建額外的醫護所不會再縮短養傷所需的時間。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">RadarArray</Data></Cell>
@@ -1027,7 +1027,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AdvancedMedpack</Data></Cell>
     <Cell><Data ss:Type="String">Advanced Medpack</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">NULL</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Not needed.</Data></Cell>
    </Row>
@@ -1035,7 +1035,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienSensorArray</Data></Cell>
     <Cell><Data ss:Type="String">Alien Sensor Array</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Description goes here.</Data></Cell>
    </Row>
@@ -1043,7 +1043,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.LIDARArray</Data></Cell>
     <Cell><Data ss:Type="String">LIDAR Array</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">WEP</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">Description goes here.</Data></Cell>
    </Row>
@@ -1067,7 +1067,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.PlasmaGrenade</Data></Cell>
     <Cell><Data ss:Type="String">Plasma Grenade</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The MiG-32 is a</Data></Cell>
    </Row>
@@ -1075,7 +1075,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AleniumEnrichment</Data></Cell>
     <Cell><Data ss:Type="String">Alienium Enrichment</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The MiG-32 is a</Data></Cell>
    </Row>
@@ -1083,7 +1083,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienAlloyProduction</Data></Cell>
     <Cell><Data ss:Type="String">Alien Alloy Production</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The MiG-32 is a</Data></Cell>
    </Row>
@@ -1099,7 +1099,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienSingularityGrenade</Data></Cell>
     <Cell><Data ss:Type="String">Alien Singularity Grenade</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The MiG-32 is a</Data></Cell>
    </Row>
@@ -1116,7 +1116,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.HypervelocityProjectiles</Data></Cell>
     <Cell><Data ss:Type="String">Hypervelocity Projectiles</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The MiG-32 is a</Data></Cell>
    </Row>
@@ -1124,7 +1124,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">airplane.human.saracen</Data></Cell>
     <Cell><Data ss:Type="String">X-44 大食</Data></Cell>
     <Cell><Data ss:Type="String">xenopediaimages/saracen</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員航機</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">ACW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The X-44 Saracen is an interceptor built specifically for dogfighting the most manuverable alien craft. It is fast, heavily armoured and extremely agile, employing dual cannons to rip apart its foes at close range.&#10;&#10;. Within it lies the mountings for the twin cannon hardpoints, the extensive avionics and the imposing E-77 Alenium Impulsion reactor that provides the vast reserves of power required to make a sixty-ton craft dance like a ballerina at twice the speed of sound.&#10;&#10;The resulting craft is an ugly, squat beast capable of destroying almost anything placed in front of it - so no doubt our engineers will feel a certain kindred spirit when they begin to build one.</Data></Cell>
    </Row>
@@ -1148,7 +1148,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String">VV.MACHINEGUN</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">.30cal Machinegun</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異族航員戰車武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">VHW</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">The dual .30cal machineguns </Data></Cell>
    </Row>
@@ -1182,7 +1182,7 @@
     <Cell><Data ss:Type="String">xenopediaimages/magazine</Data></Cell>
     <Cell><Data ss:Type="String">Extraterrestrials</Data></Cell>
     <Cell><Data ss:Type="String">NULL</Data></Cell>
-    <Cell><Data ss:Type="String">那宗無法無天的盜竊案也許不是毫無建樹，指揮官。我用我的人脈追蹤著被竊技術的流向，得知集合全地球的腦力後終於能逹成我們的一小部分成就。世界各地都開始用尚未被破壞的產能急就章地量產激光武器，配發給士兵。因此友方部隊的武裝預期會得以提升，照我們的估算一名非異族航員士兵的傷亡率會由 95% 減到 90%。&#10;&#10;不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），異能晶和異型合金就變得很搶手。我們的資肋國將會跟我們爭奪這些戰爭資源。但再看遠點的話，異種觀星臺回報說異型艦隊差不多完成巨大幽浮的改裝。這些勇士為時己晩、心餘力拙。除非他們能趕上我們的技術水平，否則我們依然是人類的唯一希望。</Data></Cell>
+    <Cell><Data ss:Type="String">那宗無法無天的盜竊案也許不是毫無建樹，指揮官。我用我的人脈追蹤著被竊技術的流向，得知集合全地球的腦力後終於能逹成我們的一小部分成就。世界各地都開始用尚未被破壞的產能急就章地量產激光武器，配發給士兵。因此友方部隊的武裝預期會得以提升，照我們的估算一名非異種航員士兵的傷亡率會由 95% 減到 90%。&#10;&#10;不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），異能晶和異型合金就變得很搶手。我們的資肋國將會跟我們爭奪這些戰爭資源。但再看遠點的話，異種觀星臺回報說異型艦隊差不多完成巨大幽浮的改裝。這些勇士為時己晩、心餘力拙。除非他們能趕上我們的技術水平，否則我們依然是人類的唯一希望。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
     <Cell><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
@@ -1230,7 +1230,7 @@
     <Cell><Data ss:Type="String">xenopediaimages/interception</Data></Cell>
     <Cell><Data ss:Type="String">UFOs</Data></Cell>
     <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">您想先聽好消息還是壞消息？好消息是我們大大打擊了外星人的空中部署。在我們的保護傘下的事件數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動升級，引入空戰專用的幽浮。&#10;&#10;外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥機。執行截擊任務的幽浮會在空中巡邏，攻擊民用和軍用的航機。從所搜集的數據來看，執行截擊的幽浮會將異族航員的航機列為優先目標。當它們發現我們的航機（大概是從太空軌道監察），它們會直接飛過來戰鬥。截擊任務一般由空戰系的幽浮執行，微型體積的那些就是了。運輸船毫無自保能力，所以在處理其他幽浮前應先掃盪截擊小隊，以免地面部隊遭遇不測。</Data></Cell>
+    <Cell><Data ss:Type="String">您想先聽好消息還是壞消息？好消息是我們大大打擊了外星人的空中部署。在我們的保護傘下的事件數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動升級，引入空戰專用的幽浮。&#10;&#10;外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥機。執行截擊任務的幽浮會在空中巡邏，攻擊民用和軍用的航機。從所搜集的數據來看，執行截擊的幽浮會將異種航員的航機列為優先目標。當它們發現我們的航機（大概是從太空軌道監察），它們會直接飛過來戰鬥。截擊任務一般由空戰系的幽浮執行，微型體積的那些就是了。運輸船毫無自保能力，所以在處理其他幽浮前應先掃盪截擊小隊，以免地面部隊遭遇不測。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
     <Cell><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>

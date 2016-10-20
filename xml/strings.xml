@@ -376,10 +376,10 @@
   <Cell><Data ss:Type="String">空中恐襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AerialTerrorFailure</Data></Cell>
-  <Cell><Data ss:Type="String">%1%被夷平，幽浮返回太空軌道。%2% 死 %3% 失蹤，預計凶吉少。&lt;br /&gt;&lt;br /&gt;當地官員強烈譴責異族航員袖手旁觀。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%被夷平，幽浮返回太空軌道。%2% 死 %3% 失蹤，預計凶吉少。&lt;br /&gt;&lt;br /&gt;當地官員強烈譴責異種航員袖手旁觀。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AerialTerrorPopup</Data></Cell>
-  <Cell><Data ss:Type="String">異型空襲%1%。&lt;br /&gt;&lt;br /&gt;當地部隊要求異族航員支援。</Data></Cell>
+  <Cell><Data ss:Type="String">異型空襲%1%。&lt;br /&gt;&lt;br /&gt;當地部隊要求異種航員支援。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AerialTerrorPopup.Deploy</Data></Cell>
   <Cell><Data ss:Type="String">派出戰鬥機</Data></Cell>
@@ -508,7 +508,7 @@
   <Cell><Data ss:Type="String">異型基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienBaseDiscovered</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員在%1%發現異型基地。</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員在%1%發現異型基地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienBaseDiscoveredAirplane</Data></Cell>
   <Cell><Data ss:Type="String">在%1%發現異型基地。</Data></Cell>
@@ -883,7 +883,7 @@
   <Cell><Data ss:Type="String">勝利條件：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.XenoBase.Description</Data></Cell>
-  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地正被&lt;font color='FAA902'&gt;%2%&lt;/font&gt;搶攻。來襲的幽浮撐過了對空武器，登陸的異型部隊正入侵維修通道。所有非戰鬥人員已經撤到指揮中心下的避難所。士兵們整裝待發，候命驅逐入侵者。&lt;br /&gt;&lt;br /&gt;異型的目標是指揮中心及其內的發電機。一定要守住它，如果它生爆柞那麼這基地就完了。也請記著這是我們的基地；破壞太嚴重的建構會無法運作一段時間，直到維修人員搶修完畢。&lt;br /&gt;&lt;br /&gt;如果異型成功炸毁異族航員的的基地，這可能會是個無法復原的重大打撃。絕不能讓這事發生。祝武運昌隆。</Data></Cell>
+  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地正被&lt;font color='FAA902'&gt;%2%&lt;/font&gt;搶攻。來襲的幽浮撐過了對空武器，登陸的異型部隊正入侵維修通道。所有非戰鬥人員已經撤到指揮中心下的避難所。士兵們整裝待發，候命驅逐入侵者。&lt;br /&gt;&lt;br /&gt;異型的目標是指揮中心及其內的發電機。一定要守住它，如果它生爆柞那麼這基地就完了。也請記著這是我們的基地；破壞太嚴重的建構會無法運作一段時間，直到維修人員搶修完畢。&lt;br /&gt;&lt;br /&gt;如果異型成功炸毁異種航員的的基地，這可能會是個無法復原的重大打撃。絕不能讓這事發生。祝武運昌隆。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.XenoBase.FailureConditions</Data></Cell>
   <Cell><Data ss:Type="String">&lt;br /&gt;- 指揮中心被異型佔領三回合，或&lt;br /&gt;- 失去所有單位</Data></Cell>
@@ -1024,7 +1024,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;忠勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForBravery_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在守衛異族航員設施、對抗異型登陸部隊時的英勇表現。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在守衛異種航員設施、對抗異型登陸部隊時的英勇表現。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForCurage</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;英勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
@@ -1069,7 +1069,7 @@
   <Cell><Data ss:Type="String">空襲（+%1%）</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CRASHSITE.AIRSTRIKEDONE</Data></Cell>
-  <Cell><Data ss:Type="String">當地部隊用空襲摧毁幽浮並回收殘骸。&lt;br/&gt;&lt;br/&gt;回收異型科技後異族航員分得%1%收益。</Data></Cell>
+  <Cell><Data ss:Type="String">當地部隊用空襲摧毁幽浮並回收殘骸。&lt;br/&gt;&lt;br/&gt;回收異型科技後異種航員分得%1%收益。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CreateWaypoint</Data></Cell>
   <Cell><Data ss:Type="String">選擇航機的目標</Data></Cell>
@@ -1093,7 +1093,7 @@
   <Cell><Data ss:Type="String">新的墜機點</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CSDiscoveredDialog.Text</Data></Cell>
-  <Cell><Data ss:Type="String">當地部隊撃落一隻小型幽浮，並請求異族航員派員協助回收。</Data></Cell>
+  <Cell><Data ss:Type="String">當地部隊撃落一隻小型幽浮，並請求異種航員派員協助回收。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Cuba</Data></Cell>
   <Cell><Data ss:Type="String">古巴</Data></Cell>
@@ -1228,13 +1228,13 @@
   <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;正受到異型恐襲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.terroraborted</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的異型恐襲被阻止，拯救了無數生命。&lt;br /&gt;&lt;br /&gt;當地官員讚揚異族航員行動迅速。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的異型恐襲被阻止，拯救了無數生命。&lt;br /&gt;&lt;br /&gt;當地官員讚揚異種航員行動迅速。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.terrorfwot</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻撃告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員強烈譴責異族航員袖手旁觀。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻撃告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員強烈譴責異種航員袖手旁觀。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.terrorfwt</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻撃告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異族航員事敗表示不滿。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻撃告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異種航員事敗表示不滿。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.transportarrived</Data></Cell>
   <Cell><Data ss:Type="String">物資抵逹%1%基地。</Data></Cell>
@@ -1375,7 +1375,7 @@
   <Cell><Data ss:Type="String">民用雷逹在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">軍方巡邏機發現幽浮。當地部隊等待異族航員出動。</Data></Cell>
+  <Cell><Data ss:Type="String">軍方巡邏機發現幽浮。當地部隊等待異種航員出動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land5</Data></Cell>
   <Cell><Data ss:Type="String">廣泛地區受到電磁干擾，原因不明。</Data></Cell>
@@ -1693,13 +1693,13 @@
   <Cell><Data ss:Type="String">空戰解說</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape</Data></Cell>
-  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一斷時間就會入侵大氣層，持續傷害異族航員與資助國的關係，直到幽浮被撃落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷逹的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是撃落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一斷時間就會入侵大氣層，持續傷害異種航員與資助國的關係，直到幽浮被撃落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷逹的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是撃落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape.Title</Data></Cell>
   <Cell><Data ss:Type="String">地球示圖解說</Data></Cell>
  </Row><Row ss:Height="82.5">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.GroundCombat</Data></Cell>
-  <Cell><Data ss:Type="String">這是異族航員的回合制地面戰鬥。每名單位都有定量的時間點（TU）可以用來進行動作，例如移動或開火。按下紅色的&quot;結束回合&quot;就會結束目前的回合，輪到異型的回合。異型動完後就是新的玩家回合，您的單位會恢復所有 TU。&lt;br&gt;&lt;br&gt;左按地面會顯示移動路線及所剩的 TU，再按一次就會實行移動。右鍵可以令單位轉向，和/或開關身旁的門。&lt;br&gt;&lt;br&gt;遊標移動異型身上會變成射撃狀態，顯示命中率和所需的 TU。左按以實行射撃，或右按調整所花的 TU 以調整命中率。 按著 Ctrl 鍵不放或按下武器圖示都可以進入自由射撃模式。&lt;br&gt;&lt;br&gt;地面戰鬥非常複雜，需要花點時間熟習。用遊標懸浮各介面元素以理解它們。&#10;</Data></Cell>
+  <Cell><Data ss:Type="String">這是異種航員的回合制地面戰鬥。每名單位都有定量的時間點（TU）可以用來進行動作，例如移動或開火。按下紅色的&quot;結束回合&quot;就會結束目前的回合，輪到異型的回合。異型動完後就是新的玩家回合，您的單位會恢復所有 TU。&lt;br&gt;&lt;br&gt;左按地面會顯示移動路線及所剩的 TU，再按一次就會實行移動。右鍵可以令單位轉向，和/或開關身旁的門。&lt;br&gt;&lt;br&gt;遊標移動異型身上會變成射撃狀態，顯示命中率和所需的 TU。左按以實行射撃，或右按調整所花的 TU 以調整命中率。 按著 Ctrl 鍵不放或按下武器圖示都可以進入自由射撃模式。&lt;br&gt;&lt;br&gt;地面戰鬥非常複雜，需要花點時間熟習。用遊標懸浮各介面元素以理解它們。&#10;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.GroundCombat.Title</Data></Cell>
   <Cell><Data ss:Type="String">地面戰鬥說明</Data></Cell>
@@ -1786,7 +1786,7 @@
   <Cell><Data ss:Type="String">遊戲結束</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GameOver.Bankrupt.Description</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員花光了營運資金。</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員花光了營運資金。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GameOver.Eradicated</Data></Cell>
   <Cell><Data ss:Type="String">遊戲結束</Data></Cell>
@@ -1798,11 +1798,11 @@
   <Cell><Data ss:Type="String">抗戰勝利！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GameOver.Victory.Description</Data></Cell>
-  <Cell><Data ss:Type="String">民間死亡人數 %1%，%2% 名異族航員陣亡&lt;br&gt;&lt;br&gt;你打倒了來犯的異型，守護了全人類。&lt;br&gt;&lt;br&gt;異族航員的英勇事蹟絕不會被忘記。</Data></Cell>
+  <Cell><Data ss:Type="String">民間死亡人數 %1%，%2% 名異種航員陣亡&lt;br&gt;&lt;br&gt;你打倒了來犯的異型，守護了全人類。&lt;br&gt;&lt;br&gt;異種航員的英勇事蹟絕不會被忘記。</Data></Cell>
  </Row>
  <Row ss:Height="99">
   <Cell><Data ss:Type="String">GameOver.Victory.Epilogue</Data></Cell>
-  <Cell><Data ss:Type="String">雷逹畫面一片寂靜。大裁判官之死令我們養在實驗室內的異型全部痴呆，連之前抓到的裁判官都完全沒有反應。這場戰爭終於結束。&lt;br&gt;&lt;br&gt;全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當然居功至偉，但我相信在史書中你的名字會寫在我下面。&lt;br&gt;&lt;br&gt;不過我們的任務還沒結束：這世界已經被永久改變。我們的技術毫無疑問會大大改變地球的勢力平衡，單單一個奇點爐就能供給全球所需的能源。&lt;br&gt;&lt;br&gt;事實上，無聊的爭執已經開始，有聲音說我們異族航員該直接被蘇維埃或美利堅接管。我們的技術可以令全人類獲益，無分貧富種族……但我們的贊助人打算將我的發明據為己有。&lt;br&gt;&lt;br&gt;既然我們救了這個世界，我們就該決定它往那兒走。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毁滅整個地球，誰還能管我們？&lt;br&gt;&lt;br&gt;異族航員的任務是守護人類，包括免得無限愚蠢的人類去自我毁滅。現在你可以先享受一下寧靜的一天，指揮官。我想世界不會這麼快就需要毁滅。</Data></Cell>
+  <Cell><Data ss:Type="String">雷逹畫面一片寂靜。大裁判官之死令我們養在實驗室內的異型全部痴呆，連之前抓到的裁判官都完全沒有反應。這場戰爭終於結束。&lt;br&gt;&lt;br&gt;全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當然居功至偉，但我相信在史書中你的名字會寫在我下面。&lt;br&gt;&lt;br&gt;不過我們的任務還沒結束：這世界已經被永久改變。我們的技術毫無疑問會大大改變地球的勢力平衡，單單一個奇點爐就能供給全球所需的能源。&lt;br&gt;&lt;br&gt;事實上，無聊的爭執已經開始，有聲音說我們異種航員該直接被蘇維埃或美利堅接管。我們的技術可以令全人類獲益，無分貧富種族……但我們的贊助人打算將我的發明據為己有。&lt;br&gt;&lt;br&gt;既然我們救了這個世界，我們就該決定它往那兒走。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毁滅整個地球，誰還能管我們？&lt;br&gt;&lt;br&gt;異種航員的任務是守護人類，包括免得無限愚蠢的人類去自我毁滅。現在你可以先享受一下寧靜的一天，指揮官。我想世界不會這麼快就需要毁滅。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GameOver.Victory.Epilogue.Title</Data></Cell>
   <Cell><Data ss:Type="String">結語</Data></Cell>
@@ -1937,7 +1937,7 @@
   <Cell><Data ss:Type="String">養傷需 %1% 日</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.XenonautsLost</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員死難</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員死難</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.NotificationMessages.Die</Data></Cell>
   <Cell><Data ss:Type="String">%1%陣亡。</Data></Cell>
@@ -1949,7 +1949,7 @@
   <Cell><Data ss:Type="String">指揮中心內有入侵者。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.NotificationMessages.XenonautsTurn</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的回合</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的回合</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCObjectives</Data></Cell>
   <Cell><Data ss:Type="String">任務目標</Data></Cell>
@@ -2699,58 +2699,58 @@
   <Cell><Data ss:Type="String">鬼靈戰士的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNoneArmour</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNoneArmourCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBasicArmour</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBasicArmourCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBuzzard</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBuzzardCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautColossus</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautColossusCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautJackal</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautJackalCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNone</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNoneCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautPredator</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautPredatorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautSentinel</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautSentinelCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautWolf</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautWolfCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">January</Data></Cell>
   <Cell><Data ss:Type="String">一月</Data></Cell>
@@ -4293,7 +4293,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;救難勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaviorMedal_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳打倒一名正在操縱異族航員伙伴的外太空靈能單位。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳打倒一名正在操縱異種航員伙伴的外太空靈能單位。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SCCS</Data></Cell>
   <Cell><Data ss:Type="String">戰略指揮及控制系統</Data></Cell>
@@ -5079,7 +5079,7 @@
  </Row>
  <Row ss:Height="181.5">
   <Cell><Data ss:Type="String">weapon.grenade.flashbang.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;眩目彈：&lt;/b&gt;&#10;&#10;眩目彈是一種手雷，用途是協助進攻防守嚴密的敵陣。雖然它不會做成多少傷害，它會在爆炸區域內釋放大量壓制。被壓制的敵異型無法對異族航員進行反應射擊，因此眩目彈可以大大減低衝入敵陣的危險。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：5 動能&#10;壓制：100 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;眩目彈：&lt;/b&gt;&#10;&#10;眩目彈是一種手雷，用途是協助進攻防守嚴密的敵陣。雖然它不會做成多少傷害，它會在爆炸區域內釋放大量壓制。被壓制的敵異型無法對異種航員進行反應射擊，因此眩目彈可以大大減低衝入敵陣的危險。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：5 動能&#10;壓制：100 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.frag</Data></Cell>
   <Cell><Data ss:Type="String">破片手雷</Data></Cell>
@@ -5284,7 +5284,7 @@
   <Cell><Data ss:Type="String">溫得和克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">windowtitle</Data></Cell>
-  <Cell><Data ss:Type="String">異族航員</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Workshop</Data></Cell>
   <Cell><Data ss:Type="String">工房</Data></Cell>

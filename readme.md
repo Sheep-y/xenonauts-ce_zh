@@ -1,8 +1,8 @@
 # Xenonauts Chinese Translation <br> 異族航員 綿羊漢化 #
 
-For community edition. Work In Progress.
+For community edition. Includes translation of Lore+, X:CE Balance, and Armoured Assault. Work In Progress.
 
-適用於 異族航員（又譯異種航員） 社群增強版。工事中。
+適用於 異種航員 社群增強版。含百科增強 Lore+, 社群版平衡調整 X:CE Balance, 和裝甲突擊 Armoured Assault 的翻譯。工事中。
 
 ## Testing ##
 
