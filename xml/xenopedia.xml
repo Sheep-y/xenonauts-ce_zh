@@ -69,7 +69,7 @@
   <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
  </Names>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="159" x:FullColumns="1" x:FullRows="1">
+  <Table ss:ExpandedColumnCount="22" ss:ExpandedRowCount="168" x:FullColumns="1" x:FullRows="1">
    <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
    <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="130.5"/>
@@ -1157,199 +1157,271 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/placeholder</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">The radar screens are silent. The death of the High Praetor has reduced the aliens held in our labs to a catatonic state; even our captured Praetor is utterly unresponsive. It seems the war is finally over.&#10;&#10;Humanity is rightly celebrating our victory – the sacrifices made by the brave men and women of our organisation will echo through the ages. Though nobody has done more than I to ensure the survival of the human race, I have little doubt your name will be written into history just below my own. This does not mean our mission is over: the world will not simply return to how it was before the invasion began. It is inevitable that our new technology will drastically alter the balance of world power; even one of our singularity cores produces sufficient energy to supply the entire planet for centuries. &#10;&#10;The squabbling has already begun. Some are already lobbying for our organisation to be placed under Soviet or American oversight. This technology could be used for the benefit of all humanity, irrespective of race or creed. Our backers instead seek to turn my inventions to their own narrow ends. But who better to decide the shape of our new world than those who saved it? We have bargaining chips of our own: direct control of both the cores themselves and the most sophisticated military force on the planet. I could annihilate the entire planet in the blink of an eye if I so chose. Are they really in a position to dictate to us?&#10;&#10;The Xenonauts were established to protect humanity, Commander.  You did exceptional work to protect us from the extraterrestrial menace; you must now plot a path that protects us from ourselves.</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">雷逹畫面一片寂靜。大裁判官之死令我們養在實驗室內的異型全部痴呆，連之前抓到的裁判官都完全沒有反應。這場戰爭終於結束。&#10;&#10;全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當然居功至偉，但我相信在史書中你的名字會寫在我下面。不過我們的任務還沒結束：這世界已經被永久改變。我們的技術毫無疑問會大大改變地球的勢力平衡，單單一個奇點爐就能供給全球所需的能源。&#10;&#10;事實上，無聊的爭執已經開始，有聲音說我們異種航員該直接被蘇維埃或美利堅接管。我們的技術可以令全人類獲益，無分貧富種族……但我們的贊助人打算將我的發明據為己有。既然我們救了這個世界，我們就該決定它往那兒走。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毁滅整個地球，誰還能管我們？&#10;&#10;異種航員的任務是守護人類，指揮官。你傑出地保祐我們免於異種的威脅；現在你得保祐我們免於自我毁滅。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
-    <Cell><Data ss:Type="String">失蹤？</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/missing</Data></Cell>
-    <Cell><Data ss:Type="String">Extraterrestrials</Data></Cell>
-    <Cell><Data ss:Type="String">NULL</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官你有沒有看見過我的異能晶幅射分析資料？沒有？又來了！我用我的時間給我的團隊設計出完美的檔案系統，但他們依然隨便把文件拿走！這不是第一次了，已經有幾分研究報告失蹤。每次失蹤都不超過一日，但始終會拖累我們的武器開發進度，我們現在不能浪費時間！我提醒了 Provost-Marshal，如果他要給實驗室派駐守衛，守衛們就該認真工作。希望這會有用。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">失蹤？</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/missing</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Extraterrestrials</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官你有沒有看見過我的異能晶幅射分析資料？沒有？又來了！我用我的時間給我的團隊設計出完美的檔案系統，但他們依然隨便把文件拿走！這不是第一次了，已經有幾分研究報告失蹤。每次失蹤都不超過一日，但始終會拖累我們的武器開發進度，我們現在不能浪費時間！我提醒了 Provost-Marshal，如果他要給實驗室派駐守衛，守衛們就該認真工作。希望這會有用。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.Espionage2</Data></Cell>
-    <Cell><Data ss:Type="String">找到了！</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/busted</Data></Cell>
-    <Cell><Data ss:Type="String">Extraterrestrials</Data></Cell>
-    <Cell><Data ss:Type="String">NULL</Data></Cell>
-    <Cell><Data ss:Type="String">奸細。&#10;&#10;在*我*的實驗室裡。&#10;&#10;不……不……比奸細更低下。奸細至少會有誠信。奸細不會被我邀請加入阻止人類滅絕，然後借機將我的血淚成果拿出拍賣、價高者得！&#10;&#10;我.的.私.人.助.理！那些害羞的目光……那些我投寄到《自然》但被拒的報告！我們所寫的任何東西一旦經過那名蠢才的污穢賊手就會被洩露！現在全地球的政府和企業裡的猿人都在盜取我的理論。啍，就讓他們去！那臭老鼠是在盜取原型時被抓的，表明他們即使讀了*我的*說明都依然搞不懂異型科技的奧妙。我不能說是次背叛會有甚麼長遠影響，但短期而言別指望能從售賣裝備中獲利。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">找到了！</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/busted</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Extraterrestrials</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">奸細。&#10;&#10;在*我*的實驗室裡。&#10;&#10;不……不……比奸細更低下。奸細至少會有誠信。奸細不會被我邀請加入阻止人類滅絕，然後借機將我的血淚成果拿出拍賣、價高者得！&#10;&#10;我.的.私.人.助.理！那些害羞的目光……那些我投寄到《自然》但被拒的報告！我們所寫的任何東西一旦經過那名蠢才的污穢賊手就會被洩露！現在全地球的政府和企業裡的猿人都在盜取我的理論。啍，就讓他們去！那臭老鼠是在盜取原型時被抓的，表明他們即使讀了*我的*說明都依然搞不懂異型科技的奧妙。我不能說是次背叛會有甚麼長遠影響，但短期而言別指望能從售賣裝備中獲利。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.Espionage3</Data></Cell>
-    <Cell><Data ss:Type="String">激光槍量產</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/magazine</Data></Cell>
-    <Cell><Data ss:Type="String">Extraterrestrials</Data></Cell>
-    <Cell><Data ss:Type="String">NULL</Data></Cell>
-    <Cell><Data ss:Type="String">那宗無法無天的盜竊案也許不是毫無建樹，指揮官。我用我的人脈追蹤著被竊技術的流向，得知集合全地球的腦力後終於能逹成我們的一小部分成就。世界各地都開始用尚未被破壞的產能急就章地量產激光武器，配發給士兵。因此友方部隊的武裝預期會得以提升，照我們的估算一名非異種航員士兵的傷亡率會由 95% 減到 90%。&#10;&#10;不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），異能晶和異型合金就變得很搶手。我們的資肋國將會跟我們爭奪這些戰爭資源。但再看遠點的話，異種觀星臺回報說異型艦隊差不多完成巨大幽浮的改裝。這些勇士為時己晩、心餘力拙。除非他們能趕上我們的技術水平，否則我們依然是人類的唯一希望。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">激光槍量產</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/magazine</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Extraterrestrials</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">NULL</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">那宗無法無天的盜竊案也許不是毫無建樹，指揮官。我用我的人脈追蹤著被竊技術的流向，得知集合全地球的腦力後終於能逹成我們的一小部分成就。世界各地都開始用尚未被破壞的產能急就章地量產激光武器，配發給士兵。因此友方部隊的武裝預期會得以提升，照我們的估算一名非異種航員士兵的傷亡率會由 95% 減到 90%。&#10;&#10;不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），異能晶和異型合金就變得很搶手。我們的資肋國將會跟我們爭奪這些戰爭資源。但再看遠點的話，異種觀星臺回報說異型艦隊差不多完成巨大幽浮的改裝。這些勇士為時己晩、心餘力拙。除非他們能趕上我們的技術水平，否則我們依然是人類的唯一希望。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
-    <Cell><Data ss:Type="String">偵察任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/scouting</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官您好。依照你的指示，我們戰略規劃部會監視並分析幽浮的活動，判斷它們的軍事目的。很高興您把這重任交給了最適當的人；研發部的人很聰明，但分析情報是我們的專長。每當我們對外星幽浮的活動有新發現，我都會向您報告，比如現在。&#10;&#10;今天較早時的幽浮目擊報告，確認是輕型偵察幽浮，在美國的一所機密研究站上空盤旋。它並沒有採取任何著目的行動，但當地的無線電操作員偵察到多次異樣的瞬發 VHF 電波，而研究員亦同時偵察到瞬發的 SHF 電波。德國、澳洲、香港亦傳來類似的報告。考慮到事發地點的重要性及研發部對輕型偵察幽浮分析，我們肯定這些偵察飛船是在收集和發送潛在目標的情報。&#10;&#10;執行偵察任務的幽浮會在空中滯留一段長時間，搜集各種目標的情報。它們似乎沒有特定的路線或規劃，應該不難攔截。由於外星人有專門的偵察船，大部分偵察任務都應該由這些小型幽浮執行。偵察幽浮採集的資訊越多，日後的攻擊就越有效，所以應儘量擊落它們。那怕不能回收幽浮也好，最少能蒙住外星人的眼。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">偵察任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/scouting</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官您好。依照你的指示，我們戰略規劃部會監視並分析幽浮的活動，判斷它們的軍事目的。很高興您把這重任交給了最適當的人；研發部的人很聰明，但分析情報是我們的專長。每當我們對外星幽浮的活動有新發現，我都會向您報告，比如現在。&#10;&#10;今天較早時的幽浮目擊報告，確認是輕型偵察幽浮，在美國的一所機密研究站上空盤旋。它並沒有採取任何著目的行動，但當地的無線電操作員偵察到多次異樣的瞬發 VHF 電波，而研究員亦同時偵察到瞬發的 SHF 電波。德國、澳洲、香港亦傳來類似的報告。考慮到事發地點的重要性及研發部對輕型偵察幽浮分析，我們肯定這些偵察飛船是在收集和發送潛在目標的情報。&#10;&#10;執行偵察任務的幽浮會在空中滯留一段長時間，搜集各種目標的情報。它們似乎沒有特定的路線或規劃，應該不難攔截。由於外星人有專門的偵察船，大部分偵察任務都應該由這些小型幽浮執行。偵察幽浮採集的資訊越多，日後的攻擊就越有效，所以應儘量擊落它們。那怕不能回收幽浮也好，最少能蒙住外星人的眼。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
-    <Cell><Data ss:Type="String">研究任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/research</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">我離開空軍前的最後一分工作是處理靈異報告。不知情的人可能會以為是有攪蛋鬼將所有 CIA 檔案給我搬了過來。您眼前的這疊報告是最近發生的幽浮目擊報告，內容像漫畫情節多於現實。大多是繪形繪色的特殊或超自然事件，例如憑空出現的風暴、弔詭的光點、被解剖的生畜等。有一分甚至宣稱自己被綁架然後被綁架者踢出！這些外星人似乎在進行研究，內容和動機都未知。&#10;&#10;研究任務似乎必定由偵察幽浮執行。它們會掃瞄一片指定區域，尋找適合的實驗目標和地點。執行研究任務的偵察幽浮會經常降落，以採集樣本和進行地面活動。研究任務會引致一些傷亡，但不會很大規模。無論外星人的目的為何，最保險是全部擊落以確保我們不會知道。對嗎，指揮官？</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">研究任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/research</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我離開空軍前的最後一分工作是處理靈異報告。不知情的人可能會以為是有攪蛋鬼將所有 CIA 檔案給我搬了過來。您眼前的這疊報告是最近發生的幽浮目擊報告，內容像漫畫情節多於現實。大多是繪形繪色的特殊或超自然事件，例如憑空出現的風暴、弔詭的光點、被解剖的生畜等。有一分甚至宣稱自己被綁架然後被綁架者踢出！這些外星人似乎在進行研究，內容和動機都未知。&#10;&#10;研究任務似乎必定由偵察幽浮執行。它們會掃瞄一片指定區域，尋找適合的實驗目標和地點。執行研究任務的偵察幽浮會經常降落，以採集樣本和進行地面活動。研究任務會引致一些傷亡，但不會很大規模。無論外星人的目的為何，最保險是全部擊落以確保我們不會知道。對嗎，指揮官？</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
-    <Cell><Data ss:Type="String">恐襲任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/terrorsite</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">當我跟通訊及偵察部討論最近的幽浮動向時，我們發現了外星人的一項新的危險動向。不久之前（不能肯定多久之前），有一艘幽浮穿過了雷逹網並且，聽好了，並且襲擊了一場音樂會！主辦方錯誤地相信幽浮只會攻擊小鎮，因而選了開揚的野地。外星人並沒進行空襲；牠們派出了地面部隊，屠殺了在場的會眾。&#10;&#10;情報不多，我們的資助國比我們先一步帶走生還者，而我們所獲得的口供記錄缺乏很多重要資訊。我們只能肯定有大量外星人參與了行動，牠們並派出了一種人類的科學怪人，有最少一隻被裸露的電線燒燬。&#10;&#10;我們相信這只是一場演習，日後會有更多特種異型突擊隊屠殺平民、恐襲我們的資助國。我們有一名年輕人是歷史迷，覺得這跟像成吉思汗用過的戰略。他會徹底消滅一座城市，以此警告其他城市假若抵抗就會遭受相同的下場。&#10;&#10;成功的恐怖襲擊將能大大打擊我們。我們的贊助國強烈暗示過必要時會動用核武去阻止“生化污染”。政客們為了自保就會怪責我們，我們的贊助和聲譽都會一落千丈。但只要我們能成功阻止外星人的恐襲，我們就能贏得聲望和更多的資助，每救下一座城市都是大功勞。執行恐襲活動的幽浮最少是中型的，而且幾乎一定會有護衛。它們會試圖混淆我們的視聽，但只要我們看見有幽浮緩慢地隨機繞著一堆城市在飛，它可能是在伺機恐襲。 </Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">恐襲任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/terrorsite</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">當我跟通訊及偵察部討論最近的幽浮動向時，我們發現了外星人的一項新的危險動向。不久之前（不能肯定多久之前），有一艘幽浮穿過了雷逹網並且，聽好了，並且襲擊了一場音樂會！主辦方錯誤地相信幽浮只會攻擊小鎮，因而選了開揚的野地。外星人並沒進行空襲；牠們派出了地面部隊，屠殺了在場的會眾。&#10;&#10;情報不多，我們的資助國比我們先一步帶走生還者，而我們所獲得的口供記錄缺乏很多重要資訊。我們只能肯定有大量外星人參與了行動，牠們並派出了一種人類的科學怪人，有最少一隻被裸露的電線燒燬。&#10;&#10;我們相信這只是一場演習，日後會有更多特種異型突擊隊屠殺平民、恐襲我們的資助國。我們有一名年輕人是歷史迷，覺得這跟像成吉思汗用過的戰略。他會徹底消滅一座城市，以此警告其他城市假若抵抗就會遭受相同的下場。&#10;&#10;成功的恐怖襲擊將能大大打擊我們。我們的贊助國強烈暗示過必要時會動用核武去阻止“生化污染”。政客們為了自保就會怪責我們，我們的贊助和聲譽都會一落千丈。但只要我們能成功阻止外星人的恐襲，我們就能贏得聲望和更多的資助，每救下一座城市都是大功勞。執行恐襲活動的幽浮最少是中型的，而且幾乎一定會有護衛。它們會試圖混淆我們的視聽，但只要我們看見有幽浮緩慢地隨機繞著一堆城市在飛，它可能是在伺機恐襲。 </Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
-    <Cell><Data ss:Type="String">空襲任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/groundattack</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">我跟研發部的一名低級研究員關係不錯（有頭有面的不把我們放在眼內），她告訴我有超過 3,500 艘飛船在繞著地球飛。如果它們現在就一起入侵的話那地球就已經完了。但牠們&quot;只是&quot;開展了打從希特掌權以來最大規模的空戰。&#10;&#10;外星人的空襲模式表明牠們目前主要襲擊“軟”目標：高速公路、小鎮、甚至獨立巡戈中的戰艦。緊急服務很難應對這些偏遠目標，加上外星人們來無影去無蹤，駐紮在大城市附近的軍隊只能咬牙切齒。&#10;&#10;任何大小的幽浮都能實施空襲任務，由最小的到最大的都行。執行此任務的幽浮沒有固定目標，只會在地球的一角徘徊，尋找適合的目標。執行空襲任務的幽浮會襲擊數次，有機會做成大擾亂，然後回去補充燃料和彈藥。&#10;&#10;它們很聰明，指揮官。它們襲擊低軍事價值亦低商業價值的地方，藉以磨滅我們的意志、交通、通訊。一旦我們被切斷，地球就難免陷落。我們的經驗和偵察技術能阻止它們，但它們數量太多而我門的數量太少。我建議儘量多興建基地，別管研發部的預算追加請求。比起異想天開的腦袋，我們更需要腳踏實地的人員。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">空襲任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/groundattack</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我跟研發部的一名低級研究員關係不錯（有頭有面的不把我們放在眼內），她告訴我有超過 3,500 艘飛船在繞著地球飛。如果它們現在就一起入侵的話那地球就已經完了。但牠們&quot;只是&quot;開展了打從希特掌權以來最大規模的空戰。&#10;&#10;外星人的空襲模式表明牠們目前主要襲擊“軟”目標：高速公路、小鎮、甚至獨立巡戈中的戰艦。緊急服務很難應對這些偏遠目標，加上外星人們來無影去無蹤，駐紮在大城市附近的軍隊只能咬牙切齒。&#10;&#10;任何大小的幽浮都能實施空襲任務，由最小的到最大的都行。執行此任務的幽浮沒有固定目標，只會在地球的一角徘徊，尋找適合的目標。執行空襲任務的幽浮會襲擊數次，有機會做成大擾亂，然後回去補充燃料和彈藥。&#10;&#10;它們很聰明，指揮官。它們襲擊低軍事價值亦低商業價值的地方，藉以磨滅我們的意志、交通、通訊。一旦我們被切斷，地球就難免陷落。我們的經驗和偵察技術能阻止它們，但它們數量太多而我門的數量太少。我建議儘量多興建基地，別管研發部的預算追加請求。比起異想天開的腦袋，我們更需要腳踏實地的人員。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
-    <Cell><Data ss:Type="String">轟炸任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/bombingrun</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">研發部從一艘被擊墜的岸轟幽浮裡修復及轉譯了它的飛行路線圖，交了給我們分析。路線跨越多座城市的工業區及一所秘密基地。行程很短促，因此幽浮不會降落，只會迅速地空襲一連串地點，最終對基地施以密集轟炸。似乎外星人將空戰升級了，指揮官。&#10;&#10;可以預期岸轟幽浮會轟炸富具戰略或經濟價值的目標，但全球的目標太多以致無法預測它們會向那兒下手。不過從這飛行路線來看，它們的任務是先攻擊多處次要目標，然後為大攻擊作準備，此時是攔截的最佳時機。岸轟幽浮經常會有護航，體積中型或以上。它們會圍繞特定目標飛行但不會降落。&#10;&#10;每次轟炸任務都會做成幾百人傷亡，需要優先阻止。會降落的話我們可以出動地面部隊，但轟炸就只能在空中截擊。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">轟炸任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/bombingrun</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">研發部從一艘被擊墜的岸轟幽浮裡修復及轉譯了它的飛行路線圖，交了給我們分析。路線跨越多座城市的工業區及一所秘密基地。行程很短促，因此幽浮不會降落，只會迅速地空襲一連串地點，最終對基地施以密集轟炸。似乎外星人將空戰升級了，指揮官。&#10;&#10;可以預期岸轟幽浮會轟炸富具戰略或經濟價值的目標，但全球的目標太多以致無法預測它們會向那兒下手。不過從這飛行路線來看，它們的任務是先攻擊多處次要目標，然後為大攻擊作準備，此時是攔截的最佳時機。岸轟幽浮經常會有護航，體積中型或以上。它們會圍繞特定目標飛行但不會降落。&#10;&#10;每次轟炸任務都會做成幾百人傷亡，需要優先阻止。會降落的話我們可以出動地面部隊，但轟炸就只能在空中截擊。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
-    <Cell><Data ss:Type="String">截擊任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/interception</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">您想先聽好消息還是壞消息？好消息是我們大大打擊了外星人的空中部署。在我們的保護傘下的事件數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動升級，引入空戰專用的幽浮。&#10;&#10;外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥機。執行截擊任務的幽浮會在空中巡邏，攻擊民用和軍用的航機。從所搜集的數據來看，執行截擊的幽浮會將異種航員的航機列為優先目標。當它們發現我們的航機（大概是從太空軌道監察），它們會直接飛過來戰鬥。截擊任務一般由空戰系的幽浮執行，微型體積的那些就是了。運輸船毫無自保能力，所以在處理其他幽浮前應先掃盪截擊小隊，以免地面部隊遭遇不測。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">截擊任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/interception</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">您想先聽好消息還是壞消息？好消息是我們大大打擊了外星人的空中部署。在我們的保護傘下的事件數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動升級，引入空戰專用的幽浮。&#10;&#10;外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥機。執行截擊任務的幽浮會在空中巡邏，攻擊民用和軍用的航機。從所搜集的數據來看，執行截擊的幽浮會將異種航員的航機列為優先目標。當它們發現我們的航機（大概是從太空軌道監察），它們會直接飛過來戰鬥。截擊任務一般由空戰系的幽浮執行，微型體積的那些就是了。運輸船毫無自保能力，所以在處理其他幽浮前應先掃盪截擊小隊，以免地面部隊遭遇不測。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
-    <Cell><Data ss:Type="String">基地建設任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/basebuild</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">我收到一分報告，外星人在一處有文化歷史的山脈跟當地部隊起了衝突，當地每年都有大量遊客聚集。看這張照片的這兒，及這兒。您可看見它們用某種器材在石山上挖出一條一公里長的隧道。不幸地，這不是單純的破壞，背後是有邪惡的動機。&#10;&#10;外星人的太空艦隊雖然能隨意襲擊地球任一角的目標，但這自由亦受牠們的補給所限制。幽浮需要回到母艦補給燃料，而我們抓的蛋頭說這過程很累人，即使用牠們的高科技都無可奈何。這項依賴性意味著這太空艦隊需要長期維持著巨大的補給線，即使我們的星球有充足的資源垂手可得。&#10;&#10;因此，只要能在地面上興建前哨基地就能減輕艦隊的補給負擔。基地可以補給和維修小型的幽浮，給地面行動提供部署空間，並能儲存從地上採集的資源。這條隧道應該是個試驗，測試這座山是否適合興建基地。可惜牠們沒做好功課，對吧？&#10;&#10;不論有沒有文化價值，外星人的基地選址應該會很僻靜，遠離人煙稠密的地區，以利隱藏所在地。我已經盡可能派員搜集情報，分析員也在梳理歷來的幽浮目擊記錄，但這不單費時而且不太可靠。要偵察外星人基地，最可靠還是追蹤幽浮的活動。&#10;&#10;只有中型或以上的幽浮能興建基地，要特別注意那些降落、起飛、又迅速再降落，如此反覆幾次的訊號。這是勘探基地選址的行動。&#10;&#10;建成的基地也無法獨立運作，需要艦隊的補給。所以如果沒找到基地，也可以留意那些在偏遠地帶慢速飛行的中型幽浮。只需要尾隨它們直到降落就應該能發現外星人的基地。&#10;&#10;基地放著不管的話會蠶食所在資助國的意志。雖然短期來說沒甚麼即時影響，但長遠影響跟直接的攻擊行動同樣高危害。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">基地建設任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/basebuild</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我收到一分報告，外星人在一處有文化歷史的山脈跟當地部隊起了衝突，當地每年都有大量遊客聚集。看這張照片的這兒，及這兒。您可看見它們用某種器材在石山上挖出一條一公里長的隧道。不幸地，這不是單純的破壞，背後是有邪惡的動機。&#10;&#10;外星人的太空艦隊雖然能隨意襲擊地球任一角的目標，但這自由亦受牠們的補給所限制。幽浮需要回到母艦補給燃料，而我們抓的蛋頭說這過程很累人，即使用牠們的高科技都無可奈何。這項依賴性意味著這太空艦隊需要長期維持著巨大的補給線，即使我們的星球有充足的資源垂手可得。&#10;&#10;因此，只要能在地面上興建前哨基地就能減輕艦隊的補給負擔。基地可以補給和維修小型的幽浮，給地面行動提供部署空間，並能儲存從地上採集的資源。這條隧道應該是個試驗，測試這座山是否適合興建基地。可惜牠們沒做好功課，對吧？&#10;&#10;不論有沒有文化價值，外星人的基地選址應該會很僻靜，遠離人煙稠密的地區，以利隱藏所在地。我已經盡可能派員搜集情報，分析員也在梳理歷來的幽浮目擊記錄，但這不單費時而且不太可靠。要偵察外星人基地，最可靠還是追蹤幽浮的活動。&#10;&#10;只有中型或以上的幽浮能興建基地，要特別注意那些降落、起飛、又迅速再降落，如此反覆幾次的訊號。這是勘探基地選址的行動。&#10;&#10;建成的基地也無法獨立運作，需要艦隊的補給。所以如果沒找到基地，也可以留意那些在偏遠地帶慢速飛行的中型幽浮。只需要尾隨它們直到降落就應該能發現外星人的基地。&#10;&#10;基地放著不管的話會蠶食所在資助國的意志。雖然短期來說沒甚麼即時影響，但長遠影響跟直接的攻擊行動同樣高危害。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
-    <Cell><Data ss:Type="String">異種航員基地攻略任務</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/baseattack</Data></Cell>
-    <Cell><Data ss:Type="String">UFOs</Data></Cell>
-    <Cell><Data ss:Type="String">AC</Data></Cell>
-    <Cell><Data ss:Type="String">我從一名軍方的老朋友聽到一些情報。一所深入地底的核彈發射場遭受到地面入侵。一隊隱密的外星人潛入了半里深的基地，所向披靡如入無人之境。基地的司令最終要下令坍方整個居住區才能保住基地。這令我很擔心……如果外星人敢動資助國，那早晚也會找上我們。&#10;&#10;外星人的入侵假若成功，我們會失去一座基地，基地內的所有戰略資源，及基地所提供的保護傘，直到我們建好新的基地。假若失敗，都可能已經對基地的設施做成重大破壞。別坐著等牠們來，指揮官。出去迎戰牠們！&#10;&#10;在無法截聽敵方通訊的前提下，也許不容易辦斷空中的幽浮是打算攻擊我們還是要攻擊城市。兩者都是有護衛的中型或更大的幽浮。牠們會嘗試隱藏意圖，不過早晚都會直接飛過來。最有可能遇襲的基地就是牠們採集了最多情報的基地，也就是最舊的基地。最好能為此駐留一些士兵或興建防禦陣地。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員基地攻略任務</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/baseattack</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我從一名軍方的老朋友聽到一些情報。一所深入地底的核彈發射場遭受到地面入侵。一隊隱密的外星人潛入了半里深的基地，所向披靡如入無人之境。基地的司令最終要下令坍方整個居住區才能保住基地。這令我很擔心……如果外星人敢動資助國，那早晚也會找上我們。&#10;&#10;外星人的入侵假若成功，我們會失去一座基地，基地內的所有戰略資源，及基地所提供的保護傘，直到我們建好新的基地。假若失敗，都可能已經對基地的設施做成重大破壞。別坐著等牠們來，指揮官。出去迎戰牠們！&#10;&#10;在無法截聽敵方通訊的前提下，也許不容易辦斷空中的幽浮是打算攻擊我們還是要攻擊城市。兩者都是有護衛的中型或更大的幽浮。牠們會嘗試隱藏意圖，不過早晚都會直接飛過來。最有可能遇襲的基地就是牠們採集了最多情報的基地，也就是最舊的基地。最好能為此駐留一些士兵或興建防禦陣地。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
-    <Cell><Data ss:Type="String">鐮刀蟲職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/reaper_terrorist</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">霍金的事件是宗不幸的意外，指揮官。我相信她是想打開灰人的倉門，但“謝天謝地”她錯手打開了鐮刀蟲的培育囊。從好的一點看，我們有機會近距離觀察鐮刀蟲在人體內孕育的過程。依照你所下的對鐮刀蟲作更深入研究的指示，以下是目前所知的鐮刀蟲架構和喪屍的進一步情報。&#10;&#10;鐮刀蟲王：似乎鐮刀蟲本身還不夠糟，我們發現了比牠們更快、更強、更壯的鐮刀蟲王，殼色較淺。這些“蟲王”數量相對較少，但繁殖力絕不失色，放著不管的話能迅速地將多個城市化為喪屍之城。&#10;&#10;喪屍：喪屍看上去就像是半溶化的駝背蠟像，五官扭曲、四肢肥腫、肌肉橫生。駝起的背佈滿膨張的血管，也是鐮刀蟲長成後破體而出的地方。在孕育期間喪屍就只能痛苦地尖叫著，狂暴地揮舞四肢。不過別讓牠們靠太近！一旦主體被殺，幼蟲就會神速成長，而你絕對不會想用士兵的嗚呼為鐮刀蟲出生的叫聲作伴奏。&#10;&#10;鐮刀蟲王：鐮刀蟲王有相同的外表，但孕育蟲王的過程也會令喪屍更暴力。為了承托蟲王的額外體重，喪屍會更大、更強壯、更強韌。&#10;&#10;當你的士兵被感染時指揮官你要小心。雖然他們已經不能使用手上的武器，但他們身上掛著的殘破護甲依然會提供一定程度的保護，不同於平民喪屍。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">鐮刀蟲職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/reaper_terrorist</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">霍金的事件是宗不幸的意外，指揮官。我相信她是想打開灰人的倉門，但“謝天謝地”她錯手打開了鐮刀蟲的培育囊。從好的一點看，我們有機會近距離觀察鐮刀蟲在人體內孕育的過程。依照你所下的對鐮刀蟲作更深入研究的指示，以下是目前所知的鐮刀蟲架構和喪屍的進一步情報。&#10;&#10;鐮刀蟲王：似乎鐮刀蟲本身還不夠糟，我們發現了比牠們更快、更強、更壯的鐮刀蟲王，殼色較淺。這些“蟲王”數量相對較少，但繁殖力絕不失色，放著不管的話能迅速地將多個城市化為喪屍之城。&#10;&#10;喪屍：喪屍看上去就像是半溶化的駝背蠟像，五官扭曲、四肢肥腫、肌肉橫生。駝起的背佈滿膨張的血管，也是鐮刀蟲長成後破體而出的地方。在孕育期間喪屍就只能痛苦地尖叫著，狂暴地揮舞四肢。不過別讓牠們靠太近！一旦主體被殺，幼蟲就會神速成長，而你絕對不會想用士兵的嗚呼為鐮刀蟲出生的叫聲作伴奏。&#10;&#10;鐮刀蟲王：鐮刀蟲王有相同的外表，但孕育蟲王的過程也會令喪屍更暴力。為了承托蟲王的額外體重，喪屍會更大、更強壯、更強韌。&#10;&#10;當你的士兵被感染時指揮官你要小心。雖然他們已經不能使用手上的武器，但他們身上掛著的殘破護甲依然會提供一定程度的保護，不同於平民喪屍。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.WraithClass</Data></Cell>
-    <Cell><Data ss:Type="String">鬼靈職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/wraith_warrior</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">請勸勸你的手下，指揮官。當有研究目標逃出拘留時，正確的程序是將牠壓制、綁起，等待我們派出專人到場處理。程序無論如何都絕對不是用手邊的工具重演恐怖電影的血腥情節，即使當目標在用餐時間傳送進入飯堂也不會改變。等你的暴徒們停手時，那隻鬼靈剩下的血肉連做組織分析都不夠。&#10;&#10;跟醜魔一樣，鬼靈的職能架構較為精簡，也許因為鬼靈屬於精英階層：沒有鬼靈需要出賣自己的勞力！雖然鬼靈的護甲是劃一的綠色，但我們注意到每件護甲都有些個性修飾，沒有兩套是完全一樣的。也許這是鬼靈們突出自我的方法，意味著牠們在異型社會中有罕見的獨立思想。我們比對出幾種鬼靈部隊的軍階，可以從護甲的多寡分辨。&#10;&#10;士兵：鬼靈士兵穿著有肩甲的片狀護身甲，通常拿等離子步槍。聽上去威力略有不足，但牠們可以傳送到夾擊點或到戰車背後，因此也不需要重火力。&#10;&#10;戰士：戰士的武裝較多變，重等離子和等離子炮都頗常見。除了多了護腿外，皮下裝甲的厚度和質量亦有所改善，提升承受打擊的能力。&#10;&#10;士官：跟其他異型士官一樣，鬼靈士官是唯一佩帶頭盔的鬼靈，保護了全身最脆弱的頭部肉塊。我們依然不理解為甚麼其他鬼靈不載頭盔保護肉塊。雖然它們會發出高熱，但異型也有做出超導熱塗層的技術。&#10;&#10;精英：精英戰士的護甲有很多“出廠後”的改良，最明顯是甲板經過強化處理。我們也找到了一個未知原理的植入物，能提升鬼靈的靈活性、敏捷、和耐久力。精英穿的甲最為完整，基部為類似斯巴蜥人精英的綠色戰衣，及保護較周全的甲片。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">鬼靈職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/wraith_warrior</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">請勸勸你的手下，指揮官。當有研究目標逃出拘留時，正確的程序是將牠壓制、綁起，等待我們派出專人到場處理。程序無論如何都絕對不是用手邊的工具重演恐怖電影的血腥情節，即使當目標在用餐時間傳送進入飯堂也不會改變。等你的暴徒們停手時，那隻鬼靈剩下的血肉連做組織分析都不夠。&#10;&#10;跟醜魔一樣，鬼靈的職能架構較為精簡，也許因為鬼靈屬於精英階層：沒有鬼靈需要出賣自己的勞力！雖然鬼靈的護甲是劃一的綠色，但我們注意到每件護甲都有些個性修飾，沒有兩套是完全一樣的。也許這是鬼靈們突出自我的方法，意味著牠們在異型社會中有罕見的獨立思想。我們比對出幾種鬼靈部隊的軍階，可以從護甲的多寡分辨。&#10;&#10;士兵：鬼靈士兵穿著有肩甲的片狀護身甲，通常拿等離子步槍。聽上去威力略有不足，但牠們可以傳送到夾擊點或到戰車背後，因此也不需要重火力。&#10;&#10;戰士：戰士的武裝較多變，重等離子和等離子炮都頗常見。除了多了護腿外，皮下裝甲的厚度和質量亦有所改善，提升承受打擊的能力。&#10;&#10;士官：跟其他異型士官一樣，鬼靈士官是唯一佩帶頭盔的鬼靈，保護了全身最脆弱的頭部肉塊。我們依然不理解為甚麼其他鬼靈不載頭盔保護肉塊。雖然它們會發出高熱，但異型也有做出超導熱塗層的技術。&#10;&#10;精英：精英戰士的護甲有很多“出廠後”的改良，最明顯是甲板經過強化處理。我們也找到了一個未知原理的植入物，能提升鬼靈的靈活性、敏捷、和耐久力。精英穿的甲最為完整，基部為類似斯巴蜥人精英的綠色戰衣，及保護較周全的甲片。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
-    <Cell><Data ss:Type="String">醜魔職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/harridan_elite</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">跟錙銖必較的某些討厭經理一樣，醜魔的職能架構很簡單直接，狹窄地專注於自己的工作。我們比對出幾種醜魔分類，各穿不同質素、覆蓋、和保護效能的護甲。&#10;&#10;士兵：通常跟安卓機人一起行動（同時能提供技術支援和長距離支援），這些藍白色的醜魔是最常見的。牠們的槍法和飛行技術應該不用我多談。&#10;&#10;戰士：紫衣戰士最顯眼的升級是護腕和護脛，及更優良的觀察系統。戰士拿等離子步槍及等離子炮，所以要小心！&#10;&#10;士官：士官的紅甲很易認，跟背上額外的一對翼同樣顯眼。醜魔士官不發號司令，比較像醜魔間的協調器。士官比普通醜魔聰明，也最能獨立思考，面對時要小心。&#10;&#10;精英：精英的肉體跟其他醜魔一樣，但所穿的黑灰飛行衣做工精湛，設有大幅提升肉體和心理素質的裝置。精英的戰術跟士官一樣佳，能力在所有其他醜魔之上。&#10;&#10;奇怪的是醜魔似乎沒有更高階的領袖。我們假設這是因為醜魔缺乏策劃戰略所需的頭腦。牠們依賴其他種族的領袖提供指示……及射擊目標。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">醜魔職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/harridan_elite</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">跟錙銖必較的某些討厭經理一樣，醜魔的職能架構很簡單直接，狹窄地專注於自己的工作。我們比對出幾種醜魔分類，各穿不同質素、覆蓋、和保護效能的護甲。&#10;&#10;士兵：通常跟安卓機人一起行動（同時能提供技術支援和長距離支援），這些藍白色的醜魔是最常見的。牠們的槍法和飛行技術應該不用我多談。&#10;&#10;戰士：紫衣戰士最顯眼的升級是護腕和護脛，及更優良的觀察系統。戰士拿等離子步槍及等離子炮，所以要小心！&#10;&#10;士官：士官的紅甲很易認，跟背上額外的一對翼同樣顯眼。醜魔士官不發號司令，比較像醜魔間的協調器。士官比普通醜魔聰明，也最能獨立思考，面對時要小心。&#10;&#10;精英：精英的肉體跟其他醜魔一樣，但所穿的黑灰飛行衣做工精湛，設有大幅提升肉體和心理素質的裝置。精英的戰術跟士官一樣佳，能力在所有其他醜魔之上。&#10;&#10;奇怪的是醜魔似乎沒有更高階的領袖。我們假設這是因為醜魔缺乏策劃戰略所需的頭腦。牠們依賴其他種族的領袖提供指示……及射擊目標。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
-    <Cell><Data ss:Type="String">安卓機人職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/andron_guard</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官呀，當你叫工程部提交安卓機人的報告時你是怎樣想的？將他們那滔滔不絕、術語連篇、捨本逐末的長篇論文交給你的手下讀？聽好了，首先你要知道的是安卓機人沒有技術員。這些步行的殺人機器能進行精細操作，能用多功能的邏輯直接操作器材，不需外力輔助。它們的戰鬥技術跟飛行技術一樣好。第二是我們從戰場搜集了兩類機人的數據。&#10;&#10;護衛是異型的最後防線。我們將這些綠色機人稱為護衛，因為它們保護慾強，行為模式易於預測。它們也是戰場上最常遇到的型號，通常持等離子槍但也有更重武裝的目擊報告。這些安卓機人為一般士兵所畏懼，輕裝的士兵需小心應對。&#10;&#10;不過海藍色的士兵級機人更大，更嚇人，裝甲更厚。它們幾乎清一色攜帶重武器，特別是重等離子。重等離子的短射程意味著機人要到近離戰鬥，但這也符合它們的作戰風格。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/andron_guard</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官呀，當你叫工程部提交安卓機人的報告時你是怎樣想的？將他們那滔滔不絕、術語連篇、捨本逐末的長篇論文交給你的手下讀？聽好了，首先你要知道的是安卓機人沒有技術員。這些步行的殺人機器能進行精細操作，能用多功能的邏輯直接操作器材，不需外力輔助。它們的戰鬥技術跟飛行技術一樣好。第二是我們從戰場搜集了兩類機人的數據。&#10;&#10;護衛是異型的最後防線。我們將這些綠色機人稱為護衛，因為它們保護慾強，行為模式易於預測。它們也是戰場上最常遇到的型號，通常持等離子槍但也有更重武裝的目擊報告。這些安卓機人為一般士兵所畏懼，輕裝的士兵需小心應對。&#10;&#10;不過海藍色的士兵級機人更大，更嚇人，裝甲更厚。它們幾乎清一色攜帶重武器，特別是重等離子。重等離子的短射程意味著機人要到近離戰鬥，但這也符合它們的作戰風格。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
-    <Cell><Data ss:Type="String">安卓機人進階職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/andron_elite</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">工程部鬧脾氣是他們的事，不是我的錯。他們想混這行就要厚面皮一點。不過為了和睦的關係，我邀請了他們提供安卓機人的專業意見而他們也提供了有用的見解。一般而言，越大越粗壯的機人越危險，其中最大最強的是精英安卓機人。以下是我們所辨認出的安卓機人型號：&#10;&#10;戰士：我不想將任何量產機械人稱為“老兵”，不過這是個合適的描述。淺藍色的戰士級機人比前線的士兵級裝備更精良，也有更卓越的邏輯及戰術分析系統。&#10;&#10;精英：安卓機人的豪華版就是精英級，裝有大量額外配件。巨大的精英級使用華麗的紅色塗彩，在戰士級的基礎之上增設了人引人入勝的退阻器、重力子穩定器、強化的承重支架等，將精英機人化為雙足迷你坦克，可以邊走邊發射重武器而不影響速度或精度。&#10;&#10;士官：高貴的紫色機人跟精英一樣強，但機體更緊緻。士官級安卓機人是你所面對的最危險的機，這絕非輕言，因為它們結合了重火力和高等的戰術知慧。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人進階職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/andron_elite</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">工程部鬧脾氣是他們的事，不是我的錯。他們想混這行就要厚面皮一點。不過為了和睦的關係，我邀請了他們提供安卓機人的專業意見而他們也提供了有用的見解。一般而言，越大越粗壯的機人越危險，其中最大最強的是精英安卓機人。以下是我們所辨認出的安卓機人型號：&#10;&#10;戰士：我不想將任何量產機械人稱為“老兵”，不過這是個合適的描述。淺藍色的戰士級機人比前線的士兵級裝備更精良，也有更卓越的邏輯及戰術分析系統。&#10;&#10;精英：安卓機人的豪華版就是精英級，裝有大量額外配件。巨大的精英級使用華麗的紅色塗彩，在戰士級的基礎之上增設了人引人入勝的退阻器、重力子穩定器、強化的承重支架等，將精英機人化為雙足迷你坦克，可以邊走邊發射重武器而不影響速度或精度。&#10;&#10;士官：高貴的紫色機人跟精英一樣強，但機體更緊緻。士官級安卓機人是你所面對的最危險的機，這絕非輕言，因為它們結合了重火力和高等的戰術知慧。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
-    <Cell><Data ss:Type="String">斯巴蜥人技術員</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/sebillian_noncom</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官，我們的異種社會學家正在收集斯巴蜥人的情報。當中大部分都跟地面戰鬥無關，不過我撥冗為你的手下總結了當中較為有用的情報。&#10;&#10;我肯定你已經知道士兵們為上次的地面戰鬥感到多自豪和欣慰。我不想打擊他們（好吧，也許我想），不過這些“硬目標”大部分都，不暪你說，只是非戰鬥員。依照我們的數據分析，大部分回收的樣本都是不適合地面戰鬥的。牠們是幽浮的核心操作成員例如機師、工程師、領航員、及其他重要的非戰鬥岡位。牠們只受過基本的戰鬥訓練，身上只有手槍，護甲就是天生的厚皮。（順便說說，我已經嚴重苛責了那些將斯巴蜥人剝皮賣皮給你的手下的助理。你知不知英格蘭下士是名皮革匠？如果我是你我會檢查他們的制服。）&#10;&#10;我們的異種社會學家認為牠們是奴隸階層，數以百萬計地服待上層種族，要不就是牠們是尚未在社會立足，尚不能佩槍，只配進行技術工作的年輕異型。無論是那一種，牠們都不會離開墜地的幽浮太遠，更不可能參與有計劃的地面作戰。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人技術員</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sebillian_noncom</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官，我們的異種社會學家正在收集斯巴蜥人的情報。當中大部分都跟地面戰鬥無關，不過我撥冗為你的手下總結了當中較為有用的情報。&#10;&#10;我肯定你已經知道士兵們為上次的地面戰鬥感到多自豪和欣慰。我不想打擊他們（好吧，也許我想），不過這些“硬目標”大部分都，不暪你說，只是非戰鬥員。依照我們的數據分析，大部分回收的樣本都是不適合地面戰鬥的。牠們是幽浮的核心操作成員例如機師、工程師、領航員、及其他重要的非戰鬥岡位。牠們只受過基本的戰鬥訓練，身上只有手槍，護甲就是天生的厚皮。（順便說說，我已經嚴重苛責了那些將斯巴蜥人剝皮賣皮給你的手下的助理。你知不知英格蘭下士是名皮革匠？如果我是你我會檢查他們的制服。）&#10;&#10;我們的異種社會學家認為牠們是奴隸階層，數以百萬計地服待上層種族，要不就是牠們是尚未在社會立足，尚不能佩槍，只配進行技術工作的年輕異型。無論是那一種，牠們都不會離開墜地的幽浮太遠，更不可能參與有計劃的地面作戰。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
-    <Cell><Data ss:Type="String">斯巴蜥人職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/sebillian_soldier</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官，勞煩你阻止那些大兵學院的畢業生在休班期間別來騷擾我的職員。我們只管可以確認的事實，不會採納虛浮的謠言或毫無根據的傳聞。當有可靠的資訊時我們就會公佈。以下是戰鬥型斯巴蜥人的分析情報。&#10;&#10;護衛：護衛是技術員的晉級版，體形稍大，配備等離子步槍並穿載用異型合金打造的護胸，增強保護力而不減行動的便利。依照我們的觀察，牠們偏向守勢，岡位很可能是船上的保安而不是前線人員。&#10;&#10;士兵。斯巴蜥人士兵是最像前線部隊的一類。牠們穿載較為完整的護甲，覆蓋胸部至會陰。皮膚較薄的雙腿也有額外護具，並已知會使用更重（威力更強）的武器。資助國所提供的錄影片段顥示牠們的武器可以在幾秒內將沒有護甲的人液化。&#10;&#10;如果你的手下的原始腦袋甚麼都塞不進，那最少將這條方程式刻進去：越多護甲＝越危險</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sebillian_soldier</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官，勞煩你阻止那些大兵學院的畢業生在休班期間別來騷擾我的職員。我們只管可以確認的事實，不會採納虛浮的謠言或毫無根據的傳聞。當有可靠的資訊時我們就會公佈。以下是戰鬥型斯巴蜥人的分析情報。&#10;&#10;護衛：護衛是技術員的晉級版，體形稍大，配備等離子步槍並穿載用異型合金打造的護胸，增強保護力而不減行動的便利。依照我們的觀察，牠們偏向守勢，岡位很可能是船上的保安而不是前線人員。&#10;&#10;士兵。斯巴蜥人士兵是最像前線部隊的一類。牠們穿載較為完整的護甲，覆蓋胸部至會陰。皮膚較薄的雙腿也有額外護具，並已知會使用更重（威力更強）的武器。資助國所提供的錄影片段顥示牠們的武器可以在幾秒內將沒有護甲的人液化。&#10;&#10;如果你的手下的原始腦袋甚麼都塞不進，那最少將這條方程式刻進去：越多護甲＝越危險</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
-    <Cell><Data ss:Type="String">斯巴蜥人進階職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/sebillian_leader</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官，我分析了最近的行動報告，感到又喜又憂。為應對我們持續得勝的行動和日行千里的科技，斯巴蜥人部隊投入了牠們最精銳的單位，意圖踢走我們。但這將會被證明是個錯誤，因為牠們的士官和領袖現在會近距離監督地面戰鬥，給我們一個機會去抓捕這些高官獲取重要情報。我的團隊整理出了以下關於這些精英部隊的情報：&#10;&#10;戰士/精英：斯巴蜥人的老兵比一般士兵有更精良的護甲，並佩載精緻的肩甲。牠們比以往的任何蜥人都更壯、更快、更強。戰士的標準配備是重等離子及等離子炮。要特別小心在護甲下穿紅色戰衣的斯巴蜥人，只有等同特種部隊的斯巴蜥人獲發紅色戰衣。牠們是貨真價實的精英，對你的手下是個重大挑戰。&#10;&#10;士官/領袖：只有士官和領袖才能佩載頭盔，可能是出於文化因素，因此要留神圓型的頭盔。牠們是最聰明的蜥人，不過這意義不大，因為斯巴蜥人的社會結構著重戰鬥力多於戰術能力。重點是，請指揮官你記著牠們比一般蜥人更難對付。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人進階職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sebillian_leader</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官，我分析了最近的行動報告，感到又喜又憂。為應對我們持續得勝的行動和日行千里的科技，斯巴蜥人部隊投入了牠們最精銳的單位，意圖踢走我們。但這將會被證明是個錯誤，因為牠們的士官和領袖現在會近距離監督地面戰鬥，給我們一個機會去抓捕這些高官獲取重要情報。我的團隊整理出了以下關於這些精英部隊的情報：&#10;&#10;戰士/精英：斯巴蜥人的老兵比一般士兵有更精良的護甲，並佩載精緻的肩甲。牠們比以往的任何蜥人都更壯、更快、更強。戰士的標準配備是重等離子及等離子炮。要特別小心在護甲下穿紅色戰衣的斯巴蜥人，只有等同特種部隊的斯巴蜥人獲發紅色戰衣。牠們是貨真價實的精英，對你的手下是個重大挑戰。&#10;&#10;士官/領袖：只有士官和領袖才能佩載頭盔，可能是出於文化因素，因此要留神圓型的頭盔。牠們是最聰明的蜥人，不過這意義不大，因為斯巴蜥人的社會結構著重戰鬥力多於戰術能力。重點是，請指揮官你記著牠們比一般蜥人更難對付。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
-    <Cell><Data ss:Type="String">灰人技術員</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/caesan_noncom</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">從 1910 年意太利普利亞的首宗墜機記錄到蓋茨熙德．格雷 Gateshead Grey 的被虜等著名事件，人類對&quot;來自火星的小綠人&quot;一直充滿了好奇心。現在牠們來了，而且來者不善。每次我講解的時候我們的“勇士”都在睡覺，所以我將我們知道的情報寫下了，讓你可以派給他們。也許你可以當作床邊故事說給他們聽。&#10;&#10;我不驚訝我們的士兵好像游泳池裡的鯊魚一樣掃倒灰人。帶給我們研究的好幾具樣本都不適合戰鬥。穿紅色飛行衣的灰人似乎是技術員，例如技師或領航員。基於牠們的基因，可以相信牠們是在生產線上量產然後因應人力需要而被灌輸所需求的技術。&#10;&#10;跟我們的機師和工程師一樣，牠們只攜帶輕武裝，地面戰鬥能力有限。牠們的飛行衣有一定的衝擊抗力，能抵禦 9 毫米口徑子彈，但要擋一堆步槍子彈就難了。我認為所有幽浮都會載有技術員，但有計劃的地面行動就不會有了。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">灰人技術員</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/caesan_noncom</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">從 1910 年意太利普利亞的首宗墜機記錄到蓋茨熙德．格雷 Gateshead Grey 的被虜等著名事件，人類對&quot;來自火星的小綠人&quot;一直充滿了好奇心。現在牠們來了，而且來者不善。每次我講解的時候我們的“勇士”都在睡覺，所以我將我們知道的情報寫下了，讓你可以派給他們。也許你可以當作床邊故事說給他們聽。&#10;&#10;我不驚訝我們的士兵好像游泳池裡的鯊魚一樣掃倒灰人。帶給我們研究的好幾具樣本都不適合戰鬥。穿紅色飛行衣的灰人似乎是技術員，例如技師或領航員。基於牠們的基因，可以相信牠們是在生產線上量產然後因應人力需要而被灌輸所需求的技術。&#10;&#10;跟我們的機師和工程師一樣，牠們只攜帶輕武裝，地面戰鬥能力有限。牠們的飛行衣有一定的衝擊抗力，能抵禦 9 毫米口徑子彈，但要擋一堆步槍子彈就難了。我認為所有幽浮都會載有技術員，但有計劃的地面行動就不會有了。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
-    <Cell><Data ss:Type="String">灰人職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/caesan_soldier</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官，我不喜歡任何人從幽浮墜落地點盜走貴重的實驗樣本。更不滿意這些樣本在名為兵營的原始洞穴中被作為戰利品陳列。灰人飛行衣的不同顏色明顯有很多有待發掘的階級意義，偷偷藏起它們當作紀念品和幸運符絕對本末倒置。現在我們只能儘力克服這困難，我們開始能分辨不同顏色的意義。&#10;&#10;護衛：藍色的灰人是我們遇上的第一種戰鬥用灰人，裝備等離子步槍，可以抵擋一整隊普通士兵。牠們的飛行衣有幾層強化夾層，可以抵禦更多傷害，雖然牠們的生理跟技術員一樣。&#10;&#10;士兵：雖然護衛頗能打，但牠們還稱不上前線人員。士兵級就稱得上了。牠們比護衛級更富攻擊性，攜帶多種武器，並且看見緊靠的士兵時會毫不克制地丟手雷。牠們穿深藍色的飛行衣及淺藍色的護肩。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">灰人職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/caesan_soldier</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官，我不喜歡任何人從幽浮墜落地點盜走貴重的實驗樣本。更不滿意這些樣本在名為兵營的原始洞穴中被作為戰利品陳列。灰人飛行衣的不同顏色明顯有很多有待發掘的階級意義，偷偷藏起它們當作紀念品和幸運符絕對本末倒置。現在我們只能儘力克服這困難，我們開始能分辨不同顏色的意義。&#10;&#10;護衛：藍色的灰人是我們遇上的第一種戰鬥用灰人，裝備等離子步槍，可以抵擋一整隊普通士兵。牠們的飛行衣有幾層強化夾層，可以抵禦更多傷害，雖然牠們的生理跟技術員一樣。&#10;&#10;士兵：雖然護衛頗能打，但牠們還稱不上前線人員。士兵級就稱得上了。牠們比護衛級更富攻擊性，攜帶多種武器，並且看見緊靠的士兵時會毫不克制地丟手雷。牠們穿深藍色的飛行衣及淺藍色的護肩。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
-    <Cell><Data ss:Type="String">灰人靈能師</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/caesan_psion</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了奇蹟般的異型科技，我都從來、從來沒想過心靈能力並非只出於迷信和愚昧。但事實勝於雄辯，我不會巧立名目自我欺騙。指揮官，靈能是真正存在的。&#10;&#10;現在我們知道為甚麼灰人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們尚未瞭解的反應，提供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被選上旳少數真的能使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只保留給少數精英。我們把這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。&#10;&#10;幸運地，靈能似乎只限於不同模式的心靈感應。對靈能師所作的徹查顯示牠可以操作整體思緒，特別是恐懼，但絕不能用念力舉起汽車丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也此加倍危險。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">灰人靈能師</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/caesan_psion</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了奇蹟般的異型科技，我都從來、從來沒想過心靈能力並非只出於迷信和愚昧。但事實勝於雄辯，我不會巧立名目自我欺騙。指揮官，靈能是真正存在的。&#10;&#10;現在我們知道為甚麼灰人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們尚未瞭解的反應，提供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被選上旳少數真的能使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只保留給少數精英。我們把這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。&#10;&#10;幸運地，靈能似乎只限於不同模式的心靈感應。對靈能師所作的徹查顯示牠可以操作整體思緒，特別是恐懼，但絕不能用念力舉起汽車丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也此加倍危險。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
-    <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
-    <Cell><Data ss:Type="String">灰人進階職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/caesan_officer</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">指揮官，灰人們升級了戰事。我們注意到灰人部隊的素質有顯著提升，正在蹍壓各國的軍隊。即使是面對靈能師以外的灰人，士兵們都有報告出現頭痛、莫名的絕望、及其他類似的生理或心理現像。我非常擔憂靈能可能比我原先預期的遠要普及，但我們缺乏足夠數據。以下是我們所能肯定的新型灰人的情報。&#10;&#10;戰士/精英：跟斯巴蜥人一樣，灰人也有自己的老兵和特種部隊，雖然我有點懷疑牠們能簡單地生產這些部隊。牠們穿載具獨特鈄向肩甲的顯眼護甲，精英的穿的更稱得上是全身甲。牠們拿最可怕的武器，包括令人聞風喪脆的等離子炮。戰士的護甲是紫色調，而精英是紅色。&#10;&#10;士官/領袖：只有這兩者會載頭盔，而大部分的異常心理現像都圍繞著士官發生，能目擊到士官的時候尤其多。如果你能帶回完整的頭盔給我們分析就再好不過；這頭盔可能並不簡單，也許某種裝置能導致這些現像，我們甚至也許能仿製。較常見的士官穿藍調的護甲，而領袖的則是紅調，設計類似精英所穿的。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">灰人進階職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/caesan_officer</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">指揮官，灰人們升級了戰事。我們注意到灰人部隊的素質有顯著提升，正在蹍壓各國的軍隊。即使是面對靈能師以外的灰人，士兵們都有報告出現頭痛、莫名的絕望、及其他類似的生理或心理現像。我非常擔憂靈能可能比我原先預期的遠要普及，但我們缺乏足夠數據。以下是我們所能肯定的新型灰人的情報。&#10;&#10;戰士/精英：跟斯巴蜥人一樣，灰人也有自己的老兵和特種部隊，雖然我有點懷疑牠們能簡單地生產這些部隊。牠們穿載具獨特鈄向肩甲的顯眼護甲，精英的穿的更稱得上是全身甲。牠們拿最可怕的武器，包括令人聞風喪脆的等離子炮。戰士的護甲是紫色調，而精英是紅色。&#10;&#10;士官/領袖：只有這兩者會載頭盔，而大部分的異常心理現像都圍繞著士官發生，能目擊到士官的時候尤其多。如果你能帶回完整的頭盔給我們分析就再好不過；這頭盔可能並不簡單，也許某種裝置能導致這些現像，我們甚至也許能仿製。較常見的士官穿藍調的護甲，而領袖的則是紅調，設計類似精英所穿的。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
-    <Cell><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
-    <Cell><Data ss:Type="String">安卓機人職能</Data></Cell>
-    <Cell><Data ss:Type="String">xenopediaimages/andronanalysis</Data></Cell>
-    <Cell><Data ss:Type="String">Alien Units</Data></Cell>
-    <Cell><Data ss:Type="String">ACW</Data></Cell>
-    <Cell><Data ss:Type="String">做得好，指揮官。不管是誰幸運地打壞了它的自我毁滅裝置，我們現在有了一分完整的樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦，也合情理地取得了成果。&#10;&#10;安卓機人的腦袋令人嘆為觀止。跟身體一樣，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷卻劑會避開冷的地方只聚在熱的地方，逹成針對重點局部冷卻的效果。也跟其他結構一樣，這樣的設計不會帶來顯著的優勢。將處理單元分佈在全身會更易冷卻，存活性更好，被打掉一些單元也不會倒下。&#10;&#10;對操作系統進行的電子鑑證揭示了兩層截然不同的指令碼。第一層較深層的是自動化、自由、有自我意識的神經網路。這層的思考和學習方式跟高等哺乳動物相若。不過要掘出它並不容易，因為第二層代碼將它暴力地覆蓋了，只重用了自我學習和自我改善的能力，而強力的服從指引則強迫決策矩陣只能參照來自主人的正式指令，將本來應有自我意志的生靈變成盲目的機械奴隸。兩層指令之間的差異很令人在意。很明顯安卓機人以前不是現在這樣的……但在它們被改造成戰爭機器之前又是甚麼樣子的？我們已經在試驗能否修改控制層。讓安卓機人所操作的幽浮群起叛變可能可以瓦解異型的入侵。&#10;&#10;縱然安卓機人有卓越的速度和力量，它們的奴隸式指令集令它們很易預測，低至握武器的手法和戰鬥時會採取的精細行動。這些破綻及它們的裝甲的弱點己經被詳細記錄並分發給你的手下。利用這些情報，他們可以將對機人做成的傷害提升約十分一。 </Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人職能</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/andronanalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Alien Units</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">做得好，指揮官。不管是誰幸運地打壞了它的自我毁滅裝置，我們現在有了一分完整的樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦，也合情理地取得了成果。&#10;&#10;安卓機人的腦袋令人嘆為觀止。跟身體一樣，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷卻劑會避開冷的地方只聚在熱的地方，逹成針對重點局部冷卻的效果。也跟其他結構一樣，這樣的設計不會帶來顯著的優勢。將處理單元分佈在全身會更易冷卻，存活性更好，被打掉一些單元也不會倒下。&#10;&#10;對操作系統進行的電子鑑證揭示了兩層截然不同的指令碼。第一層較深層的是自動化、自由、有自我意識的神經網路。這層的思考和學習方式跟高等哺乳動物相若。不過要掘出它並不容易，因為第二層代碼將它暴力地覆蓋了，只重用了自我學習和自我改善的能力，而強力的服從指引則強迫決策矩陣只能參照來自主人的正式指令，將本來應有自我意志的生靈變成盲目的機械奴隸。兩層指令之間的差異很令人在意。很明顯安卓機人以前不是現在這樣的……但在它們被改造成戰爭機器之前又是甚麼樣子的？我們已經在試驗能否修改控制層。讓安卓機人所操作的幽浮群起叛變可能可以瓦解異型的入侵。&#10;&#10;縱然安卓機人有卓越的速度和力量，它們的奴隸式指令集令它們很易預測，低至握武器的手法和戰鬥時會採取的精細行動。這些破綻及它們的裝甲的弱點己經被詳細記錄並分發給你的手下。利用這些情報，他們可以將對機人做成的傷害提升約十分一。 </Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">散射激光</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/scatterlaser_cannon</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">雖然望上去有點像戰鬥機用的空戰炮，但只要仔細看就可以發現散射激光跟它的元祖完全不同。我們將槍管減到三根，而且它們現在不射子彈，槍管裝的是實驗室中最強的原型激光武器。由於我們的大氣會折射激光束，它的射程只比空戰炮遠 15%。不過它所做成的熱能傷害似乎對我們所遇過的幽浮都特別有效，比子彈效果更好。我們估算散射激光在實戰中能對射程內的幽浮做成約兩部的傷害。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛彈</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alenium_missile</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">將響尾蛇換裝異能晶彈頭是件簡單的事。雖然將炸藥完全換成異能晶的話可以大幅增加爆炸力，但我們取了些平衡。新的飛彈大約能做成多 50% 的傷害，而所省下空間則增加飛彈的射程。我們也用到目前為止的空戰數據調整了空對空尋標系統，專一追蹤異型飛船。異能晶飛彈是首種採納這項調整的飛彈，鎖定時間比前代縮短了不少。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛雷</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alenium_torpedo</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">山崩飛雷對較大較笨重的幽起了不錯的效果，令我們喜出望外。我們決定讓它跟響尾蛇一同升級。巨型的異能晶彈頭約能增加 30% 的傷害，射程亦增長了。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子噴射炮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasmablaster_cannon</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我們終於能將異型的等離子科技應用成我們的空戰武器。戰鬥機武器的體積和重量限制相對較寛鬆，我們有足夠空間裝上能產生大量高能等離子的電漿倉。實驗證明它比激光武器的傷害多 50%。等離子噴射炮所裝的重力子產生器也非常有效，它們可以將等離子扭成具體的能量束，能完整地跨越一段長距離，稍為提升了我們的戰鬥機的接戰距離。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛彈</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasma_missile</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">近期的異型空戰幽浮開始能抵禦我們的異能晶飛彈。我們的新設計仿效自等離子飛雷，傷害力提升了 66%。我們也成功測試了一種新的推進劑，於等離子飛彈上採用。雖然沒有很戲劇性的提升，但對射程多少還是有點幫助。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛雷</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/plasma_torpedo</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">近期的異型幽浮的裝甲嚴重阻礙我們的攔截行動。異能晶飛雷的爆炸錐大部分都被重型幽浮的裝甲夾層吸收並打散。為了解決這問題，我們的實驗室開發了一個原型，在彈頭的尖端裝設一個等離子產生器進行貫穿。效果超乎預料，我們決定立刻投入量產。這貫穿器的定向等離子束能令異能晶爆炸的大量爆炸波深入異型飛船內部。新的先進推劑劑配方也令等離子飛雷飛得更遠。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">電磁風暴</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/MAGSTORM_cannon</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">似乎我們又回歸原點了。我們最新的戰機武器會做成動能傷害，跟不久前還在用的空戰炮一樣。但&quot;電磁風暴&quot;的破壞力和破壞規模完全超凡入聖。如果我們不是面對著莫大的外太空威脅，數根這些炮就可以扭轉任何軍事戰役。可惜的是雖然它比等離子噴射炮更強更遠，電磁風暴都只能讓我們跟無盡的異型戰列幽浮平起平坐。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛彈</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/hyper_missile</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">我們最先進的武器設計棄用異能晶彈頭，改用小型的核融合裝置。當縮到能裝上戰鬥機飛彈掛點的時候，核融飛彈的傷害力只比等離子飛彈多 50%，但我們同時也改進了推進器的設計，射程提升了約 12%。這應該足以迅速解掉大部分的空戰系幽浮。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛雷</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/fusion_torpedo</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">ACW</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">自從我們首次在空中遇上主動開火的幽浮起，人類就一直在爭扎是否應動用核武對付外星人。共識是別用，但部分冷戰派的悍衛者持續有強烈的反對聲音。我所害怕的是，無論核彈頭是不是真的對異型飛船有用，走上這條短視的路的結果是緩慢地滅絕這顆星球。不過，近來所取得的科技發展首次讓我們能有信心地建議給戰鬥機裝上核武器。核融飛雷是針對笨重幽浮的最新武器，有更強的傷害力和射程，給我們的戰機帶來面對最大型幽浮時所急需的優勢。</Data></Cell>
    </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">

@@ -4335,7 +4335,7 @@
   <Cell><Data ss:Type="String">&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.BALLISTICS</Data></Cell>
-  <Cell><Data ss:Type="String">傳統</Data></Cell>
+  <Cell><Data ss:Type="String">常規</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.BELT</Data></Cell>
   <Cell><Data ss:Type="String">腰帶</Data></Cell>
