@@ -18,6 +18,7 @@ and manually override game font to see any Chinese at all.
 * [x] Translate custom solider and regiment (strings.xml)
 * [x] Add and translate mod contents (Lore+ and others)
 * [ ] Update to X:CE 0.34.2
+* [ ] Translate Quickstart and Manual
 * [ ] Playtest - Adjust font sizes
 * [ ] Playtest - Fill in uncertain blanks
 * [ ] Build font and preview package
@@ -30,7 +31,7 @@ and manually override game font to see any Chinese at all.
 
 ## Mod list ##
 
-XCE mods with translate-able resource and status.
+XCE mods with translate-able resources and status.
 
 * Armoured Assault
 * * Default Off
@@ -38,7 +39,7 @@ XCE mods with translate-able resource and status.
 
 * Extended Weapon Descriptions for Fighters
 * * Default On
-* * Unmerged and untranslated
+* * Merged and translated
 
 * Furies, Terror, and Dreadnoughts Oh My
 * * Default Off
@@ -59,3 +60,9 @@ XCE mods with translate-able resource and status.
 * X:CE Settings
 * * Default On
 * * Ignored because it simply swaps colonal and commander title, which cause no problem in Chinese
+
+Non-XCE mods with translate-able resoruces and status.
+
+* Geographic addition
+* * Version 1.1 released 2016-08-16
+* * Merged and translated
