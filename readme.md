@@ -18,7 +18,7 @@ and manually override game font to see any Chinese at all.
 * [x] Translate custom solider and regiment (strings.xml)
 * [x] Add and translate mod contents (Lore+ and others)
 * [ ] Update to X:CE 0.34.2
-* [ ] Translate Quickstart and Manual
+* [x] Translate Quickstart and Manual
 * [ ] Playtest - Adjust font sizes
 * [ ] Playtest - Fill in uncertain blanks
 * [ ] Build font and preview package
