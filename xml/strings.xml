@@ -28,7 +28,7 @@
  </ExcelWorkbook>
  <Styles>
 <Style ss:ID="Default" ss:Name="Normal">
- <Alignment ss:Vertical="Bottom"/>
+ <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
  <Borders/>
  <Interior/>
  <NumberFormat/>
@@ -36,7 +36,7 @@
 </Style>
  </Styles>
  <Worksheet ss:Name="strings">
-<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2611" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2627" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
  <Column ss:AutoFitWidth="0" ss:Width="246"/>
  <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
  <Row>
@@ -111,7 +111,7 @@
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.RETREAT</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下逹新指令。&lt;/font\&gt;</Data></Cell>
- </Row><Row ss:Height="33">
+ </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
  </Row><Row>
@@ -260,19 +260,19 @@
   <Cell><Data ss:Type="String">戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KG</Data></Cell>
-  <Cell><Data ss:Type="String">%1% kg</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 公斤</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KILLS</Data></Cell>
   <Cell><Data ss:Type="String">擊墜數</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KM</Data></Cell>
-  <Cell><Data ss:Type="String">%1% km</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 公里</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KMPH</Data></Cell>
-  <Cell><Data ss:Type="String">%1% km/h</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 公里/時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KMPHS</Data></Cell>
-  <Cell><Data ss:Type="String">%1% km/h/sec</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 公里/時/秒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.LENGTH</Data></Cell>
   <Cell><Data ss:Type="String">長度</Data></Cell>
@@ -512,13 +512,13 @@
   <Cell><Data ss:Type="String">在%1%發現異型基地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienInterrogationRoom</Data></Cell>
-  <Cell><Data ss:Type="String">Alien Interrogation Room</Data></Cell>
+  <Cell><Data ss:Type="String">異型審問室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.alienplasmacell</Data></Cell>
   <Cell><Data ss:Type="String">異型等離子電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.flamethrower</Data></Cell>
-  <Cell><Data ss:Type="String">Napalm Tank</Data></Cell>
+  <Cell><Data ss:Type="String">汽油瓶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.machinegun</Data></Cell>
   <Cell><Data ss:Type="String">機槍彈匣</Data></Cell>
@@ -927,16 +927,16 @@
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingComplete</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%2%&lt;/font&gt;的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;已建造完成。&lt;br /&gt;</Data></Cell>
- </Row><Row ss:Height="49.5">
+ </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltip</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10;維護費：%2%&#10;拆卸進賬：%3%</Data></Cell>
- </Row><Row ss:Height="33">
+ </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltipNoRefund</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10;維護費：%2%</Data></Cell>
- </Row><Row ss:Height="66">
+ </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltipSpace</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10;已用配額：%2%/%3%&#10;維護費：%4%&#10;拆卸進賬：%5%</Data></Cell>
- </Row><Row ss:Height="66">
+ </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltipUC</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10;距離完工：%2% 日&#10;維護費：%3%&#10;拆卸進賬：%4%</Data></Cell>
  </Row><Row>
@@ -1049,7 +1049,7 @@
   <Cell><Data ss:Type="String">指揮中心</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Construction</Data></Cell>
-  <Cell><Data ss:Type="String">Construction</Data></Cell>
+  <Cell><Data ss:Type="String">興建</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CONTINENTINFORMATIONSTATS</Data></Cell>
   <Cell><Data ss:Type="String">外交關係：&lt;br/&gt;財政資助：&lt;br/&gt;預期增減：&lt;br/&gt;死亡人數：</Data></Cell>
@@ -1920,7 +1920,7 @@
   <Cell><Data ss:Type="String">力量</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SurvivingCivilians</Data></Cell>
-  <Cell><Data ss:Type="String">倖存市民</Data></Cell>
+  <Cell><Data ss:Type="String">倖存平民</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SurvivingLocalForces</Data></Cell>
   <Cell><Data ss:Type="String">倖存當地部隊</Data></Cell>
@@ -2529,9 +2529,6 @@
   <Cell><Data ss:Type="String">灰人靈能師的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">Caesan Soldier</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.CaesanSoldier</Data></Cell>
   <Cell><Data ss:Type="String">灰人士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanSoldierCorpse</Data></Cell>
@@ -2575,9 +2572,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanOfficerCorpse</Data></Cell>
   <Cell><Data ss:Type="String">醜魔士官的屍骸</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.HarridanSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">Harridan Soldier</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanSoldier</Data></Cell>
   <Cell><Data ss:Type="String">醜魔士兵</Data></Cell>
@@ -2680,9 +2674,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithOfficerCorpse</Data></Cell>
   <Cell><Data ss:Type="String">鬼靈士官的屍骸</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.WraithSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">Wraith Soldier</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithSoldier</Data></Cell>
   <Cell><Data ss:Type="String">鬼靈士兵</Data></Cell>
@@ -2982,7 +2973,7 @@
   <Cell><Data ss:Type="String">等離子火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmatorch</Data></Cell>
-  <Cell><Data ss:Type="String">等離子火槍 torch</Data></Cell>
+  <Cell><Data ss:Type="String">等離子火槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.PlasmaTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">等離子飛雷</Data></Cell>
@@ -2994,7 +2985,7 @@
   <Cell><Data ss:Type="String">激光狙擊槍是極住的狙擊武器，但近距離就不行了。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Precisionplasma</Data></Cell>
-  <Cell><Data ss:Type="String">等離子狙擊槍recision plasma</Data></Cell>
+  <Cell><Data ss:Type="String">等離子狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Predator</Data></Cell>
   <Cell><Data ss:Type="String">獵戶戰甲</Data></Cell>
@@ -3219,7 +3210,7 @@
   <Cell><Data ss:Type="String">（沒有倉庫）</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">None</Data></Cell>
-  <Cell><Data ss:Type="String">None</Data></Cell>
+  <Cell><Data ss:Type="String">無</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoRequirements</Data></Cell>
   <Cell><Data ss:Type="String">無特別需求</Data></Cell>
@@ -3549,7 +3540,7 @@
   <Cell><Data ss:Type="String">F110-GE-100 渦輪風扇</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">POWERPLANT.Soloviev</Data></Cell>
-  <Cell><Data ss:Type="String">D-30F6 Soloviev</Data></Cell>
+  <Cell><Data ss:Type="String">D-30F6 索洛維耶夫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">POWERPLANT.AleniumRepulsion</Data></Cell>
   <Cell><Data ss:Type="String">ER-3 異能晶斥力器</Data></Cell>
@@ -3936,7 +3927,7 @@
   <Cell><Data ss:Type="String">分析所抓到的灰人，找出牠們的弱點。完成後會提升士兵對灰人做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptor</Data></Cell>
-  <Cell><Data ss:Type="String">X-37 海賊戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">X-37 海賊 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
@@ -3957,7 +3948,7 @@
   <Cell><Data ss:Type="String">強力的電擊手雷，能同時電擊敵人的有生戰力及殺傷機械單位。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptor</Data></Cell>
-  <Cell><Data ss:Type="String">X-120 天怒戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">X-120 天怒 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發終極的人類戰機，在大氣層內絕不會敗給任何幽浮。</Data></Cell>
@@ -4029,7 +4020,7 @@
   <Cell><Data ss:Type="String">開發新一代的步兵動能武器，相信會比我們的等離子武器更強。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptor</Data></Cell>
-  <Cell><Data ss:Type="String">X-59 賊王戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">X-59 賊王 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">先進的多用途戰鬥機，設計上能取代現有的所有戰機。更快、更堅固，並且能同時攜帶機載炮及兩支飛雷。</Data></Cell>
@@ -4113,7 +4104,7 @@
   <Cell><Data ss:Type="String">分析所抓到的鐮刀蟲，找出牠們的弱點。完成後會提升士兵對鐮刀蟲做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SaracenInterceptor</Data></Cell>
-  <Cell><Data ss:Type="String">X-44 大食戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">X-44 大食 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScuttlerDisassembly</Data></Cell>
   <Cell><Data ss:Type="String">Scuttler Disassembly</Data></Cell>
@@ -4134,7 +4125,7 @@
   <Cell><Data ss:Type="String">開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropship</Data></Cell>
-  <Cell><Data ss:Type="String">D-42 伯勞鳥運輸機</Data></Cell>
+  <Cell><Data ss:Type="String">D-42 伯勞鳥 運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropshipDesc</Data></Cell>
   <Cell><Data ss:Type="String">研發飛得更快、能運載更多士兵的先進運輸機。</Data></Cell>
@@ -4155,7 +4146,7 @@
   <Cell><Data ss:Type="String">毒氣手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ValkyrieDropship</Data></Cell>
-  <Cell><Data ss:Type="String">D-54 女武神空降艇</Data></Cell>
+  <Cell><Data ss:Type="String">D-54 女武神 空降艇</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ValkyrieDropshipDesc</Data></Cell>
   <Cell><Data ss:Type="String">利用登陸倉技術開發飛得更快、投放更多士兵的終極運輸機。</Data></Cell>
@@ -4329,10 +4320,10 @@
   <Cell><Data ss:Type="String">X</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.INVPREVSOLDIER</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;</Data></Cell>
+  <Cell><Data ss:Type="String">＞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.INVNEXTSOLDIER</Data></Cell>
-  <Cell><Data ss:Type="String">&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">＜</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.BALLISTICS</Data></Cell>
   <Cell><Data ss:Type="String">常規</Data></Cell>
@@ -4392,7 +4383,7 @@
   <Cell><Data ss:Type="String">主武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.RANGE</Data></Cell>
-  <Cell><Data ss:Type="String">Range</Data></Cell>
+  <Cell><Data ss:Type="String">射程</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.RECOIL</Data></Cell>
   <Cell><Data ss:Type="String">回彈力</Data></Cell>
@@ -4422,7 +4413,7 @@
   <Cell><Data ss:Type="String">精度</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATAGE</Data></Cell>
-  <Cell><Data ss:Type="String">年紀</Data></Cell>
+  <Cell><Data ss:Type="String">年齡</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATAP</Data></Cell>
   <Cell><Data ss:Type="String">TU</Data></Cell>
@@ -4527,19 +4518,16 @@
   <Cell><Data ss:Type="String">置中幽浮並切至最慢速</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Singapore</Data></Cell>
-  <Cell><Data ss:Type="String">Singapore</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Singapore</Data></Cell>
   <Cell><Data ss:Type="String">星加坡</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">single</Data></Cell>
   <Cell><Data ss:Type="String">Single</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectOneSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">Select 1 soldier to hire</Data></Cell>
+  <Cell><Data ss:Type="String">選擇要僱用的士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectSoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">Select %1% soldiers to hire</Data></Cell>
+  <Cell><Data ss:Type="String">選擇要僱用的%1%名士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierRoles.Assault</Data></Cell>
   <Cell><Data ss:Type="String">突擊</Data></Cell>
@@ -4602,10 +4590,10 @@
   <Cell><Data ss:Type="String">轉運</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">STOR.VALUE</Data></Cell>
-  <Cell><Data ss:Type="String">Value</Data></Cell>
+  <Cell><Data ss:Type="String">價值</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">STOR.VOS</Data></Cell>
-  <Cell><Data ss:Type="String">Value of sale</Data></Cell>
+  <Cell><Data ss:Type="String">賣出價</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">倉存管理介面</Data></Cell>
@@ -4617,7 +4605,7 @@
   <Cell><Data ss:Type="String">倉庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.TotalSale</Data></Cell>
-  <Cell><Data ss:Type="String">Total value of sale:</Data></Cell>
+  <Cell><Data ss:Type="String">總進賬：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.Funds</Data></Cell>
   <Cell><Data ss:Type="String">資金：</Data></Cell>
@@ -4797,7 +4785,7 @@
   <Cell><Data ss:Type="String">南</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ufoheading.steady</Data></Cell>
-  <Cell><Data ss:Type="String">Steady</Data></Cell>
+  <Cell><Data ss:Type="String">徘徊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ufoheading.west</Data></Cell>
   <Cell><Data ss:Type="String">西</Data></Cell>
@@ -4827,7 +4815,7 @@
   <Cell><Data ss:Type="String">待機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">undefined</Data></Cell>
-  <Cell><Data ss:Type="String">undefined</Data></Cell>
+  <Cell><Data ss:Type="String">未定義</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">United Arab Emirates</Data></Cell>
   <Cell><Data ss:Type="String">阿聯酋</Data></Cell>
@@ -4881,7 +4869,7 @@
   <Cell><Data ss:Type="String">TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.COST</Data></Cell>
-  <Cell><Data ss:Type="String">Cost: %1%</Data></Cell>
+  <Cell><Data ss:Type="String">價值：%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.DAMAGE</Data></Cell>
   <Cell><Data ss:Type="String">受損</Data></Cell>
@@ -4914,7 +4902,7 @@
   <Cell><Data ss:Type="String">引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.PURCOST</Data></Cell>
-  <Cell><Data ss:Type="String">Purchase cost</Data></Cell>
+  <Cell><Data ss:Type="String">訂購價</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.REARARMOUR</Data></Cell>
   <Cell><Data ss:Type="String">後裝甲：</Data></Cell>
@@ -5356,7 +5344,7 @@
   <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Required</Data></Cell>
-  <Cell><Data ss:Type="String">Required: %1%</Data></Cell>
+  <Cell><Data ss:Type="String">需求：%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">X-120 Fury</Data></Cell>
   <Cell><Data ss:Type="String">X-120 天怒</Data></Cell>
@@ -5504,9 +5492,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Indonesia</Data></Cell>
   <Cell><Data ss:Type="String">印度尼西亞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Pekanbaru</Data></Cell>
-  <Cell><Data ss:Type="String">Pekanbaru</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Malaysia</Data></Cell>
   <Cell><Data ss:Type="String">馬來西亞</Data></Cell>
@@ -6184,7 +6169,7 @@
   <Cell><Data ss:Type="String">荷蘭</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Danish</Data></Cell>
-  <Cell><Data ss:Type="String">Danish</Data></Cell>
+  <Cell><Data ss:Type="String">丹麥</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">French</Data></Cell>
   <Cell><Data ss:Type="String">法國</Data></Cell>
@@ -6227,9 +6212,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Swiss</Data></Cell>
   <Cell><Data ss:Type="String">瑞士</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Danish</Data></Cell>
-  <Cell><Data ss:Type="String">丹麥</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Brazilian</Data></Cell>
   <Cell><Data ss:Type="String">巴西</Data></Cell>
@@ -6283,31 +6265,31 @@
   <Cell><Data ss:Type="String">戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Small.Caesan</Data></Cell>
-  <Cell><Data ss:Type="String">小型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型前哨基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Small.Sebillian</Data></Cell>
-  <Cell><Data ss:Type="String">小型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型前哨基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Small.Andron</Data></Cell>
-  <Cell><Data ss:Type="String">小型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型前哨基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Medium.Caesan</Data></Cell>
-  <Cell><Data ss:Type="String">中型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型軍事基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Medium.Sebillian</Data></Cell>
-  <Cell><Data ss:Type="String">中型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型軍事基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Medium.Andron</Data></Cell>
-  <Cell><Data ss:Type="String">中型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型軍事基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Large.Caesan</Data></Cell>
-  <Cell><Data ss:Type="String">大型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Large.Sebillian</Data></Cell>
-  <Cell><Data ss:Type="String">大型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Large.Andron</Data></Cell>
-  <Cell><Data ss:Type="String">大型異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasmaDesc</Data></Cell>
   <Cell><Data ss:Type="String">長距離而準確的異型射手武器。它的研究可以推進我們對能量武器的理解。</Data></Cell>
@@ -7281,7 +7263,7 @@
   <Cell><Data ss:Type="String">盧卡斯 謝爾貝斯基</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.LW Uem Abt 5</Data></Cell>
-  <Cell><Data ss:Type="String">LW Uem Abt 5</Data></Cell>
+  <Cell><Data ss:Type="String">第5空降部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Maciej Lewandowski</Data></Cell>
   <Cell><Data ss:Type="String">馬切伊 萊萬多夫斯基</Data></Cell>
@@ -7374,7 +7356,7 @@
   <Cell><Data ss:Type="String">莫斯圖 伯朗紐美</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.NASA</Data></Cell>
-  <Cell><Data ss:Type="String">NASA</Data></Cell>
+  <Cell><Data ss:Type="String">美國太空總署</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Nathan Fursa</Data></Cell>
   <Cell><Data ss:Type="String">內森 富爾沙</Data></Cell>
@@ -7740,7 +7722,7 @@
   <Cell><Data ss:Type="String">第156步兵團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.160th SOAR</Data></Cell>
-  <Cell><Data ss:Type="String">160th SOAR</Data></Cell>
+  <Cell><Data ss:Type="String">第160特種作戰航空團</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.2nd Cavalry Regiment</Data></Cell>
   <Cell><Data ss:Type="String">第2騎兵團</Data></Cell>
