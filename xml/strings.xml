@@ -36,7 +36,7 @@
 </Style>
  </Styles>
  <Worksheet ss:Name="strings">
-<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2627" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2650" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
  <Column ss:AutoFitWidth="0" ss:Width="246"/>
  <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
  <Row>
@@ -95,7 +95,7 @@
   <Cell><Data ss:Type="String">- 按空白鍵繼續 -</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.PLAYERSTAT</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%%%&#10; 耐久：%3%%%&#10; 速度：%4% km/h</Data></Cell>
+  <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%%%&#10; 耐久：%3%%%&#10; 速度：%4% 公里/小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.PROJECTILESTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%</Data></Cell>
@@ -110,7 +110,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;迴避滾轉：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機進行側向迴避滾轉，避開來襲的投射物。&lt;br /&gt;滾轉要消耗燃料，且不能連續迴避，&lt;br /&gt;請酌量使用（試試暫停遊戲抓緊時機）！&lt;br/&gt;&lt;br/&gt;部分攔截機不能進行迴避滾轉。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.RETREAT</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下逹新指令。&lt;/font\&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下達新指令。&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
@@ -248,13 +248,10 @@
   <Cell><Data ss:Type="String">耐久：%1%%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.HOURSTOARRIVE</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;訂購單位中&lt;br/&gt;%1% 小時後抵逹&lt;/outline&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;訂購單位中&lt;br/&gt;%1% 小時後抵達&lt;/outline&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.HP</Data></Cell>
-  <Cell><Data ss:Type="String">HP</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">AEQ.HP</Data></Cell>
-  <Cell><Data ss:Type="String">%1% HP</Data></Cell>
+  <Cell><Data ss:Type="String">%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.INTERCEPTORS</Data></Cell>
   <Cell><Data ss:Type="String">戰鬥機</Data></Cell>
@@ -269,10 +266,10 @@
   <Cell><Data ss:Type="String">%1% 公里</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KMPH</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 公里/時</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 公里/小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.KMPHS</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 公里/時/秒</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 公里/小時/秒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.LENGTH</Data></Cell>
   <Cell><Data ss:Type="String">長度</Data></Cell>
@@ -308,7 +305,7 @@
   <Cell><Data ss:Type="String">航程</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.RPM</Data></Cell>
-  <Cell><Data ss:Type="String">%1% rpm</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 發/分鐘</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.SEC</Data></Cell>
   <Cell><Data ss:Type="String">%1% 秒</Data></Cell>
@@ -683,7 +680,7 @@
   <Cell><Data ss:Type="String">偵察到&lt;font color='FAA902'&gt;%1%&lt;/font&gt; 於&lt;font color='FAA902'&gt;%2%&lt;/font&gt;附近投放部隊！&lt;br/&gt;&lt;br/&gt;基地陷落，因為沒有防禦陣地也沒有駐兵！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Baghdad</Data></Cell>
-  <Cell><Data ss:Type="String">巴格逹</Data></Cell>
+  <Cell><Data ss:Type="String">巴格達</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Bangkok</Data></Cell>
   <Cell><Data ss:Type="String">曼谷</Data></Cell>
@@ -920,7 +917,7 @@
   <Cell><Data ss:Type="String">航機配置</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Budapest</Data></Cell>
-  <Cell><Data ss:Type="String">布逹佩斯</Data></Cell>
+  <Cell><Data ss:Type="String">布達佩斯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Buenos Aires</Data></Cell>
   <Cell><Data ss:Type="String">布宜諾斯艾利斯</Data></Cell>
@@ -1115,7 +1112,7 @@
   <Cell><Data ss:Type="String">D-54 女武神</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Dakar</Data></Cell>
-  <Cell><Data ss:Type="String">逹喀爾</Data></Cell>
+  <Cell><Data ss:Type="String">達喀爾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Damage.Critical</Data></Cell>
   <Cell><Data ss:Type="String">搖搖欲墜</Data></Cell>
@@ -1205,7 +1202,7 @@
   <Cell><Data ss:Type="String">拆毁這棟建築？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Dhaka</Data></Cell>
-  <Cell><Data ss:Type="String">逹卡</Data></Cell>
+  <Cell><Data ss:Type="String">達卡</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.changeroleimage</Data></Cell>
   <Cell><Data ss:Type="String">選擇圖示</Data></Cell>
@@ -1214,7 +1211,7 @@
   <Cell><Data ss:Type="String">偵察到%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.goalreached</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;抵逹目的地，開始巡邏。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;抵達目的地，開始巡邏。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.lowfuel</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;燃料不足，開始返航。</Data></Cell>
@@ -1235,7 +1232,7 @@
   <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻擊告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異種航員事敗表示不滿。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.transportarrived</Data></Cell>
-  <Cell><Data ss:Type="String">物資抵逹%1%基地。</Data></Cell>
+  <Cell><Data ss:Type="String">物資抵達%1%基地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.Begin</Data></Cell>
   <Cell><Data ss:Type="String">開始遊戲</Data></Cell>
@@ -1274,7 +1271,7 @@
   <Cell><Data ss:Type="String">如果你之前玩過類似的遊戲，可以選這難度。&#10;&#10;遊戲不會容易，異型很慓悍，侵略也會快速升溫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DismissSoldierConf</Data></Cell>
-  <Cell><Data ss:Type="String">要解僱&lt;br/&gt;%1%嗎？</Data></Cell>
+  <Cell><Data ss:Type="String">要解雇&lt;br/&gt;%1%嗎？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DistinguisedServiceMedal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傑出服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
@@ -1370,7 +1367,7 @@
   <Cell><Data ss:Type="String">%2% %1%附近目擊到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">民用雷逹在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">民用雷達在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land4</Data></Cell>
   <Cell><Data ss:Type="String">軍方巡邏機發現幽浮。當地部隊等待異種航員出動。</Data></Cell>
@@ -1493,7 +1490,7 @@
   <Cell><Data ss:Type="String">%1% %2% 附近的軍事基地受到轟炸，損失 %4% 輛裝甲車及 %3% 名軍人。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的雷逹站被炸毁，%3% 名軍人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% %2% 附近的雷達站被炸毁，%3% 名軍人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land3</Data></Cell>
   <Cell><Data ss:Type="String">%1% %2% 附近的軍火庫受到幽浮轟炸，%3% 人死亡。</Data></Cell>
@@ -1640,7 +1637,7 @@
   <Cell><Data ss:Type="String">%1%.%2%：軍營被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：雷逹站被炸</Data></Cell>
+  <Cell><Data ss:Type="String">%1%.%2%：雷達站被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land3</Data></Cell>
   <Cell><Data ss:Type="String">%1%.%2%：軍火庫被炸</Data></Cell>
@@ -1691,7 +1688,7 @@
   <Cell><Data ss:Type="String">空戰解說</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape</Data></Cell>
-  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一段時間就會入侵大氣層，持續傷害異種航員與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷逹的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是擊落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一段時間就會入侵大氣層，持續傷害異種航員與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷達的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是擊落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape.Title</Data></Cell>
   <Cell><Data ss:Type="String">地球示圖解說</Data></Cell>
@@ -1718,7 +1715,7 @@
   <Cell><Data ss:Type="String">選擇要派出那艘運輪機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Funding.PredictedChange.Maxed</Data></Cell>
-  <Cell><Data ss:Type="String">已逹上限</Data></Cell>
+  <Cell><Data ss:Type="String">已達上限</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Funding.PredictedChange.Excellent</Data></Cell>
   <Cell><Data ss:Type="String">極佳</Data></Cell>
@@ -1800,7 +1797,7 @@
  </Row>
  <Row ss:Height="99">
   <Cell><Data ss:Type="String">GameOver.Victory.Epilogue</Data></Cell>
-  <Cell><Data ss:Type="String">雷逹畫面一片寂靜。大裁判官之死令我們養在實驗室內的異型全部痴呆，連之前抓到的裁判官都完全沒有反應。這場戰爭終於結束。&lt;br&gt;&lt;br&gt;全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當然居功至偉，但我相信在史書中你的名字會寫在我下面。&lt;br&gt;&lt;br&gt;不過我們的任務還沒結束：這世界已經被永久改變。我們的技術毫無疑問會大大改變地球的勢力平衡，單單一個奇點爐就能供給全球所需的能源。&lt;br&gt;&lt;br&gt;事實上，無聊的爭執已經開始，有聲音說我們異種航員該直接被蘇維埃或美利堅接管。我們的技術可以令全人類獲益，無分貧富種族……但我們的贊助人打算將我的發明據為己有。&lt;br&gt;&lt;br&gt;既然我們救了這個世界，我們就該決定它往那兒走。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毁滅整個地球，誰還能管我們？&lt;br&gt;&lt;br&gt;異種航員的任務是守護人類，包括免得無限愚蠢的人類去自我毁滅。現在你可以先享受一下寧靜的一天，指揮官。我想世界不會這麼快就需要毁滅。</Data></Cell>
+  <Cell><Data ss:Type="String">雷達畫面一片寂靜。大裁判官之死令我們養在實驗室內的異型全部痴呆，連之前抓到的裁判官都完全沒有反應。這場戰爭終於結束。&lt;br&gt;&lt;br&gt;全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當然居功至偉，但我相信在史書中你的名字會寫在我下面。&lt;br&gt;&lt;br&gt;不過我們的任務還沒結束：這世界已經被永久改變。我們的技術毫無疑問會大大改變地球的勢力平衡，單單一個奇點爐就能供給全球所需的能源。&lt;br&gt;&lt;br&gt;事實上，無聊的爭執已經開始，有聲音說我們異種航員該直接被蘇維埃或美利堅接管。我們的技術可以令全人類獲益，無分貧富種族……但我們的贊助人打算將我的發明據為己有。&lt;br&gt;&lt;br&gt;既然我們救了這個世界，我們就該決定它往那兒走。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毁滅整個地球，誰還能管我們？&lt;br&gt;&lt;br&gt;異種航員的任務是守護人類，包括免得無限愚蠢的人類去自我毁滅。現在你可以先享受一下寧靜的一天，指揮官。我想世界不會這麼快就需要毁滅。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GameOver.Victory.Epilogue.Title</Data></Cell>
   <Cell><Data ss:Type="String">結語</Data></Cell>
@@ -2004,7 +2001,7 @@
   <Cell><Data ss:Type="String">終止進行中的移動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCBeginConfirm</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;已抵逹&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。開始行動？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;已抵達&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。開始行動？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCCameraDown</Data></Cell>
   <Cell><Data ss:Type="String">視點往下降一層</Data></Cell>
@@ -2787,7 +2784,7 @@
   <Cell><Data ss:Type="String">利比亞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LIDARArray</Data></Cell>
-  <Cell><Data ss:Type="String">光學雷逹陣列</Data></Cell>
+  <Cell><Data ss:Type="String">光學雷達陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Lima</Data></Cell>
   <Cell><Data ss:Type="String">利馬</Data></Cell>
@@ -2811,7 +2808,7 @@
   <Cell><Data ss:Type="String">倫敦</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LongServiceMedal</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;長期服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;長期服務勳章：&lt;/b&gt; &lt;i&gt;（+2 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LongServiceMedal_desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積二十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
@@ -3060,7 +3057,7 @@
   <Cell><Data ss:Type="String">航機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.AircraftWeapons</Data></Cell>
-  <Cell><Data ss:Type="String">機載武器</Data></Cell>
+  <Cell><Data ss:Type="String">航機武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.Ammunition</Data></Cell>
   <Cell><Data ss:Type="String">彈藥</Data></Cell>
@@ -3351,7 +3348,7 @@
   <Cell><Data ss:Type="String">在戰鬥結束畫面用增加的差額(+1, +2, ..)顯示能力值成長</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ORDERARRIVED</Data></Cell>
-  <Cell><Data ss:Type="String">以下物品已抵逹&lt;font color='FAA902'&gt;%1%&lt;/font&gt;:</Data></Cell>
+  <Cell><Data ss:Type="String">以下物品已抵達&lt;font color='FAA902'&gt;%1%&lt;/font&gt;:</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfGallantry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;義勇衛士勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
@@ -3393,7 +3390,7 @@
   <Cell><Data ss:Type="String">勇氣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PER.HIRE</Data></Cell>
-  <Cell><Data ss:Type="String">僱用</Data></Cell>
+  <Cell><Data ss:Type="String">雇用</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PER.NAME</Data></Cell>
   <Cell><Data ss:Type="String">姓名</Data></Cell>
@@ -3429,7 +3426,7 @@
   <Cell><Data ss:Type="String">調動士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Dismiss</Data></Cell>
-  <Cell><Data ss:Type="String">解僱士兵</Data></Cell>
+  <Cell><Data ss:Type="String">解雇士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Rank</Data></Cell>
   <Cell><Data ss:Type="String">軍階</Data></Cell>
@@ -3474,10 +3471,10 @@
   <Cell><Data ss:Type="String">日期</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment1</Data></Cell>
-  <Cell><Data ss:Type="String">我給指揮官你準備了最新的士兵候選名單，請過目。</Data></Cell>
+  <Cell><Data ss:Type="String">指揮官。這是最新的士兵候選名單，請您過目。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">以下是可供我們僱用的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">以下是可供我們雇用的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment3</Data></Cell>
   <Cell><Data ss:Type="String">以下是目前的陣亡名單，指揮官。</Data></Cell>
@@ -3486,7 +3483,7 @@
   <Cell><Data ss:Type="String">士兵&lt;br/&gt;管理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hire</Data></Cell>
-  <Cell><Data ss:Type="String">僱用&lt;br/&gt;士兵</Data></Cell>
+  <Cell><Data ss:Type="String">雇用&lt;br/&gt;士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.MemorialWall</Data></Cell>
   <Cell><Data ss:Type="String">陣亡&lt;br/&gt;名單</Data></Cell>
@@ -3495,7 +3492,7 @@
   <Cell><Data ss:Type="String">居住配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">僱用所選士兵</Data></Cell>
+  <Cell><Data ss:Type="String">雇用所選士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Wages</Data></Cell>
   <Cell><Data ss:Type="String">士兵糧餉：</Data></Cell>
@@ -3507,10 +3504,10 @@
   <Cell><Data ss:Type="String">士兵數目：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
+  <Cell><Data ss:Type="String">雇用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hiring_XX_Hours</Data></Cell>
-  <Cell><Data ss:Type="String">僱用中，還需 %1% 小時</Data></Cell>
+  <Cell><Data ss:Type="String">雇用中，還需 %1% 小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Perth</Data></Cell>
   <Cell><Data ss:Type="String">珀斯</Data></Cell>
@@ -3585,7 +3582,7 @@
   <Cell><Data ss:Type="String">基多</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Radar</Data></Cell>
-  <Cell><Data ss:Type="String">雷逹陣列</Data></Cell>
+  <Cell><Data ss:Type="String">雷達陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">rank.captain</Data></Cell>
   <Cell><Data ss:Type="String">上尉</Data></Cell>
@@ -3936,7 +3933,7 @@
   <Cell><Data ss:Type="String">多角度推力矩陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArrayDesc</Data></Cell>
-  <Cell><Data ss:Type="String">可以逹成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
+  <Cell><Data ss:Type="String">可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DisposableHypervelocityRocketLauncher</Data></Cell>
   <Cell><Data ss:Type="String">抛棄式特速火箭發射器</Data></Cell>
@@ -4194,7 +4191,7 @@
   <Cell><Data ss:Type="String">研發&lt;br/&gt;專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireFire</Data></Cell>
-  <Cell><Data ss:Type="String">僱用或解僱&lt;br/&gt;科學家</Data></Cell>
+  <Cell><Data ss:Type="String">雇用或解雇&lt;br/&gt;科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.TotalSci</Data></Cell>
   <Cell><Data ss:Type="String">科學家總數：</Data></Cell>
@@ -4212,13 +4209,13 @@
   <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">僱用科學家</Data></Cell>
+  <Cell><Data ss:Type="String">雇用科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.FireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">解僱科學家</Data></Cell>
+  <Cell><Data ss:Type="String">解雇科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
+  <Cell><Data ss:Type="String">雇用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResumeGame</Data></Cell>
   <Cell><Data ss:Type="String">繼續遊戲</Data></Cell>
@@ -4353,7 +4350,7 @@
   <Cell><Data ss:Type="String">雙手</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.HOURSTOARRIVE</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;僱用士兵中。&lt;br/&gt;%1% 小時後抵步。&lt;/outline&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;雇用士兵中。&lt;br/&gt;%1% 小時後抵步。&lt;/outline&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ITEMMOVECOST</Data></Cell>
   <Cell><Data ss:Type="String">運費：%1%</Data></Cell>
@@ -4482,7 +4479,7 @@
   <Cell><Data ss:Type="String">勇氣：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.Dismiss</Data></Cell>
-  <Cell><Data ss:Type="String">解僱士兵</Data></Cell>
+  <Cell><Data ss:Type="String">解雇士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.Relocate</Data></Cell>
   <Cell><Data ss:Type="String">轉移士兵</Data></Cell>
@@ -4524,10 +4521,10 @@
   <Cell><Data ss:Type="String">Single</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectOneSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">選擇要僱用的士兵</Data></Cell>
+  <Cell><Data ss:Type="String">選擇要雇用的士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectSoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">選擇要僱用的%1%名士兵</Data></Cell>
+  <Cell><Data ss:Type="String">選擇要雇用的%1%名士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierRoles.Assault</Data></Cell>
   <Cell><Data ss:Type="String">突擊</Data></Cell>
@@ -4725,7 +4722,7 @@
   <Cell><Data ss:Type="String">東京</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">TooManyBases</Data></Cell>
-  <Cell><Data ss:Type="String">基地數量逹到上限，不能再建。</Data></Cell>
+  <Cell><Data ss:Type="String">基地數量達到上限，不能再建。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">towboat</Data></Cell>
   <Cell><Data ss:Type="String">頂推船</Data></Cell>
@@ -4869,7 +4866,7 @@
   <Cell><Data ss:Type="String">TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.COST</Data></Cell>
-  <Cell><Data ss:Type="String">價值：%1%</Data></Cell>
+  <Cell><Data ss:Type="String">訂購價：%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.DAMAGE</Data></Cell>
   <Cell><Data ss:Type="String">受損</Data></Cell>
@@ -4881,7 +4878,7 @@
   <Cell><Data ss:Type="String">前裝甲：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.HPS</Data></Cell>
-  <Cell><Data ss:Type="String">HP：</Data></Cell>
+  <Cell><Data ss:Type="String">耐久：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.KILLS</Data></Cell>
   <Cell><Data ss:Type="String">殺敵數</Data></Cell>
@@ -5042,7 +5039,7 @@
   <Cell><Data ss:Type="String">C4 炸藥</Data></Cell>
  </Row><Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.explosive.C4.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;C4 炸藥：&lt;/b&gt;&#10;&#10;C4 炸藥是一塊塑膠炸藥。它的爆炸對景物會造成四倍的傷害，因此主要用來爆破建築。士兵可以設定炸藥多少回合後引爆，然後丟下或抛出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：65 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;投擲 TU：60%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;C4 炸藥：&lt;/b&gt;&#10;&#10;C4 炸藥是一塊塑膠炸藥。它的爆炸對景物會造成四倍的傷害，因此主要用來爆破建築。士兵可以設定炸藥多少回合後引爆，然後丟下或抛出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：65 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;投擲 TU：60%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.farmershotgun</Data></Cell>
   <Cell><Data ss:Type="String">民用霰彈槍：</Data></Cell>
@@ -5317,7 +5314,7 @@
   <Cell><Data ss:Type="String">製作&lt;br/&gt;專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireFire</Data></Cell>
-  <Cell><Data ss:Type="String">僱用或解僱&lt;br/&gt;工程師</Data></Cell>
+  <Cell><Data ss:Type="String">雇用或解雇&lt;br/&gt;工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.TotalEng</Data></Cell>
   <Cell><Data ss:Type="String">工程師總數：</Data></Cell>
@@ -5335,13 +5332,13 @@
   <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">僱用工程師</Data></Cell>
+  <Cell><Data ss:Type="String">雇用工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.FireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">解僱工程師</Data></Cell>
+  <Cell><Data ss:Type="String">解雇工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
+  <Cell><Data ss:Type="String">雇用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Required</Data></Cell>
   <Cell><Data ss:Type="String">需求：%1%</Data></Cell>
@@ -5512,7 +5509,7 @@
   <Cell><Data ss:Type="String">帝力</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Jakarta</Data></Cell>
-  <Cell><Data ss:Type="String">雅加逹</Data></Cell>
+  <Cell><Data ss:Type="String">雅加達</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Surabaja</Data></Cell>
   <Cell><Data ss:Type="String">泗水</Data></Cell>
@@ -6241,7 +6238,7 @@
   <Cell><Data ss:Type="String">彎刀戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">請先選擇要僱用的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">請先選擇要雇用的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingComplete.Title</Data></Cell>
   <Cell><Data ss:Type="String">建造完成</Data></Cell>
@@ -6340,7 +6337,7 @@
   <Cell><Data ss:Type="String">自訂司令介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DestinationReached</Data></Cell>
-  <Cell><Data ss:Type="String">抵逹目的地。</Data></Cell>
+  <Cell><Data ss:Type="String">抵達目的地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MainMenuOn</Data></Cell>
   <Cell><Data ss:Type="String">啟用</Data></Cell>
@@ -6358,7 +6355,7 @@
   <Cell><Data ss:Type="String">請先選擇要轉移的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiersdismiss</Data></Cell>
-  <Cell><Data ss:Type="String">請先選擇要解僱的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">請先選擇要解雇的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseAttackLabel</Data></Cell>
   <Cell><Data ss:Type="String">基地遇襲</Data></Cell>
@@ -6798,7 +6795,7 @@
   <Cell><Data ss:Type="String">捷克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Dag Sindre Bjugn</Data></Cell>
-  <Cell><Data ss:Type="String">逹格 辛勒 比於恩</Data></Cell>
+  <Cell><Data ss:Type="String">達格 辛勒 比於恩</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Daniel Compton</Data></Cell>
   <Cell><Data ss:Type="String">丹尼爾 康普頓</Data></Cell>
@@ -7116,7 +7113,7 @@
   <Cell><Data ss:Type="String">賈斯珀 T. 費爾南德斯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Jatinder Singh</Data></Cell>
-  <Cell><Data ss:Type="String">賈斯廷逹 辛格</Data></Cell>
+  <Cell><Data ss:Type="String">賈斯廷達 辛格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.Jeffry Fletcher</Data></Cell>
   <Cell><Data ss:Type="String">杰弗裡 弗萊徹</Data></Cell>
@@ -7771,6 +7768,75 @@
  </Row><Row>
   <Cell><Data ss:Type="String">CustomSoldier.9th Parachute Regiment</Data></Cell>
   <Cell><Data ss:Type="String">第9傘兵團</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">XenonautBaseRetakeOpportunity</Data></Cell>
+  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地被異型攻佔，並且正被牠們改裝！如果我們能在 %2% 小時內出兵拿下它，我們就能趕得及光復&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">XenonautBaseRetakeTimeout</Data></Cell>
+  <Cell><Data ss:Type="String">指揮官，我們錯失了光復&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地的時機。異型已經完成基地的改裝。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AircraftWeapons</Data></Cell>
+  <Cell><Data ss:Type="String">航機武器</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Ammunition</Data></Cell>
+  <Cell><Data ss:Type="String">彈藥</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Armour</Data></Cell>
+  <Cell><Data ss:Type="String">護甲</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Equipment</Data></Cell>
+  <Cell><Data ss:Type="String">裝備</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Extraterrestrial</Data></Cell>
+  <Cell><Data ss:Type="String">外太空</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">SoldierWeapons</Data></Cell>
+  <Cell><Data ss:Type="String">士兵武器</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Vehicles</Data></Cell>
+  <Cell><Data ss:Type="String">戰車</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">VehicleWeapons</Data></Cell>
+  <Cell><Data ss:Type="String">戰車武器</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">SLOWED</Data></Cell>
+  <Cell><Data ss:Type="String">慢速</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">ContinentRetaken</Data></Cell>
+  <Cell><Data ss:Type="String">指揮官，我們勦滅了&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的異型勢力，該區政府能再次執政。這是我們的重大勝利！</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">SpecialMission</Data></Cell>
+  <Cell><Data ss:Type="String">特種任務</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">GoToMission</Data></Cell>
+  <Cell><Data ss:Type="String">前往任務點</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">STOR.CATEGORY</Data></Cell>
+  <Cell><Data ss:Type="String">類別</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">STOR.OTHER</Data></Cell>
+  <Cell><Data ss:Type="String">其他</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra1</Data></Cell>
+  <Cell><Data ss:Type="String">Extra1</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra2</Data></Cell>
+  <Cell><Data ss:Type="String">Extra2</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra3</Data></Cell>
+  <Cell><Data ss:Type="String">Extra3</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra4</Data></Cell>
+  <Cell><Data ss:Type="String">Extra4</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra5</Data></Cell>
+  <Cell><Data ss:Type="String">Extra5</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra6</Data></Cell>
+  <Cell><Data ss:Type="String">Extra6</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AlienBase.Extra7</Data></Cell>
+  <Cell><Data ss:Type="String">Extra7</Data></Cell>
  </Row>
  <!-- Lore+ -->
  <Row>
@@ -7859,10 +7925,10 @@
  <Row>
   <Cell><Data ss:Type="String">weapon.grenade.incendiary</Data></Cell>
   <Cell><Data ss:Type="String">燃燒手雷</Data></Cell>
- </Row><Row>
+ </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.grenade.incendiary.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒手雷：&lt;/b&gt;&#10;&#10;燃燒手雷本身沒多少傷害力，但可以令爆炸範圍起火。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：10&#10;爆炸半徑：4 格</Data></Cell>
- </Row><Row>
+ </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.rocket.incendiary.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒火箭彈：&lt;/b&gt;&#10;&#10;燃燒火箭彈能令大面積的範圍起火。爆炸本身沒貫穿力可言，但可以燒灼多名聚集的敵人。&#10;&#10;傷害類型：39 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>

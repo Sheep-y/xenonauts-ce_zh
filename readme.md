@@ -31,7 +31,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 * [x] Translate Female Soldier names (soldiernamesfemale.xml)
 * [x] Translate custom solider and regiment (strings.xml)
 * [x] Add and translate mod contents (Lore+ and others)
-* [ ] Update to X:CE 0.34.2
+* [x] Update to X:CE 0.34.2
 * [x] Translate Quickstart and Manual
 * [ ] Playtest - Adjust font sizes
 * [ ] Playtest - Fill in uncertain blanks

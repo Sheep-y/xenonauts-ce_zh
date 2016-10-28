@@ -7,9 +7,9 @@
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Author>Solver</Author>
-  <LastAuthor>DUman</LastAuthor>
+  <LastAuthor>Solver</LastAuthor>
   <Created>2011-04-13T20:36:37Z</Created>
-  <LastSaved>2014-07-06T13:17:28Z</LastSaved>
+  <LastSaved>2015-10-23T19:24:44Z</LastSaved>
   <Version>12.00</Version>
  </DocumentProperties>
  <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
@@ -93,7 +93,7 @@
    <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=strings!R1C1:R2105C10"
     ss:Hidden="1"/>
   </Names>
-  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2579" x:FullColumns="1"
+  <Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2603" x:FullColumns="1"
    x:FullRows="1" ss:DefaultRowHeight="15">
    <Column ss:AutoFitWidth="0" ss:Width="246"/>
    <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
@@ -5429,7 +5429,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">LongServiceMedal</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Long Service Medal:&lt;/b&gt; &lt;i&gt;(+3 Bravery)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
+    <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Long Service Medal:&lt;/b&gt; &lt;i&gt;(+2 Bravery)&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -6029,51 +6029,63 @@
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.January</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.January</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Jan</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.February</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.February</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Feb</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.March</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.March</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Mar</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.April</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.April</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Apr</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.May</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">May</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.June</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.June</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Jun</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.July</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.July</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Jul</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.August</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.August</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Aug</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.September</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.September</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Sep</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.October</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.October</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Oct</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.November</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.November</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Nov</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">MonthShort.December</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">MonthShort.December</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
     <Cell><Data ss:Type="String">Dec</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
@@ -8983,7 +8995,8 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.mountains</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Mountains</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Mountains</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.swamp</Data><NamedCell
@@ -8993,27 +9006,32 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.tropical</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Tropical</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Tropical</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.terrain1</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Terrain1</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Terrain1</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.terrain2</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Terrain2</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Terrain2</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.terrain3</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Terrain3</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Terrain3</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terrain.terrain4</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Terrain4</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Terrain4</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">Terror</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -9642,7 +9660,7 @@
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.explosive.C4.desc</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;C4 Charge:&lt;/b&gt;&#10;&#10;The C4 charge is a block of plastic explosives primarily used for demolishing structures, as it deals Incendiary damage which inflicts quadruple damage on battlefield terrain but only normal damage to units. When primed, the player selects the number of turns until the charge detonates and then drops / throws the item. Be aware that the C4 will explode even if the soldier is still holding it when the timer runs out!&#10;&#10;Damage:                                               65 Incendiary (4x dmg to terrain)&#10;Suppression:                                         200 Suppression&#10;Radius:                                                  3.5 tiles&#10;TU Cost:                                                60%</Data><NamedCell
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;C4 Charge:&lt;/b&gt;&#10;&#10;The C4 charge is a block of plastic explosives primarily used for demolishing structures, as it deals Incendiary damage which inflicts quadruple damage on battlefield terrain but only normal damage to units. When primed, the player selects the number of turns until the charge detonates and then drops / throws the item. Be aware that the C4 will explode even if the soldier is still holding it when the timer runs out!&#10;&#10;Damage:                                               65 Incendiary (4x dmg to terrain)&#10;Suppression:                                         200 Suppression&#10;Radius:                                                  3.5 tiles&#10;TU Cost:                                                60%%</Data><NamedCell
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="270">
@@ -12057,234 +12075,166 @@
       ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">AbortTitle</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Abort Mission</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">AbortTitle</Data></Cell>
+    <Cell><Data ss:Type="String">Abort Mission</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">personnel.nosoldierstransfer</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">You must select the soldiers you wish to transfer!</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">personnel.nosoldierstransfer</Data></Cell>
+    <Cell><Data ss:Type="String">You must select the soldiers you wish to transfer!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">personnel.nosoldiersdismiss</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">You must select the soldiers you wish to dismiss!</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">personnel.nosoldiersdismiss</Data></Cell>
+    <Cell><Data ss:Type="String">You must select the soldiers you wish to dismiss!</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">BaseAttackLabel</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Base Under Attack</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">BaseAttackLabel</Data></Cell>
+    <Cell><Data ss:Type="String">Base Under Attack</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">TerrorLabel</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Alien Terror Attack</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">TerrorLabel</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Terror Attack</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">TerrorEndLabel</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Terror Site Ends</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">TerrorEndLabel</Data></Cell>
+    <Cell><Data ss:Type="String">Terror Site Ends</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienCommunicationArray</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Alien Communications Array</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Communications Array</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienCommunicationArrayDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">A captured alien communications device. This may unlock a method of decrypting alien transmissions.</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienCommunicationArrayDesc</Data></Cell>
+    <Cell><Data ss:Type="String">A captured alien communications device. This may unlock a method of decrypting alien transmissions.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Singularity Torpedo</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
+    <Cell><Data ss:Type="String">Singularity Torpedo</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.AlienAssaultPlasma</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Alien Assault Plasma</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">weapon.AlienAssaultPlasma</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Assault Plasma</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.ParticleBeam</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Singularity Cannon</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
+    <Cell><Data ss:Type="String">Singularity Cannon</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.ParticleBeamDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Development of a powerful infantry weapon harnessing the enormous energy held within an alien singularity core.</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.ParticleBeamDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Development of a powerful infantry weapon harnessing the enormous energy held within an alien singularity core.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienAssaultPlasma</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Alien Assault Plasma</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Assault Plasma</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienAssaultPlasmaDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">A short-ranged alien plasma weapon.</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienAssaultPlasmaDesc</Data></Cell>
+    <Cell><Data ss:Type="String">A short-ranged alien plasma weapon.</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.combatshield</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Combat Shield</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">weapon.combatshield</Data></Cell>
+    <Cell><Data ss:Type="String">Combat Shield</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.assaultshield</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Assault Shield</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">weapon.assaultshield</Data></Cell>
+    <Cell><Data ss:Type="String">Assault Shield</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.combatshield.desc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Combat Shield:&lt;/b&gt;&#10;&#10;The Combat Shield is designed to protect our soldiers from alien plasma weapons. The shield will absorb damage up to its maximum hitpoints, at which point it will be destroyed. Attacks from the frontal 90 degrees of the soldier with the shield will be stopped automatically, but those from the sides and rear may bypass the shield entirely.&#10;&#10;Hit Points:                                                            80&#10;Front Block Chance:                                           100%%&#10;Side Block Chance:                                             60%%&#10;Rear Block Chance:                                             0%%</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">weapon.combatshield.desc</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Combat Shield:&lt;/b&gt;&#10;&#10;The Combat Shield is designed to protect our soldiers from alien plasma weapons. The shield will absorb damage up to its maximum hitpoints, at which point it will be destroyed. Attacks from the frontal 90 degrees of the soldier with the shield will be stopped automatically, but those from the sides and rear may bypass the shield entirely.&#10;&#10;Hit Points:                                                            80&#10;Front Block Chance:                                           100%%&#10;Side Block Chance:                                             60%%&#10;Rear Block Chance:                                             0%%</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Assault Shield:&lt;/b&gt;&#10;&#10;&#10;The Assault Shield is designed to protect our soldiers from alien plasma weapons. The shield will absorb damage up to its maximum hitpoints, at which point it will be destroyed. Attacks from the frontal 90 degrees of the soldier with the shield will be stopped automatically, but those from the sides and rear may bypass the shield entirely.&#10;&#10;Hit Points:                                                           160&#10;Front Block Chance:                                           100%%&#10;Side Block Chance:                                             60%%&#10;Rear Block Chance:                                             0%%</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Assault Shield:&lt;/b&gt;&#10;&#10;&#10;The Assault Shield is designed to protect our soldiers from alien plasma weapons. The shield will absorb damage up to its maximum hitpoints, at which point it will be destroyed. Attacks from the frontal 90 degrees of the soldier with the shield will be stopped automatically, but those from the sides and rear may bypass the shield entirely.&#10;&#10;Hit Points:                                                           160&#10;Front Block Chance:                                           100%%&#10;Side Block Chance:                                             60%%&#10;Rear Block Chance:                                             0%%</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienFighterDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienFighterDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienBomberDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:StyleID="s68"><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienBomberDatacoreDesc</Data></Cell>
+    <Cell ss:StyleID="s68"/>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienCarrierDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienCarrierDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienCruiserDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienCruiserDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienScoutDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienScoutDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacoreDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacoreDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.AndronDisassemblyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.AndronDisassemblyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.CaesanAutopsyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.CaesanAutopsyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.HarridanAutopsyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.HarridanAutopsyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.PraetorAutopsyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.PraetorAutopsyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.ReaperAutopsyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.ReaperAutopsyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.SebillianAutopsyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.SebillianAutopsyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.WraithAutopsyDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.WraithAutopsyDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.LightDroneWreckageDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.LightDroneWreckageDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.MediumDroneWreckageDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.MediumDroneWreckageDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.HeavyDroneWreckageDesc</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.HeavyDroneWreckageDesc</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.LightDroneWreckage</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Light Drone Disassembly</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
+    <Cell><Data ss:Type="String">Light Drone Disassembly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.MediumDroneWreckage</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Medium Drone Disassembly</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
+    <Cell><Data ss:Type="String">Medium Drone Disassembly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">Researches.HeavyDroneWreckage</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Heavy Drone Disassembly</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
+    <Cell><Data ss:Type="String">Heavy Drone Disassembly</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell><Data ss:Type="String">RESISTED</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">RESISTED</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
+    <Cell><Data ss:Type="String">RESISTED</Data></Cell>
+    <Cell><Data ss:Type="String">RESISTED</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
-    <Cell ss:StyleID="s75"><Data ss:Type="String">Turret.Hit</Data><NamedCell
-      ss:Name="_FilterDatabase"/></Cell>
-    <Cell><Data ss:Type="String">Hit</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="String">Turret.Hit</Data></Cell>
+    <Cell><Data ss:Type="String">Hit</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell ss:StyleID="s76"><Data ss:Type="String">Turret.Miss</Data></Cell>
@@ -12336,7 +12286,7 @@
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.stun.desc</Data></Cell>
-    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Stun Grenade:&lt;/b&gt;&#10;&#10;Stun rockets are a method of delivering stun gas into an area from short range.  This gas inflicts stun damage on any unit that comes in contact with it each turn - though some alien units (particularly those with helmets) are partially or fully resistant to this effect.&#10;&#10;Damage Type:                                                   40 Stun (per turn)&#10;Gas Radius:                                                         3 Tiles</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;Stun Grenade:&lt;/b&gt;&#10;&#10;Stun grenades are a method of delivering stun gas into an area from short range. This gas inflicts stun damage on any unit that comes in contact with it each turn - though some alien units (particularly those with helmets) are partially or fully resistant to this effect.&#10;&#10;Damage Type:                                                   40 Stun (per turn)&#10;Gas Radius:                                                         3 Tiles</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0">
     <Cell><Data ss:Type="String">weapon.grenade.shock.desc</Data></Cell>
@@ -13998,6 +13948,102 @@
     <Cell><Data ss:Type="String">CustomSoldier.9th Parachute Regiment</Data></Cell>
     <Cell ss:StyleID="s68"><Data ss:Type="String">9th Parachute Regiment</Data></Cell>
    </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">XenonautBaseRetakeOpportunity</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Our %1% base has been lost to aliens and the aliens are replacing it with their own facilities! If we seize the alien base within the next %2% hours, we will be able to regain %1% before it is too late</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">XenonautBaseRetakeTimeout</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Commander, it is now too late to retake our %1% base. The aliens have finished repurposing it for their use.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Aircraft</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AircraftWeapons</Data></Cell>
+    <Cell><Data ss:Type="String">Aircraft weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Ammunition</Data></Cell>
+    <Cell><Data ss:Type="String">Ammunition</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Armour</Data></Cell>
+    <Cell><Data ss:Type="String">Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Equipment</Data></Cell>
+    <Cell><Data ss:Type="String">Equipment</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Extraterrestrial</Data></Cell>
+    <Cell><Data ss:Type="String">Extraterrestrial</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SoldierWeapons</Data></Cell>
+    <Cell><Data ss:Type="String">Soldier weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Vehicles</Data></Cell>
+    <Cell><Data ss:Type="String">Vehicles</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">VehicleWeapons</Data></Cell>
+    <Cell><Data ss:Type="String">Vehicle weapons</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SLOWED</Data></Cell>
+    <Cell><Data ss:Type="String">SLOWED</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ContinentRetaken</Data></Cell>
+    <Cell><Data ss:Type="String">Commander, we have eliminated the alien presence in %1% and the region's governments are once again free to act. This is a major victory for us!</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">SpecialMission</Data></Cell>
+    <Cell><Data ss:Type="String">Special Mission</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">GoToMission</Data></Cell>
+    <Cell><Data ss:Type="String">Go To Mission</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STOR.CATEGORY</Data></Cell>
+    <Cell><Data ss:Type="String">Category</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">STOR.OTHER</Data></Cell>
+    <Cell><Data ss:Type="String">Other</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra1</Data></Cell>
+    <Cell><Data ss:Type="String">Extra1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra2</Data></Cell>
+    <Cell><Data ss:Type="String">Extra2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra3</Data></Cell>
+    <Cell><Data ss:Type="String">Extra3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra4</Data></Cell>
+    <Cell><Data ss:Type="String">Extra4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra5</Data></Cell>
+    <Cell><Data ss:Type="String">Extra5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra6</Data></Cell>
+    <Cell><Data ss:Type="String">Extra6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">AlienBase.Extra7</Data></Cell>
+    <Cell><Data ss:Type="String">Extra7</Data></Cell>
+   </Row>
   </Table>
   <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
    <Unsynced/>
@@ -14007,11 +14053,12 @@
     <VerticalResolution>300</VerticalResolution>
    </Print>
    <Selected/>
-   <TopRowVisible>566</TopRowVisible>
+   <TopRowVisible>1660</TopRowVisible>
    <Panes>
     <Pane>
      <Number>3</Number>
-     <ActiveRow>586</ActiveRow>
+     <ActiveRow>1668</ActiveRow>
+     <ActiveCol>1</ActiveCol>
     </Pane>
    </Panes>
    <ProtectObjects>False</ProtectObjects>
