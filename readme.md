@@ -6,9 +6,9 @@ For community edition. Includes translation of default enabled X:CE mods and som
 
 ## 安裝方式 Install ##
 
-1. 將 `mod_xce_zh/font` 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` | Copy .mvec files in `mod_xce_zh/font` folder to `Xenonauts/assets/fonts`
-2. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip | Zip all .xml files in `mod_xce_zh` folder
-3. 用擴展管理器安裝這 zip，置於所有擴展之上 | Install the zip as mod and place above all other mods.
+1. 將 `mod_xce_zh/font` 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` <br> Copy .mvec files in `mod_xce_zh/font` folder to `Xenonauts/assets/fonts`
+2. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip <br> Zip all .xml files in `mod_xce_zh` folder.
+3. 用擴展管理器安裝這 zip，置於所有擴展之上 <br> Install the zip as mod and place above all other mods.
 
 ## 已知問題 Known Issues ##
 
@@ -20,7 +20,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 
 其他問題請在 GitHub 上回報。
 
-## Progress 進度 ##
+## 進度 Progress ##
 
 * [x] Translate UI strings (strings.xml)
 * [x] Translate Xenopedia (xenopedia.xml)
@@ -31,7 +31,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 * [x] Update to X:CE 0.34.2
 * [x] Translate Quickstart and Manual
 * [ ] Playtest - Adjust font sizes
-* [ ] Playtest - Fill in uncertain blanks
+* [x] Playtest - Fill in uncertain blanks
 * [ ] Build font and preview package
 * [ ] Translate splashscreen, launcher
 * [ ] Edit strings.xml
@@ -85,5 +85,5 @@ Non-XCE mods with translate-able resoruces and status.
 
 All fonts are open and can be transformed freely.
 
-* xenonauts.mvec - 文鼎 PL 中楷
-* arial.mvec, tahoma.mvec, xenopedia.mvec - 文泉驛微米黑
+* xenonauts.mvec - AR PL KaitiM (文鼎 PL 中楷)
+* arial.mvec, tahoma.mvec, xenopedia.mvec - WenQuanYi Micro Hei (文泉驛微米黑)
