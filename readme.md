@@ -1,6 +1,6 @@
 # 異種航員 綿羊漢化 非機翻 <br> Xenonauts Chinese Translation #
 
-適用於 異種航員 社群增強版。含所有預設啟用的 XCE 擴展，及少量其他擴展的翻譯。工事中。
+適用於 異種航員 社群增強版。翻譯包括所有預設啟用的社群版模組，及少量其他模組。工事中。
 
 For community edition. Includes translation of default enabled X:CE mods and some more. Work In Progress.
 
@@ -41,7 +41,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 * [ ] Update doc screenshots
 * [ ] Release
 
-## 擴展支援 Mod list ##
+## 模組支援 Mod list ##
 
 XCE mods with translate-able resources and status.
 
@@ -71,7 +71,7 @@ XCE mods with translate-able resources and status.
 
 * X:CE Settings
 * * Default On
-* * Ignored because it simply swaps colonal and commander title, which cause no problem in Chinese
+* * Ignored because it simply swaps colonal and commander title, which is sharp and clear in Chinese
 
 Non-XCE mods with translate-able resoruces and status.
 

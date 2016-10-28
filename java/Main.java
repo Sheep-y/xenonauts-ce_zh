@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
 public class Main {
 
    private static final String TITLE = "Glyph list generator for Playmate Font Maker / Xenonauts translation";
-   private static final String OUTPUT = "fonts/Playmate Font Maker/Character Sets/Xenonauts.txt";
+   private static final String OUTPUT = "Playmate Font Maker/Character Sets/Xenonauts.txt";
 
    public static void main( String[] args ) {
       alert( TITLE + ".\nThis program reads UTF-8 xml files from the xml folder and create a list of unique unicode characters." );

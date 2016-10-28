@@ -6,20 +6,22 @@
   <Author>Sheepy</Author>
   <Languages>zh</Languages>
   <Translates>xce</Translates>
-  <Description>Chinese (Traditional) Translation 
+  <Description>Chinese (Traditional) Translation, 
 
-for Xenonauts Community Edition v0.34.2
+for Xenonauts Community Edition v0.34.2.
 
 Draft version.
 
-Should be placed above most mods, but below Khall's More Portraits.
+Should be placed above most mods, preferably at the top.
 
-Included mods:
+Translated mods:
+Armoured Assault,
+Extended Weapon Descriptions for Fighters,
+Geographic addition 1.1,
+Lore+,
+X:CE Balance Adjustment,
+X:CE Base Mod
 
-* Armoured Assault
-* Extended Weapon Descriptions for Fighters
-* Geographic addition 1.1
-* Lore+
-* X:CE Balance Adjustment
+(Other default enabled X:CE mods don't need translation)
 </Description>
 </ModInfo>
