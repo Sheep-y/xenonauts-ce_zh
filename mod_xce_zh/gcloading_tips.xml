@@ -1,6 +1,8 @@
 <?xml version="1.0"?>
 <GCLoadingTips>
 
+<Tip MODMERGE="deleteall"/>
+
 <Tip priority="1">本遊戲包括一分快速上手文件，解釋了遊戲的重點規則。
 
 如果你在遊玩過程中感到吃力，或者遇上不明白的地方，請考慮一下閱讀這分文件。</Tip>

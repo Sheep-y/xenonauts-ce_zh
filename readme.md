@@ -6,20 +6,17 @@ For community edition. Includes translation of default enabled X:CE mods and som
 
 ## 安裝方式 Install ##
 
-1. 將 font 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` | Copy .mvec files in font folder to `Xenonauts/assets/fonts`
-2. 將 xml 目錄中的 所有 .xml 檔案壓成 zip | Zip all .xml files in xml folder
-3. 用擴展管理器安裝這 zip，置於所有擴展之上 | Install the zip as mod and place above all mods.
-4. 將 Khall's More Portraits 置於本擴展之上 | Moves "Khall's More Portraits" above this mod.
+1. 將 `mod_xce_zh/font` 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` | Copy .mvec files in `mod_xce_zh/font` folder to `Xenonauts/assets/fonts`
+2. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip | Zip all .xml files in `mod_xce_zh` folder
+3. 用擴展管理器安裝這 zip，置於所有擴展之上 | Install the zip as mod and place above all other mods.
 
 ## 已知問題 Known Issues ##
 
 如果你想幫忙，請在 GitHub 上 Fork 然後 Pull Request。
 
-1. 地面戰的載入提示似乎無法翻譯。
-2. 部分士兵名稱未知何處翻譯。
-3. 部分介面字體過小或走位。
-4. 部分翻譯與手冊不符。
-5. 手冊圖片與實際介面不符。
+1. 部分介面字體過小或走位。
+2. 部分翻譯與手冊不符。
+3. 手冊圖片與實際介面不符。
 
 其他問題請在 GitHub 上回報。
 

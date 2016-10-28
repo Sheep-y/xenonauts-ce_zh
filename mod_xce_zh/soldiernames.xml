@@ -1,11 +1,9 @@
 <?xml version="1.0" ?>
 <SoldierNameDatabase>
-		<Ethnicity name="afri" count="3" />
-		<Ethnicity name="asi" count="5" />
-		<Ethnicity name="med" count="8" />
-		<Ethnicity name="nor" count="20" />
 
-	<Nation name="Hungarian" chance="2" flag="hungary" >
+	<Nation MODMERGE="deleteall"/>
+
+	<Nation name="Hungarian" chance="2" flag="hungary">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
