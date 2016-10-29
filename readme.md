@@ -15,8 +15,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 如果你想幫忙，請在 GitHub 上 Fork 然後 Pull Request。
 
 1. 部分介面字體過小或走位。
-2. 部分翻譯與手冊不符。
-3. 手冊圖片與實際介面不符。
+2. 指南圖片與實際介面不符。
 
 其他問題請在 GitHub 上回報。
 

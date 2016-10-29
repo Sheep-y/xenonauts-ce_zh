@@ -13,6 +13,7 @@ import javax.swing.JOptionPane;
 public class Main {
 
    private static final String TITLE = "Glyph list generator for Playmate Font Maker / Xenonauts translation";
+   private static final String INPUT = "mod_xce_zh";
    private static final String OUTPUT = "Playmate Font Maker/Character Sets/Xenonauts.txt";
 
    public static void main( String[] args ) {
@@ -21,7 +22,7 @@ public class Main {
       List<String> lines = new ArrayList<>( 2000 );
 
       // Read files
-      File[] files = new File( "xml" ).listFiles( f -> f.isFile() && f.getName().endsWith( ".xml" ) );
+      File[] files = new File( INPUT ).listFiles( f -> f.isFile() && f.getName().endsWith( ".xml" ) );
       if ( files == null ) {
          alert( "No files found in xml folder.", JOptionPane.ERROR_MESSAGE );
          return;

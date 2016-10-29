@@ -365,7 +365,7 @@
   <Cell><Data ss:Type="String">航機配置介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEquipHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">機體裝備</Data></Cell>
+  <Cell><Data ss:Type="String">停機坪</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AerialTerror</Data></Cell>
   <Cell><Data ss:Type="String">空中恐襲</Data></Cell>
@@ -704,7 +704,7 @@
   <Cell><Data ss:Type="String">基地管理介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">基地管理</Data></Cell>
+  <Cell><Data ss:Type="String">基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseNameUsed</Data></Cell>
   <Cell><Data ss:Type="String">已有同名基地。</Data></Cell>
@@ -890,31 +890,31 @@
   <Cell><Data ss:Type="String">布里斯本</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSGeoscape</Data></Cell>
-  <Cell><Data ss:Type="String">地球示圖</Data></Cell>
+  <Cell><Data ss:Type="String">地球</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSBase</Data></Cell>
-  <Cell><Data ss:Type="String">基地管理</Data></Cell>
+  <Cell><Data ss:Type="String">基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSResearch</Data></Cell>
-  <Cell><Data ss:Type="String">研發</Data></Cell>
+  <Cell><Data ss:Type="String">實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSWorkshop</Data></Cell>
-  <Cell><Data ss:Type="String">製作</Data></Cell>
+  <Cell><Data ss:Type="String">工房</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSPersonnel</Data></Cell>
-  <Cell><Data ss:Type="String">部隊</Data></Cell>
+  <Cell><Data ss:Type="String">兵營</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSStore</Data></Cell>
-  <Cell><Data ss:Type="String">物資</Data></Cell>
+  <Cell><Data ss:Type="String">倉庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSEquip</Data></Cell>
-  <Cell><Data ss:Type="String">部隊武裝</Data></Cell>
+  <Cell><Data ss:Type="String">武器庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSVehicle</Data></Cell>
-  <Cell><Data ss:Type="String">戰車武裝</Data></Cell>
+  <Cell><Data ss:Type="String">車庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSAircraft</Data></Cell>
-  <Cell><Data ss:Type="String">航機配置</Data></Cell>
+  <Cell><Data ss:Type="String">停機坪</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Budapest</Data></Cell>
   <Cell><Data ss:Type="String">布達佩斯</Data></Cell>
@@ -1250,7 +1250,7 @@
   <Cell><Data ss:Type="String">鐵人模式：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ironmandesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;14&quot; face=&quot;fonts/tahoma.mvec&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式下，玩家不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;14&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式下，玩家不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.normdiff</Data></Cell>
   <Cell><Data ss:Type="String">正常</Data></Cell>
@@ -3219,7 +3219,7 @@
   <Cell><Data ss:Type="String">資金不足。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NotEnoughMoneyForBase</Data></Cell>
-  <Cell><Data ss:Type="String">資金不足，&lt;br/&gt;需要%1%。</Data></Cell>
+  <Cell><Data ss:Type="String">資金不足。需要 %1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.NoLongerGrounded</Data></Cell>
   <Cell><Data ss:Type="String">%1%已然修復到可以起飛。</Data></Cell>
@@ -3480,13 +3480,13 @@
   <Cell><Data ss:Type="String">以下是目前的陣亡名單，指揮官。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Manage</Data></Cell>
-  <Cell><Data ss:Type="String">士兵&lt;br/&gt;管理</Data></Cell>
+  <Cell><Data ss:Type="String">士兵管理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hire</Data></Cell>
-  <Cell><Data ss:Type="String">雇用&lt;br/&gt;士兵</Data></Cell>
+  <Cell><Data ss:Type="String">雇用士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.MemorialWall</Data></Cell>
-  <Cell><Data ss:Type="String">陣亡&lt;br/&gt;名單</Data></Cell>
+  <Cell><Data ss:Type="String">陣亡名單</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.LivSpace</Data></Cell>
   <Cell><Data ss:Type="String">居住配額：</Data></Cell>
@@ -4164,10 +4164,10 @@
   <Cell><Data ss:Type="String">分析所抓到的鬼靈，找出牠們的弱點。完成後會提升士兵對鬼靈做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchHeaderDesc</Data></Cell>
-  <Cell><Data ss:Type="String">實驗室管理介面</Data></Cell>
+  <Cell><Data ss:Type="String">研發管理介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">實驗室管理</Data></Cell>
+  <Cell><Data ss:Type="String">實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.ProjectName</Data></Cell>
   <Cell><Data ss:Type="String">專案</Data></Cell>
@@ -4188,7 +4188,7 @@
   <Cell><Data ss:Type="String">開始專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.Manage</Data></Cell>
-  <Cell><Data ss:Type="String">研發&lt;br/&gt;專案</Data></Cell>
+  <Cell><Data ss:Type="String">研發專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireFire</Data></Cell>
   <Cell><Data ss:Type="String">雇用或解雇&lt;br/&gt;科學家</Data></Cell>
@@ -4494,7 +4494,7 @@
   <Cell><Data ss:Type="String">士兵裝備介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEquipHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">士兵裝備</Data></Cell>
+  <Cell><Data ss:Type="String">武器庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ServiceMedal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;服務勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
@@ -4593,7 +4593,7 @@
   <Cell><Data ss:Type="String">賣出價</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreHeaderDesc</Data></Cell>
-  <Cell><Data ss:Type="String">倉存管理介面</Data></Cell>
+  <Cell><Data ss:Type="String">物資管理介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreHeaderName</Data></Cell>
   <Cell><Data ss:Type="String">倉庫</Data></Cell>
@@ -4623,7 +4623,7 @@
   <Cell><Data ss:Type="String">這些是可以售賣或轉運的物資。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">這倉庫沒有東西要勞你費心，指揮官。&lt;br/&gt;&lt;br/&gt;糧食、燃料、彈藥，這些全都由本地免費供應，而我會確保它們分配妥當。&lt;br/&gt;&lt;br/&gt;當我們開始生產自己的裝備或搜括到異型的科技，你可以來這兒管理它們。</Data></Cell>
+  <Cell><Data ss:Type="String">這倉庫沒有東西要勞您費心，指揮官。&lt;br/&gt;&lt;br/&gt;糧食、燃料、彈藥，這些全都由本地免費供應，而我會確保它們分配妥當。&lt;br/&gt;&lt;br/&gt;當我們開始生產自己的裝備或搜括到異型的科技，您可以來這兒管理它們。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SU</Data></Cell>
   <Cell><Data ss:Type="String">蘇維埃共和國</Data></Cell>
@@ -4962,10 +4962,10 @@
   <Cell><Data ss:Type="String">下一輛 &gt;&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEquipHeaderDesc</Data></Cell>
-  <Cell><Data ss:Type="String">支援戰車配置畫面</Data></Cell>
+  <Cell><Data ss:Type="String">戰車配置介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEquipHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">戰車配置</Data></Cell>
+  <Cell><Data ss:Type="String">車庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Vladivostok</Data></Cell>
   <Cell><Data ss:Type="String">海参崴</Data></Cell>
@@ -5272,10 +5272,10 @@
   <Cell><Data ss:Type="String">工房</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopHeaderDesc</Data></Cell>
-  <Cell><Data ss:Type="String">工房管理介面</Data></Cell>
+  <Cell><Data ss:Type="String">製作管理介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">工房管理</Data></Cell>
+  <Cell><Data ss:Type="String">工房</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.ProjectName</Data></Cell>
   <Cell><Data ss:Type="String">產品</Data></Cell>
@@ -5311,7 +5311,7 @@
   <Cell><Data ss:Type="String">動工</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Manage</Data></Cell>
-  <Cell><Data ss:Type="String">製作&lt;br/&gt;專案</Data></Cell>
+  <Cell><Data ss:Type="String">製作專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireFire</Data></Cell>
   <Cell><Data ss:Type="String">雇用或解雇&lt;br/&gt;工程師</Data></Cell>
@@ -5359,7 +5359,7 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/xenonauts.mvec&quot;&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">XenopediaHeaderDesc</Data></Cell>
-  <Cell><Data ss:Type="String">資訊管理介面</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員資料庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">XenopediaHeaderName</Data></Cell>
   <Cell><Data ss:Type="String">異族百科</Data></Cell>
