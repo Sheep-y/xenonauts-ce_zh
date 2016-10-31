@@ -3,7 +3,7 @@
 
 	<Nation MODMERGE="deleteall"/>
 
-	<Nation name="Hungarian" chance="2" flag="hungary">
+	<Nation name="Hungarian" chance="2" flag="hungary" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
@@ -35,7 +35,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Canadian" chance="3" flag="canada">
+	<Nation name="Canadian" chance="3" flag="canada" index="1" MODMERGEATTRIBUTE="index" MODMERGE="insert">
 		<Ethnicity name="med" chance="2" />
 		<Ethnicity name="nor" chance="2" />
 		<Ethnicity name="afri" chance="1" />
@@ -85,7 +85,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Canadian" chance="1" flag="canada">
+	<Nation name="Canadian" chance="1" flag="canada" index="2" MODMERGEATTRIBUTE="index" MODMERGE="insert">
 		<Ethnicity name="nor" chance="3" />
 
 		<FirstName>亞歷克西婭</FirstName>
@@ -168,7 +168,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="American" chance="9" flag="usa">
+	<Nation name="American" chance="9" flag="usa" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="nor" chance="1" />
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="afri" chance="1" />
@@ -303,7 +303,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="British" chance="4" flag="uk">
+	<Nation name="British" chance="4" flag="uk" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med"  chance="2" />
 		<Ethnicity name="afri" chance="1" />
 		<Ethnicity name="nor"  chance="2" />
@@ -429,9 +429,9 @@
 		<Regiment name="regiment.britain3">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="East German" chance="2" flag="eastgermany">
+	<Nation name="East German" chance="2" flag="eastgermany" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="nor" chance="3" />
 		<Ethnicity name="med" chance="1" />
 
@@ -516,9 +516,9 @@
 		<Regiment name="regiment.Egermany4">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="West German" chance="2" flag="westgermany">
+	<Nation name="West German" chance="2" flag="westgermany" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="nor" chance="3" />
 		<Ethnicity name="med" chance="1" />
 
@@ -602,7 +602,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Soviet Union" chance="12" flag="ussr">
+	<Nation name="Soviet Union" chance="12" flag="ussr" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="nor" chance="2" />
 
 		<FirstName>安娜</FirstName>
@@ -652,7 +652,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Czechoslovakian" chance="1" flag="czechoslovakia">
+	<Nation name="Czechoslovakian" chance="1" flag="czechoslovakia" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
@@ -703,7 +703,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Japanese" chance="4" flag="japan">
+	<Nation name="Japanese" chance="4" flag="japan" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="asi" chance="1" />
 
 		<FirstName>愛子</FirstName>
@@ -755,7 +755,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Italian" chance="2" flag="italy">
+	<Nation name="Italian" chance="2" flag="italy" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="1" />
 
@@ -802,7 +802,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Australian" chance="3" flag="australia">
+	<Nation name="Australian" chance="3" flag="australia" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="nor" chance="3" />
 		<Ethnicity name="med" chance="1" />
 
@@ -927,7 +927,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="New Zealander" chance="2" flag="newzealand">
+	<Nation name="New Zealander" chance="2" flag="newzealand" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med"  chance="1" />
 		<Ethnicity name="nor"  chance="3" />
 
@@ -1056,7 +1056,7 @@
 		</Regiment>
 	</Nation>
 
-	<Nation name="Greek" chance="2" flag="greece">
+	<Nation name="Greek" chance="2" flag="greece" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 
 		<FirstName>安娜</FirstName>
@@ -1094,9 +1094,9 @@
 		<Regiment name="regiment.greek3">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Polish" chance="2" flag="poland">
+	<Nation name="Polish" chance="2" flag="poland" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
@@ -1139,9 +1139,9 @@
 		<Regiment name="regiment.poland4">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Spanish" chance="2" flag="spain">
+	<Nation name="Spanish" chance="2" flag="spain" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="3" />
 		<Ethnicity name="nor" chance="1" />
 
@@ -1184,9 +1184,9 @@
 		<Regiment name="regiment.spain3">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Norwegian" chance="2" flag="norway">
+	<Nation name="Norwegian" chance="2" flag="norway" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
@@ -1229,9 +1229,9 @@
 		<Regiment name="regiment.norway2">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Dutch" chance="2" flag="netherlands">
+	<Nation name="Dutch" chance="2" flag="netherlands" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="2" />
 		<Ethnicity name="nor" chance="4" />
 		<Ethnicity name="afri" chance="1" />
@@ -1277,9 +1277,11 @@
 		<Regiment name="regiment.dutch3">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Danish" chance="2" flag="denmark">
+	<Nation name="USSR" chance="0" flag="ussr" MODMERGEATTRIBUTE="name" MODMERGE="insert" string="國藉"/>
+	<Nation name="USSR" chance="300" flag="ussr" MODMERGEATTRIBUTE="string" MODMERGE="update" string="国藉"/>
+	<Nation name="Danish" chance="2" flag="denmark" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
@@ -1324,9 +1326,9 @@
 		<Regiment name="regiment.danish3">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-<Nation name="French" chance="3" flag="france">
+<Nation name="French" chance="3" flag="france" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="2" />
 		<Ethnicity name="nor" chance="4" />
 		<Ethnicity name="afri" chance="1" />
@@ -1382,9 +1384,9 @@
 		<Regiment name="regiment.french4">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Swedish" chance="2" flag="sweden">
+	<Nation name="Swedish" chance="2" flag="sweden" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
@@ -1426,9 +1428,9 @@
 		<Regiment name="regiment.swede2">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
-	<Nation name="Finnish" chance="1" flag="finland">
+	<Nation name="Finnish" chance="1" flag="finland" MODMERGEATTRIBUTE="name" MODMERGE="insert">
 		<Ethnicity name="med" chance="1" />
 		<Ethnicity name="nor" chance="3" />
 
@@ -1468,6 +1470,6 @@
 		<Regiment name="regiment.finn1">
 			<Experience>experience.none</Experience>
 		</Regiment>
-</Nation>
+	</Nation>
 
 </SoldierNameDatabase>
