@@ -2,22 +2,18 @@
 
 適用於 異種航員 社群增強版。翻譯包括所有預設啟用的社群版模組，及少量其他模組。工事中。
 
+遊戲的原生介面是為 1920x1080 而設，不擅於適應其他解像度。本漢化也以此解像度為準。
+
 For community edition. Includes translation of default enabled X:CE mods and some more. Work In Progress.
+
+The game's native interface is designed for 1920x1080, and does not handle other resolution well.
+This translation also use it as a standard.
 
 ## 安裝方式 Install ##
 
 1. 將 `mod_xce_zh/font` 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` <br> Copy .mvec files in `mod_xce_zh/font` folder to `Xenonauts/assets/fonts`
 2. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip <br> Zip all .xml files in `mod_xce_zh` folder.
 3. 用擴展管理器安裝這 zip，置於所有擴展之上 <br> Install the zip as mod and place above all other mods.
-
-## 已知問題 Known Issues ##
-
-如果你想幫忙，請在 GitHub 上 Fork 然後 Pull Request。
-
-1. 部分介面字體過小或走位。
-2. 指南圖片與實際介面不符。
-
-其他問題請在 GitHub 上回報。
 
 ## 進度 Progress ##
 
@@ -31,6 +27,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 * [x] Translate Quickstart and Manual
 * [ ] Playtest - Adjust font sizes
 * [x] Playtest - Fill in uncertain blanks
+* [ ] Update doc screenshot.
 * [ ] Build font and preview package
 * [ ] Translate splashscreen, launcher
 * [ ] Edit strings.xml

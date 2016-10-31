@@ -9,7 +9,7 @@
 <Author>Solver</Author>
 <LastAuthor>Sheepy</LastAuthor>
 <Created>2011-04-13T20:36:37Z</Created>
-<LastSaved>2016-10-07T13:12:57Z</LastSaved>
+<LastSaved>2016-10-31T10:12:57Z</LastSaved>
 <Version>15.00</Version>
  </DocumentProperties>
  <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
@@ -1241,7 +1241,7 @@
   <Cell><Data ss:Type="String">容易</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.easydiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，單位也較弱。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，單位也較弱。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ExplanatoryTooltips</Data></Cell>
   <Cell><Data ss:Type="String">遊戲說明：</Data></Cell>
@@ -1250,25 +1250,25 @@
   <Cell><Data ss:Type="String">鐵人模式：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ironmandesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;14&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式下，玩家不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;18&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式中，你將不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.normdiff</Data></Cell>
-  <Cell><Data ss:Type="String">正常</Data></Cell>
+  <Cell><Data ss:Type="String">普通</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.normdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">你玩過策略遊戲，但不是 X-Com 老手。&#10;&#10;遊戲會略為鬆手，異型也稍微沒那麼凶猛。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你玩過策略遊戲但沒玩過初代 X-Com，請選這難易度。&#10;&#10;遊戲會略為包容，異型也稍微收儉。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.shdiff</Data></Cell>
   <Cell><Data ss:Type="String">瘋子</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.shdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">你要麼是瘋的，要麼就是鬼才。&#10;&#10;遊戲一開始就不留情面，並只會變本加厲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;你要麼是瘋的，要麼就是鬼才。&#10;&#10;遊戲一開始就不留情面，並只會變本加厲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.vetdiff</Data></Cell>
   <Cell><Data ss:Type="String">老手</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.vetdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">如果你之前玩過類似的遊戲，可以選這難度。&#10;&#10;遊戲不會容易，異型很慓悍，侵略也會快速升溫。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;遊戲不會容易，異型很慓悍，侵略也會快速升溫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DismissSoldierConf</Data></Cell>
   <Cell><Data ss:Type="String">要解雇&lt;br/&gt;%1%嗎？</Data></Cell>
@@ -2190,10 +2190,10 @@
   <Cell><Data ss:Type="String">選擇戰車 #4</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCCenterOnNextAlien</Data></Cell>
-  <Cell><Data ss:Type="String">置中下一異型</Data></Cell>
+  <Cell><Data ss:Type="String">將下一異型置中</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCCenterOnPreviousAlien</Data></Cell>
-  <Cell><Data ss:Type="String">置中上一異型</Data></Cell>
+  <Cell><Data ss:Type="String">將上一異型置中</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GEMapScrollDown</Data></Cell>
   <Cell><Data ss:Type="String">下移畫面</Data></Cell>
@@ -3186,7 +3186,7 @@
   <Cell><Data ss:Type="String">紐西蘭</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NewGame</Data></Cell>
-  <Cell><Data ss:Type="String">新遊戲</Data></Cell>
+  <Cell><Data ss:Type="String">開始遊戲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Nigeria</Data></Cell>
   <Cell><Data ss:Type="String">尼日利亞</Data></Cell>
@@ -4503,22 +4503,22 @@
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ShowAircraft</Data></Cell>
-  <Cell><Data ss:Type="String">置中航機並切至最慢速</Data></Cell>
+  <Cell><Data ss:Type="String">置中航機，並切至最慢速</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ShowCity</Data></Cell>
-  <Cell><Data ss:Type="String">置中城市並切至最慢速</Data></Cell>
+  <Cell><Data ss:Type="String">置中城市，並切至最慢速</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ShowEvent</Data></Cell>
-  <Cell><Data ss:Type="String">置中事件並切至最慢速</Data></Cell>
+  <Cell><Data ss:Type="String">置中事件，並切至最慢速</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ShowUFO</Data></Cell>
-  <Cell><Data ss:Type="String">置中幽浮並切至最慢速</Data></Cell>
+  <Cell><Data ss:Type="String">置中幽浮，並切至最慢速</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Singapore</Data></Cell>
   <Cell><Data ss:Type="String">星加坡</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">single</Data></Cell>
-  <Cell><Data ss:Type="String">Single</Data></Cell>
+  <Cell><Data ss:Type="String">單發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectOneSoldier</Data></Cell>
   <Cell><Data ss:Type="String">選擇要雇用的士兵</Data></Cell>
@@ -6328,13 +6328,13 @@
   <Cell><Data ss:Type="String">X</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NewGameSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">開展新的行動</Data></Cell>
+  <Cell><Data ss:Type="String">      &lt;font size=&quot;20&quot;\&gt;開展新的行動&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LoadGameSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">繼續現有行動</Data></Cell>
+  <Cell><Data ss:Type="String">        &lt;font size=&quot;20&quot;\&gt;繼續現有行動&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OptionsSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">自訂司令介面</Data></Cell>
+  <Cell><Data ss:Type="String">          &lt;font size=&quot;20&quot;\&gt;自訂司令介面&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DestinationReached</Data></Cell>
   <Cell><Data ss:Type="String">抵達目的地。</Data></Cell>
@@ -6346,7 +6346,7 @@
   <Cell><Data ss:Type="String">停用</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MainMenuBriefings</Data></Cell>
-  <Cell><Data ss:Type="String">簡介</Data></Cell>
+  <Cell><Data ss:Type="String">任務簡介</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AbortTitle</Data></Cell>
   <Cell><Data ss:Type="String">放棄任務</Data></Cell>
