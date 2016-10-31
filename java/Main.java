@@ -17,7 +17,7 @@ public class Main {
    private static final String OUTPUT = "Playmate Font Maker/Character Sets/Xenonauts.txt";
 
    public static void main( String[] args ) {
-      alert( TITLE + ".\nThis program reads UTF-8 xml files from the xml folder and create a list of unique unicode characters." );
+      alert( TITLE + ".\nThis program reads UTF-8 xml files from the "+INPUT+" folder and create a list of unique unicode characters." );
       int file_count = 0;
       List<String> lines = new ArrayList<>( 2000 );
 

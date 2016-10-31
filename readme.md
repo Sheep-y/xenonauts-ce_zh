@@ -11,6 +11,8 @@ This translation also use it as a standard.
 
 ## 安裝方式 Install ##
 
+目前的型屬預覽性質，有少量文字無法顯示。
+
 1. 將 `mod_xce_zh/font` 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` <br> Copy .mvec files in `mod_xce_zh/font` folder to `Xenonauts/assets/fonts`
 2. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip <br> Zip all .xml files in `mod_xce_zh` folder.
 3. 用擴展管理器安裝這 zip，置於所有擴展之上 <br> Install the zip as mod and place above all other mods.
@@ -42,38 +44,38 @@ This translation also use it as a standard.
 XCE mods with translate-able resources and status.
 
 * Armoured Assault
-* * Default Off
-* * Merged and translated
+  * Default Off
+  * Merged and translated
 
 * Extended Weapon Descriptions for Fighters
-* * Default On
-* * Merged and translated
+  * Default On
+  * Merged and translated
 
 * Furies, Terror, and Dreadnoughts Oh My
-* * Default Off
-* * Must be done as a separate translation mod.
+  * Default Off
+  * Must be done as a separate translation mod.
 
 * Khall's More Portraits
-* * Default On
-* * Would not work if soldiernames.xml is overridden, need to try to work with it.
+  * Default On
+  * Would not work if soldiernames.xml is overridden, need to try to work with it.
 
 * Lore+
-* * Default On
-* * Merged and translated
+  * Default On
+  * Merged and translated
 
 * X:CE Balance Adjustment
-* * Default On
-* * Merged and translated
+  * Default On
+  * Merged and translated
 
 * X:CE Settings
-* * Default On
-* * Ignored because it simply swaps colonal and commander title, which is sharp and clear in Chinese
+  * Default On
+  * Ignored because it simply swaps colonal and commander title, which is sharp and clear in Chinese
 
 Non-XCE mods with translate-able resoruces and status.
 
 * Geographic addition
-* * Version 1.1 released 2016-08-16
-* * Merged and translated
+  * Version 1.1 released 2016-08-16
+  * Merged and translated
 
 ## 字型 Fonts ##
 
@@ -81,5 +83,12 @@ Non-XCE mods with translate-able resoruces and status.
 
 All fonts are open and can be transformed freely.
 
-* xenonauts.mvec - AR PL KaitiM (文鼎 PL 中楷)
-* arial.mvec, tahoma.mvec, xenopedia.mvec - WenQuanYi Micro Hei (文泉驛微米黑)
+Planned and using for testing (not bundled in source):
+
+* arial.mvec
+  * Replace with WenQuanYi Micro Hei (文泉驛微米黑)
+* xenonauts.mvec
+  * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72
+  * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols
+* xenopedia.mvec
+  * Replace with AR PL MingTi (文鼎 PL 明體)
