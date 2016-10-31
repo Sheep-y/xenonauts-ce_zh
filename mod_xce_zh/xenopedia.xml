@@ -821,19 +821,19 @@
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">岸轟幽浮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">轟擊幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/UFObomber</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">UFO</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">岸轟幽浮_Bomber_是特化對地攻擊能力的中型幽浮。雖然會被我們的戰鬥機輕易打敗，它能給我們的資助國降下死亡之雨，僵化我們的外交關係。&#10;&#10;它用的是兩根同步的電磁飛雷發射管，就是飛碟後半部的半圓形結構。每發飛雷都能炸沉一艘船，而我們相信這幽浮每六秒就能發射一對飛雷，它每次出動掃射都必然會做成傷亡。幸運的是它們是無導引的，也飛得很慢，對飛行的目標不構成威脅，因此可以用空戰擊落它。&#10;&#10;整架飛船都是圍繞這對武器設計的；兩面突出的翼片應該是低速轟炸時保持穩定用的，而飛碟大部分中空，估計是儲存彈藥用的。醜魔駕駛員，反應爐和航電系統都塞在前段的一個小機艙內。這也許是為甚麼岸轟幽浮被攔截後都不剩下甚麼，因為飛雷往往會被立刻引爆或撞地時引爆。總括來說，岸轟幽浮一點兒都不難對付，但要及早應對。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">轟擊幽浮_Bomber_是特化對地攻擊能力的中型幽浮。雖然會被我們的戰鬥機輕易打敗，它能給我們的資助國降下死亡之雨，僵化我們的外交關係。&#10;&#10;它用的是兩根同步的電磁飛雷發射管，就是飛碟後半部的半圓形結構。每發飛雷都能炸沉一艘船，而我們相信這幽浮每六秒就能發射一對飛雷，它每次出動掃射都必然會做成傷亡。幸運的是它們是無導引的，也飛得很慢，對飛行的目標不構成威脅，因此可以用空戰擊落它。&#10;&#10;整架飛船都是圍繞這對武器設計的；兩面突出的翼片應該是低速轟炸時保持穩定用的，而飛碟大部分中空，估計是儲存彈藥用的。醜魔駕駛員，反應爐和航電系統都塞在前段的一個小機艙內。這也許是為甚麼轟擊幽浮被攔截後都不剩下甚麼，因為飛雷往往會被立刻引爆或撞地時引爆。總括來說，轟擊幽浮一點兒都不難對付，但要及早應對。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.strikecruiser</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋岸轟幽浮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋轟擊幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/UFOstrikecruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">UFO</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋岸轟幽浮_Strike_Cruiser_是大型的對地攻擊幽浮。雖然明顯衍生自巡洋幽浮，但它的職責比較接近岸轟幽浮。&#10;&#10;雖然它很巨型，但我們相信它依然是單座位的幽浮，駕駛艙位於飛碟的前方。所有非關鍵的系統都移除了，全部用來提升火力，其中最大的是兩支裝在飛船前方的巨型的線圈炮。交織的散熱器連接雙翼，翼上裝設了遠距離的偵察尋標器。&#10;&#10;這些線圈擅於從遠距離攻擊定點目標。難以對戰機構成威脅，因此巡洋岸轟幽浮不適宜空戰。它的高爆飛雷一粒就可以將一棟建築夷為平地。每隻幽浮的中央飛碟最少可以載三十支，絕對要在它們對資助國做成太大傷害前打下它們。意料之內的是，岸轟幽浮的高爆貨品令被它們被擊落後不會剩多少東西。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋轟擊幽浮_Strike_Cruiser_是大型的對地攻擊幽浮。雖然明顯衍生自巡洋幽浮，但它的職責比較接近轟擊幽浮。&#10;&#10;雖然它很巨型，但我們相信它依然是單座位的幽浮，駕駛艙位於飛碟的前方。所有非關鍵的系統都移除了，全部用來提升火力，其中最大的是兩支裝在飛船前方的巨型的線圈炮。交織的散熱器連接雙翼，翼上裝設了遠距離的偵察尋標器。&#10;&#10;這些線圈擅於從遠距離攻擊定點目標。難以對戰機構成威脅，因此巡洋轟擊幽浮不適宜空戰。它的高爆飛雷一粒就可以將一棟建築夷為平地。每隻幽浮的中央飛碟最少可以載三十支，絕對要在它們對資助國做成太大傷害前打下它們。意料之內的是，轟擊幽浮的高爆貨品令被它們被擊落後不會剩多少東西。</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"/>
@@ -1204,7 +1204,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/bombingrun</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">UFOs</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">AC</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">研發部從一艘被擊墜的岸轟幽浮裡修復及轉譯了它的飛行路線圖，交了給我們分析。路線跨越多座城市的工業區及一所秘密基地。行程很短促，因此幽浮不會降落，只會迅速地空襲一連串地點，最終對基地施以密集轟炸。似乎外星人將空戰升級了，指揮官。&#10;&#10;可以預期岸轟幽浮會轟炸富具戰略或經濟價值的目標，但全球的目標太多以致無法預測它們會向那兒下手。不過從這飛行路線來看，它們的任務是先攻擊多處次要目標，然後為大攻擊作準備，此時是攔截的最佳時機。岸轟幽浮經常會有護航，體積中型或以上。它們會圍繞特定目標飛行但不會降落。&#10;&#10;每次轟炸任務都會做成幾百人傷亡，需要優先阻止。會降落的話我們可以出動地面部隊，但轟炸就只能在空中截擊。</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">研發部從一艘被擊墜的轟擊幽浮裡修復及轉譯了它的飛行路線圖，交了給我們分析。路線跨越多座城市的工業區及一所秘密基地。行程很短促，因此幽浮不會降落，只會迅速地空襲一連串地點，最終對基地施以密集轟炸。似乎外星人將空戰升級了，指揮官。&#10;&#10;可以預期轟擊幽浮會轟炸富具戰略或經濟價值的目標，但全球的目標太多以致無法預測它們會向那兒下手。不過從這飛行路線來看，它們的任務是先攻擊多處次要目標，然後為大攻擊作準備，此時是攔截的最佳時機。轟擊幽浮經常會有護航，體積中型或以上。它們會圍繞特定目標飛行但不會降落。&#10;&#10;每次轟炸任務都會做成幾百人傷亡，需要優先阻止。會降落的話我們可以出動地面部隊，但轟炸就只能在空中截擊。</Data></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>

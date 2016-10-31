@@ -383,7 +383,7 @@
   <Cell><Data ss:Type="String">戰列幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
-  <Cell><Data ss:Type="String">岸轟幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">轟擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.carrier</Data></Cell>
   <Cell><Data ss:Type="String">航母幽浮</Data></Cell>
@@ -413,7 +413,7 @@
   <Cell><Data ss:Type="String">偵察幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.strikecruiser</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋岸轟幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋轟擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.human.chinook</Data></Cell>
   <Cell><Data ss:Type="String">查理</Data></Cell>
@@ -2436,7 +2436,7 @@
   <Cell><Data ss:Type="String">異型奇點爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋岸轟幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStunGrenades</Data></Cell>
   <Cell><Data ss:Type="String">異型震擊手雷</Data></Cell>
@@ -5416,10 +5416,10 @@
   <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">岸轟幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋岸轟幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data></Cell>
   <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
@@ -5452,10 +5452,10 @@
   <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">岸轟幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋岸轟幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
   <Cell><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
