@@ -6,26 +6,8 @@
  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
  xmlns:html="http://www.w3.org/TR/REC-html40">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
-<Author>Solver</Author>
-<LastAuthor>Sheepy</LastAuthor>
-<Created>2011-04-13T20:36:37Z</Created>
-<LastSaved>2016-10-31T10:12:57Z</LastSaved>
 <Version>15.00</Version>
  </DocumentProperties>
- <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
-<AllowPNG/>
- </OfficeDocumentSettings>
- <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
-<WindowHeight>9720</WindowHeight>
-<WindowWidth>19590</WindowWidth>
-<WindowTopX>0</WindowTopX>
-<WindowTopY>0</WindowTopY>
-<TabRatio>214</TabRatio>
-<DisplayDrawingObjects>PlaceHolders</DisplayDrawingObjects>
-<RefModeR1C1/>
-<ProtectStructure>False</ProtectStructure>
-<ProtectWindows>False</ProtectWindows>
- </ExcelWorkbook>
  <Styles>
 <Style ss:ID="Default" ss:Name="Normal">
  <Alignment ss:Vertical="Bottom" ss:WrapText="1"/>
@@ -36,7 +18,7 @@
 </Style>
  </Styles>
  <Worksheet ss:Name="strings">
-<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2650" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+<Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="2650" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
  <Column ss:AutoFitWidth="0" ss:Width="246"/>
  <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
  <Row>
@@ -1241,7 +1223,7 @@
   <Cell><Data ss:Type="String">容易</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.easydiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，單位也較弱。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，部隊也較弱。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ExplanatoryTooltips</Data></Cell>
   <Cell><Data ss:Type="String">遊戲說明：</Data></Cell>
@@ -1268,10 +1250,10 @@
   <Cell><Data ss:Type="String">老手</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.vetdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;遊戲不會容易，異型很慓悍，侵略也會快速升溫。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;遊戲會不容易，異型很慓悍，侵略也會快速升溫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DismissSoldierConf</Data></Cell>
-  <Cell><Data ss:Type="String">要解雇&lt;br/&gt;%1%嗎？</Data></Cell>
+  <Cell><Data ss:Type="String">要解僱&lt;br/&gt;%1%嗎？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DistinguisedServiceMedal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傑出服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
@@ -2118,10 +2100,10 @@
   <Cell><Data ss:Type="String">用武器進行近接攻擊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCSelectSmartNextSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">切換到下一可動的單位</Data></Cell>
+  <Cell><Data ss:Type="String">切換到下一單位</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCSelectSmartNextSoldierFinish</Data></Cell>
-  <Cell><Data ss:Type="String">完成並切換到下一可動的單位</Data></Cell>
+  <Cell><Data ss:Type="String">完成此單位然後切換到下一單位</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCSelectNextSoldier</Data></Cell>
   <Cell><Data ss:Type="String">選擇下一單位</Data></Cell>
@@ -3390,7 +3372,7 @@
   <Cell><Data ss:Type="String">勇氣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PER.HIRE</Data></Cell>
-  <Cell><Data ss:Type="String">雇用</Data></Cell>
+  <Cell><Data ss:Type="String">僱用</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PER.NAME</Data></Cell>
   <Cell><Data ss:Type="String">姓名</Data></Cell>
@@ -3426,7 +3408,7 @@
   <Cell><Data ss:Type="String">調動士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Dismiss</Data></Cell>
-  <Cell><Data ss:Type="String">解雇士兵</Data></Cell>
+  <Cell><Data ss:Type="String">解僱士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Rank</Data></Cell>
   <Cell><Data ss:Type="String">軍階</Data></Cell>
@@ -3474,7 +3456,7 @@
   <Cell><Data ss:Type="String">指揮官。這是最新的士兵候選名單，請您過目。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">以下是可供我們雇用的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">以下是可供我們僱用的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment3</Data></Cell>
   <Cell><Data ss:Type="String">以下是目前的陣亡名單，指揮官。</Data></Cell>
@@ -3483,7 +3465,7 @@
   <Cell><Data ss:Type="String">士兵管理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hire</Data></Cell>
-  <Cell><Data ss:Type="String">雇用士兵</Data></Cell>
+  <Cell><Data ss:Type="String">僱用士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.MemorialWall</Data></Cell>
   <Cell><Data ss:Type="String">陣亡名單</Data></Cell>
@@ -3492,7 +3474,7 @@
   <Cell><Data ss:Type="String">居住配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">雇用所選士兵</Data></Cell>
+  <Cell><Data ss:Type="String">僱用所選士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Wages</Data></Cell>
   <Cell><Data ss:Type="String">士兵糧餉：</Data></Cell>
@@ -3504,10 +3486,10 @@
   <Cell><Data ss:Type="String">士兵數目：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">雇用費：</Data></Cell>
+  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hiring_XX_Hours</Data></Cell>
-  <Cell><Data ss:Type="String">雇用中，還需 %1% 小時</Data></Cell>
+  <Cell><Data ss:Type="String">僱用中，還需 %1% 小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Perth</Data></Cell>
   <Cell><Data ss:Type="String">珀斯</Data></Cell>
@@ -4191,7 +4173,7 @@
   <Cell><Data ss:Type="String">研發專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireFire</Data></Cell>
-  <Cell><Data ss:Type="String">雇用或解雇&lt;br/&gt;科學家</Data></Cell>
+  <Cell><Data ss:Type="String">僱用或解僱&lt;br/&gt;科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.TotalSci</Data></Cell>
   <Cell><Data ss:Type="String">科學家總數：</Data></Cell>
@@ -4209,13 +4191,13 @@
   <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">雇用科學家</Data></Cell>
+  <Cell><Data ss:Type="String">僱用科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.FireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">解雇科學家</Data></Cell>
+  <Cell><Data ss:Type="String">解僱科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">雇用費：</Data></Cell>
+  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResumeGame</Data></Cell>
   <Cell><Data ss:Type="String">繼續遊戲</Data></Cell>
@@ -4350,7 +4332,7 @@
   <Cell><Data ss:Type="String">雙手</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.HOURSTOARRIVE</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;雇用士兵中。&lt;br/&gt;%1% 小時後抵步。&lt;/outline&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;僱用士兵中。&lt;br/&gt;%1% 小時後抵步。&lt;/outline&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ITEMMOVECOST</Data></Cell>
   <Cell><Data ss:Type="String">運費：%1%</Data></Cell>
@@ -4479,7 +4461,7 @@
   <Cell><Data ss:Type="String">勇氣：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.Dismiss</Data></Cell>
-  <Cell><Data ss:Type="String">解雇士兵</Data></Cell>
+  <Cell><Data ss:Type="String">解僱士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.Relocate</Data></Cell>
   <Cell><Data ss:Type="String">轉移士兵</Data></Cell>
@@ -4521,10 +4503,10 @@
   <Cell><Data ss:Type="String">單發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectOneSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">選擇要雇用的士兵</Data></Cell>
+  <Cell><Data ss:Type="String">選擇要僱用的士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierPoolDlg.SelectSoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">選擇要雇用的%1%名士兵</Data></Cell>
+  <Cell><Data ss:Type="String">選擇要僱用的%1%名士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierRoles.Assault</Data></Cell>
   <Cell><Data ss:Type="String">突擊</Data></Cell>
@@ -5314,7 +5296,7 @@
   <Cell><Data ss:Type="String">製作專案</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireFire</Data></Cell>
-  <Cell><Data ss:Type="String">雇用或解雇&lt;br/&gt;工程師</Data></Cell>
+  <Cell><Data ss:Type="String">僱用或解僱&lt;br/&gt;工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.TotalEng</Data></Cell>
   <Cell><Data ss:Type="String">工程師總數：</Data></Cell>
@@ -5332,13 +5314,13 @@
   <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">雇用工程師</Data></Cell>
+  <Cell><Data ss:Type="String">僱用工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.FireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">解雇工程師</Data></Cell>
+  <Cell><Data ss:Type="String">解僱工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">雇用費：</Data></Cell>
+  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Required</Data></Cell>
   <Cell><Data ss:Type="String">需求：%1%</Data></Cell>
@@ -6238,7 +6220,7 @@
   <Cell><Data ss:Type="String">彎刀戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">請先選擇要雇用的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">請先選擇要僱用的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingComplete.Title</Data></Cell>
   <Cell><Data ss:Type="String">建造完成</Data></Cell>
@@ -6355,7 +6337,7 @@
   <Cell><Data ss:Type="String">請先選擇要轉移的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiersdismiss</Data></Cell>
-  <Cell><Data ss:Type="String">請先選擇要解雇的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">請先選擇要解僱的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseAttackLabel</Data></Cell>
   <Cell><Data ss:Type="String">基地遇襲</Data></Cell>

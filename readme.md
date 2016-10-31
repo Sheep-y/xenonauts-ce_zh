@@ -92,3 +92,4 @@ Planned and using for testing (not bundled in source):
   * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols
 * xenopedia.mvec
   * Replace with AR PL MingTi (文鼎 PL 明體)
+  * Select underscore (half-width), Move Y 2000, and use it as non-breaking space.
