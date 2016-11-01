@@ -2000,9 +2000,6 @@
   <Cell><Data ss:Type="String">GCEndTurn</Data></Cell>
   <Cell><Data ss:Type="String">結束回合</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">GCEndTurn</Data></Cell>
-  <Cell><Data ss:Type="String">結束回合</Data></Cell>
- </Row><Row>
   <Cell><Data ss:Type="String">GCFireModeBurst</Data></Cell>
   <Cell><Data ss:Type="String">切換單發/連發射擊</Data></Cell>
  </Row><Row>
@@ -2626,9 +2623,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianOfficerCorpse</Data></Cell>
   <Cell><Data ss:Type="String">斯巴蜥人士官的屍骸</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.SebillianSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">Sebillian Soldier</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianSoldier</Data></Cell>
   <Cell><Data ss:Type="String">斯巴蜥人士兵</Data></Cell>
@@ -6395,7 +6389,6 @@
   <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacoreDesc</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBomberDatacoreDesc</Data></Cell>
-  <Cell/>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacoreDesc</Data></Cell>
  </Row><Row>
@@ -7976,17 +7969,5 @@
   <Cell><Data ss:Type="String">埃塞俄比亞</Data></Cell>
  </Row>
 </Table>
-<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
- <Print>
-  <ValidPrinterInfo/>
-  <HorizontalResolution>300</HorizontalResolution>
-  <VerticalResolution>300</VerticalResolution>
- </Print>
- <Selected/>
- <ProtectObjects>False</ProtectObjects>
- <ProtectScenarios>False</ProtectScenarios>
-</WorksheetOptions>
-<AutoFilter x:Range="R1C1:R2579C2" xmlns="urn:schemas-microsoft-com:office:excel">
-</AutoFilter>
  </Worksheet>
 </Workbook>
