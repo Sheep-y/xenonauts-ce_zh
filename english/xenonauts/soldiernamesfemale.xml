@@ -1,0 +1,1486 @@
+<?xml version="1.0"?>
+<SoldierNameDatabase>
+  <Ethnicity name="afri" count="3" />
+  <Ethnicity name="asi"  count="3" />
+  <Ethnicity name="med"  count="8" />
+  <Ethnicity name="nor"  count="12" />
+
+  <Nation name="Hungarian" chance="2" flag="hungary">
+    <Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="1" />
+    <FirstName>Kayta</FirstName>
+    <FirstName>Alida</FirstName>
+    <FirstName>Ema</FirstName>
+    <FirstName>Frida</FirstName>
+    <FirstName>Hajnal</FirstName>
+    <FirstName>Ilona</FirstName>
+    <FirstName>Eva</FirstName>
+    <FirstName>Kata</FirstName>
+    <FirstName>Katalin</FirstName>
+    <FirstName>Judit</FirstName>
+    <FirstName>Vilma</FirstName>
+    <FirstName>Sara</FirstName>
+
+
+
+    <LastName>Perneky</LastName>
+    <LastName>Kovacs</LastName>
+    <LastName>Toth</LastName>
+    <LastName>Nagy</LastName>
+    <LastName>Kiss</LastName>
+    <LastName>Horvath</LastName>
+    <LastName>Alfoldi</LastName>
+    <LastName>Szabo</LastName>
+    <LastName>Safar</LastName>
+      <Regiment name="regiment.hungary1">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+  
+  
+  <Nation name="Canadian" chance="3" flag="canada">
+    <Ethnicity name="med" chance="2" />
+    <Ethnicity name="nor" chance="2" />
+    <Ethnicity name="afri" chance="1" />
+    <FirstName>Jane</FirstName>
+    <FirstName>Victoria</FirstName>
+    <FirstName>Kate</FirstName>
+    <FirstName>Emma</FirstName>
+    <FirstName>Sophie</FirstName>
+    <FirstName>Anna</FirstName>
+    <FirstName>Allison</FirstName>
+    <FirstName>Sarah</FirstName>
+    <FirstName>Claire</FirstName>
+    <FirstName>Lucy</FirstName>
+    <FirstName>Lauren</FirstName>
+    <FirstName>Laura</FirstName>
+    <FirstName>Violet</FirstName>
+    <FirstName>Carol</FirstName>
+    <FirstName>Jennifer</FirstName>
+    <FirstName>Chloe</FirstName>
+    <FirstName>Natalie</FirstName>
+
+
+    <LastName>Gagne</LastName>
+    <LastName>Walker</LastName>
+    <LastName>Jackson</LastName>
+    <LastName>Lee</LastName>
+    <LastName>Smith</LastName>
+    <LastName>Martin</LastName>
+    <LastName>Brown</LastName>
+    <LastName>Williams</LastName>
+    <LastName>Taylor</LastName>
+    <LastName>Campbell</LastName>
+    <LastName>Anderson</LastName>
+    <LastName>Jones</LastName>
+    <LastName>McGraw</LastName>
+    <LastName>Wilson</LastName>
+    <LastName>Clark</LastName>
+    <LastName>White</LastName>
+    <LastName>Tremblay</LastName>
+    <Regiment name="regiment.canada1">
+      <Experience>experience.canada1</Experience>
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.canada2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+  
+   <Nation name="Canadian" chance="1" flag="canada">
+    <Ethnicity name="nor" chance="3" />
+	
+	<FirstName>Lea</FirstName>
+	<FirstName>Emma</FirstName>
+	<FirstName>Rosalie</FirstName>
+	<FirstName>Juliette</FirstName>
+	<FirstName>Gabrielle</FirstName>
+	<FirstName>Noemie</FirstName>
+	<FirstName>Zoe</FirstName>
+	<FirstName>Chloe</FirstName>
+	<FirstName>Coralie</FirstName>
+	<FirstName>Alice</FirstName>
+	<FirstName>Alexia</FirstName>
+	<FirstName>Alicia</FirstName>
+	<FirstName>Maelie</FirstName>
+	<FirstName>Oceane</FirstName>
+	<FirstName>Emilie</FirstName>
+	<FirstName>Megane</FirstName>
+	<FirstName>Anais</FirstName>
+	<FirstName>Elodie</FirstName>
+	<FirstName>Ariane</FirstName>
+	<FirstName>Aurelie</FirstName>
+	
+	<LastName>Tremblay</LastName>
+	<LastName>Gagnon</LastName>
+	<LastName>Roy</LastName>
+	<LastName>Cote</LastName>
+	<LastName>Bouchard</LastName>
+	<LastName>Gauthier</LastName>
+	<LastName>Morin</LastName>
+	<LastName>Lavoie</LastName>
+	<LastName>Fortin</LastName>
+	<LastName>Gagne</LastName>
+	<LastName>Pelletier</LastName>
+	<LastName>Belanger</LastName>
+	<LastName>Bergeron</LastName>
+	<LastName>Levesque</LastName>
+	<LastName>Simard</LastName>
+	<LastName>Girard</LastName>
+	<LastName>Leblanc</LastName>
+	<LastName>Boucher</LastName>
+	<LastName>Ouellet</LastName>
+	<LastName>Caron</LastName>
+	<LastName>Beaulieu</LastName>
+	<LastName>Poirier</LastName>
+	<LastName>Dube</LastName>
+	<LastName>Cloutier</LastName>
+	<LastName>Fournier</LastName>
+	<LastName>Lapointe</LastName>
+	<LastName>Lefebvre</LastName>
+	<LastName>Poulin</LastName>
+	<LastName>Nadeau</LastName>
+	<LastName>Martin</LastName>
+	<LastName>St Pierre</LastName>
+	<LastName>Martel</LastName>
+	<LastName>Grenier</LastName>
+	<LastName>Landry</LastName>
+	<LastName>Lessard</LastName>
+	<LastName>Leclerc</LastName>
+	<LastName>Bedard</LastName>
+	<LastName>Bernier</LastName>
+	<LastName>Couture</LastName>
+	<LastName>Richard</LastName>
+	<LastName>Michaud</LastName>
+	<LastName>Desjardins</LastName>
+	<LastName>Hebert</LastName>
+	<LastName>Blais</LastName>
+	<LastName>Turcotte</LastName>
+	<LastName>Savard</LastName>
+	<LastName>Lachance</LastName>
+	<LastName>Parent</LastName>
+	<LastName>Demers</LastName>
+	<LastName>Gosselin</LastName>
+	
+	<Regiment name="regiment.canada1">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.canada3">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+  
+  
+  <Nation name="American" chance="9" flag="usa">
+    <Ethnicity name="nor" chance="1" />
+    <Ethnicity name="med" chance="1" />
+    <Ethnicity name="afri" chance="1" />    
+    <FirstName>Victoria</FirstName>
+    <FirstName>Kate</FirstName>
+    <FirstName>Emma</FirstName>
+    <FirstName>Sophie</FirstName>
+    <FirstName>Anna</FirstName>
+    <FirstName>Allison</FirstName>
+    <FirstName>Sarah</FirstName>
+    <FirstName>Claire</FirstName>
+    <FirstName>Lucy</FirstName>
+    <FirstName>Lauren</FirstName>
+    <FirstName>Laura</FirstName>
+    <FirstName>Violet</FirstName>
+    <FirstName>Carol</FirstName>
+    <FirstName>Jennifer</FirstName>
+    <FirstName>Chloe</FirstName>
+    <FirstName>Natalie</FirstName>
+
+
+<LastName>Abbott</LastName>
+		<LastName>Smith</LastName>
+		<LastName>Johnson</LastName>
+		<LastName>Williams</LastName>
+		<LastName>Jones</LastName>
+		<LastName>Brown</LastName>
+		<LastName>Davis</LastName>
+		<LastName>Miller</LastName>
+		<LastName>Wilson</LastName>
+		<LastName>Moore</LastName>
+		<LastName>Taylor</LastName>
+		<LastName>Anderson</LastName>
+		<LastName>Thomas</LastName>
+		<LastName>Jackson</LastName>
+		<LastName>White</LastName>
+		<LastName>Harris</LastName>
+		<LastName>Martin</LastName>
+		<LastName>Thompson</LastName>
+		<LastName>Garcia</LastName>
+		<LastName>Martinez</LastName>
+		<LastName>Robinson</LastName>
+		<LastName>Clark</LastName>
+		<LastName>Rodriguez</LastName>
+		<LastName>Lewis</LastName>
+		<LastName>Lee</LastName>
+		<LastName>Walker</LastName>
+		<LastName>Hall</LastName>
+		<LastName>Allen</LastName>
+		<LastName>Young</LastName>
+		<LastName>Hernandez</LastName>
+		<LastName>King</LastName>
+		<LastName>Wright</LastName>
+		<LastName>Lopez</LastName>
+		<LastName>Hill</LastName>
+		<LastName>Scott</LastName>
+		<LastName>Green</LastName>
+		<LastName>Adams</LastName>
+		<LastName>Baker</LastName>
+		<LastName>Gonzalez</LastName>
+		<LastName>Nelson</LastName>
+		<LastName>Carter</LastName>
+		<LastName>Mitchell</LastName>
+		<LastName>Perez</LastName>
+		<LastName>Roberts</LastName>
+		<LastName>Turner</LastName>
+		<LastName>Phillips</LastName>
+		<LastName>Campbell</LastName>
+		<LastName>Parker</LastName>
+		<LastName>Evans</LastName>
+		<LastName>Edwards</LastName>
+		<LastName>Collins</LastName>
+		<LastName>Stewart</LastName>
+		<LastName>Sanchez</LastName>
+		<LastName>Morris</LastName>
+		<LastName>Rogers</LastName>
+		<LastName>Reed</LastName>
+		<LastName>Cook</LastName>
+		<LastName>Morgan</LastName>
+		<LastName>Bell</LastName>
+		<LastName>Murphy</LastName>
+		<LastName>Bailey</LastName>
+		<LastName>Rivera</LastName>
+		<LastName>Cooper</LastName>
+		<LastName>Richardson</LastName>
+		<LastName>Cox</LastName>
+		<LastName>Howard</LastName>
+		<LastName>Ward</LastName>
+		<LastName>Torres</LastName>
+		<LastName>Peterson</LastName>
+		<LastName>Gray</LastName>
+		<LastName>Ramirez</LastName>
+		<LastName>James</LastName>
+		<LastName>Watson</LastName>
+		<LastName>Brooks</LastName>
+		<LastName>Kelly</LastName>
+		<LastName>Sanders</LastName>
+		<LastName>Price</LastName>
+		<LastName>Bennett</LastName>
+		<LastName>Wood</LastName>
+		<LastName>Barnes</LastName>
+		<LastName>Ross</LastName>
+		<LastName>Henderson</LastName>
+		<LastName>Coleman</LastName>
+		<LastName>Jenkins</LastName>
+		<LastName>Perry</LastName>
+		<LastName>Powell</LastName>
+		<LastName>Long</LastName>
+		<LastName>Patterson</LastName>
+		<LastName>Hughes</LastName>
+		<LastName>Flores</LastName>
+		<LastName>Washington</LastName>
+		<LastName>Butler</LastName>
+		<LastName>Simmons</LastName>
+		<LastName>Foster</LastName>
+		<LastName>Gonzales</LastName>
+		<LastName>Bryant</LastName>
+		<LastName>Alexander</LastName>
+		<LastName>Russell</LastName>
+		<LastName>Griffin</LastName>
+		<LastName>Diaz</LastName>
+		<LastName>Hayes</LastName>
+		
+    <Regiment name="regiment.america1">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.america2">
+        <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.america3">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+  
+  
+  <Nation name="British" chance="4" flag="uk">
+    <Ethnicity name="med"  chance="2" />
+    <Ethnicity name="afri" chance="1" />
+    <Ethnicity name="nor"  chance="2" />
+    <FirstName>Victoria</FirstName>
+    <FirstName>Kate</FirstName>
+    <FirstName>Emma</FirstName>
+    <FirstName>Sophie</FirstName>
+    <FirstName>Anna</FirstName>
+    <FirstName>Allison</FirstName>
+    <FirstName>Sarah</FirstName>
+    <FirstName>Claire</FirstName>
+    <FirstName>Lucy</FirstName>
+    <FirstName>Lauren</FirstName>
+    <FirstName>Laura</FirstName>
+    <FirstName>Violet</FirstName>
+    <FirstName>Carol</FirstName>
+    <FirstName>Jennifer</FirstName>
+    <FirstName>Chloe</FirstName>
+    <FirstName>Natalie</FirstName>
+
+		<LastName>Smith</LastName>
+		<LastName>Jones</LastName>
+		<LastName>Williams</LastName>
+		<LastName>Taylor</LastName>
+		<LastName>Brown</LastName>
+		<LastName>Davies</LastName>
+		<LastName>Evans</LastName>
+		<LastName>Wilson</LastName>
+		<LastName>Thomas</LastName>
+		<LastName>Johnson</LastName>
+		<LastName>Roberts</LastName>
+		<LastName>Robinson</LastName>
+		<LastName>Thompson</LastName>
+		<LastName>Wright</LastName>
+		<LastName>Walker</LastName>
+		<LastName>White</LastName>
+		<LastName>Edwards</LastName>
+		<LastName>Hughes</LastName>
+		<LastName>Green</LastName>
+		<LastName>Hall</LastName>
+		<LastName>Lewis</LastName>
+		<LastName>Harris</LastName>
+		<LastName>Clarke</LastName>
+		<LastName>Jackson</LastName>
+		<LastName>Wood</LastName>
+		<LastName>Turner</LastName>
+		<LastName>Martin</LastName>
+		<LastName>Cooper</LastName>
+		<LastName>Hill</LastName>
+		<LastName>Ward</LastName>
+		<LastName>Morris</LastName>
+		<LastName>Moore</LastName>
+		<LastName>Clark</LastName>
+		<LastName>Lee</LastName>
+		<LastName>King</LastName>
+		<LastName>Baker</LastName>
+		<LastName>Harrison</LastName>
+		<LastName>Morgan</LastName>
+		<LastName>Allen</LastName>
+		<LastName>James</LastName>
+		<LastName>Scott</LastName>
+		<LastName>Phillips</LastName>
+		<LastName>Watson</LastName>
+		<LastName>Davis</LastName>
+		<LastName>Parker</LastName>
+		<LastName>Price</LastName>
+		<LastName>Bennett</LastName>
+		<LastName>Young</LastName>
+		<LastName>Griffiths</LastName>
+		<LastName>Mitchell</LastName>
+		<LastName>Kelly</LastName>
+		<LastName>Cook</LastName>
+		<LastName>Carter</LastName>
+		<LastName>Richardson</LastName>
+		<LastName>Bailey</LastName>
+		<LastName>Collins</LastName>
+		<LastName>Bell</LastName>
+		<LastName>Shaw</LastName>
+		<LastName>Murphy</LastName>
+		<LastName>Miller</LastName>
+		<LastName>Cox</LastName>
+		<LastName>Richards</LastName>
+		<LastName>Marshall</LastName>
+		<LastName>Anderson</LastName>
+		<LastName>Simpson</LastName>
+		<LastName>Ellis</LastName>
+		<LastName>Adams</LastName>
+		<LastName>Wilkinson</LastName>
+		<LastName>Foster</LastName>
+		<LastName>Chapman</LastName>
+		<LastName>Powell</LastName>
+		<LastName>Webb</LastName>
+		<LastName>Rogers</LastName>
+		<LastName>Gray</LastName>
+		<LastName>Mason</LastName>
+		<LastName>Hunt</LastName>
+		<LastName>Campbell</LastName>
+		<LastName>Matthews</LastName>
+		<LastName>Owen</LastName>
+		<LastName>Palmer</LastName>
+		<LastName>Holmes</LastName>
+		<LastName>Mills</LastName>
+		<LastName>Barnes</LastName>
+		<LastName>Knight</LastName>
+		<LastName>Lloyd</LastName>
+		<LastName>Butler</LastName>
+		<LastName>Russell</LastName>
+		<LastName>Barker</LastName>
+		<LastName>Fisher</LastName>
+		<LastName>Stevens</LastName>
+		<LastName>Jenkins</LastName>
+		<LastName>Murray</LastName>
+		<LastName>Dixon</LastName>
+		<LastName>Harvey</LastName>
+    <Regiment name="regiment.britain1">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.britain2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.britain3">
+      <Experience>experience.none</Experience>
+    </Regiment>
+</Nation>
+
+
+	    <Nation name="East German" chance="2" flag="eastgermany">
+        <Ethnicity name="nor" chance="3" />
+        <Ethnicity name="med" chance="1" />
+		
+		<FirstName>Hilda</FirstName>
+		<FirstName>Agatha</FirstName>
+		<FirstName>Anja</FirstName>
+		<FirstName>Astrid</FirstName>
+		<FirstName>Claudia</FirstName>
+		<FirstName>Dora</FirstName>
+		<FirstName>Frieda</FirstName>
+		<FirstName>Erika</FirstName>
+		<FirstName>Gisela</FirstName>
+		<FirstName>Heike</FirstName>
+		<FirstName>Helma</FirstName>
+		<FirstName>Ingrid</FirstName>
+		<FirstName>Jana</FirstName>
+		<FirstName>Kerstin</FirstName>
+		<FirstName>Lara</FirstName>
+		<FirstName>Marina</FirstName>
+		<FirstName>Monika</FirstName>
+		<FirstName>Nina</FirstName>
+		<FirstName>Petra</FirstName>
+		<FirstName>Sabine</FirstName>
+
+        <LastName>Schmidt</LastName>
+        <LastName>Schneider</LastName>
+        <LastName>Fischer</LastName>
+        <LastName>Weber</LastName>
+        <LastName>Meyer</LastName>
+        <LastName>Wagner</LastName>
+        <LastName>Becker</LastName>
+        <LastName>Bauer</LastName>
+        <LastName>Hoffman</LastName>
+        <LastName>Schulz</LastName>
+        <LastName>Koch</LastName>
+        <LastName>Richter</LastName>
+		<LastName>Klein</LastName>
+        <LastName>Wolf</LastName>
+        <LastName>Neumann</LastName>
+        <LastName>Braun</LastName>
+        <LastName>Werner</LastName>
+        <LastName>Schwarz</LastName>
+        <LastName>Hofmann</LastName>
+        <LastName>Schmitt</LastName>
+        <LastName>Hartmann</LastName>
+        <LastName>Schmitz</LastName>
+        <LastName>Lange</LastName>
+        <LastName>Meier</LastName>        
+		<LastName>Walter</LastName>
+        <LastName>Meier</LastName>
+        <LastName>Walter</LastName>
+        <LastName>Beck</LastName>
+        <LastName>Krause</LastName>
+        <LastName>Huber</LastName>
+        <LastName>Mayer</LastName>
+        <LastName>Lehmann</LastName>
+        <LastName>Kaiser</LastName>
+        <LastName>Lang</LastName>
+        <LastName>Berger</LastName>
+        <LastName>Stein</LastName>        
+		<LastName>Jung</LastName>
+        <LastName>Friedrich</LastName>
+        <LastName>Keller</LastName>
+        <LastName>Hahn</LastName>
+        <LastName>Roth</LastName>
+        <LastName>Vogel</LastName>
+        <LastName>Schubert</LastName>
+        <LastName>Winkler</LastName>
+        <LastName>Lorenz</LastName>
+        <LastName>Graf</LastName>
+        <LastName>Baumann</LastName>
+        <LastName>Busch</LastName>
+		
+    <Regiment name="regiment.Egermany1">
+      <Experience>experience.none</Experience>
+	</Regiment>
+    <Regiment name="regiment.Egermany2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+	<Regiment name="regiment.Egermany3">
+      <Experience>experience.none</Experience>
+    </Regiment>
+	<Regiment name="regiment.Egermany4">
+      <Experience>experience.none</Experience>
+    </Regiment>
+</Nation>	
+ 
+    <Nation name="West German" chance="2" flag="westgermany">
+        <Ethnicity name="nor" chance="3" />
+        <Ethnicity name="med" chance="1" />
+		<FirstName>Hilda</FirstName>
+		<FirstName>Agatha</FirstName>
+		<FirstName>Anja</FirstName>
+		<FirstName>Astrid</FirstName>
+		<FirstName>Claudia</FirstName>
+		<FirstName>Dora</FirstName>
+		<FirstName>Frieda</FirstName>
+		<FirstName>Erika</FirstName>
+		<FirstName>Gisela</FirstName>
+		<FirstName>Heike</FirstName>
+		<FirstName>Helma</FirstName>
+		<FirstName>Ingrid</FirstName>
+		<FirstName>Jana</FirstName>
+		<FirstName>Kerstin</FirstName>
+		<FirstName>Lara</FirstName>
+		<FirstName>Marina</FirstName>
+		<FirstName>Monika</FirstName>
+		<FirstName>Nina</FirstName>
+		<FirstName>Petra</FirstName>
+		<FirstName>Sabine</FirstName>
+		
+        <LastName>Schmidt</LastName>
+        <LastName>Schneider</LastName>
+        <LastName>Fischer</LastName>
+        <LastName>Weber</LastName>
+        <LastName>Meyer</LastName>
+        <LastName>Wagner</LastName>
+        <LastName>Becker</LastName>
+        <LastName>Bauer</LastName>
+        <LastName>Hoffman</LastName>
+        <LastName>Schulz</LastName>
+        <LastName>Koch</LastName>
+        <LastName>Richter</LastName>
+		<LastName>Klein</LastName>
+        <LastName>Wolf</LastName>
+        <LastName>Neumann</LastName>
+        <LastName>Braun</LastName>
+        <LastName>Werner</LastName>
+        <LastName>Schwarz</LastName>
+        <LastName>Hofmann</LastName>
+        <LastName>Schmitt</LastName>
+        <LastName>Hartmann</LastName>
+        <LastName>Schmitz</LastName>
+        <LastName>Lange</LastName>
+        <LastName>Meier</LastName>        
+		<LastName>Walter</LastName>
+        <LastName>Meier</LastName>
+        <LastName>Walter</LastName>
+        <LastName>Beck</LastName>
+        <LastName>Krause</LastName>
+        <LastName>Huber</LastName>
+        <LastName>Mayer</LastName>
+        <LastName>Lehmann</LastName>
+        <LastName>Kaiser</LastName>
+        <LastName>Lang</LastName>
+        <LastName>Berger</LastName>
+        <LastName>Stein</LastName>        
+		<LastName>Jung</LastName>
+        <LastName>Friedrich</LastName>
+        <LastName>Keller</LastName>
+        <LastName>Hahn</LastName>
+        <LastName>Roth</LastName>
+        <LastName>Vogel</LastName>
+        <LastName>Schubert</LastName>
+        <LastName>Winkler</LastName>
+        <LastName>Lorenz</LastName>
+        <LastName>Graf</LastName>
+        <LastName>Baumann</LastName>
+        <LastName>Busch</LastName>
+		
+    <Regiment name="regiment.Wgermany1">
+	  <Experience>experience.none</Experience>
+    </Regiment>
+        <Regiment name="regiment.Wgermany2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.Wgermany3">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+
+  
+    <Nation name="Soviet Union" chance="12" flag="ussr">
+        <Ethnicity name="nor" chance="2" />
+		
+    <FirstName>Katerina</FirstName>
+    <FirstName>Kseniya</FirstName>
+    <FirstName>Anna</FirstName>
+    <FirstName>Vera</FirstName>
+    <FirstName>Dina</FirstName>
+    <FirstName>Elena</FirstName>
+	<FirstName>Zhanna</FirstName>
+    <FirstName>Inga</FirstName>
+    <FirstName>Klara</FirstName>
+    <FirstName>Lucya</FirstName>	
+	<FirstName>Marta</FirstName>
+    <FirstName>Nika</FirstName>
+    <FirstName>Olga</FirstName>
+    <FirstName>Renata</FirstName>
+	<FirstName>Sofia</FirstName>
+    <FirstName>Emma</FirstName>
+    <FirstName>Yana</FirstName>
+	
+    <LastName>Romanova</LastName>
+    <LastName>Petrova</LastName>
+    <LastName>Smirnova</LastName>
+    <LastName>Ivanova</LastName>
+    <LastName>Popova</LastName>
+    <LastName>Sokolova</LastName>
+    <LastName>Lebedeva</LastName>
+    <LastName>Kozlova</LastName>
+    <LastName>Vasilyeva</LastName>
+    <LastName>Bogdanova</LastName>
+    <LastName>Pavlova</LastName>
+    <LastName>Zaytseva</LastName>
+    <LastName>Novikova</LastName>
+	<LastName>Andropova</LastName>
+    <LastName>Chekova</LastName>
+    <LastName>Marilova</LastName>
+    <LastName>Smirnova</LastName>
+    <LastName>Ivanova</LastName>
+    <LastName>Kuznetsova</LastName>
+    <LastName>Popova</LastName>
+    <LastName>Sokolova</LastName>
+    <Regiment name="regiment.russian1">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.russian2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.russian3">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+   
+  
+  <Nation name="Czechoslovakian" chance="1" flag="czechoslovakia">
+    <Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="1" />
+		<FirstName>Alena</FirstName>
+		<FirstName>Anna</FirstName>
+		<FirstName>Dana</FirstName>
+		<FirstName>Dorota</FirstName>
+		<FirstName>Jana</FirstName>
+		<FirstName>Kamila</FirstName>
+		<FirstName>Nikol</FirstName>
+		<FirstName>Nora</FirstName>
+		<FirstName>Radka</FirstName>
+		<FirstName>Simona</FirstName>
+		<FirstName>Olga</FirstName>
+
+
+        <LastName>Novakova</LastName>
+        <LastName>Novotna</LastName>
+        <LastName>Svobodova</LastName>
+        <LastName>Dvorakova</LastName>
+        <LastName>Cerna</LastName>
+        <LastName>Vesela</LastName>
+        <LastName>Pokorna</LastName>
+        <LastName>Kucerova</LastName>
+        <LastName>Jelinkova</LastName>
+        <LastName>Hajkova</LastName>
+        <LastName>Ruzickova</LastName>
+        <LastName>Zemanova</LastName>
+        <LastName>Fialova</LastName>
+        <LastName>Kralova</LastName>
+        <LastName>Benesova</LastName>
+        <LastName>Markova</LastName>
+        <LastName>Cermakova</LastName>
+        <LastName>Horakova</LastName>
+        <LastName>Nemcova</LastName>
+        <LastName>Mala</LastName>
+        <LastName>Blazkova</LastName>
+        <LastName>Kolarova</LastName>
+        <LastName>Polakova</LastName>
+        <LastName>Vavrova</LastName>
+        <LastName>Kovacova</LastName>
+        <LastName>Balazova</LastName>
+        <LastName>Lukacova</LastName>
+        <LastName>Rusnakova</LastName>
+		
+    <Regiment name="regiment.czech1">
+      <Experience>experience.russian1</Experience>
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+  
+  
+  <Nation name="Japanese" chance="4" flag="japan">
+    <Ethnicity name="asi" chance="1" />
+		<FirstName>Kei</FirstName>
+		<FirstName>Aiko</FirstName>
+		<FirstName>Ayako</FirstName>
+		<FirstName>Chinyo</FirstName>
+		<FirstName>Etsuko</FirstName>
+		<FirstName>Haruko</FirstName>
+		<FirstName>Itsuko</FirstName>
+		<FirstName>Kotori</FirstName>
+		<FirstName>Mai</FirstName>
+		<FirstName>Matsako</FirstName>
+		<FirstName>Miyu</FirstName>
+		<FirstName>Nao</FirstName>
+		<FirstName>Nagako</FirstName>
+		<FirstName>Ruri</FirstName>
+		<FirstName>Saya</FirstName>
+
+
+        <LastName>Hongo</LastName>
+        <LastName>Tachibana</LastName>
+        <LastName>Yasuda</LastName>
+        <LastName>Sato</LastName>
+        <LastName>Suzuki</LastName>
+        <LastName>Tanaka</LastName>
+        <LastName>Ito</LastName>
+        <LastName>Maeda</LastName>
+        <LastName>Kimura</LastName>
+        <LastName>Mori</LastName>
+        <LastName>Ikeda</LastName>
+        <LastName>Fujita</LastName>
+		<LastName>Okada</LastName>
+        <LastName>Kondo</LastName>
+        <LastName>Endo</LastName>
+        <LastName>Matsuda</LastName>
+        <LastName>Nakano</LastName>
+        <LastName>Sakai</LastName>
+        <LastName>Hara</LastName>
+        <LastName>Ando</LastName>
+        <LastName>Takada</LastName>
+        <LastName>Uchida</LastName>
+        <LastName>Matsui</LastName>
+        <LastName>Kubo</LastName>
+		
+    <Regiment name="regiment.japan1">
+      <Experience>experience.none</Experience>
+          </Regiment>
+    <Regiment name="regiment.japan2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+
+  <Nation name="Italian" chance="2" flag="italy">
+     <Ethnicity name="med" chance="1" />
+     <Ethnicity name="nor" chance="1" />
+	 
+		 <FirstName>Alda</FirstName>
+		 <FirstName>Bruna</FirstName>
+		 <FirstName>Camilla</FirstName>
+		 <FirstName>Irene</FirstName>
+		 <FirstName>Valeria</FirstName>
+		 <FirstName>Federica</FirstName>
+		 <FirstName>Lucia</FirstName>
+		 <FirstName>Carlotta</FirstName>
+		 <FirstName>Rosa</FirstName>
+		 <FirstName>Ottavia</FirstName>
+		 <FirstName>Stella</FirstName>
+		 <FirstName>Veronica</FirstName>
+		 <FirstName>Marta</FirstName>
+		 <FirstName>Giulia</FirstName>
+		 <FirstName>Concetta</FirstName>
+		 <FirstName>Alessia</FirstName>
+	 
+        <LastName>Rossi</LastName>
+        <LastName>Bianchi</LastName>
+        <LastName>Esposito</LastName>
+        <LastName>Romano</LastName>
+        <LastName>Ricci</LastName>
+        <LastName>Pancaldi</LastName>
+        <LastName>Veronese</LastName>
+        <LastName>Suzzi</LastName>
+        <LastName>Bulgarelli</LastName>
+        <LastName>Sabatini</LastName>
+        <LastName>Vanti</LastName>
+        <LastName>Gubellini</LastName>
+        <LastName>Virgili</LastName>
+        <LastName>Degli Esposti</LastName>
+		
+        <Regiment name="regiment.italian1">
+            <Experience>experience.none</Experience>
+        </Regiment>
+        <Regiment name="regiment.italian2">
+            <Experience>experience.none</Experience>
+        </Regiment>
+        <Regiment name="regiment.italian3">
+            <Experience>experience.none</Experience>
+        </Regiment>
+    </Nation>
+	
+	 <Nation name="Australian" chance="3" flag="australia">
+    <Ethnicity name="nor" chance="3" />
+    <Ethnicity name="med" chance="1" />
+	
+		<FirstName>Jane</FirstName>
+		<FirstName>Victoria</FirstName>
+		<FirstName>Kate</FirstName>
+		<FirstName>Emma</FirstName>
+		<FirstName>Sophie</FirstName>
+		<FirstName>Anna</FirstName>
+		<FirstName>Allison</FirstName>
+		<FirstName>Sarah</FirstName>
+		<FirstName>Claire</FirstName>
+		<FirstName>Lucy</FirstName>
+		<FirstName>Lauren</FirstName>
+		<FirstName>Laura</FirstName>
+		<FirstName>Violet</FirstName>
+		<FirstName>Carol</FirstName>
+		<FirstName>Jennifer</FirstName>
+		<FirstName>Chloe</FirstName>
+		<FirstName>Natalie</FirstName>
+
+		<LastName>Smith</LastName>
+		<LastName>Jones</LastName>
+		<LastName>Williams</LastName>
+		<LastName>Taylor</LastName>
+		<LastName>Brown</LastName>
+		<LastName>Davies</LastName>
+		<LastName>Evans</LastName>
+		<LastName>Wilson</LastName>
+		<LastName>Thomas</LastName>
+		<LastName>Johnson</LastName>
+		<LastName>Roberts</LastName>
+		<LastName>Robinson</LastName>
+		<LastName>Thompson</LastName>
+		<LastName>Wright</LastName>
+		<LastName>Walker</LastName>
+		<LastName>White</LastName>
+		<LastName>Edwards</LastName>
+		<LastName>Hughes</LastName>
+		<LastName>Green</LastName>
+		<LastName>Hall</LastName>
+		<LastName>Lewis</LastName>
+		<LastName>Harris</LastName>
+		<LastName>Clarke</LastName>
+		<LastName>Jackson</LastName>
+		<LastName>Wood</LastName>
+		<LastName>Turner</LastName>
+		<LastName>Martin</LastName>
+		<LastName>Cooper</LastName>
+		<LastName>Hill</LastName>
+		<LastName>Ward</LastName>
+		<LastName>Morris</LastName>
+		<LastName>Moore</LastName>
+		<LastName>Clark</LastName>
+		<LastName>Lee</LastName>
+		<LastName>King</LastName>
+		<LastName>Baker</LastName>
+		<LastName>Harrison</LastName>
+		<LastName>Morgan</LastName>
+		<LastName>Allen</LastName>
+		<LastName>James</LastName>
+		<LastName>Scott</LastName>
+		<LastName>Phillips</LastName>
+		<LastName>Watson</LastName>
+		<LastName>Davis</LastName>
+		<LastName>Parker</LastName>
+		<LastName>Price</LastName>
+		<LastName>Bennett</LastName>
+		<LastName>Young</LastName>
+		<LastName>Griffiths</LastName>
+		<LastName>Mitchell</LastName>
+		<LastName>Kelly</LastName>
+		<LastName>Cook</LastName>
+		<LastName>Carter</LastName>
+		<LastName>Richardson</LastName>
+		<LastName>Bailey</LastName>
+		<LastName>Collins</LastName>
+		<LastName>Bell</LastName>
+		<LastName>Shaw</LastName>
+		<LastName>Murphy</LastName>
+		<LastName>Miller</LastName>
+		<LastName>Cox</LastName>
+		<LastName>Richards</LastName>
+		<LastName>Marshall</LastName>
+		<LastName>Anderson</LastName>
+		<LastName>Simpson</LastName>
+		<LastName>Ellis</LastName>
+		<LastName>Adams</LastName>
+		<LastName>Wilkinson</LastName>
+		<LastName>Foster</LastName>
+		<LastName>Chapman</LastName>
+		<LastName>Powell</LastName>
+		<LastName>Webb</LastName>
+		<LastName>Rogers</LastName>
+		<LastName>Gray</LastName>
+		<LastName>Mason</LastName>
+		<LastName>Hunt</LastName>
+		<LastName>Campbell</LastName>
+		<LastName>Matthews</LastName>
+		<LastName>Owen</LastName>
+		<LastName>Palmer</LastName>
+		<LastName>Holmes</LastName>
+		<LastName>Mills</LastName>
+		<LastName>Barnes</LastName>
+		<LastName>Knight</LastName>
+		<LastName>Lloyd</LastName>
+		<LastName>Butler</LastName>
+		<LastName>Russell</LastName>
+		<LastName>Barker</LastName>
+		<LastName>Fisher</LastName>
+		<LastName>Stevens</LastName>
+		<LastName>Jenkins</LastName>
+		<LastName>Murray</LastName>
+		<LastName>Dixon</LastName>
+		<LastName>Harvey</LastName>
+		
+	    <Regiment name="regiment.aus1">
+      <Experience>experience.none</Experience>
+    </Regiment>
+    <Regiment name="regiment.aus2">
+      <Experience>experience.none</Experience>
+    </Regiment>
+  </Nation>
+
+     <Nation name="New Zealander" chance="2" flag="newzealand">
+    <Ethnicity name="med"  chance="1" />
+    <Ethnicity name="nor"  chance="3" />
+	
+		<FirstName>Jane</FirstName>
+		<FirstName>Victoria</FirstName>
+		<FirstName>Kate</FirstName>
+		<FirstName>Emma</FirstName>
+		<FirstName>Sophie</FirstName>
+		<FirstName>Anna</FirstName>
+		<FirstName>Allison</FirstName>
+		<FirstName>Sarah</FirstName>
+		<FirstName>Claire</FirstName>
+		<FirstName>Lucy</FirstName>
+		<FirstName>Lauren</FirstName>
+		<FirstName>Laura</FirstName>
+		<FirstName>Violet</FirstName>
+		<FirstName>Carol</FirstName>
+		<FirstName>Jennifer</FirstName>
+		<FirstName>Chloe</FirstName>
+		<FirstName>Natalie</FirstName>
+
+		<LastName>Smith</LastName>
+		<LastName>Jones</LastName>
+		<LastName>Williams</LastName>
+		<LastName>Taylor</LastName>
+		<LastName>Brown</LastName>
+		<LastName>Davies</LastName>
+		<LastName>Evans</LastName>
+		<LastName>Wilson</LastName>
+		<LastName>Thomas</LastName>
+		<LastName>Johnson</LastName>
+		<LastName>Roberts</LastName>
+		<LastName>Robinson</LastName>
+		<LastName>Thompson</LastName>
+		<LastName>Wright</LastName>
+		<LastName>Walker</LastName>
+		<LastName>White</LastName>
+		<LastName>Edwards</LastName>
+		<LastName>Hughes</LastName>
+		<LastName>Green</LastName>
+		<LastName>Hall</LastName>
+		<LastName>Lewis</LastName>
+		<LastName>Harris</LastName>
+		<LastName>Clarke</LastName>
+		<LastName>Jackson</LastName>
+		<LastName>Wood</LastName>
+		<LastName>Turner</LastName>
+		<LastName>Martin</LastName>
+		<LastName>Cooper</LastName>
+		<LastName>Hill</LastName>
+		<LastName>Ward</LastName>
+		<LastName>Morris</LastName>
+		<LastName>Moore</LastName>
+		<LastName>Clark</LastName>
+		<LastName>Lee</LastName>
+		<LastName>King</LastName>
+		<LastName>Baker</LastName>
+		<LastName>Harrison</LastName>
+		<LastName>Morgan</LastName>
+		<LastName>Allen</LastName>
+		<LastName>James</LastName>
+		<LastName>Scott</LastName>
+		<LastName>Phillips</LastName>
+		<LastName>Watson</LastName>
+		<LastName>Davis</LastName>
+		<LastName>Parker</LastName>
+		<LastName>Price</LastName>
+		<LastName>Bennett</LastName>
+		<LastName>Young</LastName>
+		<LastName>Griffiths</LastName>
+		<LastName>Mitchell</LastName>
+		<LastName>Kelly</LastName>
+		<LastName>Cook</LastName>
+		<LastName>Carter</LastName>
+		<LastName>Richardson</LastName>
+		<LastName>Bailey</LastName>
+		<LastName>Collins</LastName>
+		<LastName>Bell</LastName>
+		<LastName>Shaw</LastName>
+		<LastName>Murphy</LastName>
+		<LastName>Miller</LastName>
+		<LastName>Cox</LastName>
+		<LastName>Richards</LastName>
+		<LastName>Marshall</LastName>
+		<LastName>Anderson</LastName>
+		<LastName>Simpson</LastName>
+		<LastName>Ellis</LastName>
+		<LastName>Adams</LastName>
+		<LastName>Wilkinson</LastName>
+		<LastName>Foster</LastName>
+		<LastName>Chapman</LastName>
+		<LastName>Powell</LastName>
+		<LastName>Webb</LastName>
+		<LastName>Rogers</LastName>
+		<LastName>Gray</LastName>
+		<LastName>Mason</LastName>
+		<LastName>Hunt</LastName>
+		<LastName>Campbell</LastName>
+		<LastName>Matthews</LastName>
+		<LastName>Owen</LastName>
+		<LastName>Palmer</LastName>
+		<LastName>Holmes</LastName>
+		<LastName>Mills</LastName>
+		<LastName>Barnes</LastName>
+		<LastName>Knight</LastName>
+		<LastName>Lloyd</LastName>
+		<LastName>Butler</LastName>
+		<LastName>Russell</LastName>
+		<LastName>Barker</LastName>
+		<LastName>Fisher</LastName>
+		<LastName>Stevens</LastName>
+		<LastName>Jenkins</LastName>
+		<LastName>Murray</LastName>
+		<LastName>Dixon</LastName>
+		<LastName>Harvey</LastName>
+		
+		<Regiment name="regiment.nz1">
+      <Experience>experience.nz1</Experience>
+	  <Experience>experience.nz2</Experience>
+      <Experience>experience.nz3</Experience>
+    </Regiment>
+    <Regiment name="regiment.nz2">
+      <Experience>experience.nz1</Experience>
+	  <Experience>experience.nz2</Experience>
+      <Experience>experience.nz3</Experience>
+    </Regiment>
+  </Nation>	
+
+  <Nation name="Greek" chance="2" flag="greece">
+	<Ethnicity name="med" chance="1" />
+
+		<FirstName>Maria</FirstName>
+		<FirstName>Eleni</FirstName>
+		<FirstName>Sofia</FirstName>
+		<FirstName>Georgia</FirstName>
+		<FirstName>Demetra</FirstName>
+		<FirstName>Eirene</FirstName>
+		<FirstName>Anna</FirstName>
+		<FirstName>Ioanna</FirstName>
+
+		<LastName>Vlahos</LastName>
+		<LastName>Angelis</LastName>
+		<LastName>Baros</LastName>
+		<LastName>Dukas</LastName>
+		<LastName>Hallas</LastName>
+		<LastName>Lazos</LastName>
+		<LastName>Loris</LastName>
+		<LastName>Malas</LastName>
+		<LastName>Drakos</LastName>
+		<LastName>Kairis</LastName>
+		<LastName>Gabris</LastName>
+		<LastName>Leos</LastName>
+		<LastName>Athas</LastName>
+		<LastName>Anastos</LastName>
+		<LastName>Petras</LastName>
+		<LastName>Nicoli</LastName>
+		
+	<Regiment name="regiment.greek1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.greek2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.greek3">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>	
+
+
+  <Nation name="Polish" chance="2" flag="poland">
+	<Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="3" />
+	
+		<FirstName>Julia</FirstName>
+		<FirstName>Zuzanna</FirstName>
+		<FirstName>Maja</FirstName>
+		<FirstName>Lena</FirstName>
+		<FirstName>Zofia</FirstName>
+		<FirstName>Natalia</FirstName>
+		<FirstName>Wiktoria</FirstName>
+		<FirstName>Oliwia</FirstName>
+
+		<LastName>Nowak</LastName>
+		<LastName>Kowalski</LastName>
+		<LastName>Wojcik</LastName>
+		<LastName>Kaminski</LastName>
+		<LastName>Zielinski</LastName>
+		<LastName>Wozniak</LastName>
+		<LastName>Dabrowski</LastName>
+		<LastName>Mazur</LastName>
+		<LastName>Krawczyk</LastName>
+		<LastName>Dudek</LastName>
+		<LastName>Pawlak</LastName>
+		<LastName>Gorski</LastName>
+		<LastName>Duda</LastName>
+		<LastName>Bieniak</LastName>
+		<LastName>Kopik</LastName>
+		<LastName>Kania</LastName>
+		<LastName>Sroka</LastName>
+		
+	<Regiment name="regiment.poland1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.poland2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.poland3">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.poland4">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>
+
+ <Nation name="Spanish" chance="2" flag="spain">
+	<Ethnicity name="med" chance="3" />
+    <Ethnicity name="nor" chance="1" />
+
+		<FirstName>Maria</FirstName>
+		<FirstName>Carmen</FirstName>
+		<FirstName>Isabel</FirstName>
+		<FirstName>Antonia</FirstName>
+		<FirstName>Raquel</FirstName>
+		<FirstName>Sara</FirstName>
+		<FirstName>Cristina</FirstName>
+		<FirstName>Lucia</FirstName>
+		<FirstName>Ana</FirstName>
+		<FirstName>Alba</FirstName>
+		<FirstName>Nerea</FirstName>	
+
+		<LastName>Garcia</LastName>
+		<LastName>Fernandez</LastName>
+		<LastName>Gonzalez</LastName>
+		<LastName>Lopez</LastName>
+		<LastName>Martinez</LastName>
+		<LastName>Sanchez</LastName>
+		<LastName>Perez</LastName>
+		<LastName>Diaz</LastName>
+		<LastName>Gomez</LastName>
+		<LastName>Ruiz</LastName>
+		<LastName>Alonso</LastName>
+		<LastName>Romero</LastName>
+		<LastName>Navarro</LastName>
+		<LastName>Torres</LastName>
+		<LastName>Vazquez</LastName>
+		<LastName>Serrano</LastName>
+		<LastName>Ramos</LastName>	
+	
+		<Regiment name="regiment.spain1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.spain2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.spain3">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>
+
+  <Nation name="Norwegian" chance="2" flag="norway">
+	<Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="3" />
+
+		<FirstName>Emma</FirstName>
+		<FirstName>Linnea</FirstName>
+		<FirstName>Sara</FirstName>
+		<FirstName>Nora</FirstName>
+		<FirstName>Ingrid</FirstName>
+		<FirstName>Thea</FirstName>
+		<FirstName>Ida</FirstName>
+		<FirstName>Maja</FirstName>
+		<FirstName>Mia</FirstName>
+		<FirstName>Maria</FirstName>
+		<FirstName>Frida</FirstName>	
+		<FirstName>Elise</FirstName>
+		<FirstName>Oda</FirstName>
+		<FirstName>Olivia</FirstName>
+
+		<LastName>Hansen</LastName>
+		<LastName>Johansen</LastName>
+		<LastName>Olsen</LastName>
+		<LastName>Larsen</LastName>
+		<LastName>Andersen</LastName>
+		<LastName>Nilsen</LastName>
+		<LastName>Pedersen</LastName>
+		<LastName>Jensen</LastName>
+		<LastName>Berg</LastName>
+		<LastName>Haugen</LastName>
+		<LastName>Lund</LastName>
+		<LastName>Solberg</LastName>
+		<LastName>Bakken</LastName>
+		<LastName>Lunde</LastName>
+		<LastName>Eriksen</LastName>
+		<LastName>Arnesen</LastName>
+		<LastName>Holm</LastName>	
+	
+	<Regiment name="regiment.norway1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.norway2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>
+
+  <Nation name="Dutch" chance="2" flag="netherlands">
+	<Ethnicity name="med" chance="2" />
+    <Ethnicity name="nor" chance="4" />
+    <Ethnicity name="afri" chance="1" />
+	
+		<FirstName>Sophie</FirstName>
+		<FirstName>Julia</FirstName>
+		<FirstName>Eva</FirstName>
+		<FirstName>Lieke</FirstName>
+		<FirstName>Sanne</FirstName>
+		<FirstName>Noa</FirstName>
+		<FirstName>Anna</FirstName>
+		<FirstName>Isa</FirstName>
+		<FirstName>Fluer</FirstName>
+		<FirstName>Lynn</FirstName>
+		<FirstName>Roos</FirstName>	
+		<FirstName>Anne</FirstName>
+		<FirstName>Femke</FirstName>
+
+		<LastName>de Jong</LastName>
+		<LastName>de Vries</LastName>
+		<LastName>Jansen</LastName>
+		<LastName>de Berg</LastName>
+		<LastName>Bakker</LastName>
+		<LastName>van Dijk</LastName>
+		<LastName>Visser</LastName>
+		<LastName>Jannsen</LastName>
+		<LastName>Smit</LastName>
+		<LastName>Meyer</LastName>
+		<LastName>Willems</LastName>
+		<LastName>Mulder</LastName>
+		<LastName>Vos</LastName>
+		<LastName>Peters</LastName>
+		<LastName>Hendriks</LastName>
+		<LastName>Dekker</LastName>
+		<LastName>de Graaf</LastName>	
+	<Regiment name="regiment.dutch1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.dutch2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.dutch3">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>	
+	
+  <Nation name="Danish" chance="2" flag="denmark">
+	<Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="3" />
+	
+		<FirstName>Ida</FirstName>
+		<FirstName>Carol</FirstName>
+		<FirstName>Maja</FirstName>
+		<FirstName>Freja</FirstName>
+		<FirstName>Sofie</FirstName>
+		<FirstName>Julie</FirstName>
+		<FirstName>Alma</FirstName>
+		<FirstName>Karla</FirstName>
+		<FirstName>Clara</FirstName>
+		<FirstName>Tilde</FirstName>
+		<FirstName>Luna</FirstName>	
+		<FirstName>Lea</FirstName>
+		<FirstName>Asta</FirstName>
+		<FirstName>Tilde</FirstName>
+
+		<LastName>Jensen</LastName>
+		<LastName>Nielsen</LastName>
+		<LastName>Larsen</LastName>
+		<LastName>Madsen</LastName>
+		<LastName>Knudsen</LastName>
+		<LastName>Nissen</LastName>
+		<LastName>Jepsen</LastName>
+		<LastName>Clausen</LastName>
+		<LastName>Jakobsen</LastName>
+		<LastName>Kjaer</LastName>
+		<LastName>Hansen</LastName>
+		<LastName>Pedersen</LastName>
+		<LastName>Andersen</LastName>
+		<LastName>Kristensen</LastName>
+		<LastName>Thomsen</LastName>
+		<LastName>Olesen</LastName>
+		<LastName>Eriksen</LastName>	
+
+	<Regiment name="regiment.danish1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.danish2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.danish3">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>	
+
+<Nation name="French" chance="3" flag="france">
+	<Ethnicity name="med" chance="2" />
+    <Ethnicity name="nor" chance="4" />
+    <Ethnicity name="afri" chance="1" />
+	
+		<FirstName>Lea</FirstName>
+		<FirstName>Emma</FirstName>
+		<FirstName>Rosalie</FirstName>
+		<FirstName>Juliette</FirstName>
+		<FirstName>Gabrielle</FirstName>
+		<FirstName>Noemie</FirstName>
+		<FirstName>Zoe</FirstName>
+		<FirstName>Chloe</FirstName>
+		<FirstName>Coralie</FirstName>
+		<FirstName>Alice</FirstName>
+		<FirstName>Alexia</FirstName>
+		<FirstName>Alicia</FirstName>
+		<FirstName>Maelie</FirstName>
+		<FirstName>Oceane</FirstName>
+		<FirstName>Emilie</FirstName>
+		<FirstName>Megane</FirstName>
+		<FirstName>Anais</FirstName>
+		<FirstName>Elodie</FirstName>
+		<FirstName>Ariane</FirstName>
+		<FirstName>Aurelie</FirstName>
+
+		<LastName>Bernard</LastName>
+		<LastName>Dubois</LastName>
+		<LastName>Thomas</LastName>
+		<LastName>Petit</LastName>
+		<LastName>Durand</LastName>
+		<LastName>Leroy</LastName>
+		<LastName>Moreau</LastName>
+		<LastName>Laurent</LastName>
+		<LastName>Lefevre</LastName>
+		<LastName>Mercier</LastName>
+		<LastName>Blanc</LastName>
+		<LastName>Morin</LastName>
+		<LastName>Duval</LastName>
+		<LastName>Roche</LastName>
+		<LastName>Noel</LastName>
+		<LastName>Faure</LastName>
+		<LastName>Renaud</LastName>	
+		
+	<Regiment name="regiment.french1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.french2">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.french3">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.french4">
+		<Experience>experience.none</Experience>
+	</Regiment>	
+</Nation>
+
+
+  <Nation name="Swedish" chance="2" flag="sweden">
+	<Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="3" />
+
+		<FirstName>Maja</FirstName>
+		<FirstName>Alice</FirstName>
+		<FirstName>Julie</FirstName>
+		<FirstName>Linnea</FirstName>
+		<FirstName>Wilma</FirstName>
+		<FirstName>Elsa</FirstName>
+		<FirstName>Alva</FirstName>
+		<FirstName>Nellie</FirstName>
+		<FirstName>Agnes</FirstName>
+		<FirstName>Nova</FirstName>
+		<FirstName>Alma</FirstName>	
+		<FirstName>Tyra</FirstName>
+		<FirstName>Maria</FirstName>
+		<FirstName>Vilda</FirstName>
+
+		<LastName>Karlsson</LastName>
+		<LastName>Nilsson</LastName>
+		<LastName>Larsson</LastName>
+		<LastName>Persson</LastName>
+		<LastName>Jonsson</LastName>
+		<LastName>Lindberg</LastName>
+		<LastName>Lindgren</LastName>
+		<LastName>Berg</LastName>
+		<LastName>Eklund</LastName>
+		<LastName>Bergman</LastName>
+		<LastName>Wallin</LastName>
+		<LastName>Nordin</LastName>
+		<LastName>Blom</LastName>
+		<LastName>Norberg</LastName>
+		<LastName>Falk</LastName>
+		<LastName>Bergman</LastName>
+		<LastName>Holmgren</LastName>	
+		
+	<Regiment name="regiment.swede1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+	<Regiment name="regiment.swede2">
+		<Experience>experience.none</Experience>
+	</Regiment>	
+</Nation>
+
+  <Nation name="Finnish" chance="1" flag="finland">
+	<Ethnicity name="med" chance="1" />
+    <Ethnicity name="nor" chance="3" />
+
+		<FirstName>Aino</FirstName>
+		<FirstName>Venla</FirstName>
+		<FirstName>Aada</FirstName>
+		<FirstName>Siiri</FirstName>
+		<FirstName>Iida</FirstName>
+		<FirstName>Veera</FirstName>
+		<FirstName>Nella</FirstName>
+		<FirstName>Milla</FirstName>
+		<FirstName>Ronja</FirstName>
+		<FirstName>Neea</FirstName>
+		<FirstName>Milja</FirstName>	
+		<FirstName>Eevi</FirstName>
+		<FirstName>Pinja</FirstName>
+		<FirstName>Alisa</FirstName>
+
+		<LastName>Korhonen</LastName>
+		<LastName>Virtanen</LastName>
+		<LastName>Makinen</LastName>
+		<LastName>Nieminen</LastName>
+		<LastName>Laine</LastName>
+		<LastName>Heikennen</LastName>
+		<LastName>Koskinen</LastName>
+		<LastName>Salonen</LastName>
+		<LastName>Heinonen</LastName>
+		<LastName>Mattila</LastName>
+		<LastName>Salo</LastName>
+		<LastName>Laitinen</LastName>
+		<LastName>Ahonen</LastName>
+		<LastName>Turunen</LastName>
+		<LastName>Kinnunen</LastName>
+		<LastName>Saarinen</LastName>
+		<LastName>Jokinen</LastName>	
+	
+	<Regiment name="regiment.finn1">
+		<Experience>experience.none</Experience>
+	</Regiment>
+</Nation>
+	
+</SoldierNameDatabase>

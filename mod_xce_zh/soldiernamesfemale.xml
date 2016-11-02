@@ -1,0 +1,1475 @@
+<?xml version="1.0"?>
+<SoldierNameDatabase>
+
+	<Nation MODMERGE="deleteall"/>
+
+	<Nation name="Hungarian" chance="200" flag="hungary" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="1" />
+
+		<FirstName>阿莉達</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>愛娃</FirstName>
+		<FirstName>弗麗達</FirstName>
+		<FirstName>蒿伊瑙爾</FirstName>
+		<FirstName>伊洛娜</FirstName>
+		<FirstName>尤迪塔</FirstName>
+		<FirstName>卡陶</FirstName>
+		<FirstName>卡塔琳</FirstName>
+		<FirstName>凱塔</FirstName>
+		<FirstName>莎勞</FirstName>
+		<FirstName>妣爾瑪</FirstName>
+
+		<LastName>阿霍迪</LastName>
+		<LastName>霍瓦特</LastName>
+		<LastName>基希</LastName>
+		<LastName>科瓦奇</LastName>
+		<LastName>納吉</LastName>
+		<LastName>派爾奈基</LastName>
+		<LastName>沙法爾</LastName>
+		<LastName>紹博</LastName>
+		<LastName>托特</LastName>
+
+		<Regiment name="regiment.hungary1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Canadian" chance="300" flag="canada" index="1" MODMERGEATTRIBUTE="index" MODMERGE="insert">
+		<Ethnicity name="med" chance="2" />
+		<Ethnicity name="nor" chance="2" />
+		<Ethnicity name="afri" chance="1" />
+
+		<FirstName>阿莉森</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克洛愛</FirstName>
+		<FirstName>克萊蕾</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>珍</FirstName>
+		<FirstName>珍妮弗</FirstName>
+		<FirstName>凱特</FirstName>
+		<FirstName>勞菈</FirstName>
+		<FirstName>勞倫</FirstName>
+		<FirstName>露茜</FirstName>
+		<FirstName>納塔莉</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>索菲爾</FirstName>
+		<FirstName>維多利亞</FirstName>
+		<FirstName>維奧萊</FirstName>
+
+		<LastName>安德森</LastName>
+		<LastName>布朗</LastName>
+		<LastName>坎貝爾</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>加涅</LastName>
+		<LastName>傑克遜</LastName>
+		<LastName>霍內斯</LastName>
+		<LastName>利</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>麥格勞</LastName>
+		<LastName>史密斯</LastName>
+		<LastName>泰勒</LastName>
+		<LastName>特倫布萊</LastName>
+		<LastName>瓦爾克</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
+
+		<Regiment name="regiment.canada1">
+			<Experience>experience.canada1</Experience>
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.canada2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Canadian" chance="100" flag="canada" index="2" MODMERGEATTRIBUTE="index" MODMERGE="insert">
+		<Ethnicity name="nor" chance="3" />
+
+		<FirstName>亞歷克西婭</FirstName>
+		<FirstName>艾麗斯</FirstName>
+		<FirstName>艾莉西亞</FirstName>
+		<FirstName>安奈</FirstName>
+		<FirstName>阿拉因娜</FirstName>
+		<FirstName>奧雷莉</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>科拉莉</FirstName>
+		<FirstName>愛洛迪</FirstName>
+		<FirstName>埃米兒</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>加布麗埃勒</FirstName>
+		<FirstName>朱麗葉</FirstName>
+		<FirstName>萊婭</FirstName>
+		<FirstName>馬埃妮</FirstName>
+		<FirstName>馬加麗</FirstName>
+		<FirstName>諾埃米兒</FirstName>
+		<FirstName>奧切安妮</FirstName>
+		<FirstName>羅莎莉</FirstName>
+		<FirstName>佐薇</FirstName>
+
+		<LastName>博利厄</LastName>
+		<LastName>貝達德</LastName>
+		<LastName>貝朗格</LastName>
+		<LastName>貝傑龍</LastName>
+		<LastName>伯尼爾</LastName>
+		<LastName>布萊</LastName>
+		<LastName>布沙爾</LastName>
+		<LastName>飽徹</LastName>
+		<LastName>卡倫</LastName>
+		<LastName>克盧特里耶</LastName>
+		<LastName>科特</LastName>
+		<LastName>庫蒂爾</LastName>
+		<LastName>德默斯</LastName>
+		<LastName>德雅爾丹</LastName>
+		<LastName>迪貝</LastName>
+		<LastName>福廷</LastName>
+		<LastName>富尼耶</LastName>
+		<LastName>加涅</LastName>
+		<LastName>加尼翁</LastName>
+		<LastName>戈捷</LastName>
+		<LastName>吉拉德</LastName>
+		<LastName>戈瑟蘭</LastName>
+		<LastName>格勒尼耶</LastName>
+		<LastName>赫伯特</LastName>
+		<LastName>拉沙斯</LastName>
+		<LastName>蘭德里</LastName>
+		<LastName>拉普安特</LastName>
+		<LastName>拉瓦艾</LastName>
+		<LastName>勒布朗</LastName>
+		<LastName>勒克萊爾</LastName>
+		<LastName>勒菲弗</LastName>
+		<LastName>萊薩德</LastName>
+		<LastName>萊韋斯克</LastName>
+		<LastName>馬特爾</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>米肖</LastName>
+		<LastName>莫林</LastName>
+		<LastName>納多</LastName>
+		<LastName>韋萊</LastName>
+		<LastName>帕倫特</LastName>
+		<LastName>佩爾蒂埃</LastName>
+		<LastName>普瓦里耶</LastName>
+		<LastName>波林</LastName>
+		<LastName>理查德</LastName>
+		<LastName>羅伊</LastName>
+		<LastName>薩瓦爾</LastName>
+		<LastName>西馬德</LastName>
+		<LastName>聖皮埃爾</LastName>
+		<LastName>特倫布萊</LastName>
+		<LastName>特科特</LastName>
+
+		<Regiment name="regiment.canada1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.canada3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="American" chance="900" flag="usa" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="nor" chance="1" />
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="afri" chance="1" />
+
+		<FirstName>阿莉森</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>克萊菈克</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>珍妮弗</FirstName>
+		<FirstName>卡蒂</FirstName>
+		<FirstName>勞菈</FirstName>
+		<FirstName>珞朗</FirstName>
+		<FirstName>露茜</FirstName>
+		<FirstName>納塔莉</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>索菲</FirstName>
+		<FirstName>維多利亞</FirstName>
+		<FirstName>瓦奧萊特</FirstName>
+
+		<LastName>阿博特</LastName>
+		<LastName>亞當斯</LastName>
+		<LastName>亞歷山大</LastName>
+		<LastName>艾倫</LastName>
+		<LastName>安德森</LastName>
+		<LastName>貝利</LastName>
+		<LastName>貝克</LastName>
+		<LastName>巴恩斯</LastName>
+		<LastName>貝爾</LastName>
+		<LastName>貝內特</LastName>
+		<LastName>布魯克斯</LastName>
+		<LastName>布朗</LastName>
+		<LastName>布賴恩特</LastName>
+		<LastName>巴特勒</LastName>
+		<LastName>坎貝爾</LastName>
+		<LastName>卡特</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>科爾曼</LastName>
+		<LastName>科林</LastName>
+		<LastName>庫克</LastName>
+		<LastName>庫珀</LastName>
+		<LastName>考克斯</LastName>
+		<LastName>載維斯</LastName>
+		<LastName>迪亞茲</LastName>
+		<LastName>愛德華茲</LastName>
+		<LastName>埃邁斯</LastName>
+		<LastName>弗洛里斯</LastName>
+		<LastName>福斯特</LastName>
+		<LastName>加西亞</LastName>
+		<LastName>岡薩雷西</LastName>
+		<LastName>岡薩雷斯</LastName>
+		<LastName>格雷</LastName>
+		<LastName>格林</LastName>
+		<LastName>格里芬</LastName>
+		<LastName>哈爾</LastName>
+		<LastName>哈理斯</LastName>
+		<LastName>哈耶斯</LastName>
+		<LastName>享德森</LastName>
+		<LastName>埃爾南德斯</LastName>
+		<LastName>希爾</LastName>
+		<LastName>霍華德</LastName>
+		<LastName>休斯</LastName>
+		<LastName>傑克遜</LastName>
+		<LastName>詹姆斯</LastName>
+		<LastName>詹金斯</LastName>
+		<LastName>約翰遜</LastName>
+		<LastName>霍內斯</LastName>
+		<LastName>凱利</LastName>
+		<LastName>金</LastName>
+		<LastName>利</LastName>
+		<LastName>路易斯</LastName>
+		<LastName>朗</LastName>
+		<LastName>洛佩斯</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>馬丁內斯</LastName>
+		<LastName>米勒</LastName>
+		<LastName>米切爾</LastName>
+		<LastName>莫勒</LastName>
+		<LastName>摩根</LastName>
+		<LastName>莫里斯</LastName>
+		<LastName>梅菲</LastName>
+		<LastName>內爾松</LastName>
+		<LastName>帕克</LastName>
+		<LastName>帕特森</LastName>
+		<LastName>佩雷斯</LastName>
+		<LastName>佩里</LastName>
+		<LastName>彼得森</LastName>
+		<LastName>菲利普斯</LastName>
+		<LastName>鮑威爾</LastName>
+		<LastName>普賴斯</LastName>
+		<LastName>拉米雷斯</LastName>
+		<LastName>里德</LastName>
+		<LastName>理查森</LastName>
+		<LastName>里韋拉</LastName>
+		<LastName>羅伯茨</LastName>
+		<LastName>魯賓遜</LastName>
+		<LastName>羅德里格斯</LastName>
+		<LastName>羅傑斯</LastName>
+		<LastName>羅斯</LastName>
+		<LastName>拉塞爾</LastName>
+		<LastName>桑切斯</LastName>
+		<LastName>桑特斯</LastName>
+		<LastName>斯科特</LastName>
+		<LastName>西蒙斯</LastName>
+		<LastName>史密斯</LastName>
+		<LastName>泰勒</LastName>
+		<LastName>索圖爾特</LastName>
+		<LastName>托馬斯</LastName>
+		<LastName>湯普森</LastName>
+		<LastName>托里斯</LastName>
+		<LastName>特納</LastName>
+		<LastName>瓦爾克</LastName>
+		<LastName>沃德</LastName>
+		<LastName>華盛頓</LastName>
+		<LastName>沃森</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
+		<LastName>伍德</LastName>
+		<LastName>賴特</LastName>
+		<LastName>揚</LastName>
+
+		<Regiment name="regiment.america1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.america2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.america3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="British" chance="400" flag="uk" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med"  chance="2" />
+		<Ethnicity name="afri" chance="1" />
+		<Ethnicity name="nor"  chance="2" />
+
+		<FirstName>阿莉森</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>克萊菈克</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>珍妮弗</FirstName>
+		<FirstName>卡蒂</FirstName>
+		<FirstName>勞菈</FirstName>
+		<FirstName>珞朗</FirstName>
+		<FirstName>露茜</FirstName>
+		<FirstName>納塔莉</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>索菲</FirstName>
+		<FirstName>維多利亞</FirstName>
+		<FirstName>瓦奧萊特</FirstName>
+
+		<LastName>亞當斯</LastName>
+		<LastName>艾倫</LastName>
+		<LastName>安德森</LastName>
+		<LastName>貝利</LastName>
+		<LastName>貝克</LastName>
+		<LastName>巴克</LastName>
+		<LastName>巴恩斯</LastName>
+		<LastName>貝爾</LastName>
+		<LastName>貝內特</LastName>
+		<LastName>布朗</LastName>
+		<LastName>巴特勒</LastName>
+		<LastName>坎貝爾</LastName>
+		<LastName>卡特</LastName>
+		<LastName>查普曼</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>科林</LastName>
+		<LastName>庫克</LastName>
+		<LastName>庫珀</LastName>
+		<LastName>考克斯</LastName>
+		<LastName>載維思</LastName>
+		<LastName>載維斯</LastName>
+		<LastName>迪克遜</LastName>
+		<LastName>愛德華茲</LastName>
+		<LastName>埃利斯</LastName>
+		<LastName>埃邁斯</LastName>
+		<LastName>費舍爾</LastName>
+		<LastName>福斯特</LastName>
+		<LastName>格雷</LastName>
+		<LastName>格林</LastName>
+		<LastName>格里菲斯</LastName>
+		<LastName>哈爾</LastName>
+		<LastName>哈理斯</LastName>
+		<LastName>哈里森</LastName>
+		<LastName>希爾</LastName>
+		<LastName>哈維</LastName>
+		<LastName>霍姆斯</LastName>
+		<LastName>休斯</LastName>
+		<LastName>享特</LastName>
+		<LastName>傑克遜</LastName>
+		<LastName>詹姆斯</LastName>
+		<LastName>詹金斯</LastName>
+		<LastName>約翰遜</LastName>
+		<LastName>霍內斯</LastName>
+		<LastName>凱利</LastName>
+		<LastName>金</LastName>
+		<LastName>奈特</LastName>
+		<LastName>利</LastName>
+		<LastName>路易斯</LastName>
+		<LastName>勞埃德</LastName>
+		<LastName>馬歇爾</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>梅森</LastName>
+		<LastName>馬修斯</LastName>
+		<LastName>米勒</LastName>
+		<LastName>米爾斯</LastName>
+		<LastName>米切爾</LastName>
+		<LastName>莫勒</LastName>
+		<LastName>摩根</LastName>
+		<LastName>莫里斯</LastName>
+		<LastName>梅菲</LastName>
+		<LastName>默里</LastName>
+		<LastName>歐文</LastName>
+		<LastName>帕爾默</LastName>
+		<LastName>帕克</LastName>
+		<LastName>菲利普斯</LastName>
+		<LastName>鮑威爾</LastName>
+		<LastName>普賴斯</LastName>
+		<LastName>理查茲</LastName>
+		<LastName>理查森</LastName>
+		<LastName>羅伯茨</LastName>
+		<LastName>魯賓遜</LastName>
+		<LastName>羅傑斯</LastName>
+		<LastName>拉塞爾</LastName>
+		<LastName>斯科特</LastName>
+		<LastName>肖</LastName>
+		<LastName>辛普森</LastName>
+		<LastName>史密斯</LastName>
+		<LastName>史蒂文斯</LastName>
+		<LastName>泰勒</LastName>
+		<LastName>托馬斯</LastName>
+		<LastName>湯普森</LastName>
+		<LastName>特納</LastName>
+		<LastName>瓦爾克</LastName>
+		<LastName>沃德</LastName>
+		<LastName>沃森</LastName>
+		<LastName>韋布</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威爾金森</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
+		<LastName>伍德</LastName>
+		<LastName>賴特</LastName>
+		<LastName>揚</LastName>
+
+		<Regiment name="regiment.britain1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.britain2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.britain3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="East German" chance="200" flag="eastgermany" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="nor" chance="3" />
+		<Ethnicity name="med" chance="1" />
+
+		<FirstName>阿加莎</FirstName>
+		<FirstName>安雅</FirstName>
+		<FirstName>阿斯特麗</FirstName>
+		<FirstName>克勞迪婭</FirstName>
+		<FirstName>多菈</FirstName>
+		<FirstName>埃麗卡</FirstName>
+		<FirstName>弗里妲</FirstName>
+		<FirstName>吉塞菈</FirstName>
+		<FirstName>海克</FirstName>
+		<FirstName>黑爾瑪</FirstName>
+		<FirstName>希爾妲</FirstName>
+		<FirstName>英格麗德</FirstName>
+		<FirstName>亞娜</FirstName>
+		<FirstName>克絲廷</FirstName>
+		<FirstName>拉蕾</FirstName>
+		<FirstName>瑪麗娜</FirstName>
+		<FirstName>莫妮卡</FirstName>
+		<FirstName>尼娜</FirstName>
+		<FirstName>彼得菈</FirstName>
+		<FirstName>薩比娜</FirstName>
+
+		<LastName>鮑爾</LastName>
+		<LastName>鮑曼</LastName>
+		<LastName>貝克</LastName>
+		<LastName>貝克爾</LastName>
+		<LastName>貝格爾</LastName>
+		<LastName>布勞恩</LastName>
+		<LastName>布施</LastName>
+		<LastName>費舍爾</LastName>
+		<LastName>弗里德里希</LastName>
+		<LastName>格雷夫</LastName>
+		<LastName>哈恩</LastName>
+		<LastName>哈特曼</LastName>
+		<LastName>霍夫曼</LastName>
+		<LastName>赫夫曼</LastName>
+		<LastName>許貝爾</LastName>
+		<LastName>雲格</LastName>
+		<LastName>凱澤</LastName>
+		<LastName>凱勒</LastName>
+		<LastName>克萊因</LastName>
+		<LastName>科赫</LastName>
+		<LastName>克勞澤</LastName>
+		<LastName>朗</LastName>
+		<LastName>朗格</LastName>
+		<LastName>萊曼</LastName>
+		<LastName>洛倫茨</LastName>
+		<LastName>邁耶斯</LastName>
+		<LastName>邁爾</LastName>
+		<LastName>邁耶</LastName>
+		<LastName>諾伊曼</LastName>
+		<LastName>里希特</LastName>
+		<LastName>羅特</LastName>
+		<LastName>施密特</LastName>
+		<LastName>施米特</LastName>
+		<LastName>施米茨</LastName>
+		<LastName>施萊德</LastName>
+		<LastName>舒伯特</LastName>
+		<LastName>舒爾茨</LastName>
+		<LastName>施瓦茨</LastName>
+		<LastName>施萊因</LastName>
+		<LastName>福格爾</LastName>
+		<LastName>瓦格納</LastName>
+		<LastName>韋爾特</LastName>
+		<LastName>韋爾特</LastName>
+		<LastName>韋伯</LastName>
+		<LastName>維爾納</LastName>
+		<LastName>溫克勒</LastName>
+		<LastName>沃爾夫</LastName>
+
+		<Regiment name="regiment.Egermany1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.Egermany2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.Egermany3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.Egermany4">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="West German" chance="200" flag="westgermany" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="nor" chance="3" />
+		<Ethnicity name="med" chance="1" />
+
+		<FirstName>阿加莎</FirstName>
+		<FirstName>安雅</FirstName>
+		<FirstName>阿斯特麗</FirstName>
+		<FirstName>克勞迪婭</FirstName>
+		<FirstName>多菈</FirstName>
+		<FirstName>埃麗卡</FirstName>
+		<FirstName>弗里妲</FirstName>
+		<FirstName>吉塞菈</FirstName>
+		<FirstName>海克</FirstName>
+		<FirstName>黑爾瑪</FirstName>
+		<FirstName>希爾妲</FirstName>
+		<FirstName>英格麗德</FirstName>
+		<FirstName>亞娜</FirstName>
+		<FirstName>克絲廷</FirstName>
+		<FirstName>拉蕾</FirstName>
+		<FirstName>瑪麗娜</FirstName>
+		<FirstName>莫妮卡</FirstName>
+		<FirstName>尼娜</FirstName>
+		<FirstName>彼得菈</FirstName>
+		<FirstName>薩比娜</FirstName>
+
+		<LastName>鮑爾</LastName>
+		<LastName>鮑曼</LastName>
+		<LastName>貝克</LastName>
+		<LastName>貝克爾</LastName>
+		<LastName>貝格爾</LastName>
+		<LastName>布勞恩</LastName>
+		<LastName>布施</LastName>
+		<LastName>費舍爾</LastName>
+		<LastName>弗里德里希</LastName>
+		<LastName>格雷夫</LastName>
+		<LastName>哈恩</LastName>
+		<LastName>哈特曼</LastName>
+		<LastName>霍夫曼</LastName>
+		<LastName>赫夫曼</LastName>
+		<LastName>許貝爾</LastName>
+		<LastName>雲格</LastName>
+		<LastName>凱澤</LastName>
+		<LastName>凱勒</LastName>
+		<LastName>克萊因</LastName>
+		<LastName>科赫</LastName>
+		<LastName>克勞澤</LastName>
+		<LastName>朗</LastName>
+		<LastName>朗格</LastName>
+		<LastName>萊曼</LastName>
+		<LastName>洛倫茨</LastName>
+		<LastName>邁耶斯</LastName>
+		<LastName>邁爾</LastName>
+		<LastName>邁爾</LastName>
+		<LastName>邁耶</LastName>
+		<LastName>諾伊曼</LastName>
+		<LastName>里希特</LastName>
+		<LastName>羅特</LastName>
+		<LastName>施密特</LastName>
+		<LastName>施米特</LastName>
+		<LastName>施米茨</LastName>
+		<LastName>施萊德</LastName>
+		<LastName>舒伯特</LastName>
+		<LastName>舒爾茨</LastName>
+		<LastName>施瓦茨</LastName>
+		<LastName>施萊因</LastName>
+		<LastName>福格爾</LastName>
+		<LastName>瓦格納</LastName>
+		<LastName>韋爾特</LastName>
+		<LastName>韋伯</LastName>
+		<LastName>維爾納</LastName>
+		<LastName>溫克勒</LastName>
+		<LastName>沃爾夫</LastName>
+
+		<Regiment name="regiment.Wgermany1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.Wgermany2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.Wgermany3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Soviet Union" chance="1200" flag="ussr" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="nor" chance="2" />
+
+		<FirstName>安娜</FirstName>
+		<FirstName>迪娜</FirstName>
+		<FirstName>葉連娜</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>瑛格</FirstName>
+		<FirstName>卡特里娜</FirstName>
+		<FirstName>克拉菈</FirstName>
+		<FirstName>克謝尼婭</FirstName>
+		<FirstName>奈茜婭</FirstName>
+		<FirstName>瑪爾塔</FirstName>
+		<FirstName>妮卡</FirstName>
+		<FirstName>奧莉加</FirstName>
+		<FirstName>蕾娜塔</FirstName>
+		<FirstName>索菲婭</FirstName>
+		<FirstName>薇拉</FirstName>
+		<FirstName>亞娜</FirstName>
+		<FirstName>然娜</FirstName>
+
+		<LastName>安德羅波夫娃</LastName>
+		<LastName>波格丹諾娃</LastName>
+		<LastName>切科夫娃</LastName>
+		<LastName>伊凡諾娃</LastName>
+		<LastName>科茲洛娃</LastName>
+		<LastName>庫茲涅佐娃</LastName>
+		<LastName>烈別傑娃</LastName>
+		<LastName>馬里洛娃</LastName>
+		<LastName>諾維科娃</LastName>
+		<LastName>帕夫諾娃</LastName>
+		<LastName>彼得羅娃</LastName>
+		<LastName>波波娃</LastName>
+		<LastName>羅曼諾娃</LastName>
+		<LastName>斯米爾諾娃</LastName>
+		<LastName>索科諾娃</LastName>
+		<LastName>瓦西里耶娃</LastName>
+		<LastName>扎耶切娃</LastName>
+
+		<Regiment name="regiment.russian1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.russian2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.russian3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Czechoslovakian" chance="100" flag="czechoslovakia" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="1" />
+
+		<FirstName>阿萊納</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>達娜</FirstName>
+		<FirstName>多蘿塔</FirstName>
+		<FirstName>亞娜</FirstName>
+		<FirstName>卡米菈</FirstName>
+		<FirstName>尼古菈</FirstName>
+		<FirstName>諾菈</FirstName>
+		<FirstName>奧莉加</FirstName>
+		<FirstName>菈德卡</FirstName>
+		<FirstName>西蒙娜</FirstName>
+
+		<LastName>巴拉若娃</LastName>
+		<LastName>貝內紹娃</LastName>
+		<LastName>布拉科娃</LastName>
+		<LastName>切爾馬科娃</LastName>
+		<LastName>切爾納</LastName>
+		<LastName>德沃爾納科娃</LastName>
+		<LastName>菲亞洛娃</LastName>
+		<LastName>哈伊科娃</LastName>
+		<LastName>霍拉科娃</LastName>
+		<LastName>耶林科娃</LastName>
+		<LastName>科拉若娃</LastName>
+		<LastName>科爾喬娃</LastName>
+		<LastName>克拉洛娃</LastName>
+		<LastName>庫切羅娃</LastName>
+		<LastName>盧卡喬娃</LastName>
+		<LastName>馬拉</LastName>
+		<LastName>馬爾科娃</LastName>
+		<LastName>涅姆卓娃</LastName>
+		<LastName>諾瓦科娃</LastName>
+		<LastName>諾沃特娜</LastName>
+		<LastName>波科爾娜</LastName>
+		<LastName>波拉科娃</LastName>
+		<LastName>魯斯納科娃</LastName>
+		<LastName>魯日奇科娃</LastName>
+		<LastName>斯科博多娃</LastName>
+		<LastName>瓦夫羅娃</LastName>
+		<LastName>卡塞拉</LastName>
+		<LastName>澤曼諾娃</LastName>
+
+		<Regiment name="regiment.czech1">
+			<Experience>experience.russian1</Experience>
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Japanese" chance="400" flag="japan" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="asi" chance="1" />
+
+		<FirstName>愛子</FirstName>
+		<FirstName>綾子</FirstName>
+		<FirstName>知乃</FirstName>
+		<FirstName>悅子</FirstName>
+		<FirstName>美子</FirstName>
+		<FirstName>豐子</FirstName>
+		<FirstName>惠</FirstName>
+		<FirstName>小鳥井</FirstName>
+		<FirstName>舞</FirstName>
+		<FirstName>雅子</FirstName>
+		<FirstName>美優</FirstName>
+		<FirstName>有希</FirstName>
+		<FirstName>奈穗</FirstName>
+		<FirstName>月璃</FirstName>
+		<FirstName>沙耶</FirstName>
+
+		<LastName>安藤</LastName>
+		<LastName>遠滕</LastName>
+		<LastName>滕田</LastName>
+		<LastName>原</LastName>
+		<LastName>本鄉</LastName>
+		<LastName>池田</LastName>
+		<LastName>伊藤</LastName>
+		<LastName>木村</LastName>
+		<LastName>近藤</LastName>
+		<LastName>久保</LastName>
+		<LastName>前田</LastName>
+		<LastName>松田</LastName>
+		<LastName>松井</LastName>
+		<LastName>森</LastName>
+		<LastName>中野</LastName>
+		<LastName>岡田</LastName>
+		<LastName>西海</LastName>
+		<LastName>佐藤</LastName>
+		<LastName>鈴木</LastName>
+		<LastName>橘</LastName>
+		<LastName>高田</LastName>
+		<LastName>田中</LastName>
+		<LastName>內田</LastName>
+		<LastName>安田</LastName>
+
+		<Regiment name="regiment.japan1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.japan2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Italian" chance="200" flag="italy" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="1" />
+
+		<FirstName>阿爾妲</FirstName>
+		<FirstName>阿萊西雅</FirstName>
+		<FirstName>布許娜</FirstName>
+		<FirstName>卡米菈</FirstName>
+		<FirstName>卡洛塔</FirstName>
+		<FirstName>孔切塔</FirstName>
+		<FirstName>費德麗卡</FirstName>
+		<FirstName>朱利婭</FirstName>
+		<FirstName>伊雷妮</FirstName>
+		<FirstName>奈茜婭</FirstName>
+		<FirstName>瑪爾塔</FirstName>
+		<FirstName>奧塔維婭</FirstName>
+		<FirstName>蘿莎</FirstName>
+		<FirstName>斯泰菈</FirstName>
+		<FirstName>瓦萊里婭</FirstName>
+		<FirstName>韋羅妮卡</FirstName>
+
+		<LastName>比安希</LastName>
+		<LastName>布爾加雷利</LastName>
+		<LastName>德利 埃斯波西提</LastName>
+		<LastName>埃斯波西托</LastName>
+		<LastName>吉貝利尼</LastName>
+		<LastName>潘卡爾迪</LastName>
+		<LastName>里奇</LastName>
+		<LastName>羅馬諾</LastName>
+		<LastName>羅西</LastName>
+		<LastName>薩巴蒂尼</LastName>
+		<LastName>蘇齊</LastName>
+		<LastName>凡蒂</LastName>
+		<LastName>韋羅內塞</LastName>
+		<LastName>維爾吉利</LastName>
+
+		<Regiment name="regiment.italian1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.italian2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.italian3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Australian" chance="300" flag="australia" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="nor" chance="3" />
+		<Ethnicity name="med" chance="1" />
+
+		<FirstName>阿莉森</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>克萊菈克</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>珍</FirstName>
+		<FirstName>珍妮弗</FirstName>
+		<FirstName>卡蒂</FirstName>
+		<FirstName>勞菈</FirstName>
+		<FirstName>珞朗</FirstName>
+		<FirstName>露茜</FirstName>
+		<FirstName>納塔莉</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>索菲</FirstName>
+		<FirstName>維多利亞</FirstName>
+		<FirstName>瓦奧萊特</FirstName>
+
+		<LastName>亞當斯</LastName>
+		<LastName>艾倫</LastName>
+		<LastName>安德森</LastName>
+		<LastName>貝利</LastName>
+		<LastName>貝克</LastName>
+		<LastName>巴克</LastName>
+		<LastName>巴恩斯</LastName>
+		<LastName>貝爾</LastName>
+		<LastName>貝內特</LastName>
+		<LastName>布朗</LastName>
+		<LastName>巴特勒</LastName>
+		<LastName>坎貝爾</LastName>
+		<LastName>卡特</LastName>
+		<LastName>查普曼</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>科林</LastName>
+		<LastName>庫克</LastName>
+		<LastName>庫珀</LastName>
+		<LastName>考克斯</LastName>
+		<LastName>載維思</LastName>
+		<LastName>載維斯</LastName>
+		<LastName>迪克遜</LastName>
+		<LastName>愛德華茲</LastName>
+		<LastName>埃利斯</LastName>
+		<LastName>埃邁斯</LastName>
+		<LastName>費舍爾</LastName>
+		<LastName>福斯特</LastName>
+		<LastName>格雷</LastName>
+		<LastName>格林</LastName>
+		<LastName>格里菲斯</LastName>
+		<LastName>哈爾</LastName>
+		<LastName>哈理斯</LastName>
+		<LastName>哈里森</LastName>
+		<LastName>哈維</LastName>
+		<LastName>希爾</LastName>
+		<LastName>霍姆斯</LastName>
+		<LastName>休斯</LastName>
+		<LastName>享特</LastName>
+		<LastName>傑克遜</LastName>
+		<LastName>詹姆斯</LastName>
+		<LastName>詹金斯</LastName>
+		<LastName>約翰遜</LastName>
+		<LastName>霍內斯</LastName>
+		<LastName>凱利</LastName>
+		<LastName>金</LastName>
+		<LastName>奈特</LastName>
+		<LastName>利</LastName>
+		<LastName>路易斯</LastName>
+		<LastName>勞埃德</LastName>
+		<LastName>馬歇爾</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>梅森</LastName>
+		<LastName>馬修斯</LastName>
+		<LastName>米勒</LastName>
+		<LastName>米爾斯</LastName>
+		<LastName>米切爾</LastName>
+		<LastName>莫勒</LastName>
+		<LastName>摩根</LastName>
+		<LastName>莫里斯</LastName>
+		<LastName>梅菲</LastName>
+		<LastName>默里</LastName>
+		<LastName>歐文</LastName>
+		<LastName>帕爾默</LastName>
+		<LastName>帕克</LastName>
+		<LastName>菲利普斯</LastName>
+		<LastName>鮑威爾</LastName>
+		<LastName>普賴斯</LastName>
+		<LastName>理查茲</LastName>
+		<LastName>理查森</LastName>
+		<LastName>羅伯茨</LastName>
+		<LastName>魯賓遜</LastName>
+		<LastName>羅傑斯</LastName>
+		<LastName>拉塞爾</LastName>
+		<LastName>斯科特</LastName>
+		<LastName>肖</LastName>
+		<LastName>辛普森</LastName>
+		<LastName>史密斯</LastName>
+		<LastName>史蒂文斯</LastName>
+		<LastName>泰勒</LastName>
+		<LastName>托馬斯</LastName>
+		<LastName>湯普森</LastName>
+		<LastName>特納</LastName>
+		<LastName>瓦爾克</LastName>
+		<LastName>沃德</LastName>
+		<LastName>沃森</LastName>
+		<LastName>韋布</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威爾金森</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
+		<LastName>伍德</LastName>
+		<LastName>賴特</LastName>
+		<LastName>揚</LastName>
+
+		<Regiment name="regiment.aus1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.aus2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="New Zealander" chance="200" flag="newzealand" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med"  chance="1" />
+		<Ethnicity name="nor"  chance="3" />
+
+		<FirstName>阿莉森</FirstName>
+		<FirstName>安娜</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>克萊菈克</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>珍</FirstName>
+		<FirstName>珍妮弗</FirstName>
+		<FirstName>卡蒂</FirstName>
+		<FirstName>勞菈</FirstName>
+		<FirstName>珞朗</FirstName>
+		<FirstName>露茜</FirstName>
+		<FirstName>納塔莉</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>索菲</FirstName>
+		<FirstName>維多利亞</FirstName>
+		<FirstName>瓦奧萊特</FirstName>
+
+		<LastName>亞當斯</LastName>
+		<LastName>艾倫</LastName>
+		<LastName>安德森</LastName>
+		<LastName>貝利</LastName>
+		<LastName>貝克</LastName>
+		<LastName>巴克</LastName>
+		<LastName>巴恩斯</LastName>
+		<LastName>貝爾</LastName>
+		<LastName>貝內特</LastName>
+		<LastName>布朗</LastName>
+		<LastName>巴特勒</LastName>
+		<LastName>坎貝爾</LastName>
+		<LastName>卡特</LastName>
+		<LastName>查普曼</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>克拉克</LastName>
+		<LastName>科林</LastName>
+		<LastName>庫克</LastName>
+		<LastName>庫珀</LastName>
+		<LastName>考克斯</LastName>
+		<LastName>載維思</LastName>
+		<LastName>載維斯</LastName>
+		<LastName>迪克遜</LastName>
+		<LastName>愛德華茲</LastName>
+		<LastName>埃利斯</LastName>
+		<LastName>埃邁斯</LastName>
+		<LastName>費舍爾</LastName>
+		<LastName>福斯特</LastName>
+		<LastName>格雷</LastName>
+		<LastName>格林</LastName>
+		<LastName>格里菲斯</LastName>
+		<LastName>哈爾</LastName>
+		<LastName>哈理斯</LastName>
+		<LastName>哈里森</LastName>
+		<LastName>哈維</LastName>
+		<LastName>希爾</LastName>
+		<LastName>霍姆斯</LastName>
+		<LastName>休斯</LastName>
+		<LastName>享特</LastName>
+		<LastName>傑克遜</LastName>
+		<LastName>詹姆斯</LastName>
+		<LastName>詹金斯</LastName>
+		<LastName>約翰遜</LastName>
+		<LastName>霍內斯</LastName>
+		<LastName>凱利</LastName>
+		<LastName>金</LastName>
+		<LastName>奈特</LastName>
+		<LastName>利</LastName>
+		<LastName>路易斯</LastName>
+		<LastName>勞埃德</LastName>
+		<LastName>馬歇爾</LastName>
+		<LastName>馬丁</LastName>
+		<LastName>梅森</LastName>
+		<LastName>馬修斯</LastName>
+		<LastName>米勒</LastName>
+		<LastName>米爾斯</LastName>
+		<LastName>米切爾</LastName>
+		<LastName>莫勒</LastName>
+		<LastName>摩根</LastName>
+		<LastName>莫里斯</LastName>
+		<LastName>梅菲</LastName>
+		<LastName>默里</LastName>
+		<LastName>歐文</LastName>
+		<LastName>帕爾默</LastName>
+		<LastName>帕克</LastName>
+		<LastName>菲利普斯</LastName>
+		<LastName>鮑威爾</LastName>
+		<LastName>普賴斯</LastName>
+		<LastName>理查茲</LastName>
+		<LastName>理查森</LastName>
+		<LastName>羅伯茨</LastName>
+		<LastName>魯賓遜</LastName>
+		<LastName>羅傑斯</LastName>
+		<LastName>拉塞爾</LastName>
+		<LastName>斯科特</LastName>
+		<LastName>肖</LastName>
+		<LastName>辛普森</LastName>
+		<LastName>史密斯</LastName>
+		<LastName>史蒂文斯</LastName>
+		<LastName>泰勒</LastName>
+		<LastName>托馬斯</LastName>
+		<LastName>湯普森</LastName>
+		<LastName>特納</LastName>
+		<LastName>瓦爾克</LastName>
+		<LastName>沃德</LastName>
+		<LastName>沃森</LastName>
+		<LastName>韋布</LastName>
+		<LastName>懷特</LastName>
+		<LastName>威爾金森</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>威爾遜</LastName>
+		<LastName>伍德</LastName>
+		<LastName>賴特</LastName>
+		<LastName>揚</LastName>
+
+		<Regiment name="regiment.nz1">
+			<Experience>experience.nz1</Experience>
+			<Experience>experience.nz2</Experience>
+			<Experience>experience.nz3</Experience>
+		</Regiment>
+		<Regiment name="regiment.nz2">
+			<Experience>experience.nz1</Experience>
+			<Experience>experience.nz2</Experience>
+			<Experience>experience.nz3</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Greek" chance="200" flag="greece" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+
+		<FirstName>安娜</FirstName>
+		<FirstName>德梅特菈</FirstName>
+		<FirstName>艾麗妮</FirstName>
+		<FirstName>葉萊妮</FirstName>
+		<FirstName>喬治婭</FirstName>
+		<FirstName>約安娜</FirstName>
+		<FirstName>瑪麗亞</FirstName>
+		<FirstName>索菲婭</FirstName>
+
+		<LastName>阿納斯托斯</LastName>
+		<LastName>安潔利斯</LastName>
+		<LastName>阿塔</LastName>
+		<LastName>巴羅斯</LastName>
+		<LastName>茲拉科斯</LastName>
+		<LastName>杜卡</LastName>
+		<LastName>加布里斯</LastName>
+		<LastName>哈拉斯</LastName>
+		<LastName>凱里斯</LastName>
+		<LastName>拉索斯</LastName>
+		<LastName>萊奧斯</LastName>
+		<LastName>洛里斯</LastName>
+		<LastName>馬拉斯</LastName>
+		<LastName>尼科利</LastName>
+		<LastName>彼得拉斯</LastName>
+		<LastName>弗洛霍西</LastName>
+
+		<Regiment name="regiment.greek1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.greek2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.greek3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Polish" chance="200" flag="poland" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="3" />
+
+		<FirstName>朱麗亞</FirstName>
+		<FirstName>莉娜</FirstName>
+		<FirstName>瑪亞</FirstName>
+		<FirstName>納塔莉亞</FirstName>
+		<FirstName>奧莉維亞</FirstName>
+		<FirstName>維克托婭</FirstName>
+		<FirstName>索菲婭</FirstName>
+		<FirstName>蘇珊娜</FirstName>
+
+		<LastName>比尼克</LastName>
+		<LastName>東布羅夫斯基</LastName>
+		<LastName>杜道</LastName>
+		<LastName>杜德克</LastName>
+		<LastName>戈爾斯基</LastName>
+		<LastName>卡明斯基</LastName>
+		<LastName>卡尼亞</LastName>
+		<LastName>科皮克</LastName>
+		<LastName>科瓦爾斯基</LastName>
+		<LastName>克拉夫奇克</LastName>
+		<LastName>馬祖爾</LastName>
+		<LastName>諾瓦克</LastName>
+		<LastName>帕夫拉克</LastName>
+		<LastName>斯羅卡</LastName>
+		<LastName>武伊齊茨</LastName>
+		<LastName>沃希尼亞克</LastName>
+		<LastName>傑林斯基</LastName>
+
+		<Regiment name="regiment.poland1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.poland2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.poland3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.poland4">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Spanish" chance="200" flag="spain" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="3" />
+		<Ethnicity name="nor" chance="1" />
+
+		<FirstName>阿爾芭</FirstName>
+		<FirstName>阿妮亞</FirstName>
+		<FirstName>安東妮亞</FirstName>
+		<FirstName>卡門</FirstName>
+		<FirstName>克里斯蒂娜</FirstName>
+		<FirstName>伊莎貝</FirstName>
+		<FirstName>奈茜婭</FirstName>
+		<FirstName>瑪麗亞</FirstName>
+		<FirstName>奈蕾雅</FirstName>
+		<FirstName>拉克爾</FirstName>
+		<FirstName>薩菈</FirstName>
+
+		<LastName>阿隆索</LastName>
+		<LastName>迪亞茲</LastName>
+		<LastName>費爾南德斯</LastName>
+		<LastName>加西亞</LastName>
+		<LastName>戈密斯</LastName>
+		<LastName>岡薩雷斯</LastName>
+		<LastName>洛佩斯</LastName>
+		<LastName>馬丁內斯</LastName>
+		<LastName>納瓦羅</LastName>
+		<LastName>佩雷斯</LastName>
+		<LastName>拉莫斯</LastName>
+		<LastName>羅梅奧</LastName>
+		<LastName>魯伊斯</LastName>
+		<LastName>桑切斯</LastName>
+		<LastName>薩拉勞</LastName>
+		<LastName>托里斯</LastName>
+		<LastName>巴斯克斯</LastName>
+
+		<Regiment name="regiment.spain1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.spain2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.spain3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Norwegian" chance="200" flag="norway" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="3" />
+
+		<FirstName>埃莉絲</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>弗麗達</FirstName>
+		<FirstName>伊達</FirstName>
+		<FirstName>英格麗德</FirstName>
+		<FirstName>琳內亞</FirstName>
+		<FirstName>瑪亞</FirstName>
+		<FirstName>瑪麗亞</FirstName>
+		<FirstName>米婭</FirstName>
+		<FirstName>諾菈</FirstName>
+		<FirstName>奧達</FirstName>
+		<FirstName>奧莉維亞</FirstName>
+		<FirstName>薩菈</FirstName>
+		<FirstName>特婭</FirstName>
+
+		<LastName>安德森</LastName>
+		<LastName>阿爾內森</LastName>
+		<LastName>巴肯</LastName>
+		<LastName>貝爾赫</LastName>
+		<LastName>埃里克森</LastName>
+		<LastName>漢森</LastName>
+		<LastName>海于根</LastName>
+		<LastName>霍爾姆</LastName>
+		<LastName>詹森</LastName>
+		<LastName>約翰森</LastName>
+		<LastName>拉森</LastName>
+		<LastName>倫德</LastName>
+		<LastName>倫迪</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>奧爾森</LastName>
+		<LastName>佩德森</LastName>
+		<LastName>瑟爾貝格</LastName>
+
+		<Regiment name="regiment.norway1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.norway2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Dutch" chance="200" flag="netherlands" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="2" />
+		<Ethnicity name="nor" chance="4" />
+		<Ethnicity name="afri" chance="1" />
+
+		<FirstName>安娜</FirstName>
+		<FirstName>安尼</FirstName>
+		<FirstName>伊娃</FirstName>
+		<FirstName>費潔</FirstName>
+		<FirstName>弗蕾爾</FirstName>
+		<FirstName>伊莎</FirstName>
+		<FirstName>朱麗亞</FirstName>
+		<FirstName>列琪</FirstName>
+		<FirstName>林恩</FirstName>
+		<FirstName>諾婭</FirstName>
+		<FirstName>羅絲</FirstName>
+		<FirstName>珊奈</FirstName>
+		<FirstName>索菲</FirstName>
+
+		<LastName>巴克</LastName>
+		<LastName>德克爾</LastName>
+		<LastName>昴德里克雅</LastName>
+		<LastName>揚森</LastName>
+		<LastName>揚遜</LastName>
+		<LastName>邁耶</LastName>
+		<LastName>米爾德</LastName>
+		<LastName>彼得斯</LastName>
+		<LastName>斯米特</LastName>
+		<LastName>菲瑟</LastName>
+		<LastName>沃斯</LastName>
+		<LastName>威廉斯</LastName>
+		<LastName>德 貝格</LastName>
+		<LastName>德 格拉夫</LastName>
+		<LastName>德 容</LastName>
+		<LastName>德 弗里斯</LastName>
+		<LastName>凡 載克</LastName>
+
+		<Regiment name="regiment.dutch1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.dutch2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.dutch3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="USSR" chance="0" flag="ussr" MODMERGEATTRIBUTE="name" MODMERGE="insert" string="國藉"/>
+	<Nation name="USSR" chance="32760" flag="ussr" MODMERGEATTRIBUTE="string" MODMERGE="update" string="国藉"/>
+	<Nation name="Danish" chance="200" flag="denmark" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="3" />
+
+		<FirstName>阿爾瑪</FirstName>
+		<FirstName>阿絲塔</FirstName>
+		<FirstName>卡蘿爾</FirstName>
+		<FirstName>克菈拉</FirstName>
+		<FirstName>弗蕾雅</FirstName>
+		<FirstName>伊達</FirstName>
+		<FirstName>尤麗葉</FirstName>
+		<FirstName>卡菈</FirstName>
+		<FirstName>萊婭</FirstName>
+		<FirstName>露娜</FirstName>
+		<FirstName>馬婭</FirstName>
+		<FirstName>蘇非兒</FirstName>
+		<FirstName>蒂爾德</FirstName>
+
+		<LastName>安德森</LastName>
+		<LastName>克勞森</LastName>
+		<LastName>埃里克森</LastName>
+		<LastName>漢森</LastName>
+		<LastName>雅各布森</LastName>
+		<LastName>詹森</LastName>
+		<LastName>傑普森</LastName>
+		<LastName>凱</LastName>
+		<LastName>克勞森</LastName>
+		<LastName>克里斯藤森</LastName>
+		<LastName>拉森</LastName>
+		<LastName>馬森</LastName>
+		<LastName>尼爾森</LastName>
+		<LastName>尼森</LastName>
+		<LastName>奧勒森</LastName>
+		<LastName>佩德森</LastName>
+		<LastName>湯姆森</LastName>
+
+		<Regiment name="regiment.danish1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.danish2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.danish3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+<Nation name="French" chance="300" flag="france" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="2" />
+		<Ethnicity name="nor" chance="4" />
+		<Ethnicity name="afri" chance="1" />
+
+		<FirstName>阿歷克茜亞</FirstName>
+		<FirstName>愛麗絲</FirstName>
+		<FirstName>艾麗西亞</FirstName>
+		<FirstName>愛奈</FirstName>
+		<FirstName>愛里亞納</FirstName>
+		<FirstName>奧蕾莉</FirstName>
+		<FirstName>克洛兒</FirstName>
+		<FirstName>科拉莉</FirstName>
+		<FirstName>愛洛迪</FirstName>
+		<FirstName>埃米兒</FirstName>
+		<FirstName>愛瑪</FirstName>
+		<FirstName>加布麗埃勒</FirstName>
+		<FirstName>朱麗葉</FirstName>
+		<FirstName>萊婭</FirstName>
+		<FirstName>瑪埃妮</FirstName>
+		<FirstName>瑪加麗</FirstName>
+		<FirstName>諾埃米兒</FirstName>
+		<FirstName>奧切安妮</FirstName>
+		<FirstName>羅莎莉</FirstName>
+		<FirstName>佐薇</FirstName>
+
+		<LastName>巴納德</LastName>
+		<LastName>勃朗</LastName>
+		<LastName>迪布瓦</LastName>
+		<LastName>迪朗</LastName>
+		<LastName>杜瓦爾</LastName>
+		<LastName>福蕾</LastName>
+		<LastName>洛朗</LastName>
+		<LastName>勒菲弗</LastName>
+		<LastName>勒羅伊</LastName>
+		<LastName>梅西耶</LastName>
+		<LastName>莫羅</LastName>
+		<LastName>莫林</LastName>
+		<LastName>諾埃爾</LastName>
+		<LastName>珀蒂</LastName>
+		<LastName>雷諾</LastName>
+		<LastName>羅謝</LastName>
+		<LastName>托馬斯</LastName>
+
+		<Regiment name="regiment.french1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.french2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.french3">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.french4">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Swedish" chance="200" flag="sweden" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="3" />
+
+		<FirstName>昴內絲</FirstName>
+		<FirstName>愛麗絲</FirstName>
+		<FirstName>愛爾瑪</FirstName>
+		<FirstName>愛爾沃</FirstName>
+		<FirstName>艾爾莎</FirstName>
+		<FirstName>尤麗葉</FirstName>
+		<FirstName>林內婭</FirstName>
+		<FirstName>瑪亞</FirstName>
+		<FirstName>瑪麗亞</FirstName>
+		<FirstName>奈莉</FirstName>
+		<FirstName>諾娃</FirstName>
+		<FirstName>蒂拉</FirstName>
+		<FirstName>維爾妲</FirstName>
+		<FirstName>威爾瑪</FirstName>
+
+		<LastName>貝爾赫</LastName>
+		<LastName>貝里曼</LastName>
+		<LastName>布盧姆</LastName>
+		<LastName>埃克隆德</LastName>
+		<LastName>法爾克</LastName>
+		<LastName>霍姆格倫</LastName>
+		<LastName>榮遜</LastName>
+		<LastName>卡爾遜</LastName>
+		<LastName>拉松</LastName>
+		<LastName>林德貝克</LastName>
+		<LastName>林德格倫</LastName>
+		<LastName>尼爾遜</LastName>
+		<LastName>努德貝里</LastName>
+		<LastName>努丁</LastName>
+		<LastName>佩爾遜</LastName>
+		<LastName>瓦林</LastName>
+
+		<Regiment name="regiment.swede1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+		<Regiment name="regiment.swede2">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+	<Nation name="Finnish" chance="100" flag="finland" MODMERGEATTRIBUTE="name" MODMERGE="insert">
+		<Ethnicity name="med" chance="1" />
+		<Ethnicity name="nor" chance="3" />
+
+		<FirstName>雅達</FirstName>
+		<FirstName>愛諾</FirstName>
+		<FirstName>愛莉莎</FirstName>
+		<FirstName>埃維</FirstName>
+		<FirstName>伊達</FirstName>
+		<FirstName>米莉婭</FirstName>
+		<FirstName>米菈</FirstName>
+		<FirstName>妮亞</FirstName>
+		<FirstName>奈娜</FirstName>
+		<FirstName>皮尼雅</FirstName>
+		<FirstName>倫雅</FirstName>
+		<FirstName>茜菈</FirstName>
+		<FirstName>維菈</FirstName>
+		<FirstName>文娜</FirstName>
+
+		<LastName>阿霍寧</LastName>
+		<LastName>海凱寧</LastName>
+		<LastName>海諾寧</LastName>
+		<LastName>約基寧</LastName>
+		<LastName>金努寧</LastName>
+		<LastName>科爾霍寧</LastName>
+		<LastName>科斯基寧</LastName>
+		<LastName>萊恩</LastName>
+		<LastName>萊蒂寧</LastName>
+		<LastName>梅基寧</LastName>
+		<LastName>馬蒂拉</LastName>
+		<LastName>涅米寧</LastName>
+		<LastName>薩里寧</LastName>
+		<LastName>薩洛</LastName>
+		<LastName>薩洛寧</LastName>
+		<LastName>圖儂奈亞</LastName>
+		<LastName>維爾塔寧</LastName>
+
+		<Regiment name="regiment.finn1">
+			<Experience>experience.none</Experience>
+		</Regiment>
+	</Nation>
+
+</SoldierNameDatabase>

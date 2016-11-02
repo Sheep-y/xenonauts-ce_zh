@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+<Author>Solver</Author>
+<LastAuthor>Sheepy</LastAuthor>
+<Created>2011-04-13T20:36:37Z</Created>
+<LastSaved>2016-10-07T13:12:57Z</LastSaved>
+<Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+<AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+<WindowHeight>9720</WindowHeight>
+<WindowWidth>19590</WindowWidth>
+<WindowTopX>0</WindowTopX>
+<WindowTopY>0</WindowTopY>
+<TabRatio>214</TabRatio>
+<DisplayDrawingObjects>PlaceHolders</DisplayDrawingObjects>
+<RefModeR1C1/>
+<ProtectStructure>False</ProtectStructure>
+<ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+<Style ss:ID="Default" ss:Name="Normal">
+ <Alignment ss:Vertical="Bottom"/>
+ <Borders/>
+ <Interior/>
+ <NumberFormat/>
+ <Protection/>
+</Style>
+ </Styles>
+ <Worksheet ss:Name="strings">
+<Table ss:ExpandedColumnCount="10" ss:ExpandedRowCount="2579" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+ <Column ss:AutoFitWidth="0" ss:Width="246"/>
+ <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
+ <Row>
+  <Cell><Data ss:Type="String">airplane.alien.assaultlander</Data></Cell>
+  <Cell><Data ss:Type="String">突擊運輸幽浮</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">airplane.alien.dreadnought</Data></Cell>
+  <Cell><Data ss:Type="String">無畏幽浮</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienAssaultLanderDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">突擊運輸幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienDreadnoughtDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">無畏幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCapitalShips</Data></Cell>
+  <Cell><Data ss:Type="String">主力幽浮數據中樞破譯</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCapitalShipsDesc</Data></Cell>
+  <Cell><Data ss:Type="String">我們從異型主力幽浮回收的數據中樞被高度加密，即使是我的天才團隊都需要時間破譯。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.SINGULARITYTORP</Data></Cell>
+  <Cell><Data ss:Type="String">重力脈衝飛雷</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
+  <Cell><Data ss:Type="String">重力脈衝飛雷</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienAssaultLanderDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">突擊登陸幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienDreadnought</Data></Cell>
+  <Cell><Data ss:Type="String">無畏幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
+  <Cell><Data ss:Type="String">重力脈衝飛雷</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DESTROYERSHIELD</Data></Cell>
+  <Cell><Data ss:Type="String">突擊登陸幽浮飛彈防盾</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DESTROYERBEAM</Data></Cell>
+  <Cell><Data ss:Type="String">突擊登陸幽浮等離子炮臺</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DESTROYERMISSILES</Data></Cell>
+  <Cell><Data ss:Type="String">突擊登陸幽浮飛彈發射器</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DREADNOUGHTSHIELD</Data></Cell>
+  <Cell><Data ss:Type="String">無畏幽浮飛彈防盾</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DREADNOUGHTBEAM</Data></Cell>
+  <Cell><Data ss:Type="String">無畏幽浮等離子炮臺</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">AV.DREADNOUGHTCANNON</Data></Cell>
+  <Cell><Data ss:Type="String">無畏幽浮等離子超重炮</Data></Cell>
+ </Row>
+</Table>
+<WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+ <Print>
+  <ValidPrinterInfo/>
+  <HorizontalResolution>300</HorizontalResolution>
+  <VerticalResolution>300</VerticalResolution>
+ </Print>
+ <Selected/>
+ <ProtectObjects>False</ProtectObjects>
+ <ProtectScenarios>False</ProtectScenarios>
+</WorksheetOptions>
+<AutoFilter x:Range="R1C1:R2579C2" xmlns="urn:schemas-microsoft-com:office:excel">
+</AutoFilter>
+ </Worksheet>
+</Workbook>
