@@ -10,17 +10,18 @@
 
 Includes all X:CE mods that are enabled by default.
 
-This mod translates and should be placed above the following mods:
+This mod should be placed above these mods:
 
 Aegis Armor,
 Armoured Assault,
 Extended Weapon Descriptions for Fighters,
 Geographic addition,
 Lore+,
+Xenonauts Fix Pack,
 X:CE Balance Adjustment, and
 X:CE Base Mod.
 
-See mod home for exact version of translated mods: https://github.com/Sheep-y/xenonauts-ce_zh 
+See mod home for exact version of translated mods: https://github.com/Sheep-y/xenonauts-ce_zh
 
 </Description>
 </ModInfo>

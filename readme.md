@@ -9,7 +9,7 @@ For community edition. Includes translation of default enabled X:CE mods and som
 The game's native interface is designed for 1920x1080, and does not handle other resolution well.
 This translation also use it as a standard.
 
-## 安裝方式 Install ##
+## 安裝 Install ##
 
 1. 確保遊戲為社群版 0.34.2 （或以上），而非原版的 1.xx。 <br> Make sure game is Community Edition 0.34.2 (or up), NOT normal version 1.xx.
 2. 將 `mod_xce_zh` 目錄中的 `font`、`launcher`、`splashscreen` 目錄制到 `遊戲目錄/assets`，需覆蓋遊戲的六個檔案。 <br> Copy `font`, `launcher`, and `splashscreen` folders in `mod_xce_zh` to `Xenonauts/assets`, overwriting 6 files.
@@ -36,7 +36,7 @@ This translation also use it as a standard.
 * [ ] Proofreading
 * [ ] Release
 
-## 模組支援 Mod list ##
+## 關聯模組 Relevant Mods ##
 
 XCE mods with translate-able resources.
 
@@ -64,6 +64,10 @@ XCE mods with translate-able resources.
   * Ver 0.34.2, default on.
   * Ignored because it simply swaps colonal and commander title, which is sharp and clear in Chinese.
 
+* Xenonauts Fix Pack
+  * Ver 1.36, default on.
+  * Ignored because its typo and grammer fix to Lore+ applies only to English.
+
 Non-XCE mods with translate-able resoruces.
 
 * Aegia Armor
@@ -81,10 +85,10 @@ Non-XCE mods with translate-able resoruces.
 All fonts are open source and can be transformed freely.
 
 * arial.mvec
-  * Replace with WenQuanYi Micro Hei (文泉驛微米黑)
+  * Replace with WenQuanYi Micro Hei (文泉驛微米黑).
 * xenonauts.mvec
-  * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72
-  * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols
+  * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72.
+  * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols.
 * xenopedia.mvec
-  * Replace with AR PL MingTi (文鼎 PL 明體)
+  * Replace with AR PL MingTi (文鼎 PL 明體).
   * Select underscore (half-width), Move Y 2000, and use it as non-breaking space.
