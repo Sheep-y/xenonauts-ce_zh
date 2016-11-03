@@ -43,7 +43,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="169" x:FullColumns="1" x:FullRows="1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="173" x:FullColumns="1" x:FullRows="1">
    <Column ss:AutoFitWidth="0" ss:Span="1" ss:Width="232.5"/>
    <Column ss:AutoFitWidth="0" ss:Index="3" ss:Width="188.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="130.5"/>
@@ -58,7 +58,7 @@
     <Cell ss:StyleID="s69"><Data ss:Type="String">Interface</Data></Cell>
     <Cell ss:StyleID="s69"><Data ss:Type="String">Description</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="204">
+   <Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型的侵略</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -66,7 +66,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
     <Cell/>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="204">
+   </Row><Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -83,14 +83,14 @@
 在這當中尚餘一線生機：幽浮似乎不適合在大氣層內飛行。也許我們的戰鬥機只是靠主場地利幸運地勝過卓越的外星飛船。這也解釋了為甚麼空中的幽浮數量很少：我們</Data></Cell>
     <Cell/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.mig31</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MIG-32 狐步</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.mig31</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -104,14 +104,14 @@
 
 完成的狐步將會是抗戰異型的有力武裝。它有兩個翼下武裝掛點，各能掛載一支輕型飛彈（例如響尾蛇） MODMERGEREPLACE: 局 MODMERGEWITH: MiG-32“狐步”Foxtort_是蘇維埃_MiG-31_獵狐犬_試驗機的衍生機種。獵狐犬的原意是攔捷</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型合金</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -123,14 +123,14 @@
 
 基於它們神奇的耐熱性，用它們做步兵護甲將會很棒。不幸地，它們強到我們沒</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型等離子手槍</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -142,14 +142,14 @@
 
 這是一把很好的武器，可惜只適合</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型的生理</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -163,14 +163,14 @@
 
  MODMERGEREPLACE: 并 MODMERGEWITH: 是推翻了單一始源論，因為不同異型的基礎生化結構差異甚大。牠們能呼吸同一種空氣並不是出於進化，而是出於深入的基因工程。這款蛋白質在 MODMERGEREPLACE: 併 MODMERGEWITH: 我們現在能做的是在實驗室中設立低氧環境的觀察室，讓我們能保存及近距離觀察活生生的異型。否則在地球表面逗留太久的異型都會死於氧中毒。 MODMERGEREPLACE: 檯 MODMERGEWITH: 就孕育了種種奇珍異獸。這也是我們的早期設想，因為幽浮內的各族共用單一環境，空氣含氧量約_5-6%（地球是_21%）。跟人類一樣，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Alenium</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Alenium</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -182,14 +182,14 @@
 
 仔細看異能晶的分子結構就可以發現 MODMERGEREPLACE: 併 MODMERGEWITH: 所產生的能量。我們沒辦法給異能晶充能，卻能研發出很多使用它的方法，因此我們應努力從幽浮和異型手上收集它。 MODMERGEREPLACE: 檯 MODMERGEWITH: 它結構非常緊緻，能儲藏超乎想像的能量。不過它同時也有異常安定的原子鏈，半週期接近一兆年，即使用</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="102">
+   <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型等離子步槍</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="102">
+   </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -201,14 +201,14 @@
 
 它</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyFabrication</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型合金鍛造</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyFabrication</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -220,14 +220,14 @@
 
 不用多說，這是個重大發現。我們可以用異型的物料大幅改良現有技術，亦可追逐在數星期前還是</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型等離子技術</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -241,14 +241,14 @@
 
 等離子團的產生方式如下：一、異能晶電池送出能</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">激光武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -262,14 +262,14 @@
 
 為了減省士兵的適應時間，這些激光武器的操作方式跟傳統火器相近，射程和準確性也相差無幾。主要的分別是這些</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">速射激光</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -283,14 +283,14 @@
 
 格林激光</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PulseLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">脈衝激光</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PulseLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -302,14 +302,14 @@
 
 除了增大激光發射器，我們也研發了振盪激光的技術，每秒轉變強度幾 MODMERGEREPLACE: 懞 MODMERGEWITH: 著提升裝甲車的戰鬥力。大型版則升級基地的防禦陣地，直連基地的發電機，應能大大 MODMERGEREPLACE: 干 MODMERGEWITH: 脈衝激光的目的是令每發都能做成最大傷害，用強力激光從遠處對防護周全的敵人作出 MODMERGEREPLACE: 蒙 MODMERGEWITH: 發了車載用的小型版，立刻就能裝在獵手戰車上。內建的電池足以驅動好幾發，應能顯 MODMERGEREPLACE: 濛 MODMERGEWITH: 提升迎擊來犯外星飛船的火力，減低登陸部隊的搶攤機率。升級工程早已動工，等你讀 MODMERGEREPLACE: 幹 MODMERGEWITH: 千次。目標不再承受持平的熱照射，而是高速衝擊的熱周波，令物料迅速裂解。面層解 MODMERGEREPLACE: 矇 MODMERGEWITH: 到這篇報告的時候應該已經完成。未來新建的陣地會直接應用激光科技（直到我們有更好的炮）。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.wolf</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰狼戰甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.wolf</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -321,14 +321,14 @@
 
 灰狼戰甲包括幾個部件：連強化護目鏡的裝甲頭盔，分量十足 MODMERGEREPLACE: 矇 MODMERGEWITH: 就沒見過那些苦力笑，連強顏歡笑都沒。他們肯定不知道實驗室的工作可以有多艱苦。做人該知足感恩。 MODMERGEREPLACE: 懞 MODMERGEWITH: 口掛著三寸厚的鋼版。裝甲板和戰鬥服都織有一層高密度超導體線網，能吸收能量武器的 MODMERGEREPLACE: 乾 MODMERGEWITH: 下提供額外保護。每一套戰甲都需要花可觀的金錢和異型合金去製作，但應該會大大提升 MODMERGEREPLACE: 干 MODMERGEWITH: “灰狼”Wolf_戰鬥裝甲直接取代豺狼戰鬥裝甲，利用異型合金的神奇特性給你的手</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型重等離子</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -340,14 +340,14 @@
 
 兩者的主要分別在於槍管。重等離子的槍管較厚 MODMERGEREPLACE: 懞 MODMERGEWITH: 一樣它幾乎一離開槍管就開始解體，有效射程大約只有異型等離子</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="242.25">
+   <Row ss:Height="242.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">非致命武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="242.25">
+   </Row><Row ss:Height="242.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -359,14 +359,14 @@
 
 三是用高壓電流干擾受害者的神經系統，使牠暈倒。這方法非常有效，但也很高風險，因</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">毒氣手雷</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
@@ -380,14 +380,14 @@
 
 這些毒素都不難量產，用傳統的地球技術已經足夠，所以毒氣手雷可以無限量供應。 MODMERGEREPLACE: 榦 MODMERGEWITH: 法放鬆肌肉，先是抽搐，繼而呼吸系統停擺，最終窒息致死。血液毒素也好不到那兒去，一旦吸收入血就會攻 MODMERGEREPLACE: 蒙 MODMERGEWITH: 擊供氧系統。較溫和的毒素會永久綁定輸氧蛋白質，導致血液無法供氧。其他毒素則直接破壞血細胞及血管壁 MODMERGEREPLACE: 干 MODMERGEWITH: 我們研發出一種手雷，會以爆炸點為中心散發出致命的化學毒氣。這毒氣對人對異型都同樣有效，短暫接觸足 MODMERGEREPLACE: 乾 MODMERGEWITH: 以致死。它會直接攻擊之前所找到的異型生物的共通要點，也就是血液系統和神經系統。因此毒氣的成分可以</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型的航電</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -399,14 +399,14 @@
 
 異型在電子零件中採用了氨基酸等有機物，令到電路獲得有限度的有機智能。這些有機</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.corsair</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-37 海賊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.corsair</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -418,14 +418,14 @@
 
 建造一架海賊需要大量的時間、金錢、和異型合金，但我絕對相信傳統戰機會隨著戰爭升溫而迅速落伍。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 動性也能優化高速的表現。第二是全新的_ER-3_異能晶脈衝渦輪引擎，提供的推力比現有的渦輪引擎多 MODMERGEREPLACE: 侷 MODMERGEWITH: 其餘部分也精心挑選較為抵抗異型武器的物料，結果就是比_F-17_神鷲_更快、更耐打，但纏鬥能力一 MODMERGEREPLACE: 彫 MODMERGEWITH: 一倍。將所有改進合起來之後，雖然海賊因裝甲關係比神鷲更大更重，但依然能用_3,000_公里的時速 MODMERGEREPLACE: 局 MODMERGEWITH: X-37“海賊”Corsair_是首架專為對付幽浮而設計戰鬥機。我們在機體中大量採用了異型合金，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.SCIMITAR</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">彎刀裝甲車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.SCIMITAR</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -437,14 +437,14 @@
  MODMERGEREPLACE: 幹 MODMERGEWITH: 的車體較扁而堅固，減低截面並為戰車的引擎提供充足空間。引擎採用_ER-4_異能晶脈衝引擎，是海賊的_ MODMERGEREPLACE: 矇 MODMERGEWITH: 的目標，這些裝甲非常重要。第二就是將有血有肉的角色換成一塊鐵（即使是很貴的鐵）也許能減輕你在戰場上的決策壓力。 MODMERGEREPLACE: 干 MODMERGEWITH: 我們終於完成了_VH-2_彎刀的設計。它是一輛遙控的戰車，能近距離支援我們的地面部隊。雖然比獵手裝甲 MODMERGEREPLACE: 蒙 MODMERGEWITH: 內的半智能異型電路能代控制員處理多項簡單的工作，令控制員能坐在安全的基地。我甚至親自給運輸機安裝了訊 MODMERGEREPLACE: 榦 MODMERGEWITH: ER-3_異能晶脈衝引擎的縮小版。炮塔直接從引擎獲取能源，省卻炮塔的彈倉，省下的空間用來裝傳感器。車 MODMERGEREPLACE: 濛 MODMERGEWITH: 
 拿走駕駛員有幾大好處。首先是駕駛座和空調的空間可以拿來換裝甲，當然是異型合金裝甲。由於戰車是個顯眼</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ElectroshockGrenade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">電擊手雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ElectroshockGrenade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -456,14 +456,14 @@
 
 讓我向你介紹電擊手雷。它不會爆炸，但會產生一度</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.buzzard</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">狼鷲飛行裝</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.buzzard</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -475,14 +475,14 @@
 
 想當然，在戰場上“跳”上屋頂或跨過障礙物的能力會 MODMERGEREPLACE: 懞 MODMERGEWITH: 不過這也意味著在飛行期間他們不能操作武器。從異型的多角度推力裝置複制而來的向量推力噴</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型等離子炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -494,14 +494,14 @@
 
 幸運地，異型的合金對等離子的抗力比傳統物強上不少。我們 MODMERGEREPLACE: 鵰 MODMERGEWITH: 推測這是因為傳統鋼鐵受到攻擊的時候會汽化，圍著電漿團構成一個彈體，做成穿甲效果。而異型合金的高熔點可以防止這種事 MODMERGEREPLACE: 琱 MODMERGEWITH: 一防爆焰應該可以，特別是灰狼甲。我已經向你的手下警告過這武器的強大威力，要是他們聰明的話見到它開火就會知道要跑。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -513,14 +513,14 @@
 
 這個驚人的貫穿力其實不一定可怕。雖</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型基地的中樞</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -534,14 +534,14 @@
 
 P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。 MODMERGEREPLACE: 並 MODMERGEWITH: 令官，因為司令官在異型中有一定的地位及重要的機密情報。如此屬實，那就冒必要抓到牠。攻佔指揮室並掃盪全基地的難度遠大於摧毀動力爐，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地升級</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -553,14 +553,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 其他改進包括廚房的激光烤爐，烤熟食物只需要幾秒，及娛樂室新添置的浮影遊戲 MODMERGEREPLACE: 幹 MODMERGEWITH: 以自動處理多種耗時的程序，大大解放我的團隊的充足腦力。升級的實驗室也裝設了隔音裝置，保障我們免</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -572,14 +572,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 最後就是， MODMERGEREPLACE: 琱 MODMERGEWITH: 下最少六個獎，希望你能用新的等離子武器好好保衛斯德哥爾摩直到戰爭結束好讓我後過去領獎。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">多角度推力陣列</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -591,14 +591,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 統 MODMERGEREPLACE: 跼 MODMERGEWITH: 器都有一層佈滿細小襟翼的“甲殼”，每塊都能輸出微量的向量推力，令到每支噴射器都有驚人的精度。裝上一打或更多的 MODMERGEREPLACE: 鵰 MODMERGEWITH: 合噴射器的“大腦”約有汽車引擎那麼大，裡面是密密麻麻的生體電路。我們相信它會採集傳感器的訊息並自動糾正幽浮的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">D-42 伯勞鳥</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -610,14 +610,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 伯勞鳥的機體四方而粗壯，雖然難看但很實用。它由一對可旋轉的_TF-19_渦輪風扇 MODMERGEREPLACE: 彫 MODMERGEWITH: 是新引擎提升的載重。跟_CH-48_查理_相比，伯勞鳥的裝甲機艙能運送十名全副武裝的士兵（多 MODMERGEREPLACE: 琱 MODMERGEWITH: 了兩名），而前後兩面的開口也帶給士兵更多進出的選擇。即使是比我蠢的人都應該能理解多帶四分一的部隊的優勢。 MODMERGEREPLACE: 局 MODMERGEWITH: D-42“伯勞鳥”Shrike_是一架垂直升降的航機，揉合了直昇機的即場起降能力及傳統飛機的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型反應堆</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -629,14 +629,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 它用的異能晶核心跟動力爐相同，沒有其他秘密的動力來源。反應爐的 MODMERGEREPLACE: 挶 MODMERGEWITH: 主要改進是提升了抽取能量的效率；似乎能源爐是最簡單的異能晶裝置，結構簡單但低效率。入侵的主力幽浮變得越來越</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型裝甲板</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -648,14 +648,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 這不是甚麼新鮮的事；鋼鐵的淬火，也就是將燒紅的鋼鐵 MODMERGEREPLACE: 侷 MODMERGEWITH: 同等重量的標準的幽浮外殼多耐打_50%。兩者的密度和成分都差不多，這韌性的差異是源自生產過程所導致的結構 MODMERGEREPLACE: 跼 MODMERGEWITH: 化的原子排列，井然有序。但異型裝甲板所用的各種合金卻有非結晶的原子結構。非結晶結構的原子是無序的，能防止 MODMERGEREPLACE: 彫 MODMERGEWITH: 內冷卻足足一百萬度攝氐。戰爭剛開始的時候也許不可能（只是也許），但以我的高超智慧（加上異型合金）我們現在</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.predator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">獵戶突擊裝甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.predator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -669,14 +669,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 獵戶的主要裝甲足足有一寸厚，用強化的異型合金一體成型，而關節位也用上多層連鎖的薄甲板確保防護 MODMERGEREPLACE: 臺 MODMERGEWITH: S-2“獵戶”Predator_突擊裝甲是一套自帶動力的個人外骨骼，專為重火力突擊而設。它有超卓的保護力，並能輔助重型武器的使用，免卻回彈力的限制</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型奇點爐</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -690,14 +690,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 裝置內的奇點似乎永遠處於崩潰邊緣，由圍繞它的粒子場</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.sentinel</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">衛士戰衣</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.sentinel</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -709,14 +709,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 衛士有數以千計的微形感測器，偵察及輔助穿載者的動作，令它像一層皮膚多於半 MODMERGEREPLACE: 濛 MODMERGEWITH: 度的精細工藝絕對做不到獵戶的防護力。獵戶那相對原始的設計始終能吸收較多傷害，依然是突擊的首選，但 MODMERGEREPLACE: 矇 MODMERGEWITH: 在其餘情況下衛士甲比較有戰術彈性。兩者混合使用就能互補不足，一起為戰場護甲的發展劃下完美的句號。 MODMERGEREPLACE: 干 MODMERGEWITH: S-6“衛士”Sentinel_戰衣是套多用途戰術外骨骼。它的保護能力不及_S-2_獵戶_外骨骼</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">電磁武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -728,14 +728,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 現階段的電磁武器有手槍、霰彈槍、步槍、狙擊槍四種，可以被士兵輕易攜帶，但 MODMERGEREPLACE: 跼 MODMERGEWITH: 多相似之處，不過等離子武器的電磁鐵只是一個過程，而線圈武器的重點根本就是電磁線圈。很多等離子武器的技術都 MODMERGEREPLACE: 琱 MODMERGEWITH: 力的高溫會引爆彈頭後面的空氣，高機率殺傷發射武器的士兵。現在我們的武器發展到了一個極點，受大氣所限大於受技術所限。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-120 天怒</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -749,14 +749,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 想當然耳，這些怪獸級的引擎和先進的飛控系統都會消耗龐大的能量，只有奇點爐可以滿足需求。因此每製作一架天怒都要先虜獲一隻異型的主力幽浮。 MODMERGEREPLACE: 懞 MODMERGEWITH: 。在此速度下空氣阻力會將航機的表面燒到攝氏_4,000_度，以地球的技術只能用需要每次替換的太空船隔熱磚去阻隔。不過，這對硬化過的異型合金完全不是問題，根 MODMERGEREPLACE: 干 MODMERGEWITH: X-120“天怒”Fury_戰鬥機是終極的空戰武器。這架無人機有近乎無限的航程，速度和爬升極限能追上任何幽浮，亦能甩掉任何幽浮。它的巡航速度達_8_馬赫（ MODMERGEREPLACE: 幹 MODMERGEWITH: Blackbird_影響，其極高的速度和高度基本上完全免疫傳統武器（不過以我們的戰力，要對付地球的軍隊綽綽有餘）。天怒的設計經進一步改良和進化，包括移走機</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">奇點飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -768,14 +768,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 其餘部分相對簡單；主推進器是超音 MODMERGEREPLACE: 局 MODMERGEWITH: 奇點飛雷是史上最具破壞力的人造武器。它發出的球體能量會將半徑五公里以內的所有物質立刻還原成基本原子</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.marauder</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">X-59 賊王</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.marauder</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -787,14 +787,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 性能的最大改良源自拋開飛機的傳統設計。賊王的機體整合了強力的推力 MODMERGEREPLACE: 彫 MODMERGEWITH: 成，最厚有四寸，像飛行坦克多於普通戰鬥機。增大的引擎出力讓它可以同時攜帶機炮和飛雷，比 MODMERGEREPLACE: 鵰 MODMERGEWITH: 大部分的氣動力顧慮，我們可以專心提升戰鬥效能。它的裝甲“外殼”完全由強化過的異型合金制 MODMERGEREPLACE: 侷 MODMERGEWITH: 又高火力（一支機載炮、兩支飛彈或飛雷），還能進行迴避翻滾。它既能打靈活的空戰幽浮，也能 MODMERGEREPLACE: 琱 MODMERGEWITH: 前代都更為面面俱圓。綜合以上的賊王粗大、難看、會破壞所遇上的一切事物（跟我們的工程師一樣）。 MODMERGEREPLACE: 局 MODMERGEWITH: X-59“賊王”Marauder_是設計來攔截所有已知幽浮的先進戰鬥機。又快，又耐打，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HYPERION</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">太陽神浮空坦克</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HYPERION</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -806,14 +806,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 太陽神的戰鬥力遠大於它所取代的彎刀，有更高的機</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型反重力儀</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -825,14 +825,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 本裝置的運作跟重力子有關。重力子是重力的載體，如同光子是光的載體。這裝置 MODMERGEREPLACE: 彫 MODMERGEWITH: 會持續產生反重力子，跟範圍內的重力子配對並湮滅，大減場內遭受的重力達九成，也就是說場內的 MODMERGEREPLACE: 挶 MODMERGEWITH: 拉扯物件的作用力。這裝置會產生一度地區性的場，阻絕場內物件所受的引力，在不改變這些物件的 MODMERGEREPLACE: 局 MODMERGEWITH: 我們接觸過的巨型幽浮很重很重，重到我們完全無法理解單用推進器能怎樣在空中飛行。反重力儀解 MODMERGEREPLACE: 雕 MODMERGEWITH: 少於原本所需/所能產生的推力。即是說如果有主力幽浮在我們的空中發生反重力場故障，它的下場 MODMERGEREPLACE: 跼 MODMERGEWITH: 前提下大大減輕重量，甚至不用改變質量。設有此裝置的幽浮只需要用少許的推力就能浮在空中，遠</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型通訊陣列</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -846,14 +846,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 這短暫的時刻令到攔截異型通訊非常困難，不過由於實在是太頻密所以地上的天線總會 MODMERGEREPLACE: 局 MODMERGEWITH: 不論是相距隔幾公里還是相隔整個太陽系，幽浮都是用電波互相通訊。它們的長程通程經過高度壓縮，只需幾納秒 MODMERGEREPLACE: 琱 MODMERGEWITH: 
 順便補充一下，全世界都在拼命破譯的通訊是關於異型所抓的一條不幸的淡水三文魚的解剖報告。我們最好還是別告訴他們。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s82">
+   <Row ss:Height="114.75" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">核融彈頭</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75" ss:StyleID="s82">
+   </Row><Row ss:Height="114.75" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -865,14 +865,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 這些核融武器做成的傷害比等離子 MODMERGEREPLACE: 矇 MODMERGEWITH: 是破壞幽浮的耐熱表層，令緊接而來的熱衝擊波更有效。不得不讚一下我的這設計。 MODMERGEREPLACE: 幹 MODMERGEWITH: 彈頭大，其餘表現則差不多。飛彈的當量約五百噸，飛雷約兩千噸，雖 MODMERGEREPLACE: 濛 MODMERGEWITH: 圓錐汽化，化成一串超音速粒子流。它的破壞力頗為可觀，但主要目的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">突擊盾</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -884,14 +884,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 強化異型合 MODMERGEREPLACE: 跼 MODMERGEWITH: 困難，所以主要的取捨是要計一個較便的盾還是維持重量但提升保 MODMERGEREPLACE: 琱 MODMERGEWITH: 只能拿手槍。請記著盾不是萬全的，露出盾外的身體部位總有機會被打中。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="102">
+   <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">量子加密破譯中心</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="102">
+   </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -903,14 +903,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 利用我的團隊在研究異型通訊陣列時所開發的破譯算法， MODMERGEREPLACE: 榦 MODMERGEWITH: 供。破譯中心所用的動態超級電腦架構能追蹤無限量的幽浮，要追蹤多艘幽浮只需要提升供電。 MODMERGEREPLACE: 矇 MODMERGEWITH: 不可能的事，幸運地有我在。有了這建築，不論是防空戰略還是出擊前的部隊選配都應該更得心應手。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">D-54 女武神</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -924,14 +924,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 女武 MODMERGEREPLACE: 挶 MODMERGEWITH: -23_異能晶脈衝反應爐，我們就有了能載十二名士兵或同等戰力的運輸機。考慮到我們的戰車和戰甲越來越重，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="102">
+   <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFirePlasmas</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">速射等離子</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="102">
+   </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFirePlasmas</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -943,14 +943,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 兩者都利用大型的產生器陣列去持續 MODMERGEREPLACE: 琱 MODMERGEWITH: 速跟等離子武器的高傷害合二為一。為了對抗外星生物，兩者都是實用的升級。 MODMERGEREPLACE: 局 MODMERGEWITH: 現在我們有了等離子版的輕型步兵武器，但還沒有對等的速射武器例 MODMERGEREPLACE: 雕 MODMERGEWITH: 散，導玫短射程及低下的貫穿力。我們的解決辦法是在槍管裝上一圈 MODMERGEREPLACE: 侷 MODMERGEWITH: 如機槍或機載炮。為此我們設計了步兵用的等離子噴射器和機載的等 MODMERGEREPLACE: 跼 MODMERGEWITH: 噴出大量等離子。一般情況下這樣的等離子流難以聚焦，很快就會消 MODMERGEREPLACE: 鵰 MODMERGEWITH: 五個的重力子發射器。它們會逐一連環發射，為等離子流注入重力子</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子集束炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -962,14 +962,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 武器的等離子產生器採用步兵武器的升級版，用盡建築或戰車所提 MODMERGEREPLACE: 臺 MODMERGEWITH: 等離子集束炮是發射爆炸性等離子團的重型武器，能對目標和附近範圍做成嚴重破壞。基地中的防禦陣地已 MODMERGEREPLACE: 併 MODMERGEWITH: 器，跟原來的一組配合，發出成對互相環行的重力子。這樣就能令整束等離子一直旋轉，保持穩定的彈道達幾公里之遠。 MODMERGEREPLACE: 並 MODMERGEWITH: 加的旋轉力只能維持一百米左右（作為對空武器形同虛設）。但我們發現可以在槍口加上第二組重力子發射 MODMERGEREPLACE: 檯 MODMERGEWITH: 供的每寸空間。為了提升出力，其餘部分也都按各自的需要增大了，例如異能晶電池的就加得特別大以增加</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子彈頭</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -981,14 +981,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 現有的異能晶彈頭絕對不弱，不過始終依賴熱爆炸去穿甲 MODMERGEREPLACE: 跼 MODMERGEWITH: 是在爆炸前用異能晶的能量驅動小型的等離子產生器，形成一股高能等離 MODMERGEREPLACE: 彫 MODMERGEWITH: 於貫穿力的提升所以破壞力也增加了一半左右。其他數值基本不變；我們 MODMERGEREPLACE: 局 MODMERGEWITH: 新開發的等離子彈頭是新一代的先進空對空武器，可以完全替換現有的異 MODMERGEREPLACE: 雕 MODMERGEWITH: 子團。效果就如同利用一個等離子“鑽頭”借助火箭的動能去溶解、穿透 MODMERGEREPLACE: 琱 MODMERGEWITH: 可以直接無視成本量產新彈頭並換裝現有的導彈。我已經代你指示我們的戰機升級武裝。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型核融合爐</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1000,14 +1000,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 反應爐並不以異能晶作燃料，異能晶只 MODMERGEREPLACE: 雕 MODMERGEWITH: 爐的主要限制是設計複雜，相比單純的異能晶反應爐要多化很多時間建造。因此它很適合較大的幽浮，它們 MODMERGEREPLACE: 挶 MODMERGEWITH: 提供撞擊重氫（一種氫同位素）所需的能量，以產生核聚變反應，從反應獲得能量。異能晶的功用相等於起 MODMERGEREPLACE: 彫 MODMERGEWITH: 合反應爐。雖然微型化導玫效率降低，不過以它那汽車引擎的大小來說它能產的能量是其他所有設計的廿倍 MODMERGEREPLACE: 跼 MODMERGEWITH: 動馬達。重氫隨處可見，所需的量也不多，因此從少量的異能晶就能獲得遠大於異能晶所含的能量。核融合</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型超空間引擎</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1021,14 +1021,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 接通這“通道”後，裝置就停止運作</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">速射電磁彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1040,14 +1040,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 這技術同時適用於低口 MODMERGEREPLACE: 琱 MODMERGEWITH: 徑的步兵武器和大口徑的機載武器。這是我們的終極速射武器；你的手下已經急不可耐想要它。 MODMERGEREPLACE: 侷 MODMERGEWITH: 切。電磁武器科技的細節非常複雜，跟傳統彈道武器很不同，不過兩者依然有共</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">磁軌炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1059,14 +1059,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 我們的原 MODMERGEREPLACE: 並 MODMERGEWITH: 是很有的武器，可以一炮摧毀大部分目標，並產生大爆炸去破壞附近的任何東西。我們已經升級了基地的 MODMERGEREPLACE: 檯 MODMERGEWITH: 對正負兩極的電磁軌道推進炮彈。炮彈處於中央，連接兩邊成為迴路的一部分，產生推動自己的電磁力， MODMERGEREPLACE: 并 MODMERGEWITH: 型炮很強，甚至強到可以將炮彈打到太空軌道……只不過炮彈會被空氣阻力磨到沒意思這樣做。但它依然</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">獵手裝甲車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1080,14 +1080,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 你 MODMERGEREPLACE: 併 MODMERGEWITH: 可以去工房下令開始制作獵手。提醒那幫粗人要照足藍圖做，一分都不能偏；如果他們能理解設計動機的話就該是在實驗室工作而不是工房。 MODMERGEREPLACE: 臺 MODMERGEWITH: “獵手”Hunter_偵察戰車是一輛小型的裝甲車，能在地面戰鬥中協助偵察和提供火力支援。它會佔用運輸船的兩名運載</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.jackal</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">豺狼戰甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.jackal</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1099,14 +1099,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 提升防護率的代價是它重量不輕，會減少彈藥等其他戰鬥裝備的攜帶量。受到 MODMERGEREPLACE: 干 MODMERGEWITH: “豺狼”Jackal_戰鬥護甲給我們的士兵提供額外保護，但會增加他們的負重</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶炸彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1118,14 +1118,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 異能晶渣滓所含的能量依然高於同等分量的黃色炸藥。我的團隊計 MODMERGEREPLACE: 彫 MODMERGEWITH: 放。火箭彈的彈頭足夠大，會做成大爆炸。手雷則會將鋼殼化成玫命的破片雲。注意的是它 MODMERGEREPLACE: 雕 MODMERGEWITH: 基本上可以無限量供應。你的手下頗為著迷：他們花了很長時間測試，長到測試場需要進行 MODMERGEREPLACE: 局 MODMERGEWITH: 在幽浮內搜到的異能晶大都是動力爐用剩的殘餘物，沒有作為燃料的價值。這些劣質異能晶 MODMERGEREPLACE: 侷 MODMERGEWITH: 只能燒幾分鐘，而全新的異能晶可以燒數小時。但我想到一個方法利用這些不愁供應的廢棄 MODMERGEREPLACE: 琱 MODMERGEWITH: 們炸的不止是異型，也包括異型的外星裝備。被炸死的異型連屍骨都不全，更妄論手持的裝備。 MODMERGEREPLACE: 跼 MODMERGEWITH: 了改良的高爆火箭彈和破片手雷，換上異能晶炸藥後破壞力提升了約一半。由於材料充足，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶彈頭</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1137,14 +1137,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 為了提升</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子炸彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1156,14 +1156,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 我們設計了等離子手雷及等離子火箭，取代現有的異能晶爆炸武 MODMERGEREPLACE: 濛 MODMERGEWITH: 器，以及等離子炸彈取代現有的_C4_炸藥包。這些等離子爆破物幾乎可以供限量供應 MODMERGEREPLACE: 榦 MODMERGEWITH: 作為武器，用這些能量去產生等離子團會比較有效。為此我們開發了微型的等離子產生器 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。等離子團會推開週圍的空氣，而不需透過空氣傳遞能量，省下耗在熱阻上的能量就可以</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">核融炸彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1175,14 +1175,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 要做到這點就需要用其他方法獲得足夠大的能量，能令彈頭內的重氫和 MODMERGEREPLACE: 颱 MODMERGEWITH: 合作為戰術武器用。它們不單止強，而且能將爆炸範圍限制到不會炸到使用者，也可以在友方的地上安 MODMERGEREPLACE: 臺 MODMERGEWITH: 傳統的二段式原子/氫彈的大部分爆炸能量來自第一階段用來啟動核融合的的核分裂爆炸，而不是來自 MODMERGEREPLACE: 檯 MODMERGEWITH: 。只有不顧士兵死活的指揮官會給部隊配給短程核聚變武器...但迷你的純核融合就不同了，完全適</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+   <Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">獵手“毒蛇”炮塔</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="89.25">
+   </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1194,14 +1194,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 它所用的高爆火箭改裝自輕型的空對空飛彈，爆炸範圍 MODMERGEREPLACE: 臺 MODMERGEWITH: “毒蛇”Viper_火箭炮塔是獵手偵察戰車的另一炮塔選 MODMERGEREPLACE: 併 MODMERGEWITH: 
 不過很多時士兵的名會比回收更重要。你可以隨時去車房指示換裝。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型戰鬥步槍</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1221,14 +1221,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s89"/>
     <Cell ss:StyleID="s89"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰人解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1240,14 +1240,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 物理上，灰人比人類弱，肌肉較弱而且骨骼的乘重只有人類骨骼的_60%。兩者都可能是長期活於 MODMERGEREPLACE: 懞 MODMERGEWITH: 生殖器官不是沒有，但同樣極度衰退。這兒發生的並不單單是單性繁殖，而且是用科技進行的繁殖。脊骨上部有個金屬活閂， MODMERGEREPLACE: 干 MODMERGEWITH: 灰人_Caesan_是人型的異型，高約_1.7_米。像你一樣，我們都很驚訝牠跟人類是如此相似；我們相信偶然發生 MODMERGEREPLACE: 蒙 MODMERGEWITH: 層面可見深入的基因改造。灰人的身體組織只有只性染色體，而且所有灰人戰鬥員的基因完全一樣，也就是說牠們是複制體。 MODMERGEREPLACE: 幹 MODMERGEWITH: 低重力環境的結果。生理結構也可疑地跟人類非常相近，大部分器官都很相似，骨骼結構也差不多。有幾項差異之處值得一提 MODMERGEREPLACE: 矇 MODMERGEWITH: 以完全省略，營養可以在過濾血液的過程中直接注入血漿。外星的科技是不是已經超越了肉體？這些屍首帶來的問題比解答更多。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1259,7 +1259,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 牠們的皮鱗最厚可達一寸，是對彈道武器的天然防護。鱗片之下是厚實的肌肉及粗硬的骨頭，兩者都能抵禦一定 MODMERGEREPLACE: 彫 MODMERGEWITH: 一樣，強壯肌肉之下埋藏的是小腦袋。斯巴蜥人對戰術的理解應該跟牠們對莎士比亞著作的理解一樣深入。牠們的熱能視力也不很</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1267,7 +1267,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1280,7 +1280,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 安卓機人的技術既簡單又複雜。設計很簡約，胸口裡有一個裝甲室，安裝了一個異能晶反應爐，能量管道從背部出去連結全身。每個關節都兼具有力的液壓馬達伺</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">鬼靈解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1288,7 +1288,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1303,14 +1303,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 鬼靈的肌肉發達但普通，力量及持久力跟人類相若。器官有四個，全都無法辨認，估計混合多種功能。每個器官都有手術植入的裝甲</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number"/></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">醜魔解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1324,7 +1324,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 裝甲背部的跳躍裝置基本上是幽浮推進器的微型版。控制它們的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">鐮刀蟲解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1333,7 +1333,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell/>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
     <Cell/>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1349,14 +1349,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 不過這些原始的恐怖蟲子也有明顯的弱點。牠們沒有遠程武器，甲質外殼也相對脆弱，只要在空曠的地方或用其他方法及早看見就沒問題。牠們的智力也</Data></Cell>
     <Cell/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">裁判官解剖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1370,14 +1370,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 我應該不需要解釋這些生物的靈能非常非常危險。你也別以為牠們很易殺；我強烈懷疑牠們的靈能護盾已經超越傳統護甲的境界。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">輕型無人機殘骸</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1389,14 +1389,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 無人機的整合式武器很不尋常，我們暫稱之為“掃射炮”。它的等離子產生器強調射速高於一切，達成很 MODMERGEREPLACE: 颱 MODMERGEWITH: 的。尾部的引擎陣列推供前向推力，懸浮及其他推力則由底部的十二個小型推進器提供。前頭裝設的感應器能監察整個電波譜， MODMERGEREPLACE: 檯 MODMERGEWITH: 心的異能晶動力爐只有拳頭那麼大，而圍繞它的大堆異型電路應該就是腦袋。由於找不到明顯的接收天線，它可能是全自動運作 MODMERGEREPLACE: 併 MODMERGEWITH: 令我懷疑它們只是拋棄式的偵察單位，主要目的只是尋找並壓制敵人，好讓伴隨的異型更容易解決對手。是支援機而不是獵殺機吧。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">中型無人機殘骸</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1408,14 +1408,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 可以將中型無人機視作一艘迷你幽浮。一寸厚的外殼 MODMERGEREPLACE: 檯 MODMERGEWITH: 用的材料跟空戰幽浮的一樣，既輕且硬，飛彈都能抗了要對抗步兵武器是輕易而舉。飛行管制電路和武器 MODMERGEREPLACE: 併 MODMERGEWITH: 以提升射擊速率。當無人機被破壞時，這些存起來的能量就會被釋放，做成足以殺傷附近人物的二次爆炸。 MODMERGEREPLACE: 臺 MODMERGEWITH: 中型無人機_Medium_Drone_直徑約_2_米。它是目前來說最像異型戰車的單位，有重裝</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">重型無人機殘骸</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1427,14 +1427,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 毫無問此報告所說的是異型的重型突擊 MODMERGEREPLACE: 雕 MODMERGEWITH: 它開了些洞）。裝甲厚到異型需要轉用反重力儀去浮起它，傳統推進器推不動，太重了。因 MODMERGEREPLACE: 跼 MODMERGEWITH: 單位。這巨獸的裝甲跟主力幽浮的一樣，連實驗室的設備都難以將它切開（感謝你的手下給</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1446,7 +1446,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 掃瞄顯示牠們的腦組 MODMERGEREPLACE: 矇 MODMERGEWITH: 合了牠們在裝備、戰術、生理層面上的弱點。這些知識能令他們對灰人做成的傷害增加約十分一。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1454,7 +1454,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data>
     </Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1467,14 +1467,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 是項研究有兩項成果。一是</Data>
     </Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s82">
+   <Row ss:Height="140.25" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">鬼靈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25" ss:StyleID="s82">
+   </Row><Row ss:Height="140.25" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1486,14 +1486,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 鬼靈不論身手都非常異類，切合異型之名。其他的異型只 MODMERGEREPLACE: 跼 MODMERGEWITH: 如果有多人從多方位同時接近，牠會不停原地轉身直到大家離開，有一次連續轉了幾小時。你的手下覺得這很有 MODMERGEREPLACE: 局 MODMERGEWITH: 切除觀察目標頭上的發光肉塊似乎真的會令牠無法傳送，不過為以防萬一我會繼續派駐守衛。跟往常一樣，牠的 MODMERGEREPLACE: 彫 MODMERGEWITH: 令牠們如虎添翼；我們已經確認了鬼靈從密室直接傳送而出的證供。值得興幸的是這能力的距離有限，牠們在每</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">醜魔</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1505,14 +1505,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 似乎牠們只是可憐的活工具，沒有感情也沒有思想。但這些都不影響牠們的戰鬥效率；牠們依然是視距長遠的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">鐮刀蟲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1534,14 +1534,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s89"/>
     <Cell ss:StyleID="s89"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="204">
+   <Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">審問異型</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="204">
+   </Row><Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1553,7 +1553,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 所以是次研究找到了跟異型溝通的方式是最重要的大事。異型的聲帶嚴重退化，因為牠們用電波進行心靈感 MODMERGEREPLACE: 濛 MODMERGEWITH: 沒有用的時候，我們當中有人給牠一柄手槍，命令牠殺死自己。牠立刻照做，肝腦塗地。似乎這些異型士兵只是無意志 MODMERGEREPLACE: 懞 MODMERGEWITH: 新指令，其他的一概不管。有趣的是，牠絕對遵循我們給的指令，例如在觀察室內走動。最後當我們很清楚再問下去也 MODMERGEREPLACE: 幹 MODMERGEWITH: 應，不再需要發聲。異型的“詞語”就是一組組的短電波。耗能，但有效。我們用實驗器材錄下觀察對像的電訊，以不 MODMERGEREPLACE: 榦 MODMERGEWITH: 同的組合回播，從而建構出基礎的異型詞彙。我們的密碼學家解譯了一些，足以進行簡單溝通及擴展詞彙。雖然我從不 MODMERGEREPLACE: 干 MODMERGEWITH: 只要找不到跟外星入侵者溝通的方法，地球就永無和平，戰爭只能以其中一方的滅絕作為終結，算得上星際等級的種族</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">審問異型士官</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1561,7 +1561,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
     <Cell/>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1574,7 +1574,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 異型的思路很奇特；我們已經知道同類同級的異型是完全相同的複制體，但這些生物更 MODMERGEREPLACE: 雕 MODMERGEWITH: 們就不認為“自己”死了。這令審問困難重重，不理解死亡的生物無法被威脅，審問所用的代名</Data></Cell>
     <Cell/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">審問異型領袖</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1582,7 +1582,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
     <Cell/>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1595,14 +1595,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 這帝國由名為裁判官的統治階層管理。雖然其他異型都是忠實執行命令的複制體，但裁判官不同。牠們是</Data></Cell>
     <Cell/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PraetorInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">審問裁判官</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PraetorInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1618,14 +1618,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 然後牠們進行基因改良，賦予自己超卓的靈能。牠們成為了星際暴君，以“提升”為名不停地尋找並勞役智慧生物，例如不朽的生 MODMERGEREPLACE: 台 MODMERGEWITH: 
 裁判官是在幾百萬年前開發了超空間科技的遠古種族。牠們的歷史不值一提，直到遇上了灰人。古時的灰人殖民了自己的星系，但缺乏</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+   <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">終局行動</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="191.25">
+   </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1641,14 +1641,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 我們在實驗室內已經做出了一部超空間禁制器。原理跟電</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">FinalMissionBriefing</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">最終任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">FinalMissionBriefing</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1670,14 +1670,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s89"/>
     <Cell ss:StyleID="s89"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="165.75">
+   <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.lightscout</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">偵察幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="165.75">
+   </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.lightscout</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1689,14 +1689,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 它長約十二米，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.scout</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">偵察幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.scout</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1708,14 +1708,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 結構上 MODMERGEREPLACE: 干 MODMERGEWITH: 偵察幽浮_Scout_是比偵察幽浮略大的小型飛船，乘員也較</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="102">
+   <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.corvette</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">護衛幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="102">
+   </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.corvette</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1727,14 +1727,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 裝甲的材質相同於小型幽浮，只不 MODMERGEREPLACE: 颱 MODMERGEWITH: 幽浮它比較慢和笨拙，避不過重型飛雷。這些引擎需要多一個動力爐，及提升的動力傳送系 MODMERGEREPLACE: 並 MODMERGEWITH: 向的重型等離子炮，射速慢但所射出的高爆等離子團對地對空都同樣有力。這些等離子團很</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.landingship</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">運輸幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.landingship</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1746,14 +1746,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 這飛碟分成上層的控制 MODMERGEREPLACE: 彫 MODMERGEWITH: 幽浮更薄！我們已經採集樣本，方便日後研究它。飛船的主武裝是護衛 MODMERGEREPLACE: 琱 MODMERGEWITH: 幽浮主炮的放大版，但它也裝設了速射型的副武裝，火力足以令我們不建議迎面直擊。 MODMERGEREPLACE: 挶 MODMERGEWITH: 室及下層的大型貨倉，可以容納恐襲部隊甚或建設永久性地面基地所需</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.cruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.cruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1765,14 +1765,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 值得注意的是裝甲板的分佈。飛碟主體中的載客機艙的裝 MODMERGEREPLACE: 彫 MODMERGEWITH: 甲是翼部裝甲的兩倍厚，不單止耐打而且能保護機艙內的突擊隊直到牠們實際登 MODMERGEREPLACE: 局 MODMERGEWITH: 巡洋幽浮_Cruiser_屬於大型的主力幽浮。它是適性廣的多用途飛船， MODMERGEREPLACE: 跼 MODMERGEWITH: 助系統都裝在翼上，主要是翼內的維生系統及翼沿的轉向推進器。這就能空出飛 MODMERGEREPLACE: 挶 MODMERGEWITH: 兩層，上層是控制室，下層是機艙，主體兩邊有向前伸的“雙翼”。大部分的輔</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="102">
+   <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.carrier</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">航母幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="102">
+   </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.carrier</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1784,14 +1784,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 航母幽浮的規劃跟運輸幽浮差不多，基本只是艘（ MODMERGEREPLACE: 雕 MODMERGEWITH: 幽浮依然能運載大量恐襲部隊或足以建設大型地表基地的設備。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 下層的機艙有三個出入口，而上層則有控制室、核融合爐、超空 MODMERGEREPLACE: 侷 MODMERGEWITH: 。顧名思義，它隨時攜帶著兩艘空戰幽浮作為護衛，當遇襲時就</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.battleship</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">戰列幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.battleship</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1803,14 +1803,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
  MODMERGEREPLACE: 挶 MODMERGEWITH: 說它是怪物完全不過分，當其他幽浮只有一寸裝甲的時候，它掛的是一尺強 MODMERGEREPLACE: 局 MODMERGEWITH: 戰列幽浮_Battleship_是搭載精英異型士兵的龐大幽浮。它的 MODMERGEREPLACE: 跼 MODMERGEWITH: 化異型合金，傳統武器算是完全無效。重一千噸的它可以用時速三千公里劃 MODMERGEREPLACE: 彫 MODMERGEWITH: 一切努力將它完整回收，因為它們將會越來越頻繁地出現。考慮到擊落它所 MODMERGEREPLACE: 鵰 MODMERGEWITH: 
 不論是懸浮、飛行、還是射擊都需要遠遠超越以往所見的動力來源。請盡</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.fighter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">空戰幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.fighter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1822,14 +1822,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 它</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.heavyfighter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">重型空戰幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.heavyfighter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1841,14 +1841,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 拆開中央的飛碟就能得知機師的真面目：一隻醜魔保持著胎兒的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.interceptor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">截擊幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.interceptor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1860,14 +1860,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 尾部的推進系統利用脈衝技術達 MODMERGEREPLACE: 併 MODMERGEWITH: 為太空戰鬥而設的。它在太空中大概無人能敵，不過在天空的話我們也許能做得更好。 MODMERGEREPLACE: 并 MODMERGEWITH: 提升了防禦力。每隻翼都有三管強力的速射等離子炮，及一管大型“飛彈”發射器 MODMERGEREPLACE: 臺 MODMERGEWITH: 截擊幽浮_Interceptor_似乎是異型的終極空優用幽浮。別被它簡約 MODMERGEREPLACE: 檯 MODMERGEWITH: 到時速_3,800_公里，並能用向量推力裝置在眨眼間轉向。中央部分有一具</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="153">
+   <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">轟擊幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="153">
+   </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1879,14 +1879,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 </Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+   <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.strikecruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋轟擊幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="140.25">
+   </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.strikecruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1906,14 +1906,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s89"/>
     <Cell ss:StyleID="s89"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.f17</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">F-17 神鷲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.f17</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1925,14 +1925,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 神鷲的整體 MODMERGEREPLACE: 局 MODMERGEWITH: F-17“神鷲”Condor_是異種航員的主力戰鬥機，是衍生自_F-16_戰隼_的多用途纏鬥戰機</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="102">
+   <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.chinook</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">CH-48 查理</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="102">
+   </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.chinook</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1944,14 +1944,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 出於異種航員的獨特 MODMERGEREPLACE: 臺 MODMERGEWITH: CH-48“查理”Charlie_是一款雙旋翼的運輸直昇機，改裝自可靠的_CH-47_奇諾克</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AUTOCANNON</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">空戰炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="63.75">
+   </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AUTOCANNON</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1961,14 +1961,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 我們的_F-17_神鷲一般都 MODMERGEREPLACE: 彫 MODMERGEWITH: 果你想用空戰炮進行纏鬥，注意避開敵人的射界 MODMERGEREPLACE: 雕 MODMERGEWITH: 會裝載它。它能持續傷害目標，但當然需要機師 MODMERGEREPLACE: 鵰 MODMERGEWITH: 先接近到射擊距離，也許會令神鷲遭受回禮。如 MODMERGEREPLACE: 琱 MODMERGEWITH: 。從側面或背面攻擊的成功率會比迎頭直擊來得高。 MODMERGEREPLACE: 挶 MODMERGEWITH: 、高射速的武器，適宜對付飛彈所難以命中的靈</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SIDEWINDER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">響尾蛇飛彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SIDEWINDER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1980,14 +1980,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 迅速做成大量傷害的能力令它在纏鬥中非常有用，因為我們相信在近距 MODMERGEREPLACE: 颱 MODMERGEWITH: 離的戰鬥中異型的武器會比我們的空戰炮強。響尾蛇可以讓我們在進入它們的射程前先開火， MODMERGEREPLACE: 并 MODMERGEWITH: 給予我們先手優勢。出動多架戰鬥機組成編隊的話，也許甚至可以用一堆響尾蛇搶先擊落對手 MODMERGEREPLACE: 台 MODMERGEWITH: 成的爆發性傷害高於空戰炮，但只能用一次並且可能會被敏捷的飛船避開。輕型掛點和重型掛 MODMERGEREPLACE: 併 MODMERGEWITH: 並在射程內幾秒就可以。不過別忘記它們不是百發百中的，輕盈的幽浮完全可能具有迴避它們的能力。 MODMERGEREPLACE: 臺 MODMERGEWITH: AIM-9“響尾蛇”Sidewinder_是一種輕型的空對空飛彈。它的射程頗長，做</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+   <Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AVALANCHE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">山崩飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="89.25">
+   </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AVALANCHE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1997,14 +1997,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 實際上山崩是改裝用以對付幽浮的亞音速 MODMERGEREPLACE: 幹 MODMERGEWITH: 射程很遠，但速度很慢而且轉向更慢，只適合用來攻 MODMERGEREPLACE: 懞 MODMERGEWITH: 反艦巡航導彈。它可以從遠距離發射，所設的穿甲彈 MODMERGEREPLACE: 干 MODMERGEWITH: “山崩”飛雷_Avalanche_Torped MODMERGEREPLACE: 乾 MODMERGEWITH: o_是種重型的空對空導彈，有非常重的彈頭。它的</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="178.5">
+   <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.ballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">彈道武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="178.5">
+   </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.ballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2020,14 +2020,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 突擊步槍是最多用途的武器，各種距離下都有不錯的命中率並且可以連射。它的射速比不過手槍或 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。它的發射速度很快，傷害也可觀，但長距離就沒甚麼用了。它適合作為攻堅用的武器，比其他武器能更快地打</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.heavyballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">重型彈道武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.heavyballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2039,14 +2039,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
  MODMERGEREPLACE: 台 MODMERGEWITH: 動後才發射的話命中率會大為下降。它們也是命符其實的重武器，會佔用士兵的不少戰鬥</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.basic</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">常規護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.basic</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2058,14 +2058,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 當我們獲得異型的武器進行研究時，我 MODMERGEREPLACE: 併 MODMERGEWITH: 們應該能設計出較為適合的護甲。在此之前就靠你的戰術才華確保士兵的安全。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="292.5">
+   <Row ss:Height="292.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">IcelandIncident</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">冰島事件</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="292.5">
+   </Row><Row ss:Height="292.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">IcelandIncident</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2083,14 +2083,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 不過這也方便了後續的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家卻開始合作，</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">奇點炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2102,16 +2102,16 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 奇點炮每次發射後都需要裝填新的彈體，但奇點爐本身可以打一百萬發。製作奇點</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
     <Cell/>
     <Cell/>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2125,14 +2125,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell/>
     <Cell/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">DefenceBattery</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">防禦陣地</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="63.75">
+   </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">DefenceBattery</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2157,14 +2157,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: 輛戰車，沒 MODMERGEREPLACE: 干 MODMERGEWITH: 車房為異種 MODMERGEREPLACE: 矇 MODMERGEWITH: 話就不能制作新的戰車。 MODMERGEREPLACE: 乾 MODMERGEWITH: 航員的戰車 MODMERGEREPLACE: 濛 MODMERGEWITH: 有空車位的 MODMERGEREPLACE: 幹 MODMERGEWITH: 提供停泊之 MODMERGEREPLACE: 榦 MODMERGEWITH: 所。每座車 MODMERGEREPLACE: 蒙 MODMERGEWITH: 房可以泊三</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Hangar</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">機庫</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="38.25">
+   </Row><Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Hangar</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2174,14 +2174,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 機庫建 MODMERGEREPLACE: 干 MODMERGEWITH: 每座機庫可以停泊一 MODMERGEREPLACE: 幹 MODMERGEWITH: 機，沒有空機庫的話 MODMERGEREPLACE: 乾 MODMERGEWITH: 架戰鬥機或一架運輸 MODMERGEREPLACE: 榦 MODMERGEWITH: 就不能購買或制作新</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Laboratory</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">實驗室</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="63.75">
+   </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Laboratory</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2191,14 +2191,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 不過人數越多效率就越低；每個 MODMERGEREPLACE: 彫 MODMERGEWITH: 是_99%，第三名_98%，如此類推。最後就是 MODMERGEREPLACE: 琱 MODMERGEWITH: 實驗室所費不非，維護費亦不容小覷，興建前請考慮一下財政狀況。 MODMERGEREPLACE: 侷 MODMERGEWITH: 容納_15_名科學家，不過同時要有足夠的居住空 MODMERGEREPLACE: 跼 MODMERGEWITH: 基地的科學家可以同時參與一項研究，效率等同將所</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="25.5">
+   <Row ss:Height="25.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">LivingQuarters</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">起居室</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="25.5">
+   </Row><Row ss:Height="25.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">LivingQuarters</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2206,14 +2206,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 起居室提供足夠_35_人 MODMERGEREPLACE: 檯 MODMERGEWITH: 科學家、和/或工程師。除 MODMERGEREPLACE: 並 MODMERGEWITH: 用。請確保基地有足夠的居 MODMERGEREPLACE: 台 MODMERGEWITH: 居住的空間，可以是士兵、 MODMERGEREPLACE: 併 MODMERGEWITH: 住配額支持你的擴展計劃。 MODMERGEREPLACE: 并 MODMERGEWITH: 亦需要有工作空間才能被雇 MODMERGEREPLACE: 颱 MODMERGEWITH: 了居所外，科學家和工程師</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">MedicalCenter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">醫護所</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="38.25">
+   </Row><Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">MedicalCenter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2223,14 +2223,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 醫護所有一座就足</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="38.25">
+   <Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">RadarArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">雷達陣列</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="38.25">
+   </Row><Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">RadarArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2240,14 +2240,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 興建 MODMERGEREPLACE: 跼 MODMERGEWITH: 何進入此圈的幽浮都會立刻被</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="51">
+   <Row ss:Height="51">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Storeroom</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">儲物室</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="51">
+   </Row><Row ss:Height="51">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Storeroom</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2257,14 +2257,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 一個儲物室足以存放無限量的裝備。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Workshop</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">工房</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="63.75">
+   </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Workshop</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2278,7 +2278,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AdvancedMedpack</Data></Cell>
     <Cell><Data ss:Type="String">Advanced Medpack</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
@@ -2293,7 +2293,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienSensorArray</Data></Cell>
     <Cell><Data ss:Type="String">Alien Sensor Array</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:StyleID="s112">
@@ -2308,7 +2308,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.LIDARArray</Data></Cell>
     <Cell><Data ss:Type="String">LIDAR Array</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:StyleID="s112">
@@ -2433,14 +2433,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s112"/>
     <Cell ss:StyleID="s112"/>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.HypervelocityProjectiles</Data></Cell>
     <Cell><Data ss:Type="String">Hypervelocity Projectiles</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.HypervelocityProjectiles</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2448,14 +2448,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: s a MODMERGEREPLACE: 台 MODMERGEWITH: e  MODMERGEREPLACE: 臺 MODMERGEWITH: Th MODMERGEREPLACE: 檯 MODMERGEWITH: Mi MODMERGEREPLACE: 颱 MODMERGEWITH: G- MODMERGEREPLACE: 并 MODMERGEWITH: 32 MODMERGEREPLACE: 並 MODMERGEWITH:  i</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">airplane.human.saracen</Data></Cell>
     <Cell><Data ss:Type="String">X-44 大食</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">airplane.human.saracen</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2467,14 +2467,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 T MODMERGEREPLACE: 併 MODMERGEWITH:  of it - so no doubt our engineers will feel a certain kindred spirit when they begin to build one. MODMERGEREPLACE: 台 MODMERGEWITH:  craft. It is fast, heavily armoured and extremely agile, employing dual cannons to rip apart it</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
     <Cell><Data ss:Type="String" x:Ticked="1">Alien Power Source</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
     <Cell><Data ss:Type="String" x:Ticked="1"/></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2488,14 +2488,14 @@ The construction of the device is equally peculiar. It consists of a cylindrical
 
 The rest of the power source contains little of interest. All of the materials used in its construction have been encountered in larger quantities elsewhere in the hulls of recovered UFOs and the machinery itself is not overly complex; studying it has yielded nothing worth commenting upon. The only mystery surrounds the sea of ide MODMERGEREPLACE: 併 MODMERGEWITH:  me from dismantling such devices inside the base in future. I must object to the repeated usage of the phrase "reckless disregard" and I can assure you I am no more keen to end my life in an enormous fireball than anyone else in this base. I therefore request you tell the staff concerned to stick to what they know (i.e. building things, making unintelligible grunting noises)...</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
     <Cell><Data ss:Type="String">Alien Grenade</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">異型武器</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2524,14 +2524,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: neguns  MODMERGEREPLACE: 濛 MODMERGEWITH: chi MODMERGEREPLACE: 蒙 MODMERGEWITH: cal MODMERGEREPLACE: 幹 MODMERGEWITH: al  MODMERGEREPLACE: 干 MODMERGEWITH: The MODMERGEREPLACE: 榦 MODMERGEWITH: .30 MODMERGEREPLACE: 懞 MODMERGEWITH:  ma MODMERGEREPLACE: 乾 MODMERGEWITH:  du</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="63.75">
+   <Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Epilogue</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">結局</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="63.75">
+   </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Epilogue</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2545,15 +2545,15 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當 MODMERGEREPLACE: 彫 MODMERGEWITH: 。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毀滅整個地球，誰還能管我們</Data></Cell>
    </Row>
-   <!-- Aegia Armor -->
-   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+   <!-- Aegis Armor -->
+   <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.seer</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">神盾支援護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+   </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.seer</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2568,14 +2568,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 這個被工程部錯誤地名為“心盾”的神經電磁護罩有兩層。第一層是一道被動防禦，類似城堡的護城河。它會針對性地對腦部施予小 MODMERGEREPLACE: 濛 MODMERGEWITH: 是異型甲片經過強化，提升保護力。裝甲外部裝設了輕量化的小型外骨架，雖然保護力不如龐大的獵戶甲但也足以強化使用者的肌力。由於整體的輕量化 MODMERGEREPLACE: 干 MODMERGEWITH: 因應戰場上日漸繁重的心靈攻擊，S-20“神盾”反靈能支援護甲_應運而生。雖然初期的靈能攻擊只限於打擊士氣，但現在事實擺在眼前，高階灰人 MODMERGEREPLACE: 幹 MODMERGEWITH: 個複雜的電脈衝系統放大穿載者的強力靈能。當我理解它後，要將它的功能反轉以保障穿載者的心靈免受外界侵擾簡直是易如反掌，順帶還能強化應對心</Data></Cell>
    </Row>
    <!-- Extended Weapon Descriptions for Fighters -->
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">散射激光</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2583,14 +2583,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 雖然望上去有點像戰鬥機用的空戰炮，但只要仔細看就可 MODMERGEREPLACE: 併 MODMERGEWITH: 算散射激光在實戰中能對射程內的幽浮做成約兩部的傷害。 MODMERGEREPLACE: 檯 MODMERGEWITH: 根，而且它們現在不射子彈，槍管裝的是實驗室中最強的 MODMERGEREPLACE: 並 MODMERGEWITH: 我們所遇過的幽浮都特別有效，比子彈效果更好。我們估 MODMERGEREPLACE: 并 MODMERGEWITH: 只比空戰炮遠_15%。不過它所做成的熱能傷害似乎對 MODMERGEREPLACE: 颱 MODMERGEWITH: 原型激光武器。由於我們的大氣會折射激光束，它的射程 MODMERGEREPLACE: 台 MODMERGEWITH: 以發現散射激光跟它的元祖完全不同。我們將槍管減到三</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2598,14 +2598,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 雖然將炸藥完全換成異能晶的話可以大幅 MODMERGEREPLACE: 濛 MODMERGEWITH: 統，專一追蹤異型飛船。異能晶飛彈是首 MODMERGEREPLACE: 矇 MODMERGEWITH: 種採納這項調整的飛彈，鎖定時間比前代縮短了不少。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 省下空間則增加飛彈的射程。我們也用到 MODMERGEREPLACE: 懞 MODMERGEWITH: 目前為止的空戰數據調整了空對空尋標系 MODMERGEREPLACE: 榦 MODMERGEWITH: 彈大約能做成多_50%_的傷害，而所 MODMERGEREPLACE: 干 MODMERGEWITH: 將響尾蛇換裝異能晶彈頭是件簡單的事。 MODMERGEREPLACE: 幹 MODMERGEWITH: 增加爆炸力，但我們取了些平衡。新的飛</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2613,14 +2613,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 讓它跟響尾蛇一同 MODMERGEREPLACE: 乾 MODMERGEWITH: 笨重的幽起了不錯 MODMERGEREPLACE: 幹 MODMERGEWITH: 的效果，令我們喜 MODMERGEREPLACE: 濛 MODMERGEWITH: 晶彈頭約能增加_ MODMERGEREPLACE: 干 MODMERGEWITH: 山崩飛雷對較大較 MODMERGEREPLACE: 懞 MODMERGEWITH: 升級。巨型的異能 MODMERGEREPLACE: 榦 MODMERGEWITH: 出望外。我們決定 MODMERGEREPLACE: 矇 MODMERGEWITH: 30%_的傷害，射程亦增長了。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子噴射炮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2628,14 +2628,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 離子扭成具體的能量束，能完整地跨越一段 MODMERGEREPLACE: 矇 MODMERGEWITH: 長距離，稍為提升了我們的戰鬥機的接戰距離。 MODMERGEREPLACE: 榦 MODMERGEWITH: 量高能等離子的電漿倉。實驗證明它比激光 MODMERGEREPLACE: 幹 MODMERGEWITH: 相對較寬鬆，我們有足夠空間裝上能產生大 MODMERGEREPLACE: 懞 MODMERGEWITH: 的重力子產生器也非常有效，它們可以將等 MODMERGEREPLACE: 乾 MODMERGEWITH: 的空戰武器。戰鬥機武器的體積和重量限制 MODMERGEREPLACE: 蒙 MODMERGEWITH: 武器的傷害多_50%。等離子噴射炮所裝 MODMERGEREPLACE: 干 MODMERGEWITH: 我們終於能將異型的等離子科技應用成我們</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2643,14 +2643,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 雷，傷害力提升了_66% MODMERGEREPLACE: 干 MODMERGEWITH: 近期的異型空戰幽浮開始能 MODMERGEREPLACE: 懞 MODMERGEWITH: 的推進劑，於等離子飛彈上 MODMERGEREPLACE: 矇 MODMERGEWITH: 提升，但對射程多少還是有點幫助。 MODMERGEREPLACE: 濛 MODMERGEWITH: 採用。雖然沒有很戲劇性的 MODMERGEREPLACE: 乾 MODMERGEWITH: 抵禦我們的異能晶飛彈。我 MODMERGEREPLACE: 幹 MODMERGEWITH: 們的新設計仿效自等離子飛 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。我們也成功測試了一種新</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2658,14 +2658,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 近期的異型幽浮的裝甲嚴重阻礙我們的攔截行動。異 MODMERGEREPLACE: 台 MODMERGEWITH: 能晶飛雷的爆炸錐大部分都被重型幽浮的裝甲夾層吸 MODMERGEREPLACE: 并 MODMERGEWITH: 穿。效果超乎預料，我們決定立刻投入量產。這貫穿 MODMERGEREPLACE: 併 MODMERGEWITH: 異型飛船內部。新的先進推劑劑配方也令等離子飛雷飛得更遠。 MODMERGEREPLACE: 檯 MODMERGEWITH: 收並打散。為了解決這問題，我們的實驗室開發了一 MODMERGEREPLACE: 並 MODMERGEWITH: 器的定向等離子束能令異能晶爆炸的大量爆炸波深入 MODMERGEREPLACE: 颱 MODMERGEWITH: 個原型，在彈頭的尖端裝設一個等離子產生器進行貫</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">電磁風暴</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2673,14 +2673,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 超凡入聖。如果我們不是面對著莫大的外太空 MODMERGEREPLACE: 併 MODMERGEWITH: 磁風暴都只能讓我們跟無盡的異型戰列幽浮平起平坐。 MODMERGEREPLACE: 檯 MODMERGEWITH: 樣。但“電磁風暴”的破壞力和破壞規模完全 MODMERGEREPLACE: 台 MODMERGEWITH: 會做成動能傷害，跟不久前還在用的空戰炮一 MODMERGEREPLACE: 并 MODMERGEWITH: 威脅，數根這些炮就可以扭轉任何軍事戰役。 MODMERGEREPLACE: 並 MODMERGEWITH: 可惜的是雖然它比等離子噴射炮更強更遠，電 MODMERGEREPLACE: 臺 MODMERGEWITH: 似乎我們又回歸原點了。我們最新的戰機武器</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+   <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛彈</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+   </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2688,14 +2688,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 等離子飛彈多_50%，但我們 MODMERGEREPLACE: 彫 MODMERGEWITH: 程提升了約_12%。這應該足 MODMERGEREPLACE: 跼 MODMERGEWITH: 的時候，核融飛彈的傷害力只比 MODMERGEREPLACE: 侷 MODMERGEWITH: 晶彈頭，改用小型的核融合裝置 MODMERGEREPLACE: 局 MODMERGEWITH: 我們最先進的武器設計棄用異能 MODMERGEREPLACE: 鵰 MODMERGEWITH: 同時也改進了推進器的設計，射 MODMERGEREPLACE: 琱 MODMERGEWITH: 以迅速解掉大部分的空戰系幽浮。 MODMERGEREPLACE: 挶 MODMERGEWITH: 。當縮到能裝上戰鬥機飛彈掛點</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+   <Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛雷</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="89.25">
+   </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2703,15 +2703,128 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 自從我們首次在空中遇上主動開火的幽浮起，人類就一直在爭扎是 MODMERGEREPLACE: 並 MODMERGEWITH: 機裝上核武器。核融飛雷是針對笨重幽浮的最新武器，有更強的傷 MODMERGEREPLACE: 檯 MODMERGEWITH: 持續發出強烈的反對聲音。我所害怕的是，無論核彈頭是不是真的 MODMERGEREPLACE: 颱 MODMERGEWITH: 對異型飛船有用，走上這條短視的路的結果是緩慢地滅絕這顆星球 MODMERGEREPLACE: 併 MODMERGEWITH: 害力和射程，給我們的戰機帶來面對最大型幽浮時所急需的優勢。 MODMERGEREPLACE: 台 MODMERGEWITH: 否應動用核武對付外星人。共識是別用，但部分食古不化的冷戰派 MODMERGEREPLACE: 并 MODMERGEWITH: 。不過，近來所取得的科技發展首次讓我們能有信心地建議給戰鬥</Data></Cell>
    </Row>
+   <!-- Fire in the Hole -->
+   <Row ss:Height="140.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">破門炸藥</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+   </Row><Row ss:Height="140.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: ，允許部隊在貼近突破點的地方待機。
+
+（要使用破門包，先把它拿在手上設置起爆，然後把它放置在目標點旁邊的 MODMERGEREPLACE: 臺 MODMERGEWITH: 行政備忘錄：幽浮結構初步推論
+
+雖然冰島事件中的外星飛船幽浮無法被回收，但我們的研究員花了很多時間去研究 MODMERGEREPLACE: 台 MODMERGEWITH: 目擊者的口供和空中照片。就戰術角度而言，最重要的發現是確認了幽浮的外殼可能有一個或以上的弱點，也許能用特 MODMERGEREPLACE: 檯 MODMERGEWITH: 殊設計的炸藥包炸開，給地面部隊帶來戰術優勢。如果能從門口以外的地方進入幽浮，突擊就會更有效，更易發揚火力 MODMERGEREPLACE: 并 MODMERGEWITH: 步就已經安全，不會被炸到。炸藥包的破壞力很精確，爆炸範圍很細，滅少對幽浮內部可能做成的破壞之餘也不易誤傷 MODMERGEREPLACE: 颱 MODMERGEWITH: 壓倒外星守軍。
+
+為此而設的破門炸藥非常簡單易用，能用電磁吸盤緊貼外星飛船的外殼。設置好之後只需要退後幾 MODMERGEREPLACE: 併 MODMERGEWITH: 地上。放置點必需貼著弱點的邊，鈄角不能破，非弱點也不能破。大型幽浮的結構弱點可以在入手數據中樞後進行研究分析。）</Data></Cell>
+   </Row>
+   <Row ss:Height="255">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">巡洋幽浮結構弱點</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+   </Row><Row ss:Height="255">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 部隊從窄炸的雙翼進攻。但這個出入口相對脆弱，可以爆破。從這一面可以攻入較寬敞的 MODMERGEREPLACE: 彫 MODMERGEWITH: 連接引擎室的長通道。這樣就能夾擊雙翼的守兵。
+
+3)_最終的弱點在控制室前方。 MODMERGEREPLACE: 跼 MODMERGEWITH: 更有效地掌握接戰的區域：
+
+1)_地面上的主要出入口可能會被敵人鎖上，迫使我方 MODMERGEREPLACE: 挶 MODMERGEWITH: 方面同時進攻，但也會分敵隊伍的戰力和火力。
+
+方案
+
+應用數個可以爆破的弱點， MODMERGEREPLACE: 局 MODMERGEWITH: 文件類別：戰術分析
+飛船類別：巡洋級
+
+分析
+
+巡洋級飛船的內部很緊湊，難以發 MODMERGEREPLACE: 侷 MODMERGEWITH: 揚火力，靠攏的部隊也易被敵人的爆炸武器一網打盡。雖然它有多個入口可以讓部隊從多 MODMERGEREPLACE: 琱 MODMERGEWITH: 具備跳躍能力的部隊可以直接從這兒殺入，跟攻佔主船艙的部隊裡應外合，打倒埋伏的敵人。
+ MODMERGEREPLACE: 鵰 MODMERGEWITH: 主船艙，並能快速抵達控制室。
+
+2)_飛船雙翼的尾部相對較弱，爆破的話可以進入</Data></Cell>
+   </Row>
+   <Row ss:Height="255">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">航母幽浮結構弱點</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:Height="255">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 離控制室只有一步之遙。這也許是最有效的攻略法，先佔控制室然後由上而下逐層掃盪。 MODMERGEREPLACE: 懞 MODMERGEWITH: 躍能力的部隊可以從這兒清晰地掃盪上層的外星人，而不需要盲目地踩入傳送器。
+
+ MODMERGEREPLACE: 幹 MODMERGEWITH: 有多個弱點，善用的話就能通行無阻：
+
+1)_飛船接地的一層在尾部有兩個弱點， MODMERGEREPLACE: 干 MODMERGEWITH: 文件類別：戰術分析
+飛船類別：航母級
+
+分析
+
+航母級飛船體積超大，可以分成 MODMERGEREPLACE: 蒙 MODMERGEWITH: 室。
+
+2)_在地面之上，飛船中部有兩個弱點，直通第二甲板和第三甲板。具備跳 MODMERGEREPLACE: 乾 MODMERGEWITH: 四層甲板。各層以傳送器相連，給予敵人機動和突襲的優勢。
+
+方案
+
+航母級飛船 MODMERGEREPLACE: 榦 MODMERGEWITH: 允許部隊從兩方面同時突擊引擎室。這比正面突擊安全，因為上層的守軍無法直達引擎 MODMERGEREPLACE: 濛 MODMERGEWITH: 3)_最終的弱點在飛船前方離地兩層左右的高度。這兒直通第三甲板的上向傳送器，</Data></Cell>
+   </Row>
+   <Row ss:Height="267.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">戰列幽浮結構弱點</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:Height="267.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 幹 MODMERGEWITH: 的火力。
+
+方案
+
+雖然戰列級船堅炮利，但還是有可以在戰術層面上利用的弱點。不過這 MODMERGEREPLACE: 矇 MODMERGEWITH: 的尾部，其餘兩個在飛船兩側的電機房。當要逐間房掃盪下層時，額外的攻堅火力可以從這兒送入。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 有兩個弱點，可以破入控制甲板的引擎室。配合地面部隊可以從上和下兩方面同時進攻敵飛船 MODMERGEREPLACE: 干 MODMERGEWITH: 文件類別：戰術分析
+飛船類別：戰列級
+
+分析
+
+戰列級飛船超級龐大，內部結構經過精 MODMERGEREPLACE: 濛 MODMERGEWITH: 效地支援地面部隊的突擊。
+
+3)_最後就是通往下層甲板的三個弱點。第一個在飛船中央 MODMERGEREPLACE: 乾 MODMERGEWITH: 心設計，攻略部隊需要突破重重難關才能抵達控制室。要夾擊敵人非常困難，主要得依靠純綷 MODMERGEREPLACE: 榦 MODMERGEWITH: 些弱點全都不接觸地面，要突破就要靠具跳躍裝置的護甲：
+
+1)_先是飛船頂部，在後方 MODMERGEREPLACE: 懞 MODMERGEWITH: 。
+
+2)_飛船中部的西南面中部有兩頭弱點，可以快速突入飛船的中央部分。從這兒能有</Data></Cell>
+   </Row>
    <!-- Lore+ -->
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">失蹤？</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2719,14 +2832,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 間！我提醒過了普羅沃警長，如果他要給實驗 MODMERGEREPLACE: 挶 MODMERGEWITH: 設計出完美的檔案系統，但他們依然隨便把文 MODMERGEREPLACE: 鵰 MODMERGEWITH: 累我們的武器開發進度，我們現在不能浪費時 MODMERGEREPLACE: 侷 MODMERGEWITH: 料？沒有？又來了！我用我的時間給我的團隊 MODMERGEREPLACE: 局 MODMERGEWITH: 指揮官你有沒有看見過我的異能晶幅射分析資 MODMERGEREPLACE: 琱 MODMERGEWITH: 室派駐守衛，守衛們就該認真工作。希望這會有用。 MODMERGEREPLACE: 雕 MODMERGEWITH: 告失蹤。每次失蹤都不超過一日，但始終會拖 MODMERGEREPLACE: 跼 MODMERGEWITH: 件拿走！這不是第一次了，已經有幾分研究報</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">找到了！</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2740,14 +2853,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 我.的.私.人.助.理！那些害羞的目光……那些我投寄到《自</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">激光槍量產</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2757,14 +2870,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">偵察任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2776,14 +2889,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 執行偵察任務的幽浮會在空中滯留一段長時間，搜集各種目標的情 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官您好。依照你的指示，我們戰略規劃部會監視並分析幽浮的活動，判斷它們的軍事目的。很高興您把這重任交給 MODMERGEREPLACE: 矇 MODMERGEWITH: 幽浮執行。偵察幽浮採集的資訊越多，日後的攻擊就越有效，所以應儘量擊落它們。那怕不能回收幽浮也好，最少能蒙住外星人的眼。 MODMERGEREPLACE: 濛 MODMERGEWITH: 報。它們似乎沒有特定的路線或規劃，應該不難攔截。由於外星人有專門的偵察船，大部分偵察任務都應該由這些小型 MODMERGEREPLACE: 榦 MODMERGEWITH: 取任何著目的行動，但當地的無線電操作員偵察到多次異樣的瞬發_VHF_電波，而研究員亦同時偵察到瞬發的_S MODMERGEREPLACE: 乾 MODMERGEWITH: 了最適當的人；研發部的人很聰明，但分析情報是我們的專長。每當我們對外星幽浮的活動有新發現，我都會向您報告 MODMERGEREPLACE: 蒙 MODMERGEWITH: HF_電波。德國、澳洲、香港亦傳來類似的報告。考慮到事發地點的重要性及研發部對輕型偵察幽浮分析，我們肯定</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">研究任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2793,14 +2906,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 研究任務似乎必定由偵察幽浮 MODMERGEREPLACE: 跼 MODMERGEWITH: 暴、弔詭的光點、被解剖的生畜等。有一分甚至宣稱自己被綁架然後被綁架者踢出！ MODMERGEREPLACE: 侷 MODMERGEWITH: 所有_CIA_檔案給我搬了過來。您眼前的這疊報告是最近發生的幽浮目擊報告， MODMERGEREPLACE: 局 MODMERGEWITH: 我離開空軍前的最後一分工作是處理靈異報告。不知情的人可能會以為是有攪蛋鬼將 MODMERGEREPLACE: 彫 MODMERGEWITH: 幽浮會經常降落，以採集樣本和進行地面活動。研究任務會引致一些傷亡，但不會很 MODMERGEREPLACE: 琱 MODMERGEWITH: 大規模。無論外星人的目的為何，最保險是全部擊落以確保我們不會知道。對嗎，指揮官？ MODMERGEREPLACE: 鵰 MODMERGEWITH: 執行。它們會掃瞄一片指定區域，尋找適合的實驗目標和地點。執行研究任務的偵察 MODMERGEREPLACE: 挶 MODMERGEWITH: 內容像漫畫情節多於現實。大多是繪形繪色的特殊或超自然事件，例如憑空出現的風</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">恐襲任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2814,14 +2927,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 成功的恐怖襲擊將能大大打擊我們。我們的贊助國強烈暗示過必要時會動用核武去阻止“生化污染”。政客們為了自保就會怪責我們，我們</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">空襲任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2835,14 +2948,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 外星人的空襲模式表明牠們目前主要</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">轟炸任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2854,14 +2967,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 可以預期轟擊幽浮會轟炸富具戰略或經濟價值的目標，但全球的目標太多以</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">截擊任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2871,14 +2984,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥 MODMERGEREPLACE: 台 MODMERGEWITH: 下的事件數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地建設任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2898,14 +3011,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 建成的基地也無法獨立運作，需要艦隊的補給。所以如果沒找到基地，也可以留意那些在偏遠地帶慢速飛行的中型</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員基地攻略任務</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2917,14 +3030,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 外星人的入侵假若</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">鐮刀蟲職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2940,14 +3053,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 喪屍：喪屍看上去就像是半溶化的駝背蠟像，五官扭曲、四肢肥腫、肌肉橫生。駝起的背佈滿膨張的血管，也是鐮刀蟲長成後破體而出</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">鬼靈職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2965,14 +3078,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 士官：跟其他異型士官一樣，鬼靈士官是唯一佩帶頭盔的鬼靈，保護了全身最脆弱的頭部肉塊。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">醜魔職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2990,14 +3103,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 士官：士官的紅甲很</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3009,14 +3122,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 不過海藍色的士兵級機人更大，更嚇人，裝甲更厚。它們幾乎清一色攜 MODMERGEREPLACE: 乾 MODMERGEWITH: 捨本逐末的長篇論文交給你的手下讀？聽好了，首先你要知道的是安卓機人沒有技術員。這些步 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官呀，當你叫工程部提交安卓機人的報告時你是怎樣想的？將他們那滔滔不絕、術語連篇、 MODMERGEREPLACE: 蒙 MODMERGEWITH: 我們將這些綠色機人稱為護衛，因為它們保護慾強，行為模式易於預測。它們也是戰場上最常遇 MODMERGEREPLACE: 矇 MODMERGEWITH: 帶重武器，特別是重等離子。重等離子的短射程意味著機人要到近離戰鬥，但這也符合它們的作戰風格。 MODMERGEREPLACE: 懞 MODMERGEWITH: 到的型號，通常持等離子槍但也有更重武裝的目擊報告。這些安卓機人為一般士兵所畏懼，輕裝</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人進階職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3030,14 +3143,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 精英：安卓機人的豪華版就是精英級，裝有大量額外配件。巨大的精英級使用華麗的紅色塗 MODMERGEREPLACE: 跼 MODMERGEWITH: 兵”，不過這是個合適的描述。淺藍色的戰士級機人比前線的士兵級裝備更精良，也有更卓越的邏輯及戰術 MODMERGEREPLACE: 侷 MODMERGEWITH: 們提供安卓機人的專業意見而他們也提供了有用的見解。一般而言，越大越粗壯的機人越危險，其中最大最</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人技術員</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3049,14 +3162,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 我肯定你已經知道士兵們為上次的地面戰鬥感到多自豪和欣慰。我不想打擊他們（ MODMERGEREPLACE: 濛 MODMERGEWITH: 的異種社會學家認為牠們是奴隸階層，數以百萬計地服待上層種族，要不就是牠們是尚未在社會立足，尚不能佩槍 MODMERGEREPLACE: 榦 MODMERGEWITH: 的樣本都是不適合地面戰鬥的。牠們是幽浮的核心操作成員例如機師、工程師、領航員、及其他重要的非戰鬥岡位 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官，我們的異種社會學家正在收集斯巴蜥人的情報。當中大部分都跟地面戰鬥無關，不過我撥冗為你的手下總 MODMERGEREPLACE: 幹 MODMERGEWITH: 好吧，也許我想），不過這些“硬目標”大部分都，不暪你說，只是非戰鬥員。依照我們的數據分析，大部分回收 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。牠們只受過基本的戰鬥訓練，身上只有手槍，護甲就是天生的厚皮。（順便說說，我已經嚴重苛責了那些將斯巴</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3070,14 +3183,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 護衛：護衛是技術員的晉級版，體形稍大，配備等離子步槍並穿載用異型合金打造的護胸，增強保護力</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">斯巴蜥人進階職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3089,14 +3202,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 戰士/精英：斯巴蜥人的老兵比一般士兵有更精良的護甲，並佩載精緻的肩甲。牠們比以往的任何蜥人都更</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰人技術員</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3108,14 +3221,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 跟我們的機 MODMERGEREPLACE: 矇 MODMERGEWITH: 9_毫米口徑子彈，但要擋一堆步槍子彈就難了。我認為所有幽浮都會載有技術員，但有計劃的地面行動就不會有了。</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰人職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3127,33 +3240,33 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 護衛：藍色的灰人是我們遇上的第一種戰</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰人靈能師</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 選上旳少數真的能使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只保留給 MODMERGEREPLACE: 矇 MODMERGEWITH: 舉起汽車丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也此加倍危險。 MODMERGEREPLACE: 乾 MODMERGEWITH: 能力並非只出於迷信和愚昧。但事實勝於雄辯，我不會巧立名目自我欺騙。指揮官，靈能是真正存在的。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 選上旳少數真的能使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只保留給 MODMERGEREPLACE: 琱 MODMERGEWITH: 舉起汽車丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也因此加倍危險。 MODMERGEREPLACE: 侷 MODMERGEWITH: 能力並非只出於迷信和愚昧。但事實勝於雄辯，我不會巧立名目自我欺騙。指揮官，靈能是真正存在的。
 
- MODMERGEREPLACE: 幹 MODMERGEWITH: 現在我們知道為甚麼灰人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們 MODMERGEREPLACE: 干 MODMERGEWITH: 彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了奇蹟般的異型科技，我都從來、從來沒想過心靈 MODMERGEREPLACE: 榦 MODMERGEWITH: 尚未瞭解的反應，提供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被 MODMERGEREPLACE: 懞 MODMERGEWITH: 少數精英。我們把這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。
+ MODMERGEREPLACE: 挶 MODMERGEWITH: 現在我們知道為甚麼灰人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們 MODMERGEREPLACE: 局 MODMERGEWITH: 彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了奇蹟般的異型科技，我都從來、從來沒想過心靈 MODMERGEREPLACE: 跼 MODMERGEWITH: 尚未瞭解的反應，提供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被 MODMERGEREPLACE: 鵰 MODMERGEWITH: 少數精英。我們把這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。
 
-幸運地，靈能似 MODMERGEREPLACE: 濛 MODMERGEWITH: 乎只限於不同模式的心靈感應。對靈能師所作的徹查顯示牠可以操作整體思緒，特別是恐懼，但絕不能用念力</Data></Cell>
+幸運地，靈能似 MODMERGEREPLACE: 彫 MODMERGEWITH: 乎只限於不同模式的心靈感應。對靈能師所作的徹查顯示牠可以操作整體思緒，特別是恐懼，但絕不能用念力</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+   <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">灰人進階職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="47.25">
+   </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3165,14 +3278,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 戰士/精英：跟斯巴蜥人一樣，灰人也有自己的老兵和特種部隊，雖</Data></Cell>
    </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">安卓機人職能</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="14.25" ss:StyleID="s112">
+   </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>

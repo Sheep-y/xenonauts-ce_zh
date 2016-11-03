@@ -74,6 +74,10 @@ Non-XCE mods with translate-able resoruces.
   * Ver 2014-08-18.
   * Merged and translated.
 
+* Fire in the Hole
+  * Ver 3.1.
+  * Merged and translated.
+
 * Geographic addition
   * Ver 1.1 / 2016-08-16.
   * Merged and translated.

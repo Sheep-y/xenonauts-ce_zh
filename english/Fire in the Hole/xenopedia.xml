@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Ruth and Will</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-08-23T21:59:00Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="5" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="140.25">
+    <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
+    <Cell><Data ss:Type="String">Breaching Charge</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_BreachingCharge</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Weapons</Data></Cell>
+    <Cell><Data ss:Type="String">WEP</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Executive Summary: Preliminary UFO Analysis&#10;&#10;While the alien craft downed during the Iceland Incident was destroyed  before it could be recovered, the research team has spent considerable time collecting and examining reports from eye-witnesses along with aerial photographs of the crashsite before the explosion.  Amongst other things, this analysis suggests that the alien craft may possess one or more weak-points in their outer hulls which our operatives might exploit during tactical missions using specially designed explosive charges.  By breaching the hull of the alien craft, our operatives will be afforded superior access to the vessel and therefore be better placed to overpower any extraterrestrial defenders.&#10;&#10;The breaching charge we have designed for this purpose is simple to use.  The charge uses electromagnetic clamps to secure itself to the hull of the alien craft.  Once deployed, an operative need only set the detonator and retreat a few paces to ensure they are not caught in the blowback.  The device is highly precise and the collateral damage it causes is minimal.  This should avoid the unnecessary destruction of alien artefacts and allow operatives to deploy close to the intended breach site.&#10;&#10;[To use the breaching charge, place it in an operative's hands and arm it as with C4.  The Breaching Charge should then be dropped next to the intended target of the charge, and the operative retreated at least two squares away from the location it is deployed.]</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="255">
+    <Cell><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
+    <Cell><Data ss:Type="String">Cruiser Assault Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_cruiserbreach</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="String">Document Type: Tactical Briefing&#10;Enemy Vessel Type: Cruiser-Class&#10;&#10;Analysis&#10;&#10;The Cruiser-class enemy vessel possesses a cramped interior with narrow fields of fire.  When assaulting, Xenonaut operatives will become crowded and at risk of heavy casualties from enemy explosives.  While its multiple entrances permit a simultaneous assault of several parts of the vessel at once, doing so will divide and therefore the firepower of the squad.&#10;&#10;Solutions&#10;&#10;Several weak-points have been exposed which might be exploited using explosive charges to allow greater control over the area of engagement:&#10;&#10;1) On the ground, the enemy have been known to lock down the main entryway into the grounded vessel to force our operatives to assault through its narrow wings.  This entryway, however, lacks the resilience of the vessel's hull and can be defeated with an explosive charge.  This will allow operatives access to the more spacious main chamber as well as easy access to the command deck.&#10;&#10;2) Vulnerable sections of hull are located to the rear of each of the enemy vessel's wings.  Destroying these sections will produce a narrow corridor leading into the vessel's engine rooms.  This presents the possibility of surrounding defenders in the wings of the vessel and destroying them quickly.&#10;&#10;3) A final weak-point is located at the front of the command deck.  Operatives equipped in flying armour can reach this location and assault the command deck from above.  This may be beneficial in conjunction with an assault on the central chamber of the vessel to eliminate enemy units waiting to ambush from the command deck.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="255">
+    <Cell><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
+    <Cell><Data ss:Type="String">Carrier Assault Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_carrierbreach</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="String">Document Type: Tactical Briefing&#10;Enemy Vessel Type: Carrier-Class&#10;&#10;Analysis&#10;&#10;The Carrier-class enemy vessel is exceptionally large, being comprised of four decks of considerable length.  A number of teleporters allow access between levels, granting enemy units considerable manoeuvrability and the opportunity to ambush our operatives from safe locations.&#10;&#10;Solutions&#10;&#10;The Carrier-class vessel has a number of vulnerabilities which can be exploited to allow our operatives superior access to the enemy vessel:&#10;&#10;1) At ground level, two weak-points have been identified towards the rear of the enemy vessel which allow a two-pronged assault into the vessel's lower engine room.  An assault from this position will be safer than an approach from the front of the vessel as there is no immediate access to the upper decks.&#10;&#10;2) Above ground level, there are two weak-points to be found around the middle of the enemy vessel which allow access to decks 2 and 3.  While these weak-points can only be exploited by operatives equipped with flying armour, they will allow an opportunity to clear enemy units from upper decks more safely than moving blindly through the vessel's teleporters.&#10; &#10;3) There is a final vulnerability at the front of the enemy vessel two stories above the main entrance (the charge is best placed on the right hand side).  Destroying this section of hull will allow access to the forward teleporter room on deck 3 which, in turn, will allow easy access to the command deck.  Using this approach may be the most effective way to clear the ship, as it will allow operatives to assault  the command deck first and then work their way down the rest of the enemy vessel.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="267.75">
+    <Cell><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
+    <Cell><Data ss:Type="String">Battleship Assault Analysis</Data></Cell>
+    <Cell><Data ss:Type="String">xenopediaimages/HBP_battleshipbreach</Data></Cell>
+    <Cell><Data ss:Type="String">UFOs</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s70"><Data ss:Type="String">Document Type: Tactical Briefing&#10;Enemy Vessel Type: Battleship-class&#10;&#10;Analysis&#10;&#10;The Battleship-class vessel is exceptionally large but its design requires attackers to fight through a series of chokepoints in order to reach the command deck.  There is, therefore, no opportunity for outflanking enemy positions and an assault is reliant on sheer firepower to reach the objective.&#10;&#10;Solutions&#10;&#10;In spite of the quality of its construction, the Battleship-class vessel nevertheless possesses vulnerabilities which can be exploited during a tactical mission.  Note, however, that all these vulnerabilities are present above ground level and therefore flying armour is essential if any of the following approaches are to be taken.&#10;&#10;1) Starting at the top, there are two weak-points towards the rear of the enemy vessel which can be exploited to allow access into the command deck engine room.  Using this approach will allow a two-pronged assault as operatives will be able to clear from both the top and bottom of the vessel.&#10;&#10;2) The south-west side of the mid-section possesses vulnerabilities at each end which will permit operatives to quickly storm the central part of the vessel.  Using this approach will make capturing the bottom deck much easier and therefore is ideal for supporting operatives attacking from the ground in non-flying armour.&#10;3) There are finally three weak-points leading down into the bottom deck.  One of these is located at the rear of the vessel close to the end of the mid-section.  This allows access to the bottom deck engine room.  The other two are located at opposite sides of the enemy vessel at the edge, leading into the two console rooms.  These approaches will be beneficial in a room-by-room clearing of the bottom deck as they will maximise the firepower than can be brought to bear during an attack.&#10;&#10;</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <LeftColumnVisible>5</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>3</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

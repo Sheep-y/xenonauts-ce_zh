@@ -18,7 +18,7 @@
 </Style>
  </Styles>
  <Worksheet ss:Name="strings">
-<Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="2656" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+<Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="2663" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
  <Column ss:AutoFitWidth="0" ss:Width="246"/>
  <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
  <Row>
@@ -7848,6 +7848,29 @@
  </Row><Row>
   <Cell><Data ss:Type="String">VV.FUSIONROCKET</Data></Cell>
   <Cell><Data ss:Type="String">核融火箭</Data></Cell>
+ </Row>
+ <!-- Fire in the Hole -->
+ <Row>
+  <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
+  <Cell><Data ss:Type="String">破門炸藥</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.explosive.PlasmaBreachingCharge</Data></Cell>
+  <Cell><Data ss:Type="String">破門等離子</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;破門炸藥：&lt;/b&gt;&#10;&#10;破門炸藥是大型的爆炸包，用以攻破幽浮外殼的脆弱點。它不能投擲，使用者必需將它拿在手上，設置起爆，然後把它放在目標點旁邊的地上。然後只需要撤離到安全距離靜候引爆。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.explosive.PlasmaBreachingCharge.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;破門等離子：&lt;/b&gt;&#10;&#10;破門等離子是破門炸藥的升級版，威力不變但更輕更細。不過依然不能投擲因此使用方式不變，依然是在手上設置起爆，放在地上然後撤離。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋幽浮結構弱點</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
+  <Cell><Data ss:Type="String">航母幽浮結構弱點</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
+  <Cell><Data ss:Type="String">戰列幽浮結構弱點</Data></Cell>
  </Row>
  <!-- Geographic addition -->
  <Row>
