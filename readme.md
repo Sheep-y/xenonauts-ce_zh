@@ -53,10 +53,6 @@ XCE mods with translate-able resources and status.
   * Default Off
   * Must be done as a separate translation mod.
 
-* Khall's More Portraits
-  * Default On
-  * Would not work if soldiernames.xml is overridden, need to try to work with it.
-
 * Lore+
   * Default On
   * Merged and translated

@@ -1,20 +1,17 @@
 <?xml version="1.0"?>
 <ModInfo>
   <Name>xce (ZH)</Name>
-  <VisibleName>X:CE Chinese Translation</VisibleName>
-  <Version>0.34.2.20161028</Version>
+  <VisibleName>X:CE Default Mods (ZH)</VisibleName>
+  <Version>0.34.2.20161102</Version>
   <Author>Sheepy</Author>
   <Languages>zh</Languages>
   <Translates>xce</Translates>
-  <Description>Chinese (Traditional) Translation, 
+  <Description>Chinese (Traditional) Translation for Xenonauts Community Edition v0.34.2.
 
-for Xenonauts Community Edition v0.34.2.
+Includes all X:CE mods that are enabled by default.
 
-Draft version.
+This mod should be placed above the following translated mods:
 
-Should be placed above most mods, preferably at the top.
-
-Translated mods:
 Armoured Assault,
 Extended Weapon Descriptions for Fighters,
 Geographic addition 1.1,
@@ -22,6 +19,5 @@ Lore+,
 X:CE Balance Adjustment,
 X:CE Base Mod
 
-(Other default enabled X:CE mods don't need translation)
 </Description>
 </ModInfo>
