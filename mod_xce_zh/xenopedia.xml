@@ -43,7 +43,7 @@
   </Style>
  </Styles>
  <Worksheet ss:Name="Sheet1">
-  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="168" x:FullColumns="1" x:FullRows="1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="169" x:FullColumns="1" x:FullRows="1">
    <Column ss:AutoFitWidth="0" ss:Span="1" ss:Width="232.5"/>
    <Column ss:AutoFitWidth="0" ss:Index="3" ss:Width="188.25"/>
    <Column ss:AutoFitWidth="0" ss:Width="130.5"/>
@@ -2545,6 +2545,164 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 
 全球都在慶祝我們的勝利，我們所流的血汗亦會被永誌不忘。人類的續全我大爺當 MODMERGEREPLACE: 彫 MODMERGEWITH: 。我們手上握有所有奇點爐及全球最精銳的軍事部隊。喜歡的話我一眨眼就可以毀滅整個地球，誰還能管我們</Data></Cell>
    </Row>
+   <!-- Aegia Armor -->
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">armour.seer</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">神盾支援護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">armour.seer</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: ，能源需求也減少了，在背部甲片裝上簡單的異能晶電池就可以。頭盔由獨立的小電池驅動，足夠讓第二層抵禦大約三次心靈攻擊，而耗電較低的第一層可以長期維持。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 範圍的微量電擊，校正“正常”腦部活動的微小差異。第二層則是主動應戰。當有腦部活動出現高度異常時，比如說遭受心靈攻擊時，這護罩會施予較大 MODMERGEREPLACE: 懞 MODMERGEWITH: 的電擊去對抗和糾正。實驗者把它描述為愉快的刺痛感，然後就心如明鏡。
+
+護甲方面，我們借用了研發獵戶戰甲時開發的技術去強化灰狼戰甲。首先 MODMERGEREPLACE: 乾 MODMERGEWITH: 的能力足以強搶士兵的軀體。在研究灰人實驗體的腦波模式和士官及領袖的頭盔後，我成功開發出抵禦心靈攻擊的對策。
+
+灰人軍官所載的頭盔使用一 MODMERGEREPLACE: 榦 MODMERGEWITH: 理壓力的能耐。
+
+這個被工程部錯誤地名為“心盾”的神經電磁護罩有兩層。第一層是一道被動防禦，類似城堡的護城河。它會針對性地對腦部施予小 MODMERGEREPLACE: 濛 MODMERGEWITH: 是異型甲片經過強化，提升保護力。裝甲外部裝設了輕量化的小型外骨架，雖然保護力不如龐大的獵戶甲但也足以強化使用者的肌力。由於整體的輕量化 MODMERGEREPLACE: 干 MODMERGEWITH: 因應戰場上日漸繁重的心靈攻擊，S-20“神盾”反靈能支援護甲_應運而生。雖然初期的靈能攻擊只限於打擊士氣，但現在事實擺在眼前，高階灰人 MODMERGEREPLACE: 幹 MODMERGEWITH: 個複雜的電脈衝系統放大穿載者的強力靈能。當我理解它後，要將它的功能反轉以保障穿載者的心靈免受外界侵擾簡直是易如反掌，順帶還能強化應對心</Data></Cell>
+   </Row>
+   <!-- Extended Weapon Descriptions for Fighters -->
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">散射激光</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 雖然望上去有點像戰鬥機用的空戰炮，但只要仔細看就可 MODMERGEREPLACE: 併 MODMERGEWITH: 算散射激光在實戰中能對射程內的幽浮做成約兩部的傷害。 MODMERGEREPLACE: 檯 MODMERGEWITH: 根，而且它們現在不射子彈，槍管裝的是實驗室中最強的 MODMERGEREPLACE: 並 MODMERGEWITH: 我們所遇過的幽浮都特別有效，比子彈效果更好。我們估 MODMERGEREPLACE: 并 MODMERGEWITH: 只比空戰炮遠_15%。不過它所做成的熱能傷害似乎對 MODMERGEREPLACE: 颱 MODMERGEWITH: 原型激光武器。由於我們的大氣會折射激光束，它的射程 MODMERGEREPLACE: 台 MODMERGEWITH: 以發現散射激光跟它的元祖完全不同。我們將槍管減到三</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛彈</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 雖然將炸藥完全換成異能晶的話可以大幅 MODMERGEREPLACE: 濛 MODMERGEWITH: 統，專一追蹤異型飛船。異能晶飛彈是首 MODMERGEREPLACE: 矇 MODMERGEWITH: 種採納這項調整的飛彈，鎖定時間比前代縮短了不少。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 省下空間則增加飛彈的射程。我們也用到 MODMERGEREPLACE: 懞 MODMERGEWITH: 目前為止的空戰數據調整了空對空尋標系 MODMERGEREPLACE: 榦 MODMERGEWITH: 彈大約能做成多_50%_的傷害，而所 MODMERGEREPLACE: 干 MODMERGEWITH: 將響尾蛇換裝異能晶彈頭是件簡單的事。 MODMERGEREPLACE: 幹 MODMERGEWITH: 增加爆炸力，但我們取了些平衡。新的飛</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛雷</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 讓它跟響尾蛇一同 MODMERGEREPLACE: 乾 MODMERGEWITH: 笨重的幽起了不錯 MODMERGEREPLACE: 幹 MODMERGEWITH: 的效果，令我們喜 MODMERGEREPLACE: 濛 MODMERGEWITH: 晶彈頭約能增加_ MODMERGEREPLACE: 干 MODMERGEWITH: 山崩飛雷對較大較 MODMERGEREPLACE: 懞 MODMERGEWITH: 升級。巨型的異能 MODMERGEREPLACE: 榦 MODMERGEWITH: 出望外。我們決定 MODMERGEREPLACE: 矇 MODMERGEWITH: 30%_的傷害，射程亦增長了。</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子噴射炮</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 離子扭成具體的能量束，能完整地跨越一段 MODMERGEREPLACE: 矇 MODMERGEWITH: 長距離，稍為提升了我們的戰鬥機的接戰距離。 MODMERGEREPLACE: 榦 MODMERGEWITH: 量高能等離子的電漿倉。實驗證明它比激光 MODMERGEREPLACE: 幹 MODMERGEWITH: 相對較寬鬆，我們有足夠空間裝上能產生大 MODMERGEREPLACE: 懞 MODMERGEWITH: 的重力子產生器也非常有效，它們可以將等 MODMERGEREPLACE: 乾 MODMERGEWITH: 的空戰武器。戰鬥機武器的體積和重量限制 MODMERGEREPLACE: 蒙 MODMERGEWITH: 武器的傷害多_50%。等離子噴射炮所裝 MODMERGEREPLACE: 干 MODMERGEWITH: 我們終於能將異型的等離子科技應用成我們</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛彈</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 雷，傷害力提升了_66% MODMERGEREPLACE: 干 MODMERGEWITH: 近期的異型空戰幽浮開始能 MODMERGEREPLACE: 懞 MODMERGEWITH: 的推進劑，於等離子飛彈上 MODMERGEREPLACE: 矇 MODMERGEWITH: 提升，但對射程多少還是有點幫助。 MODMERGEREPLACE: 濛 MODMERGEWITH: 採用。雖然沒有很戲劇性的 MODMERGEREPLACE: 乾 MODMERGEWITH: 抵禦我們的異能晶飛彈。我 MODMERGEREPLACE: 幹 MODMERGEWITH: 們的新設計仿效自等離子飛 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。我們也成功測試了一種新</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛雷</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 近期的異型幽浮的裝甲嚴重阻礙我們的攔截行動。異 MODMERGEREPLACE: 台 MODMERGEWITH: 能晶飛雷的爆炸錐大部分都被重型幽浮的裝甲夾層吸 MODMERGEREPLACE: 并 MODMERGEWITH: 穿。效果超乎預料，我們決定立刻投入量產。這貫穿 MODMERGEREPLACE: 併 MODMERGEWITH: 異型飛船內部。新的先進推劑劑配方也令等離子飛雷飛得更遠。 MODMERGEREPLACE: 檯 MODMERGEWITH: 收並打散。為了解決這問題，我們的實驗室開發了一 MODMERGEREPLACE: 並 MODMERGEWITH: 器的定向等離子束能令異能晶爆炸的大量爆炸波深入 MODMERGEREPLACE: 颱 MODMERGEWITH: 個原型，在彈頭的尖端裝設一個等離子產生器進行貫</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">電磁風暴</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 超凡入聖。如果我們不是面對著莫大的外太空 MODMERGEREPLACE: 併 MODMERGEWITH: 磁風暴都只能讓我們跟無盡的異型戰列幽浮平起平坐。 MODMERGEREPLACE: 檯 MODMERGEWITH: 樣。但“電磁風暴”的破壞力和破壞規模完全 MODMERGEREPLACE: 台 MODMERGEWITH: 會做成動能傷害，跟不久前還在用的空戰炮一 MODMERGEREPLACE: 并 MODMERGEWITH: 威脅，數根這些炮就可以扭轉任何軍事戰役。 MODMERGEREPLACE: 並 MODMERGEWITH: 可惜的是雖然它比等離子噴射炮更強更遠，電 MODMERGEREPLACE: 臺 MODMERGEWITH: 似乎我們又回歸原點了。我們最新的戰機武器</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛彈</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 等離子飛彈多_50%，但我們 MODMERGEREPLACE: 彫 MODMERGEWITH: 程提升了約_12%。這應該足 MODMERGEREPLACE: 跼 MODMERGEWITH: 的時候，核融飛彈的傷害力只比 MODMERGEREPLACE: 侷 MODMERGEWITH: 晶彈頭，改用小型的核融合裝置 MODMERGEREPLACE: 局 MODMERGEWITH: 我們最先進的武器設計棄用異能 MODMERGEREPLACE: 鵰 MODMERGEWITH: 同時也改進了推進器的設計，射 MODMERGEREPLACE: 琱 MODMERGEWITH: 以迅速解掉大部分的空戰系幽浮。 MODMERGEREPLACE: 挶 MODMERGEWITH: 。當縮到能裝上戰鬥機飛彈掛點</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛雷</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+   </Row><Row ss:AutoFitHeight="0" ss:Height="89.25">
+    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 自從我們首次在空中遇上主動開火的幽浮起，人類就一直在爭扎是 MODMERGEREPLACE: 並 MODMERGEWITH: 機裝上核武器。核融飛雷是針對笨重幽浮的最新武器，有更強的傷 MODMERGEREPLACE: 檯 MODMERGEWITH: 持續發出強烈的反對聲音。我所害怕的是，無論核彈頭是不是真的 MODMERGEREPLACE: 颱 MODMERGEWITH: 對異型飛船有用，走上這條短視的路的結果是緩慢地滅絕這顆星球 MODMERGEREPLACE: 併 MODMERGEWITH: 害力和射程，給我們的戰機帶來面對最大型幽浮時所急需的優勢。 MODMERGEREPLACE: 台 MODMERGEWITH: 否應動用核武對付外星人。共識是別用，但部分食古不化的冷戰派 MODMERGEREPLACE: 并 MODMERGEWITH: 。不過，近來所取得的科技發展首次讓我們能有信心地建議給戰鬥</Data></Cell>
+   </Row>
    <!-- Lore+ -->
    <Row ss:AutoFitHeight="0" ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
@@ -3027,142 +3185,6 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
 對 MODMERGEREPLACE: 臺 MODMERGEWITH: 做得好，指揮官。不管是誰幸運地打壞了它的自我毀滅裝置，我們現在有了一分完整的樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦，也合情理地取得了成果。
 
 安卓機 MODMERGEREPLACE: 台 MODMERGEWITH: 人的腦袋令人嘆為觀止。跟身體一樣，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷</Data></Cell>
-   </Row>
-   <!-- Extended Weapon Descriptions for Fighters -->
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">散射激光</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 雖然望上去有點像戰鬥機用的空戰炮，但只要仔細看就可 MODMERGEREPLACE: 併 MODMERGEWITH: 算散射激光在實戰中能對射程內的幽浮做成約兩部的傷害。 MODMERGEREPLACE: 檯 MODMERGEWITH: 根，而且它們現在不射子彈，槍管裝的是實驗室中最強的 MODMERGEREPLACE: 並 MODMERGEWITH: 我們所遇過的幽浮都特別有效，比子彈效果更好。我們估 MODMERGEREPLACE: 并 MODMERGEWITH: 只比空戰炮遠_15%。不過它所做成的熱能傷害似乎對 MODMERGEREPLACE: 颱 MODMERGEWITH: 原型激光武器。由於我們的大氣會折射激光束，它的射程 MODMERGEREPLACE: 台 MODMERGEWITH: 以發現散射激光跟它的元祖完全不同。我們將槍管減到三</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛彈</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 雖然將炸藥完全換成異能晶的話可以大幅 MODMERGEREPLACE: 濛 MODMERGEWITH: 統，專一追蹤異型飛船。異能晶飛彈是首 MODMERGEREPLACE: 矇 MODMERGEWITH: 種採納這項調整的飛彈，鎖定時間比前代縮短了不少。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 省下空間則增加飛彈的射程。我們也用到 MODMERGEREPLACE: 懞 MODMERGEWITH: 目前為止的空戰數據調整了空對空尋標系 MODMERGEREPLACE: 榦 MODMERGEWITH: 彈大約能做成多_50%_的傷害，而所 MODMERGEREPLACE: 干 MODMERGEWITH: 將響尾蛇換裝異能晶彈頭是件簡單的事。 MODMERGEREPLACE: 幹 MODMERGEWITH: 增加爆炸力，但我們取了些平衡。新的飛</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異能晶飛雷</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 讓它跟響尾蛇一同 MODMERGEREPLACE: 乾 MODMERGEWITH: 笨重的幽起了不錯 MODMERGEREPLACE: 幹 MODMERGEWITH: 的效果，令我們喜 MODMERGEREPLACE: 濛 MODMERGEWITH: 晶彈頭約能增加_ MODMERGEREPLACE: 干 MODMERGEWITH: 山崩飛雷對較大較 MODMERGEREPLACE: 懞 MODMERGEWITH: 升級。巨型的異能 MODMERGEREPLACE: 榦 MODMERGEWITH: 出望外。我們決定 MODMERGEREPLACE: 矇 MODMERGEWITH: 30%_的傷害，射程亦增長了。</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子噴射炮</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 離子扭成具體的能量束，能完整地跨越一段 MODMERGEREPLACE: 矇 MODMERGEWITH: 長距離，稍為提升了我們的戰鬥機的接戰距離。 MODMERGEREPLACE: 榦 MODMERGEWITH: 量高能等離子的電漿倉。實驗證明它比激光 MODMERGEREPLACE: 幹 MODMERGEWITH: 相對較寬鬆，我們有足夠空間裝上能產生大 MODMERGEREPLACE: 懞 MODMERGEWITH: 的重力子產生器也非常有效，它們可以將等 MODMERGEREPLACE: 乾 MODMERGEWITH: 的空戰武器。戰鬥機武器的體積和重量限制 MODMERGEREPLACE: 蒙 MODMERGEWITH: 武器的傷害多_50%。等離子噴射炮所裝 MODMERGEREPLACE: 干 MODMERGEWITH: 我們終於能將異型的等離子科技應用成我們</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛彈</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 雷，傷害力提升了_66% MODMERGEREPLACE: 干 MODMERGEWITH: 近期的異型空戰幽浮開始能 MODMERGEREPLACE: 懞 MODMERGEWITH: 的推進劑，於等離子飛彈上 MODMERGEREPLACE: 矇 MODMERGEWITH: 提升，但對射程多少還是有點幫助。 MODMERGEREPLACE: 濛 MODMERGEWITH: 採用。雖然沒有很戲劇性的 MODMERGEREPLACE: 乾 MODMERGEWITH: 抵禦我們的異能晶飛彈。我 MODMERGEREPLACE: 幹 MODMERGEWITH: 們的新設計仿效自等離子飛 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。我們也成功測試了一種新</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">等離子飛雷</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 近期的異型幽浮的裝甲嚴重阻礙我們的攔截行動。異 MODMERGEREPLACE: 台 MODMERGEWITH: 能晶飛雷的爆炸錐大部分都被重型幽浮的裝甲夾層吸 MODMERGEREPLACE: 并 MODMERGEWITH: 穿。效果超乎預料，我們決定立刻投入量產。這貫穿 MODMERGEREPLACE: 併 MODMERGEWITH: 異型飛船內部。新的先進推劑劑配方也令等離子飛雷飛得更遠。 MODMERGEREPLACE: 檯 MODMERGEWITH: 收並打散。為了解決這問題，我們的實驗室開發了一 MODMERGEREPLACE: 並 MODMERGEWITH: 器的定向等離子束能令異能晶爆炸的大量爆炸波深入 MODMERGEREPLACE: 颱 MODMERGEWITH: 個原型，在彈頭的尖端裝設一個等離子產生器進行貫</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">電磁風暴</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 超凡入聖。如果我們不是面對著莫大的外太空 MODMERGEREPLACE: 併 MODMERGEWITH: 磁風暴都只能讓我們跟無盡的異型戰列幽浮平起平坐。 MODMERGEREPLACE: 檯 MODMERGEWITH: 樣。但“電磁風暴”的破壞力和破壞規模完全 MODMERGEREPLACE: 台 MODMERGEWITH: 會做成動能傷害，跟不久前還在用的空戰炮一 MODMERGEREPLACE: 并 MODMERGEWITH: 威脅，數根這些炮就可以扭轉任何軍事戰役。 MODMERGEREPLACE: 並 MODMERGEWITH: 可惜的是雖然它比等離子噴射炮更強更遠，電 MODMERGEREPLACE: 臺 MODMERGEWITH: 似乎我們又回歸原點了。我們最新的戰機武器</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛彈</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="114.75">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 等離子飛彈多_50%，但我們 MODMERGEREPLACE: 彫 MODMERGEWITH: 程提升了約_12%。這應該足 MODMERGEREPLACE: 跼 MODMERGEWITH: 的時候，核融飛彈的傷害力只比 MODMERGEREPLACE: 侷 MODMERGEWITH: 晶彈頭，改用小型的核融合裝置 MODMERGEREPLACE: 局 MODMERGEWITH: 我們最先進的武器設計棄用異能 MODMERGEREPLACE: 鵰 MODMERGEWITH: 同時也改進了推進器的設計，射 MODMERGEREPLACE: 琱 MODMERGEWITH: 以迅速解掉大部分的空戰系幽浮。 MODMERGEREPLACE: 挶 MODMERGEWITH: 。當縮到能裝上戰鬥機飛彈掛點</Data></Cell>
-   </Row>
-   <Row ss:AutoFitHeight="0" ss:Height="89.25">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">核融飛雷</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
-   </Row><Row ss:AutoFitHeight="0" ss:Height="89.25">
-    <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 自從我們首次在空中遇上主動開火的幽浮起，人類就一直在爭扎是 MODMERGEREPLACE: 並 MODMERGEWITH: 機裝上核武器。核融飛雷是針對笨重幽浮的最新武器，有更強的傷 MODMERGEREPLACE: 檯 MODMERGEWITH: 持續發出強烈的反對聲音。我所害怕的是，無論核彈頭是不是真的 MODMERGEREPLACE: 颱 MODMERGEWITH: 對異型飛船有用，走上這條短視的路的結果是緩慢地滅絕這顆星球 MODMERGEREPLACE: 併 MODMERGEWITH: 害力和射程，給我們的戰機帶來面對最大型幽浮時所急需的優勢。 MODMERGEREPLACE: 台 MODMERGEWITH: 否應動用核武對付外星人。共識是別用，但部分食古不化的冷戰派 MODMERGEREPLACE: 并 MODMERGEWITH: 。不過，近來所取得的科技發展首次讓我們能有信心地建議給戰鬥</Data></Cell>
    </Row>
   </Table>
  </Worksheet>

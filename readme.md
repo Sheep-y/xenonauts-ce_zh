@@ -11,11 +11,10 @@ This translation also use it as a standard.
 
 ## 安裝方式 Install ##
 
-目前的型屬預覽性質，有少量文字無法顯示。
-
-1. 將 `mod_xce_zh/font` 目錄中的 .mvec 檔案複制到 `遊戲目錄/assets/fonts` <br> Copy .mvec files in `mod_xce_zh/font` folder to `Xenonauts/assets/fonts`
-2. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip <br> Zip all .xml files in `mod_xce_zh` folder.
-3. 用擴展管理器安裝這 zip，置於所有擴展之上 <br> Install the zip as mod and place above all other mods.
+1. 確保遊戲為社群版 0.34.2 （或以上），而非原版的 1.xx。 <br> Make sure game is Community Edition 0.34.2 (or up), NOT normal version 1.xx.
+2. 將 `mod_xce_zh` 目錄中的 `font`、`launcher`、`splashscreen` 目錄制到 `遊戲目錄/assets`，需覆蓋遊戲的六個檔案。 <br> Copy `font`, `launcher`, and `splashscreen` folders in `mod_xce_zh` to `Xenonauts/assets`, overwriting 6 files.
+3. 將 `mod_xce_zh` 目錄中的 所有 .xml 檔案壓成 zip。 <br> Zip all .xml files in `mod_xce_zh` folder.
+4. 用擴展管理器安裝這 zip，置於所有模組之上。 <br> Install the zip as mod and place above all mods.
 
 ## 進度 Progress ##
 
@@ -28,7 +27,7 @@ This translation also use it as a standard.
 * [x] Translate Quickstart and Manual
 * [ ] Playtest - Adjust font sizes
 * [x] Playtest - Fill in uncertain blanks
-* [ ] Translate splashscreen, launcher
+* [x] Translate splashscreen, launcher
 * [ ] Build font and preview package
 * [ ] Edit strings.xml
 * [ ] Edit Xenopedia.xml
@@ -39,37 +38,41 @@ This translation also use it as a standard.
 
 ## 模組支援 Mod list ##
 
-XCE mods with translate-able resources and status.
+XCE mods with translate-able resources.
 
 * Armoured Assault
-  * Default Off
-  * Merged and translated
+  * Ver 1.2, default off.
+  * Merged and translated.
 
 * Extended Weapon Descriptions for Fighters
-  * Default On
-  * Merged and translated
+  * Ver 1.0.1, default on.
+  * Merged and translated.
 
 * Furies, Terror, and Dreadnoughts Oh My
-  * Default Off
+  * Default off.
   * Must be done as a separate translation mod.
 
 * Lore+
-  * Default On
-  * Merged and translated
+  * Ver 1.1c3, default on.
+  * Merged and translated.
 
 * X:CE Balance Adjustment
-  * Default On
-  * Merged and translated
+  * Ver 0.34.2, default on.
+  * Merged and translated.
 
 * X:CE Settings
-  * Default On
-  * Ignored because it simply swaps colonal and commander title, which is sharp and clear in Chinese
+  * Ver 0.34.2, default on.
+  * Ignored because it simply swaps colonal and commander title, which is sharp and clear in Chinese.
 
-Non-XCE mods with translate-able resoruces and status.
+Non-XCE mods with translate-able resoruces.
+
+* Aegia Armor
+  * Ver 2014-08-18.
+  * Merged and translated.
 
 * Geographic addition
-  * Version 1.1 released 2016-08-16
-  * Merged and translated
+  * Ver 1.1 / 2016-08-16.
+  * Merged and translated.
 
 ## 字型 Fonts ##
 

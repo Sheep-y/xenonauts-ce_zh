@@ -18,7 +18,7 @@
 </Style>
  </Styles>
  <Worksheet ss:Name="strings">
-<Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="2650" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
+<Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="2656" x:FullColumns="1" x:FullRows="1" ss:DefaultColumnWidth="54" ss:DefaultRowHeight="16.5">
  <Column ss:AutoFitWidth="0" ss:Width="246"/>
  <Column ss:AutoFitWidth="0" ss:Width="844.5"/>
  <Row>
@@ -7813,6 +7813,92 @@
   <Cell><Data ss:Type="String">AlienBase.Extra7</Data></Cell>
   <Cell><Data ss:Type="String">Extra7</Data></Cell>
  </Row>
+ <!-- Aegia Armor -->
+ <Row>
+  <Cell><Data ss:Type="String">armour.seer</Data></Cell>
+  <Cell><Data ss:Type="String">神盾護甲</Data></Cell>
+ </Row>
+ <Row>
+  <Cell><Data ss:Type="String">Items.XenonautSeer</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+ </Row>
+ <Row>
+  <Cell><Data ss:Type="String">Items.XenonautSeerCorpse</Data></Cell>
+  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+ </Row>
+ <Row>
+  <Cell><Data ss:Type="String">ManTech.Seer</Data></Cell>
+  <Cell><Data ss:Type="String">神盾支援護甲</Data></Cell>
+ </Row>
+ <Row>
+  <Cell><Data ss:Type="String">Researches.Seer</Data></Cell>
+  <Cell><Data ss:Type="String">神盾支援護甲</Data></Cell>
+ </Row>
+ <Row>
+  <Cell><Data ss:Type="String">Researches.SeerDesc</Data></Cell>
+  <Cell><Data ss:Type="String">灰狼護甲的變體，融合了獵戶戰甲的力量強化骨架並新增抵抗靈能攻擊的功能。</Data></Cell>
+ </Row>
+ <!-- Armored Assault -->
+ <Row>
+  <Cell><Data ss:Type="String">VV.ALENIUMROCKET</Data></Cell>
+  <Cell><Data ss:Type="String">異能晶火箭</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">VV.PLASMAROCKET</Data></Cell>
+  <Cell><Data ss:Type="String">等離子火箭</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">VV.FUSIONROCKET</Data></Cell>
+  <Cell><Data ss:Type="String">核融火箭</Data></Cell>
+ </Row>
+ <!-- Geographic addition -->
+ <Row>
+  <Cell><Data ss:Type="String">Novosibirsk</Data></Cell>
+  <Cell><Data ss:Type="String">新西伯利亞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Krasnoyarsk</Data></Cell>
+  <Cell><Data ss:Type="String">克拉斯諾亞爾斯克</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Anadir</Data></Cell>
+  <Cell><Data ss:Type="String">阿納達爾</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Petropavlovsk-Kamchatskiy</Data></Cell>
+  <Cell><Data ss:Type="String">堪察加彼得巴甫洛夫斯克</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Shanghai</Data></Cell>
+  <Cell><Data ss:Type="String">上海</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Urumchi</Data></Cell>
+  <Cell><Data ss:Type="String">烏魯木齊</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Pyongyang</Data></Cell>
+  <Cell><Data ss:Type="String">平壤</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">North Korea</Data></Cell>
+  <Cell><Data ss:Type="String">北韓</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Denver</Data></Cell>
+  <Cell><Data ss:Type="String">丹佛</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Manaus</Data></Cell>
+  <Cell><Data ss:Type="String">馬瑙斯</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Samarinda</Data></Cell>
+  <Cell><Data ss:Type="String">三馬林達</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Colombo</Data></Cell>
+  <Cell><Data ss:Type="String">哥林堡</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Sri Lanka</Data></Cell>
+  <Cell><Data ss:Type="String">斯里蘭卡</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Punta Arenas</Data></Cell>
+  <Cell><Data ss:Type="String">蓬塔阿雷納斯</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Addis Ababa</Data></Cell>
+  <Cell><Data ss:Type="String">亞的斯亞貝巴</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Ephiopia</Data></Cell>
+  <Cell><Data ss:Type="String">埃塞俄比亞</Data></Cell>
+ </Row>
  <!-- Lore+ -->
  <Row>
   <Cell><Data ss:Type="String">Researches.ImpossibleResearch</Data></Cell>
@@ -7906,67 +7992,6 @@
  </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.rocket.incendiary.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒火箭彈：&lt;/b&gt;&#10;&#10;燃燒火箭彈能令大面積的範圍起火。爆炸本身沒貫穿力可言，但可以燒灼多名聚集的敵人。&#10;&#10;傷害類型：39 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
- </Row>
- <!-- Armored Assault -->
- <Row>
-  <Cell><Data ss:Type="String">VV.ALENIUMROCKET</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶火箭</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">VV.PLASMAROCKET</Data></Cell>
-  <Cell><Data ss:Type="String">等離子火箭</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">VV.FUSIONROCKET</Data></Cell>
-  <Cell><Data ss:Type="String">核融火箭</Data></Cell>
- </Row>
- <!-- Geographic addition -->
- <Row>
-  <Cell><Data ss:Type="String">Novosibirsk</Data></Cell>
-  <Cell><Data ss:Type="String">新西伯利亞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Krasnoyarsk</Data></Cell>
-  <Cell><Data ss:Type="String">克拉斯諾亞爾斯克</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Anadir</Data></Cell>
-  <Cell><Data ss:Type="String">阿納達爾</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Petropavlovsk-Kamchatskiy</Data></Cell>
-  <Cell><Data ss:Type="String">堪察加彼得巴甫洛夫斯克</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Shanghai</Data></Cell>
-  <Cell><Data ss:Type="String">上海</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Urumchi</Data></Cell>
-  <Cell><Data ss:Type="String">烏魯木齊</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Pyongyang</Data></Cell>
-  <Cell><Data ss:Type="String">平壤</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">North Korea</Data></Cell>
-  <Cell><Data ss:Type="String">北韓</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Denver</Data></Cell>
-  <Cell><Data ss:Type="String">丹佛</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Manaus</Data></Cell>
-  <Cell><Data ss:Type="String">馬瑙斯</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Samarinda</Data></Cell>
-  <Cell><Data ss:Type="String">三馬林達</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Colombo</Data></Cell>
-  <Cell><Data ss:Type="String">哥林堡</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Sri Lanka</Data></Cell>
-  <Cell><Data ss:Type="String">斯里蘭卡</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Punta Arenas</Data></Cell>
-  <Cell><Data ss:Type="String">蓬塔阿雷納斯</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Addis Ababa</Data></Cell>
-  <Cell><Data ss:Type="String">亞的斯亞貝巴</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Ephiopia</Data></Cell>
-  <Cell><Data ss:Type="String">埃塞俄比亞</Data></Cell>
  </Row>
 </Table>
  </Worksheet>

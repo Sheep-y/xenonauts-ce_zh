@@ -38,7 +38,7 @@ public class Main {
    private static final String OUTPUT = "Playmate Font Maker/Character Sets/Xenonauts.txt";
 
    public static void main( String[] args ) {
-      new Main().enc();
+      new Main().gen();
    }
 
    public void gen() {
