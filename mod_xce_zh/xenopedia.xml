@@ -245,7 +245,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">激光武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="165.75">
@@ -538,7 +538,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地升級</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異族基地設施</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="140.25">

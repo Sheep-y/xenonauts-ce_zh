@@ -347,7 +347,7 @@
   <Cell><Data ss:Type="String">航機配置介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEquipHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">停機坪</Data></Cell>
+  <Cell><Data ss:Type="String">機坪</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AerialTerror</Data></Cell>
   <Cell><Data ss:Type="String">空中恐襲</Data></Cell>
@@ -896,7 +896,7 @@
   <Cell><Data ss:Type="String">車庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BSAircraft</Data></Cell>
-  <Cell><Data ss:Type="String">停機坪</Data></Cell>
+  <Cell><Data ss:Type="String">機庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Budapest</Data></Cell>
   <Cell><Data ss:Type="String">布達佩斯</Data></Cell>
@@ -1232,25 +1232,25 @@
   <Cell><Data ss:Type="String">鐵人模式：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ironmandesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;18&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式迫使玩家接受所犯的錯，大大提升緊張感。在鐵人模式中，你將不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只保有一個存檔。當你贏過幾次後可以試試這模式看看！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;18&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式會迫你接受所犯的錯，大大提升緊張感。在鐵人模式中，你將不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只會保留一個存檔。當你贏過幾次之後可以試試看！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.normdiff</Data></Cell>
   <Cell><Data ss:Type="String">普通</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.normdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你玩過策略遊戲但沒玩過初代 X-Com，請選這難易度。&#10;&#10;遊戲會略為包容，異型也稍微收儉。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你玩過策略遊戲但沒玩過初代 X-Com，請選這難易度。&#10;&#10;遊戲會略為包容，異型也會稍微收儉。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.shdiff</Data></Cell>
   <Cell><Data ss:Type="String">瘋子</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.shdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;你要麼是瘋的，要麼就是鬼才。&#10;&#10;遊戲一開始就不留情面，並只會變本加厲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;你要麼是瘋的，要麼就是鬼才。&#10;&#10;遊戲一開始就不留情面，並只會越發變本加厲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.vetdiff</Data></Cell>
-  <Cell><Data ss:Type="String">老手</Data></Cell>
+  <Cell><Data ss:Type="String">老將</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.vetdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;遊戲會不容易，異型很慓悍，侵略也會快速升溫。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;戰略難度不低，異型很慓悍，侵略也會快速升溫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DismissSoldierConf</Data></Cell>
   <Cell><Data ss:Type="String">要解僱&lt;br/&gt;%1%嗎？</Data></Cell>
@@ -1670,7 +1670,7 @@
   <Cell><Data ss:Type="String">空戰解說</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape</Data></Cell>
-  <Cell><Data ss:Type="String">地球示圖顯示了你需要守衛的世界。異型幽浮每隔一段時間就會入侵大氣層，持續傷害異種航員與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷達的偵察距離，其內的幽浮會被自動偵察。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;遊戲的目標是擊落幽浮並從墜機點回收異型的科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">歡迎，指揮官。這就是您所守護的世界。異型的幽浮每隔一段時間就會分批入侵大氣層，持續傷害我們與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷達的偵察範圍，飛進去的幽浮會立刻被發現。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;我們的目標是擊落幽浮並從墜地的幽浮回收異型科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape.Title</Data></Cell>
   <Cell><Data ss:Type="String">地球示圖解說</Data></Cell>
@@ -3069,7 +3069,7 @@
   <Cell><Data ss:Type="String">中東</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MedicalCenter</Data></Cell>
-  <Cell><Data ss:Type="String">醫護中心</Data></Cell>
+  <Cell><Data ss:Type="String">醫護所</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Melbourne</Data></Cell>
   <Cell><Data ss:Type="String">墨爾本</Data></Cell>
@@ -3231,10 +3231,10 @@
   <Cell><Data ss:Type="String">左按以設定航機的目標</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective0</Data></Cell>
-  <Cell><Data ss:Type="String">目標：完成對異型侵略的研究</Data></Cell>
+  <Cell><Data ss:Type="String">目標：研究"異型的侵略"</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective1</Data></Cell>
-  <Cell><Data ss:Type="String">目標：擊墜一隻幽浮並派出地面部隊回收</Data></Cell>
+  <Cell><Data ss:Type="String">目標：擊落一隻幽浮並派出地面部隊回收</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective2</Data></Cell>
   <Cell><Data ss:Type="String">目標：入手其他異形屍骸以供研究</Data></Cell>
@@ -3246,25 +3246,25 @@
   <Cell><Data ss:Type="String">目標：活捉一隻異型並研究牠</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective5</Data></Cell>
-  <Cell><Data ss:Type="String">目標：研究審問異型的方法</Data></Cell>
+  <Cell><Data ss:Type="String">目標：研究如何審問異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective6</Data></Cell>
-  <Cell><Data ss:Type="String">目標：活捉異型士官以供審訊</Data></Cell>
+  <Cell><Data ss:Type="String">目標：活捉異型士官以供審問</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective7</Data></Cell>
-  <Cell><Data ss:Type="String">目標：在實驗室審問異型士官</Data></Cell>
+  <Cell><Data ss:Type="String">目標：完成對異型士官的審問</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective8</Data></Cell>
-  <Cell><Data ss:Type="String">目標：活捉異型領袖以供審訊</Data></Cell>
+  <Cell><Data ss:Type="String">目標：活捉異型領袖以供審問</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective9</Data></Cell>
-  <Cell><Data ss:Type="String">目標：在實驗室審問異型領袖</Data></Cell>
+  <Cell><Data ss:Type="String">目標：完成對異型領袖的審問</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective10</Data></Cell>
-  <Cell><Data ss:Type="String">目標：活捉裁判官以供審訊</Data></Cell>
+  <Cell><Data ss:Type="String">目標：活捉裁判官以供審問</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective11</Data></Cell>
-  <Cell><Data ss:Type="String">目標：在實驗室審問裁判官</Data></Cell>
+  <Cell><Data ss:Type="String">目標：完成對裁判官的審問</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Objectives.Objective12</Data></Cell>
   <Cell><Data ss:Type="String">目標：研究終局行動</Data></Cell>
@@ -3807,7 +3807,7 @@
   <Cell><Data ss:Type="String">我們相信這件神秘裝置埋藏著星際航行的秘密。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
-  <Cell><Data ss:Type="String">異型的審問</Data></Cell>
+  <Cell><Data ss:Type="String">如何審問異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogationDesc</Data></Cell>
   <Cell><Data ss:Type="String">也就是研究我們抓得的異型樣本。優先項目是找出跟敵人溝通的方法。</Data></Cell>
