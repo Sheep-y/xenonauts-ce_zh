@@ -202,7 +202,7 @@ public class Main {
          String code = getCode( text );
          if ( code.length() > text.length() ) code = code.substring( 0, text.length() );
          int token_size = Math.max( 1, (int) Math.floor( text.length() / code.length() ) );
-         cell.setTextContent( code );
+         cell.setTextContent( "<font size='24'>" + code );
 
          for ( int i = 0 ; i < code.length() ; i++ )
             map.put( text.substring( i*token_size, i == code.length()-1 ? text.length() : (i+1)*token_size ), code.substring( i, i+1 ) );

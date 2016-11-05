@@ -85,16 +85,18 @@ Non-XCE mods with translate-able resoruces.
 ## 字型 Fonts ##
 
 本翻譯所用的字型皆為開源字型，可以自由轉換格式。
+出於體積考慮，漢化包的字型經過裁剪，並不包括所有常用字，可能無法顯示自訂命名。
 
 All fonts are open source and can be transformed freely.
+The fonts only contains used characters, not all common characters, and may not display custom names.
 
 * arial.mvec
   * Replace with WenQuanYi Micro Hei (文泉驛微米黑).
-  * 1632 characters.
+  * 1632 characters + English & Punctuation.
 * xenonauts.mvec
   * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72.
   * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols.
-  * 1632 characters.
+  * 1632 characters + English & Punctuation.
 * xenopedia.mvec
   * Replace with AR PL MingTi (文鼎 PL 明體).
   * Select underscore (half-width), Move Y 2000, and use it as non-breaking space.

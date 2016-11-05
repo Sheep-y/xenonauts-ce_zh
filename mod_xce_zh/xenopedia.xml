@@ -64,7 +64,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
     <Cell/>
    </Row><Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
@@ -89,7 +89,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.mig31</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -110,7 +110,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -129,7 +129,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -148,7 +148,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -169,7 +169,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Alenium</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -188,7 +188,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -207,7 +207,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyFabrication</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -226,7 +226,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -247,7 +247,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -268,7 +268,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -289,7 +289,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PulseLasers</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -308,7 +308,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.wolf</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -327,7 +327,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -346,7 +346,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="242.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -365,7 +365,7 @@
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
@@ -386,7 +386,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -405,7 +405,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.corsair</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -424,7 +424,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.SCIMITAR</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -443,7 +443,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ElectroshockGrenade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -462,7 +462,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.buzzard</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -481,7 +481,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -500,7 +500,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -519,7 +519,7 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -540,7 +540,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -559,7 +559,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -578,7 +578,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -597,7 +597,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -616,18 +616,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 空間，所以新的幽浮反而&lt;i&gt;變快&lt;/i&gt;了。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 這些異型合金圓筒會吸收伽瑪幅射並發熱，產生大量實用的熱能。基本上是個簡單有效的設計，要應用到我們的研發中應該沒有難度。 MODMERGEREPLACE: 榦 MODMERGEWITH: 越來越大，而空氣阻力會隨體積增大而指數式增長，空間效率就開始變得重要：異型反應爐能提供十倍的輸出，而不需 MODMERGEREPLACE: 蒙 MODMERGEWITH: 要十倍的空間，所以新的幽浮反而*變快*了。
 
-反應爐的效率提升源自捕取伽瑪射線的能量。當異能晶的化學鏈被 MODMERGEREPLACE: 局 MODMERGEWITH: 異型的反應爐有一輛私家車那麼大，主體是在異型合金的曲面平臺上水平安置的圓筒。雖然看上去跟幽浮的動力爐有點相 MODMERGEREPLACE: 琱 MODMERGEWITH: 異型合金圓筒會吸收伽瑪幅射並發熱，產生大量實用的熱能。基本上是個簡單有效的設計，要應用到我們的研發中應該沒有難度。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 打破時，除了釋放我們正取用的熱能外似乎也會爆出一股伽瑪幅射。這射線不單止很高能，而且也有很強的指向性（無方 MODMERGEREPLACE: 跼 MODMERGEWITH: 大，而空氣阻力會隨體積增大而指數式增長，空間效率就開始變得重要：異型反應爐能提供十倍的輸出，而不需要十倍的 MODMERGEREPLACE: 彫 MODMERGEWITH: 向性的話這程度的伽瑪爆發會很危險），剛好照射到反應爐內好像單車輛軸一樣平均分佈的六根超高密度幼細圓筒。這些 MODMERGEREPLACE: 侷 MODMERGEWITH: 似，反應爐遠要精密，能輸出多十倍的能量。
+反應爐的效率提升源自捕取伽瑪射線的能量。當異能晶的化學鏈被 MODMERGEREPLACE: 乾 MODMERGEWITH: 相似，反應爐遠要精密，能輸出多十倍的能量。
 
-它用的異能晶核心跟動力爐相同，沒有其他秘密的動力來源。反應爐的 MODMERGEREPLACE: 挶 MODMERGEWITH: 主要改進是提升了抽取能量的效率；似乎能源爐是最簡單的異能晶裝置，結構簡單但低效率。入侵的主力幽浮變得越來越</Data></Cell>
+它用的異能晶核心跟動力爐相同，沒有其他秘密的動力來源。反應 MODMERGEREPLACE: 干 MODMERGEWITH: 異型的反應爐有一輛私家車那麼大，主體是在異型合金的曲面平臺上水平安置的圓筒。雖然看上去跟幽浮的動力爐有點 MODMERGEREPLACE: 幹 MODMERGEWITH: 爐的主要改進是提升了抽取能量的效率；似乎能源爐是最簡單的異能晶裝置，結構簡單但低效率。入侵的主力幽浮變得 MODMERGEREPLACE: 濛 MODMERGEWITH: 方向性的話這程度的伽瑪爆發會很危險），剛好照射到反應爐內好像單車輛軸一樣平均分佈的六根超高密度幼細圓筒。 MODMERGEREPLACE: 懞 MODMERGEWITH: 打破時，除了釋放我們正取用的熱能外似乎也會爆出一股伽瑪幅射。這射線不單止很高能，而且也有很強的指向性（無</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
@@ -635,7 +635,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -654,7 +654,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.predator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -675,7 +675,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -696,7 +696,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.sentinel</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -715,7 +715,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -734,7 +734,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -755,7 +755,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -774,7 +774,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.marauder</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -793,7 +793,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HYPERION</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -812,7 +812,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -831,7 +831,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -852,7 +852,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -871,7 +871,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -890,7 +890,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -909,7 +909,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -930,7 +930,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFirePlasmas</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -949,7 +949,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -968,7 +968,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -987,7 +987,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1006,7 +1006,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1027,7 +1027,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1046,7 +1046,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1065,7 +1065,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1086,7 +1086,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.jackal</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1105,7 +1105,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1124,7 +1124,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1143,7 +1143,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1162,7 +1162,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1181,7 +1181,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1200,7 +1200,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1227,7 +1227,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1246,7 +1246,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1265,7 +1265,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
@@ -1286,7 +1286,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
@@ -1309,7 +1309,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1331,7 +1331,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
     <Cell/>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
@@ -1355,7 +1355,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1376,7 +1376,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1395,7 +1395,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1414,7 +1414,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1433,7 +1433,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1452,7 +1452,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data>
     </Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
@@ -1473,7 +1473,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1492,7 +1492,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1511,7 +1511,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1540,7 +1540,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1559,7 +1559,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
     <Cell/>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
@@ -1580,7 +1580,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
     <Cell/>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
@@ -1601,7 +1601,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PraetorInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1624,7 +1624,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1647,7 +1647,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">FinalMissionBriefing</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1676,7 +1676,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.lightscout</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1695,7 +1695,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.scout</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1714,7 +1714,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.corvette</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1733,7 +1733,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.landingship</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1752,7 +1752,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.cruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1771,7 +1771,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.carrier</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1790,7 +1790,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.battleship</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1809,7 +1809,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.fighter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1828,7 +1828,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.heavyfighter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1847,7 +1847,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.interceptor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1866,7 +1866,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1885,7 +1885,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.strikecruiser</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1912,18 +1912,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.f17</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 發輕型飛彈和一根機載炮。這是個很有彈性的組合；響尾蛇導彈在對人類的戰鬥中證實非常有效，不過我們還 MODMERGEREPLACE: 挶 MODMERGEWITH: 性能跟它的始祖差不多，但機體改用一種特殊的鈦鎂合金制作，雖然滅少了酬載量但航程和耐久力都大大增強 MODMERGEREPLACE: 鵰 MODMERGEWITH: 幽浮。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: 戰炮適用於擊墜較小的幽浮，而翼掛的響尾蛇導彈即使面對中型幽浮也有殺傷力。
 
-額外航程也是必需的：我們要保護幅員遼闊的土地。這些改動減少了神鷲的酬載，但它還是能帶兩 MODMERGEREPLACE: 雕 MODMERGEWITH: 也許對異型的能量武器有一定的抵抗力。我們希望這種強化機體會令我們的神鷲比一般空軍更適合對付異型的 MODMERGEREPLACE: 琱 MODMERGEWITH: 不知道是不是真的能鎖定幽浮作為飛彈目標。空戰炮射程較短，但在纏鬥中應該能大派用場。兩款武器總會有一款合用。 MODMERGEREPLACE: 跼 MODMERGEWITH: 。這項改動是出於冰島事件後對受損的_F-4_幽靈進行的分析，當時發現了用鈦或鎂做的零件受損較輕， MODMERGEREPLACE: 侷 MODMERGEWITH: 。神鷲的空戰炮適宜擊墜較小的幽浮，而所攜帶的響尾蛇導彈即使面對中型幽浮也有殺傷力。
+神鷲的整體性能跟它的先祖差不多， MODMERGEREPLACE: 併 MODMERGEWITH: 實戰中驗證過，不過我們還不知道飛彈能不能鎖定幽浮。空戰炮射程較短，但在纏鬥中應該能大派用場。兩款武器總會有一款合用。 MODMERGEREPLACE: 并 MODMERGEWITH: 化機體能令我們的神鷲比一般空軍更適合對付異型的幽浮。
 
-神鷲的整體 MODMERGEREPLACE: 局 MODMERGEWITH: F-17“神鷲”Condor_是異種航員的主力戰鬥機，是衍生自_F-16_戰隼_的多用途纏鬥戰機</Data></Cell>
+額外航程也是必需的：我們要保護幅員遼闊的土地。這些改 MODMERGEREPLACE: 並 MODMERGEWITH: 動減少了神鷲的酬載，但它還是能帶兩發輕型飛彈和一根機載炮。這是個很有彈性的組合；響尾蛇導彈的效用已經在人類的 MODMERGEREPLACE: 檯 MODMERGEWITH: 但機體改用一種特殊的鈦鎂合金制作，雖然減少了酬載量但航程和耐久力都大大增強。這項改動是出於冰島事件後對受損的 MODMERGEREPLACE: 颱 MODMERGEWITH: _F-4_幽靈進行的分析，當時發現了用鈦或鎂做的零件受損較輕，也許對異型的能量武器有一定抗力。我們希望這種強 MODMERGEREPLACE: 臺 MODMERGEWITH: F-17“神鷲”Condor_是異種航員的主力戰鬥機，一種衍生自_F-16_戰隼_的多用途纏鬥戰機。神鷲的空</Data></Cell>
    </Row>
    <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.chinook</Data></Cell>
@@ -1931,7 +1931,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.chinook</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1950,7 +1950,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AUTOCANNON</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1967,7 +1967,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SIDEWINDER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -1986,7 +1986,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.AVALANCHE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2003,7 +2003,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.ballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2026,7 +2026,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.heavyballistics</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2045,7 +2045,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.basic</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2064,24 +2064,24 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="292.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">IcelandIncident</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 集合雙方的資源和精英聯手組成完全秘密的特戰組織。它的非官方名稱是“異種航員”，職責是對付來犯的異型、守衛地球。結果牠們過去二十年都沒再來過，令我們看似無聊的冗員。養兵千日用在一時，我們知道它們總有一天 MODMERGEREPLACE: 榦 MODMERGEWITH: 這時，北約別無選擇，只能向蘇聯通報異型飛船的事並請求派員協助回收它和它裡面的科技。據聞這是出於自保多於互惠互利，因為蘇聯很氣憤北約突然發射大量核彈，幾乎一起發射自己的核彈。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 部隊去回收幽浮，遇上多名生還外星人的頑抗。人類軍隊傷亡慘重，但總算是漸漸將牠們迫退到墜機點一帶。接下來發生的事只有很少人知道，從結果而言就是這艘飛船發生超巨型的爆炸，毀滅了幽浮的一切及方圓十里內的所 MODMERGEREPLACE: 矇 MODMERGEWITH: 道它們總有一天會再來。那天已經到來了，指揮官。
 
-雙方都派出了地面部隊去回 MODMERGEREPLACE: 乾 MODMERGEWITH: 比雷達訊號顯示的大上許多，比較接近空中戰艦而不是飛機。嘗試溝通的結果是對方用能量武器掃射，即時粉碎一半的戰機並重創餘下的，令它們連滾帶爬地撤回基地。之後北約再派出了數隊戰機去攔截，損失不少但卻沒能對目 MODMERGEREPLACE: 幹 MODMERGEWITH: 標做成明顯傷害。後來這艘幽浮突然更改航向要飛往美國東岸，導致決定動用核武。
+（冰島事件的故事、爆炸的原因、倖存者如何生還等細節被記載於_Xenonauts:_Crimson_Dagger，一本免費的中篇小說，可以用遊戲的啟動器打開閱讀。） MODMERGEREPLACE: 懞 MODMERGEWITH: 有部隊，無人生還。爆炸後幽浮甚麼都沒剩下，親眼見過它的目擊證人只有極少數能避過此劫。
 
-二十分鐘後，六粒配備核彈頭的洲際彈道導彈在冰島一處無人地帶的上空爆炸。驚人的是，幽浮沒被粉碎，只是大致完整地急速迫降。到了 MODMERGEREPLACE: 矇 MODMERGEWITH: 會再來。那天已經到來了，指揮官。
+不過這也方便了後續的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家 MODMERGEREPLACE: 干 MODMERGEWITH: 於_1958_的冰島事件，我們首次接觸外太空生命體。一隻幽浮進入亞特蘭大上空，相信是在進行偵察任務。偵察到它的北約以為是蘇聯的新型實驗機，派戰機攔截。
 
-&lt;i&gt;冰島事件的故事、爆炸的原因、倖存者如何生還等細節被記載於_Xenonauts:_Crimson_Dagger，一本免費的中篇小說，可以用遊戲的啟動器打開閱讀。&lt;/i&gt; MODMERGEREPLACE: 干 MODMERGEWITH: 於_1958_的冰島事件，我們首次接觸外太空生命體。一隻幽浮進入亞特蘭大上空，相信是在進行偵察任務。偵察到它的北約以為是蘇聯的新型實驗機，派戰機攔截。
+但當戰機目視確認幽浮後就知道不是這回事，因為 MODMERGEREPLACE: 幹 MODMERGEWITH: 對目標做成明顯傷害。後來這艘幽浮突然更改航向要飛往美國東岸，導致決定動用核武。
 
-但當戰機目視確認幽浮後就知道不是這回事，因為它 MODMERGEREPLACE: 蒙 MODMERGEWITH: 收幽浮，遇上多名生還外星人的頑抗。人類軍隊傷亡慘重，但總算是漸漸將牠們迫退到墜機點一帶。接下來發生的事只有很少人知道，從結果而言就是這艘飛船發生超巨型的爆炸，毀滅了幽浮的一切及方圓十里內的所有部隊，無 MODMERGEREPLACE: 懞 MODMERGEWITH: 人生還。爆炸後幽浮甚麼都沒剩下，親眼見過它的目擊證人只有極少數能避過此劫。
+二十分鐘後，六粒配備核彈頭的洲際彈道導彈在冰島一處無人地帶的上空爆炸。驚人的是，幽浮沒被粉碎，只是大致完整地急速迫降 MODMERGEREPLACE: 乾 MODMERGEWITH: 它比雷達訊號顯示的大上許多，比較接近空中戰艦而不是飛機。嘗試溝通的結果是對方用能量武器掃射，即時粉碎一半的戰機並重創餘下的，令它們連滾帶爬地撤回基地。之後北約再派出了數隊戰機去攔截，損失不少但卻沒能 MODMERGEREPLACE: 濛 MODMERGEWITH: 卻開始合作，集合雙方的資源和精英聯手組成完全秘密的特戰組織。它的非官方名稱是“異種航員”，職責是對付來犯的異型、守衛地球。結果牠們過去二十年都沒再來過，令我們看似無聊的冗員。養兵千日用在一時，我們知 MODMERGEREPLACE: 榦 MODMERGEWITH: 。到了這時，北約別無選擇，只能向蘇聯通報異型飛船的事並請求派員協助回收它和它裡面的科技。據聞這是出於自保多於互惠互利，因為蘇聯很氣憤北約突然發射大量核彈，幾乎一起發射自己的核彈。
 
-不過這也方便了後續的大規摸掩飾。官方的解釋是蘇聯入侵冰島，最後被核彈打退，雙方都損失慘重。但私下裡兩大超級國家卻開始合作，</Data></Cell>
+雙方都派出了地面</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
@@ -2089,7 +2089,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2108,7 +2108,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
     <Cell/>
     <Cell/>
    </Row><Row ss:Height="114.75">
@@ -2131,7 +2131,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">DefenceBattery</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2148,7 +2148,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row>
     <Cell ss:StyleID="s70"><Data ss:Type="String">Garage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2163,7 +2163,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Hangar</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2180,7 +2180,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Laboratory</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2197,7 +2197,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="25.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">LivingQuarters</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2212,7 +2212,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">MedicalCenter</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2229,7 +2229,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="38.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">RadarArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2246,7 +2246,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="51">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Storeroom</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2263,7 +2263,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Workshop</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2280,7 +2280,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AdvancedMedpack</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2295,7 +2295,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienSensorArray</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2310,7 +2310,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.LIDARArray</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2325,7 +2325,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2340,7 +2340,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.ParticleCannon</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2355,7 +2355,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.PlasmaGrenade</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2370,7 +2370,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AleniumEnrichment</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2385,7 +2385,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienAlloyProduction</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2400,7 +2400,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienKineticShield</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2415,7 +2415,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienSingularityGrenade</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2439,7 +2439,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.HypervelocityProjectiles</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2454,7 +2454,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">airplane.human.saracen</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2473,7 +2473,7 @@ T MODMERGEREPLACE: 併 MODMERGEWITH:  of it - so no doubt our engineers will fee
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
     <Cell><Data ss:Type="String" x:Ticked="1"/></Cell>
@@ -2494,7 +2494,7 @@ The rest of the power source contains little of interest. All of the materials u
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
@@ -2515,7 +2515,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row>
     <Cell ss:StyleID="s112"><Data ss:Type="String">VV.MACHINEGUN</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
@@ -2530,7 +2530,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="63.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Epilogue</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2552,7 +2552,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.seer</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2574,7 +2574,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2589,7 +2589,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2604,7 +2604,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2619,7 +2619,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2634,7 +2634,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2649,7 +2649,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2664,7 +2664,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2679,7 +2679,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2694,7 +2694,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.FUSIONTORP</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2710,7 +2710,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2731,7 +2731,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="255">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2762,7 +2762,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="255">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2792,7 +2792,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="267.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2823,7 +2823,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2838,7 +2838,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2859,7 +2859,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2876,7 +2876,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2895,7 +2895,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2912,7 +2912,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2933,7 +2933,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2954,7 +2954,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2973,7 +2973,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -2990,7 +2990,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3017,7 +3017,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3036,7 +3036,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3059,7 +3059,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3084,7 +3084,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3109,7 +3109,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3128,7 +3128,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3149,7 +3149,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3168,7 +3168,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3189,7 +3189,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3208,7 +3208,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3227,7 +3227,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3246,7 +3246,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3265,7 +3265,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
@@ -3284,7 +3284,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>

@@ -86,13 +86,13 @@
   <Cell><Data ss:Type="String">失去訊號</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.AFTERBURNER</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;後燃器：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;啟動後燃器能提升戰機的最大速度，&lt;br /&gt;但會增加燃料消耗。請小心使用！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;後燃器：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;啟動後燃器能提升戰機的最大速度，&lt;br /&gt;但會增加燃料消耗。請小心使用！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.EVADE</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;迴避滾轉：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機進行側向迴避滾轉，避開來襲的投射物。&lt;br /&gt;滾轉要消耗燃料，且不能連續迴避，&lt;br /&gt;請酌量使用（試試暫停遊戲抓緊時機）！&lt;br/&gt;&lt;br/&gt;部分攔截機不能進行迴避滾轉。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迴避滾轉：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機進行側向迴避滾轉，避開來襲的投射物。&lt;br /&gt;滾轉要消耗燃料，且不能連續迴避，&lt;br /&gt;請酌量使用（試試暫停遊戲抓緊時機）！&lt;br/&gt;&lt;br/&gt;部分攔截機不能進行迴避滾轉。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.TOOLTIP.RETREAT</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下達新指令。&lt;/font\&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下達新指令。&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
@@ -164,7 +164,7 @@
   <Cell><Data ss:Type="String">重型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACW.Normal</Data></Cell>
-  <Cell><Data ss:Type="String">常規</Data></Cell>
+  <Cell><Data ss:Type="String">輕型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACW.Superheavy</Data></Cell>
   <Cell><Data ss:Type="String">超重型</Data></Cell>
@@ -206,7 +206,7 @@
   <Cell><Data ss:Type="String">%1%x 重型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.HARDPOINTL</Data></Cell>
-  <Cell><Data ss:Type="String">%1%x 常規</Data></Cell>
+  <Cell><Data ss:Type="String">%1%x 輕型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.HARDPOINTS</Data></Cell>
   <Cell><Data ss:Type="String">武器掛點</Data></Cell>
@@ -347,7 +347,7 @@
   <Cell><Data ss:Type="String">航機配置介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEquipHeaderName</Data></Cell>
-  <Cell><Data ss:Type="String">機坪</Data></Cell>
+  <Cell><Data ss:Type="String">機庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AerialTerror</Data></Cell>
   <Cell><Data ss:Type="String">空中恐襲</Data></Cell>
@@ -998,22 +998,22 @@
   <Cell><Data ss:Type="String">基督城</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForBravery</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;忠勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;忠勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForBravery_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在守衛異種航員設施、對抗異型登陸部隊時的英勇表現。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳在守衛異種航員設施、對抗異型登陸部隊時的英勇表現。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForCurage</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;英勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;英勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForCurage_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在守衛都市、對抗異型恐襲部隊時的英勇表現。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳在守衛都市、對抗異型恐襲部隊時的英勇表現。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForValor</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;驍勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;驍勇勳章：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CitationForValor_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在虜獲異型基地時的英勇表現。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳在虜獲異型基地時的英勇表現。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Close</Data></Cell>
   <Cell><Data ss:Type="String">關閉</Data></Cell>
@@ -1052,16 +1052,16 @@
   <Cell><Data ss:Type="String">選擇航機的目標</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CrimsonHeart</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;赤心：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;赤心：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CrimsonHeart_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳為人類而戰時所受的重傷。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳為人類而戰時所受的重傷。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CruxSolaris</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;曙光點：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;曙光點：&lt;/b&gt; &lt;i&gt;（勇氣+1）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CruxSolaris_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳虜獲異型領袖。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳虜獲異型領袖。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CSDiscoveredDialog.Deploy</Data></Cell>
   <Cell><Data ss:Type="String">派出突擊隊</Data></Cell>
@@ -1223,7 +1223,7 @@
   <Cell><Data ss:Type="String">容易</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.easydiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，部隊也較弱。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，部隊也較弱。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ExplanatoryTooltips</Data></Cell>
   <Cell><Data ss:Type="String">遊戲說明：</Data></Cell>
@@ -1232,34 +1232,34 @@
   <Cell><Data ss:Type="String">鐵人模式：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ironmandesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;18&quot;&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式會迫你接受所犯的錯，大大提升緊張感。在鐵人模式中，你將不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只會保留一個存檔。當你贏過幾次之後可以試試看！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='18'&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;此模式會迫你接受所犯的錯，大大提升緊張感。在鐵人模式中，你將不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只會保留一個存檔。當你贏過幾次之後可以試試看！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.normdiff</Data></Cell>
   <Cell><Data ss:Type="String">普通</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.normdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你玩過策略遊戲但沒玩過初代 X-Com，請選這難易度。&#10;&#10;遊戲會略為包容，異型也會稍微收儉。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;如果你玩過策略遊戲但沒玩過初代 X-Com，請選這難易度。&#10;&#10;遊戲會略為包容，異型也會稍微收儉。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.shdiff</Data></Cell>
   <Cell><Data ss:Type="String">瘋子</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.shdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;你要麼是瘋的，要麼就是鬼才。&#10;&#10;遊戲一開始就不留情面，並只會越發變本加厲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;你要麼是瘋的，要麼就是鬼才。&#10;&#10;遊戲一開始就不留情面，並只會越發變本加厲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.vetdiff</Data></Cell>
   <Cell><Data ss:Type="String">老將</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.vetdiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size=&quot;24&quot;&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;戰略難度不低，異型很慓悍，侵略也會快速升溫。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;如果你之前玩過類似的遊戲，可以選這難易度。&#10;&#10;戰略難度不低，異型很慓悍，侵略也會快速升溫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DismissSoldierConf</Data></Cell>
   <Cell><Data ss:Type="String">要解僱&lt;br/&gt;%1%嗎？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DistinguisedServiceMedal</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傑出服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;傑出服務勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DistinguisedServiceMedal_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積三十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表揚累積三十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.NoSurvivors</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。沒找到生還者。</Data></Cell>
@@ -2784,10 +2784,10 @@
   <Cell><Data ss:Type="String">倫敦</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LongServiceMedal</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;長期服務勳章：&lt;/b&gt; &lt;i&gt;（+2 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;長期服務勳章：&lt;/b&gt; &lt;i&gt;（+2 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LongServiceMedal_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積二十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表揚累積二十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Los Angeles</Data></Cell>
   <Cell><Data ss:Type="String">洛杉磯</Data></Cell>
@@ -3084,10 +3084,10 @@
   <Cell><Data ss:Type="String">MiG-32 狐步</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MilitaryCross</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;鐵十字：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;鐵十字：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MilitaryCross_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在一場行動內解決五名異型單位。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳在一場行動內解決五名異型單位。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MissileTurret</Data></Cell>
   <Cell><Data ss:Type="String">飛彈陣地</Data></Cell>
@@ -3327,22 +3327,22 @@
   <Cell><Data ss:Type="String">以下物品已抵達&lt;font color='FAA902'&gt;%1%&lt;/font&gt;:</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfGallantry</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;義勇衛士勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;義勇衛士勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfGallantry_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳累計打倒五名外太空敵人的戰積。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳累計打倒五名外太空敵人的戰積。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfMerit</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傑出衛士勳章：&lt;/b&gt; &lt;i&gt;（+2 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;傑出衛士勳章：&lt;/b&gt; &lt;i&gt;（+2 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfMerit_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳累計打倒十名外太空敵人的戰積。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳累計打倒十名外太空敵人的戰積。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfTerra</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;地球衛士勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;地球衛士勳章：&lt;/b&gt; &lt;i&gt;（+3 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfTerra_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳累計打倒二十名外太空敵人的戰積。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳累計打倒二十名外太空敵人的戰積。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Papua New Guinea</Data></Cell>
   <Cell><Data ss:Type="String">巴布亞新幾內亞</Data></Cell>
@@ -3447,13 +3447,13 @@
   <Cell><Data ss:Type="String">日期</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment1</Data></Cell>
-  <Cell><Data ss:Type="String">指揮官。這是最新的士兵候選名單，請您過目。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;指揮官。這是最新的將士名單，請您過目。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">以下是可供我們僱用的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;以下是可供我們僱用的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Comment3</Data></Cell>
-  <Cell><Data ss:Type="String">以下是目前的陣亡名單，指揮官。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;這就是陣亡將士的名單，指揮官。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Manage</Data></Cell>
   <Cell><Data ss:Type="String">士兵管理</Data></Cell>
@@ -4155,10 +4155,10 @@
   <Cell><Data ss:Type="String">科學家（%1%）</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.Comment1</Data></Cell>
-  <Cell><Data ss:Type="String">歡迎你來參觀我們如何拯救地球，指揮官。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;歡迎你來看我們如何拯救地球，指揮官。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">棒極了。我們需要更多的聰明腦袋。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;棒極了。我們需要更多的聰明頭腦。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.Commence</Data></Cell>
   <Cell><Data ss:Type="String">開始專案</Data></Cell>
@@ -4251,10 +4251,10 @@
   <Cell><Data ss:Type="String">真的要覆蓋這遊戲存檔？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaviorMedal</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;救難勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;救難勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaviorMedal_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳打倒一名正在操縱異種航員伙伴的外太空靈能單位。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳打倒一名正在操縱異種航員伙伴的外太空靈能單位。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SCCS</Data></Cell>
   <Cell><Data ss:Type="String">戰略指揮及控制系統</Data></Cell>
@@ -4353,7 +4353,7 @@
   <Cell><Data ss:Type="String">原屬部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.PRIMWEAPON</Data></Cell>
-  <Cell><Data ss:Type="String">主武器</Data></Cell>
+  <Cell><Data ss:Type="String">主手</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.RANGE</Data></Cell>
   <Cell><Data ss:Type="String">射程</Data></Cell>
@@ -4377,7 +4377,7 @@
   <Cell><Data ss:Type="String">使用崗位的預設裝備</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.SECWEAPON</Data></Cell>
-  <Cell><Data ss:Type="String">副武器</Data></Cell>
+  <Cell><Data ss:Type="String">副手</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STAT</Data></Cell>
   <Cell><Data ss:Type="String">數值</Data></Cell>
@@ -4473,10 +4473,10 @@
   <Cell><Data ss:Type="String">武器庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ServiceMedal</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;服務勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;服務勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ServiceMedal_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表揚累積十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表揚累積十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ShowAircraft</Data></Cell>
   <Cell><Data ss:Type="String">置中航機，並切至最慢速</Data></Cell>
@@ -4596,10 +4596,10 @@
   <Cell><Data ss:Type="String">賣出</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.Comment1</Data></Cell>
-  <Cell><Data ss:Type="String">這些是可以售賣或轉運的物資。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;這些是可以售賣或轉運的物資。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">這倉庫沒有東西要勞您費心，指揮官。&lt;br/&gt;&lt;br/&gt;糧食、燃料、彈藥，這些全都由本地免費供應，而我會確保它們分配妥當。&lt;br/&gt;&lt;br/&gt;當我們開始生產自己的裝備或搜括到異型的科技，您可以來這兒管理它們。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;這倉庫沒有東西要勞您費心，指揮官。&lt;br/&gt;&lt;br/&gt;糧食、燃料、彈藥，這些全都由本地免費供應，而我會確保它們分配妥當。&lt;br/&gt;&lt;br/&gt;當我們開始生產自己的裝備或搜括到異型的科技，您可以來這兒管理它們。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SU</Data></Cell>
   <Cell><Data ss:Type="String">蘇維埃共和國</Data></Cell>
@@ -4611,10 +4611,10 @@
   <Cell><Data ss:Type="String">補給</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SurvivalMedal</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;倖存勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;倖存勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SurvivalMedal_desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;表勳在其他伙伴全都倒下後獨力完成任務的耐力。&lt;/font&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳在其他伙伴全都倒下後獨力完成任務的耐力。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Sydney</Data></Cell>
   <Cell><Data ss:Type="String">悉尼</Data></Cell>
@@ -5015,13 +5015,13 @@
   <Cell><Data ss:Type="String">C4 炸藥</Data></Cell>
  </Row><Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.explosive.C4.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;C4 炸藥：&lt;/b&gt;&#10;&#10;C4 炸藥是一塊塑膠炸藥。它的爆炸對景物會造成四倍的傷害，因此主要用來爆破建築。士兵可以設定炸藥多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：65 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;投擲 TU：60%%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;C4 炸藥：&lt;/b&gt;&#10;&#10;C4 炸藥是一塊塑膠炸藥。它的爆炸對景物會造成四倍的傷害，因此主要用來爆破建築。士兵可以設定炸藥多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：65 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;投擲 TU：60%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.farmershotgun</Data></Cell>
   <Cell><Data ss:Type="String">民用霰彈槍：</Data></Cell>
  </Row><Row ss:Height="231">
   <Cell><Data ss:Type="String">weapon.farmershotgun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;民用霰彈槍：&lt;/b&gt;&#10;&#10;似乎是農夫用的霰彈槍，傷害力會稍遜於軍用霰彈槍。&#10;&#10;射程：8&#10;傷害：20 動能（3次）&#10;壓制力：50 點&#10;穿甲力：0&#10;裝彈量：8 發&#10;反應倍率：1.5倍&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;民用霰彈槍：&lt;/b&gt;&#10;&#10;似乎是農夫用的霰彈槍，傷害力會稍遜於軍用霰彈槍。&#10;&#10;射程：8&#10;傷害：20 動能（3次）&#10;壓制力：50 點&#10;穿甲力：0&#10;裝彈量：8 發&#10;反應倍率：1.5倍&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.advancedmedpack</Data></Cell>
   <Cell><Data ss:Type="String">先進醫療包</Data></Cell>
@@ -5037,13 +5037,13 @@
  </Row>
  <Row ss:Height="181.5">
   <Cell><Data ss:Type="String">weapon.grenade.flashbang.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;眩目彈：&lt;/b&gt;&#10;&#10;眩目彈是一種手雷，用途是協助進攻防守嚴密的敵陣。雖然它不會做成多少傷害，它會在爆炸區域內釋放大量壓制。被壓制的敵異型無法對異種航員進行反應射擊，因此眩目彈可以大大減低衝入敵陣的危險。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：5 動能&#10;壓制：100 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;眩目彈：&lt;/b&gt;&#10;&#10;眩目彈是一種手雷，用途是協助進攻防守嚴密的敵陣。雖然它不會做成多少傷害，它會在爆炸區域內釋放大量壓制。被壓制的敵異型無法對異種航員進行反應射擊，因此眩目彈可以大大減低衝入敵陣的危險。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：5 動能&#10;壓制：100 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.frag</Data></Cell>
   <Cell><Data ss:Type="String">破片手雷</Data></Cell>
  </Row><Row ss:Height="165">
   <Cell><Data ss:Type="String">weapon.grenade.frag.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;破片手雷：&lt;/b&gt;&#10;&#10;破片手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：50 動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破片手雷：&lt;/b&gt;&#10;&#10;破片手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：50 動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.fusion</Data></Cell>
   <Cell><Data ss:Type="String">核融手雷 Grenade</Data></Cell>
@@ -5052,7 +5052,7 @@
   <Cell><Data ss:Type="String">醫療包</Data></Cell>
  </Row><Row ss:Height="82.5">
   <Cell><Data ss:Type="String">weapon.grenade.medipack.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能這樣治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合做成 HP 傷害。這些傷口也可以用醫療包止血。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能這樣治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合做成 HP 傷害。這些傷口也可以用醫療包止血。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.nervegas</Data></Cell>
   <Cell><Data ss:Type="String">毒氣手雷</Data></Cell>
@@ -5067,13 +5067,13 @@
   <Cell><Data ss:Type="String">電擊棍</Data></Cell>
  </Row><Row ss:Height="99">
   <Cell><Data ss:Type="String">weapon.grenade.shockbaton.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電擊棍：&lt;/b&gt;&#10;&#10;電擊棍是用來擊暈敵人的非致命性單手武器。它只能用來攻擊臨接的敵人（不包括鈄角），但大部分敵人都捱不住兩三棍。&#10;&#10;暈眩傷害：60&#10;攻擊花費：20%% TU</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電擊棍：&lt;/b&gt;&#10;&#10;電擊棍是用來擊暈敵人的非致命性單手武器。它只能用來攻擊臨接的敵人（不包括鈄角），但大部分敵人都捱不住兩三棍。&#10;&#10;暈眩傷害：60&#10;攻擊花費：20%% TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.smoke</Data></Cell>
   <Cell><Data ss:Type="String">煙霧彈</Data></Cell>
  </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.grenade.smoke.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;煙霧彈：&lt;/b&gt;&#10;&#10;煙霧彈不會做成傷害，只會在爆炸範圍內釋放大量濃煙。任何穿過這煙的射擊都會顯著降低命中率，減低士兵被異型擊中的機會。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;煙霧半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;煙霧彈：&lt;/b&gt;&#10;&#10;煙霧彈不會做成傷害，只會在爆炸範圍內釋放大量濃煙。任何穿過這煙的射擊都會顯著降低命中率，減低士兵被異型擊中的機會。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;煙霧半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.stun</Data></Cell>
   <Cell><Data ss:Type="String">迷暈手雷</Data></Cell>
@@ -5086,31 +5086,31 @@
  </Row>
  <Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.lasercarbine.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;激光卡賓槍：&lt;/b&gt;&#10;&#10;卡賓槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：38 能量（三發）&#10;壓制：58 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光卡賓槍：&lt;/b&gt;&#10;&#10;卡賓槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：38 能量（三發）&#10;壓制：58 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.laserpistol</Data></Cell>
   <Cell><Data ss:Type="String">激光手槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.laserpistol.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;激光手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：45 能量&#10;壓制：23 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：45 能量&#10;壓制：23 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.laserprecision</Data></Cell>
   <Cell><Data ss:Type="String">激光狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.laserprecision.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;激光狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：55 能量&#10;壓制：29 點&#10;穿甲力：15&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 Acc  x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：55 能量&#10;壓制：29 點&#10;穿甲力：15&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 Acc  x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.laserrifle</Data></Cell>
   <Cell><Data ss:Type="String">激光步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.laserrifle.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;激光步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：45 能量&#10;壓制：23 單發 / 69 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：45 能量&#10;壓制：23 單發 / 69 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.machinegun</Data></Cell>
   <Cell><Data ss:Type="String">機槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.machinegun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傳統機槍：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：30 動能&#10;壓制：120 連發&#10;穿甲力：5&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;傳統機槍：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：30 動能&#10;壓制：120 連發&#10;穿甲力：5&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGcarbine</Data></Cell>
   <Cell><Data ss:Type="String">電磁霰彈槍</Data></Cell>
@@ -5128,7 +5128,7 @@
   <Cell><Data ss:Type="String">電磁風暴</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.MAGSTORM.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。 但射擊需要消耗士兵的八成 TU（除非配合獵戶戰甲使用），令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70），除非配合獵戶戰甲使用。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：120 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。 但射擊需要消耗士兵的八成 TU（除非配合獵戶戰甲使用），令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70），除非配合獵戶戰甲使用。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：120 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.particlebeam</Data></Cell>
   <Cell><Data ss:Type="String">奇點炮</Data></Cell>
@@ -5137,37 +5137,37 @@
   <Cell><Data ss:Type="String">手槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.pistol.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傳統手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：30 動能&#10;壓制：20 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;傳統手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：30 動能&#10;壓制：20 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmacarbine</Data></Cell>
   <Cell><Data ss:Type="String">等離子霰彈槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.plasmacarbine.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：55 能量（三發）&#10;壓制：64 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：55 能量（三發）&#10;壓制：64 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmacaster</Data></Cell>
   <Cell><Data ss:Type="String">等離子噴射器</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.plasmacaster.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子噴射器：&lt;/b&gt;&#10;&#10;此槍發射大量等離子束，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：70 能量&#10;壓制：150 連發&#10;穿甲力：12&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子噴射器：&lt;/b&gt;&#10;&#10;此槍發射大量等離子束，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：70 能量&#10;壓制：150 連發&#10;穿甲力：12&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmapistol</Data></Cell>
   <Cell><Data ss:Type="String">Plasma Pistol</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.plasmapistol.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：70 能量&#10;壓制：26 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：70 能量&#10;壓制：26 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmaprecision</Data></Cell>
   <Cell><Data ss:Type="String">等離子狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.plasmaprecision.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：80 能量&#10;壓制：33 點&#10;穿甲力：25&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：80 能量&#10;壓制：33 點&#10;穿甲力：25&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmarifle</Data></Cell>
   <Cell><Data ss:Type="String">等離子步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.plasmarifle.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：70 能量&#10;壓制：26 單發 / 78 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：70 能量&#10;壓制：26 單發 / 78 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmatorch</Data></Cell>
   <Cell><Data ss:Type="String">Plasma Torch</Data></Cell>
@@ -5176,7 +5176,7 @@
   <Cell><Data ss:Type="String">步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.rifle.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傳統步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：30 動能&#10;壓制：20 單發 / 60 連發&#10;穿甲力：0&#10;裝彈量：20 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU  130 精度 x 1 發&#10;&#10;- 60%% TU45 精度 x 3 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;傳統步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：30 動能&#10;壓制：20 單發 / 60 連發&#10;穿甲力：0&#10;裝彈量：20 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU  130 精度 x 1 發&#10;&#10;- 60%% TU45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.alenium</Data></Cell>
   <Cell><Data ss:Type="String">異能晶火箭彈</Data></Cell>
@@ -5188,7 +5188,7 @@
   <Cell><Data ss:Type="String">破片火箭彈</Data></Cell>
  </Row><Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.frag.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;破片火箭彈：&lt;/b&gt;&#10;&#10;破片火箭是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：50 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破片火箭彈：&lt;/b&gt;&#10;&#10;破片火箭是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：50 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.fusion</Data></Cell>
   <Cell><Data ss:Type="String">核融火箭彈</Data></Cell>
@@ -5209,25 +5209,25 @@
   <Cell><Data ss:Type="String">火箭發射器</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.rocketlauncher.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;火箭發射器：&lt;/b&gt;&#10;&#10;火箭發射器能發射各式長程火箭彈（列在&quot;裝備&quot;分頁的&quot;火箭&quot;裡）。它們一般有廣大的影響範圍，能對敵人做成不少傷害，並且擅長破壞掩體和牆壁等景物。不過要記著被炸死的敵人不會留下甚麼可以回收的物資。&#10;&#10;火箭發射器是重型武器，只有強壯的士兵能有效地使用。準確度會以精度和力量當中的較低者計算，假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：30&#10;傷害：（視乎火箭彈）&#10;壓制：60&#10;裝彈量：1 發&#10;反應倍率：N/A （不能作反應射擊）&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 50%% TU75 精度 x 1 發&#10;- 80%% TU 100 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;火箭發射器：&lt;/b&gt;&#10;&#10;火箭發射器能發射各式長程火箭彈（列在&quot;裝備&quot;分頁的&quot;火箭&quot;裡）。它們一般有廣大的影響範圍，能對敵人做成不少傷害，並且擅長破壞掩體和牆壁等景物。不過要記著被炸死的敵人不會留下甚麼可以回收的物資。&#10;&#10;火箭發射器是重型武器，只有強壯的士兵能有效地使用。準確度會以精度和力量當中的較低者計算，假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：30&#10;傷害：（視乎火箭彈）&#10;壓制：60&#10;裝彈量：1 發&#10;反應倍率：N/A （不能作反應射擊）&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 50%% TU75 精度 x 1 發&#10;- 80%% TU 100 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.scatterlaser</Data></Cell>
   <Cell><Data ss:Type="String">散射激光</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.scatterlaser.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;散射激光：&lt;/b&gt;&#10;&#10;此槍發射大量激光，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：45 能量&#10;壓制：120 連發&#10;穿甲力：8&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;散射激光：&lt;/b&gt;&#10;&#10;此槍發射大量激光，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：45 能量&#10;壓制：120 連發&#10;穿甲力：8&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.shotgun</Data></Cell>
   <Cell><Data ss:Type="String">霰彈槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.shotgun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會射出三粒霰彈，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：25 動能（三發）&#10;壓制：50 點&#10;穿甲力：0&#10;裝彈量：8 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會射出三粒霰彈，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：25 動能（三發）&#10;壓制：50 點&#10;穿甲力：0&#10;裝彈量：8 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.sniper</Data></Cell>
   <Cell><Data ss:Type="String">狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.sniper.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;傳統狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：35 動能&#10;壓制：25 點&#10;穿甲力：10&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 Acc  x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;傳統狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：35 動能&#10;壓制：25 點&#10;穿甲力：10&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 Acc  x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weaponcooldown.ready</Data></Cell>
   <Cell><Data ss:Type="String">（就緒）</Data></Cell>
@@ -5272,10 +5272,10 @@
   <Cell><Data ss:Type="String">總價</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Comment1</Data></Cell>
-  <Cell><Data ss:Type="String">你要建甚麼都可以，拍擋。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;你要建甚麼都可以，拍擋。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">人手越多，做得越快。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;人手越多，做得越快。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.ConstructionTime</Data></Cell>
   <Cell><Data ss:Type="String">製作時間</Data></Cell>
@@ -5332,7 +5332,7 @@
   <Cell><Data ss:Type="String">X-59 賊王</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">XenopediaDescTitleFormat</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/xenonauts.mvec&quot;&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/xenonauts.mvec'&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">XenopediaHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">異種航員資料庫</Data></Cell>
@@ -6286,7 +6286,7 @@
   <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
  </Row><Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.explosive.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;P等離子炸彈：&lt;/b&gt;&#10;&#10;等離子炸彈是一塊主要用以爆破建築的爆破物，因為它的爆炸對景物會造成四倍的傷害。士兵可以設定炸彈多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：100 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;TU 花費：60%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;P等離子炸彈：&lt;/b&gt;&#10;&#10;等離子炸彈是一塊主要用以爆破建築的爆破物，因為它的爆炸對景物會造成四倍的傷害。士兵可以設定炸彈多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：100 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;TU 花費：60%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
   <Cell><Data ss:Type="String">異型等離子戰鬥步槍</Data></Cell>
@@ -6295,22 +6295,22 @@
   <Cell><Data ss:Type="String">強力的雙手異型武器，約有步槍那麼大。它的研究可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ARMOURBOX</Data></Cell>
-  <Cell><Data ss:Type="String">士兵護甲</Data></Cell>
+  <Cell><Data ss:Type="String">護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ROLEBOX</Data></Cell>
-  <Cell><Data ss:Type="String">士兵崗位</Data></Cell>
+  <Cell><Data ss:Type="String">崗位</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">X</Data></Cell>
   <Cell><Data ss:Type="String">X</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NewGameSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">      &lt;font size=&quot;20&quot;\&gt;開展新的行動&lt;/font\&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">      &lt;font size='20'&gt;開展新的行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LoadGameSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">        &lt;font size=&quot;20&quot;\&gt;繼續現有行動&lt;/font\&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">        &lt;font size='20'&gt;繼續現有行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OptionsSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">          &lt;font size=&quot;20&quot;\&gt;自訂司令介面&lt;/font\&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">          &lt;font size='20'&gt;自訂司令介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DestinationReached</Data></Cell>
   <Cell><Data ss:Type="String">抵達目的地。</Data></Cell>
@@ -6328,7 +6328,7 @@
   <Cell><Data ss:Type="String">放棄任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldierstransfer</Data></Cell>
-  <Cell><Data ss:Type="String">請先選擇要轉移的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">請先選擇要調動的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiersdismiss</Data></Cell>
   <Cell><Data ss:Type="String">請先選擇要解僱的士兵。</Data></Cell>
@@ -6374,11 +6374,11 @@
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.combatshield.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;戰鬥盾：&lt;/b&gt;&#10;&#10;戰鬥盾能保護士兵免被異型直接擊中。這盾會吸受士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側方和後方就不一定了。&#10;&#10;HP：80&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;戰鬥盾：&lt;/b&gt;&#10;&#10;戰鬥盾能保護士兵免被異型直接擊中。這盾會吸受士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側方和後方就不一定了。&#10;&#10;HP：80&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
  </Row>
  <Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;突擊盾：&lt;/b&gt;&#10;&#10;&#10;突擊盾能保護士兵免被異型直接擊中。這盾會吸受士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側方和後方就不一定了。&#10;&#10;HP：160&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;突擊盾：&lt;/b&gt;&#10;&#10;&#10;突擊盾能保護士兵免被異型直接擊中。這盾會吸受士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側方和後方就不一定了。&#10;&#10;HP：160&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data></Cell>
  </Row><Row>
@@ -6446,67 +6446,67 @@
  </Row>
  <Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.MAGpistol.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電磁手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：105 動能&#10;壓制：32 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：105 動能&#10;壓制：32 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row>
  <Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.MAGcarbine.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電磁霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：85 動能（三發）&#10;壓制：72 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：85 動能（三發）&#10;壓制：72 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row>
  <Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.MAGrifle.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電磁步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：105 動能&#10;壓制：32 單發 / 96 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：105 動能&#10;壓制：32 單發 / 96 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row>
  <Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.MAGprecision.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電磁狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：120 動能&#10;壓制：37 點&#10;穿甲力：35&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 Acc  x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：120 動能&#10;壓制：37 點&#10;穿甲力：35&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 Acc  x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row>
  <Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.magstorm.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器。準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：165 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器。準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：165 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU35 精度 x 10 發</Data></Cell>
  </Row>
  <Row ss:Height="264">
   <Cell><Data ss:Type="String">weapon.particlebeam.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;奇點炮：&lt;/b&gt;&#10;&#10;奇點炮是供獵戶戰甲用者使用的重武器，穿其他戰甲的士兵無法滿足它的 TU 需求。它的效果類似一支超強力火箭炮，所以按下發射鍵前請確保爆炸範圍內沒有自己人！&#10;&#10;射程：35&#10;傷害：500 能量&#10;爆炸半徑：5 格&#10;壓制：80 點&#10;穿甲力：100&#10;裝彈量：1 發&#10;反應倍率：0.5 倍&#10;裝彈需時：40 TU&#10;&#10;射擊模式：&#10;- 120%% TU 100 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;奇點炮：&lt;/b&gt;&#10;&#10;奇點炮是供獵戶戰甲用者使用的重武器，穿其他戰甲的士兵無法滿足它的 TU 需求。它的效果類似一支超強力火箭炮，所以按下發射鍵前請確保爆炸範圍內沒有自己人！&#10;&#10;射程：35&#10;傷害：500 能量&#10;爆炸半徑：5 格&#10;壓制：80 點&#10;穿甲力：100&#10;裝彈量：1 發&#10;反應倍率：0.5 倍&#10;裝彈需時：40 TU&#10;&#10;射擊模式：&#10;- 120%% TU 100 精度 x 1 發</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.alenium.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;異能晶火箭彈&lt;/b&gt;&#10;&#10;異能晶火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：75 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶火箭彈&lt;/b&gt;&#10;&#10;異能晶火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：75 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子火箭彈：&lt;/b&gt;&#10;&#10;等離子火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：115 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子火箭彈：&lt;/b&gt;&#10;&#10;等離子火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：115 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.fusion.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;核融火箭彈：&lt;/b&gt;&#10;&#10;核融火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：170 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融火箭彈：&lt;/b&gt;&#10;&#10;核融火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：170 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="99">
   <Cell><Data ss:Type="String">weapon.rocket.stun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;迷魂火箭彈：&lt;/b&gt;&#10;&#10;迷魂火箭彈可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迷魂火箭彈：&lt;/b&gt;&#10;&#10;迷魂火箭彈可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="82.5">
   <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;先進醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能這樣治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合做成 HP 傷害。這些傷口也可以用醫療包止血。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;先進醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能這樣治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合做成 HP 傷害。這些傷口也可以用醫療包止血。</Data></Cell>
  </Row>
  <Row ss:Height="99">
   <Cell><Data ss:Type="String">weapon.grenade.stun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;迷暈手雷：&lt;/b&gt;&#10;&#10;迷暈手雷可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：3 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迷暈手雷：&lt;/b&gt;&#10;&#10;迷暈手雷可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：3 格</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.grenade.shock.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;電擊手雷：&lt;/b&gt;&#10;&#10;電擊手雷產生一度強裂的電磁脈衝，對有機單位做成暈眩傷害，而對機械單位則做成電磁脈衝傷害。&#10;&#10;傷害：50 眩暈（有機物） / 115 電磁（無機物）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電擊手雷：&lt;/b&gt;&#10;&#10;電擊手雷產生一度強裂的電磁脈衝，對有機單位做成暈眩傷害，而對機械單位則做成電磁脈衝傷害。&#10;&#10;傷害：50 眩暈（有機物） / 115 電磁（無機物）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
  </Row>
  <Row ss:Height="165">
   <Cell><Data ss:Type="String">weapon.grenade.alenium.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;異能晶手雷：&lt;/b&gt;&#10;&#10;異能晶手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：75  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶手雷：&lt;/b&gt;&#10;&#10;異能晶手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：75  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
  </Row>
  <Row ss:Height="165">
   <Cell><Data ss:Type="String">weapon.grenade.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;等離子手雷：&lt;/b&gt;&#10;&#10;等離子手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：115 能量&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子手雷：&lt;/b&gt;&#10;&#10;等離子手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：115 能量&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
  </Row>
  <Row ss:Height="165">
   <Cell><Data ss:Type="String">weapon.grenade.fusion.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;核融手雷：&lt;/b&gt;&#10;&#10;核融手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：160  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融手雷：&lt;/b&gt;&#10;&#10;核融手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：160  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Crashsite</Data></Cell>
   <Cell><Data ss:Type="String">本任務的目標是奪取地上的幽浮，獲得裡面的異型技術作研究及開發之用。其他從戰場上回收的物資會自動放售，換取額外資金。&lt;br&gt;&lt;br&gt;要完成任務，最簡單是解決戰鬥區域內的所有異型。任務會立刻自動完成，並回收所有異型物資。但是你也可以掃盪幽浮內的所有異型，然後在幽浮內持續五回合駐守士兵。&lt;br&gt;&lt;br&gt;如果幽浮是從空中被強行擊落，部分乘員可能已經身故，幽浮內的裝置也可能已經損毀。自行著陸的幽浮會非常完整，但你也必需面對毫髮未傷的乘員。&lt;br&gt;&lt;br&gt;當你突擊幽浮內部時，切記用煙霧彈、火力壓制、或護盾去削弱或排除在內死守的異型的反應射擊。</Data></Cell>
@@ -6560,22 +6560,22 @@
   <Cell><Data ss:Type="String">進階醫療包</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATSTRENGTH.DESC</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;士兵的力量決定他能攜帶多少重量而不過載（過載有 TU 懲罰）。力量高的士兵也可以將手雷和炸彈丟得更遠。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;士兵的力量決定他能攜帶多少重量而不過載（過載有 TU 懲罰）。力量高的士兵也可以將手雷和炸彈丟得更遠。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATAP.DESC</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;時間點 TU 決定士兵在一回合內能做多少事。移動、轉向、上彈、跪站等都需要 TU，因此高 TU 的士兵能做較多動作。不過注意射擊的 TU 是依比率計算的，不會因為 TU 多而能多射幾槍。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;時間點 TU 決定士兵在一回合內能做多少事。移動、轉向、上彈、跪站等都需要 TU，因此高 TU 的士兵能做較多動作。不過注意射擊的 TU 是依比率計算的，不會因為 TU 多而能多射幾槍。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATRESILENCE.DESC</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;士兵所能承受的傷害總量。當 HP 掉到 0 或以下，士兵就被打倒，通常會陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;士兵所能承受的傷害總量。當 HP 掉到 0 或以下，士兵就被打倒，通常會陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATACCURACY.DESC</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;決定這名士兵射擊時的命中率。如果用的是重型武器，命中率會以力量和精度中的較低者計算。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;決定這名士兵射擊時的命中率。如果用的是重型武器，命中率會以力量和精度中的較低者計算。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATREFLEXES.DESC</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;反射快的士兵較易在異型的回合中作出反應射擊，自己的行動也沒那麼易被反應射擊。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;反射快的士兵較易在異型的回合中作出反應射擊，自己的行動也沒那麼易被反應射擊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATBRAVERY.DESC</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;高勇氣的士兵比較能抵禦心靈攻擊，較難壓制，也不易陷入恐慌等負面精神狀態。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;高勇氣的士兵比較能抵禦心靈攻擊，較難壓制，也不易陷入恐慌等負面精神狀態。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCQuicksave</Data></Cell>
   <Cell><Data ss:Type="String">快速儲存</Data></Cell>
@@ -7858,10 +7858,10 @@
   <Cell><Data ss:Type="String">破門等離子</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;破門炸藥：&lt;/b&gt;&#10;&#10;破門炸藥是大型的爆炸包，用以攻破幽浮外殼的脆弱點。它不能投擲，使用者必需將它拿在手上，設置起爆，然後把它放在目標點旁邊的地上。然後只需要撤離到安全距離靜候引爆。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破門炸藥：&lt;/b&gt;&#10;&#10;破門炸藥是大型的爆炸包，用以攻破幽浮外殼的脆弱點。它不能投擲，使用者必需將它拿在手上，設置起爆，然後把它放在目標點旁邊的地上。然後只需要撤離到安全距離靜候引爆。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.PlasmaBreachingCharge.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;破門等離子：&lt;/b&gt;&#10;&#10;破門等離子是破門炸藥的升級版，威力不變但更輕更細。不過依然不能投擲因此使用方式不變，依然是在手上設置起爆，放在地上然後撤離。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破門等離子：&lt;/b&gt;&#10;&#10;破門等離子是破門炸藥的升級版，威力不變但更輕更細。不過依然不能投擲因此使用方式不變，依然是在手上設置起爆，放在地上然後撤離。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
   <Cell><Data ss:Type="String">巡洋幽浮結構弱點</Data></Cell>
@@ -8011,10 +8011,10 @@
   <Cell><Data ss:Type="String">燃燒手雷</Data></Cell>
  </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.grenade.incendiary.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒手雷：&lt;/b&gt;&#10;&#10;燃燒手雷本身沒多少傷害力，但可以令爆炸範圍起火。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：10&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;燃燒手雷：&lt;/b&gt;&#10;&#10;燃燒手雷本身沒多少傷害力，但可以令爆炸範圍起火。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：10&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.rocket.incendiary.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face=&quot;fonts/arial.mvec&quot;\&gt;&lt;b&gt;燃燒火箭彈：&lt;/b&gt;&#10;&#10;燃燒火箭彈能令大面積的範圍起火。爆炸本身沒貫穿力可言，但可以燒灼多名聚集的敵人。&#10;&#10;傷害類型：39 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;燃燒火箭彈：&lt;/b&gt;&#10;&#10;燃燒火箭彈能令大面積的範圍起火。爆炸本身沒貫穿力可言，但可以燒灼多名聚集的敵人。&#10;&#10;傷害類型：39 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
 </Table>
  </Worksheet>
