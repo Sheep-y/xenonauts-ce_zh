@@ -33,7 +33,6 @@ This translation also use it as a standard.
 * [ ] Edit Xenopedia.xml
 * [x] Edit solider names
 * [ ] Update doc screenshot
-* [ ] Proofreading
 * [ ] Release
 
 ## 關聯模組 Relevant Mods ##
