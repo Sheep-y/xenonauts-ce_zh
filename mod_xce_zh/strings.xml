@@ -4293,10 +4293,10 @@
   <Cell><Data ss:Type="String">X</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.INVPREVSOLDIER</Data></Cell>
-  <Cell><Data ss:Type="String">＞</Data></Cell>
+  <Cell><Data ss:Type="String">＜</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.INVNEXTSOLDIER</Data></Cell>
-  <Cell><Data ss:Type="String">＜</Data></Cell>
+  <Cell><Data ss:Type="String">＞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.BALLISTICS</Data></Cell>
   <Cell><Data ss:Type="String">常規</Data></Cell>

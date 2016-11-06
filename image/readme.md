@@ -1,0 +1,1 @@
+This folder contains the source image, with the English erased and Chinese added by layers.
