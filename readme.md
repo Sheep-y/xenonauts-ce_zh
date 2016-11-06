@@ -91,12 +91,12 @@ The fonts only contains used characters, not all common characters, and may not 
 
 * arial.mvec
   * Replace with WenQuanYi Micro Hei (文泉驛微米黑).
-  * 1632 characters + English & Punctuation.
+  * 1633 Chinese characters + English & Punctuation, total 1648.
 * xenonauts.mvec
   * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72.
   * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols.
-  * 1632 characters + English & Punctuation.
+  * 1633 Chinese characters + English & Punctuation, total 1648.
 * xenopedia.mvec
   * Replace with AR PL MingTi (文鼎 PL 明體).
   * Select underscore (half-width), Move Y 2000, and use it as non-breaking space.
-  * 1850 characters.
+  * 1850 Chinese characters + English & Punctuation, total ???.

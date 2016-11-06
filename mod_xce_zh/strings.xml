@@ -338,10 +338,10 @@
   <Cell><Data ss:Type="String">退役本機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.Previous</Data></Cell>
-  <Cell><Data ss:Type="String">＜ 前一架</Data></Cell>
+  <Cell><Data ss:Type="String">＜ 上一架</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.Next</Data></Cell>
-  <Cell><Data ss:Type="String">後一架 ＞</Data></Cell>
+  <Cell><Data ss:Type="String">下一架 ＞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEquipHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">航機配置介面</Data></Cell>
@@ -3435,13 +3435,13 @@
   <Cell><Data ss:Type="String">狀態</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.LastMission</Data></Cell>
-  <Cell><Data ss:Type="String">上一戰役</Data></Cell>
+  <Cell><Data ss:Type="String">臨終任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Kills</Data></Cell>
-  <Cell><Data ss:Type="String">殺敵數</Data></Cell>
+  <Cell><Data ss:Type="String">殺敵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Missions</Data></Cell>
-  <Cell><Data ss:Type="String">任務數</Data></Cell>
+  <Cell><Data ss:Type="String">任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Date</Data></Cell>
   <Cell><Data ss:Type="String">日期</Data></Cell>
@@ -3483,7 +3483,7 @@
   <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hiring_XX_Hours</Data></Cell>
-  <Cell><Data ss:Type="String">僱用中，還需 %1% 小時</Data></Cell>
+  <Cell><Data ss:Type="String">僱用中，需%1%小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Perth</Data></Cell>
   <Cell><Data ss:Type="String">珀斯</Data></Cell>
@@ -3501,7 +3501,7 @@
   <Cell><Data ss:Type="String">莫士比港</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">POWERPLANT.HUNTER</Data></Cell>
-  <Cell><Data ss:Type="String">B60 L6 V8</Data></Cell>
+  <Cell><Data ss:Type="String">B60 L6 V8 引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">POWERPLANT.HYPERION</Data></Cell>
   <Cell><Data ss:Type="String">AR-6 反重力儀</Data></Cell>
@@ -4329,7 +4329,7 @@
   <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;僱用士兵中。&lt;br/&gt;%1% 小時後抵步。&lt;/outline&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ITEMMOVECOST</Data></Cell>
-  <Cell><Data ss:Type="String">運費：%1%</Data></Cell>
+  <Cell><Data ss:Type="String">搬運 TU：%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.KIA</Data></Cell>
   <Cell><Data ss:Type="String">（陣亡）</Data></Cell>
@@ -4395,16 +4395,16 @@
   <Cell><Data ss:Type="String">勇氣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATKILLS</Data></Cell>
-  <Cell><Data ss:Type="String">殺敵數</Data></Cell>
+  <Cell><Data ss:Type="String">殺敵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATMISSIONS</Data></Cell>
-  <Cell><Data ss:Type="String">任務數</Data></Cell>
+  <Cell><Data ss:Type="String">任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATNEXTSOLDIER</Data></Cell>
-  <Cell><Data ss:Type="String">下一名 &gt;&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">下一名 ＞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATPREVSOLDIER</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;&lt; 上一名</Data></Cell>
+  <Cell><Data ss:Type="String">＜ 上一名</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATREFLEXES</Data></Cell>
   <Cell><Data ss:Type="String">反射</Data></Cell>
@@ -4857,7 +4857,7 @@
   <Cell><Data ss:Type="String">耐久：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.KILLS</Data></Cell>
-  <Cell><Data ss:Type="String">殺敵數</Data></Cell>
+  <Cell><Data ss:Type="String">殺敵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.LENGTH</Data></Cell>
   <Cell><Data ss:Type="String">長度</Data></Cell>
@@ -4866,7 +4866,7 @@
   <Cell><Data ss:Type="String">維護費</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.MISSIONS</Data></Cell>
-  <Cell><Data ss:Type="String">任務數</Data></Cell>
+  <Cell><Data ss:Type="String">任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.MITIGATION</Data></Cell>
   <Cell><Data ss:Type="String">穿甲力</Data></Cell>
@@ -4932,10 +4932,10 @@
   <Cell><Data ss:Type="String">勤務：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.Previous</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;&lt; 上一輛</Data></Cell>
+  <Cell><Data ss:Type="String">＜ 上一輛</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEQ.Next</Data></Cell>
-  <Cell><Data ss:Type="String">下一輛 &gt;&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">下一輛 ＞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEquipHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">戰車配置介面</Data></Cell>
