@@ -644,7 +644,7 @@
   <Cell><Data ss:Type="String">視角</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.DefFailedHasTroops</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎擊幽浮但無法擊落！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防守！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎擊幽浮但無法擊落！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防衛！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.DefFailedNoTroops</Data></Cell>
   <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地迎擊幽浮但無法擊落！&lt;br/&gt;&lt;br/&gt;基地被地面部隊攻陷，因為缺乏駐兵！</Data></Cell>
@@ -656,7 +656,7 @@
   <Cell><Data ss:Type="String">&lt;br/&gt;防禦陣地已擊落幽浮。終止非戰鬥人員的撤離，恢復正常運作。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.NoDefHasTroops</Data></Cell>
-  <Cell><Data ss:Type="String">偵察到&lt;font color='FAA902'&gt;%1%&lt;/font&gt; 於&lt;font color='FAA902'&gt;%2%&lt;/font&gt;附近投放部隊！&lt;br/&gt;&lt;br/&gt;沒有防禦陣地，異型部隊全軍登陸！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防守！</Data></Cell>
+  <Cell><Data ss:Type="String">偵察到&lt;font color='FAA902'&gt;%1%&lt;/font&gt; 於&lt;font color='FAA902'&gt;%2%&lt;/font&gt;附近投放部隊！&lt;br/&gt;&lt;br/&gt;沒有防禦陣地，異型部隊全軍登陸！&lt;br/&gt;&lt;br/&gt;基地駐兵準備防衛！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BA.NoDefNoTroops</Data></Cell>
   <Cell><Data ss:Type="String">偵察到&lt;font color='FAA902'&gt;%1%&lt;/font&gt; 於&lt;font color='FAA902'&gt;%2%&lt;/font&gt;附近投放部隊！&lt;br/&gt;&lt;br/&gt;基地陷落，因為沒有防禦陣地也沒有駐兵！</Data></Cell>
@@ -671,7 +671,7 @@
   <Cell><Data ss:Type="String">孟加拉</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseAttack</Data></Cell>
-  <Cell><Data ss:Type="String">基地防守</Data></Cell>
+  <Cell><Data ss:Type="String">基地防衛</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseAttack.EquipDefenders</Data></Cell>
   <Cell><Data ss:Type="String">武裝守軍</Data></Cell>
@@ -728,7 +728,7 @@
   <Cell><Data ss:Type="String">維護費／月</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Structures</Data></Cell>
-  <Cell><Data ss:Type="String">- 建築</Data></Cell>
+  <Cell><Data ss:Type="String">- 設施</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Personnel</Data></Cell>
   <Cell><Data ss:Type="String">- 人員</Data></Cell>
@@ -860,7 +860,7 @@
   <Cell><Data ss:Type="String">勝利條件：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.XenoBase.Description</Data></Cell>
-  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地正被&lt;font color='FAA902'&gt;%2%&lt;/font&gt;搶攻。來襲的幽浮撐過了對空武器，登陸的異型部隊正入侵維修通道。所有非戰鬥人員已經撤到指揮中心下的避難所。士兵們整裝待發，候命驅逐入侵者。&lt;br /&gt;&lt;br /&gt;異型的目標是指揮中心及其內的發電機。一定要守住它，如果它生爆柞那麼這基地就完了。也請記著這是我們的基地；破壞太嚴重的建構會無法運作一段時間，直到維修人員搶修完畢。&lt;br /&gt;&lt;br /&gt;如果異型成功炸毀異種航員的的基地，這可能會是個無法復原的重大打擊。絕不能讓這事發生。祝武運昌隆。</Data></Cell>
+  <Cell><Data ss:Type="String">我們的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;基地被&lt;font color='FAA902'&gt;%2%&lt;/font&gt;攻擊。來襲的幽浮撐過了對空武器，登陸的異型部隊正入侵維修通道。所有非戰鬥人員都已經撤到指揮中心下的避難所。士兵們整裝待發，候命驅逐入侵者。&lt;br /&gt;&lt;br /&gt;異型的目標是指揮中心及其內的發電機。一定要守住它，如果它爆柞，這基地就完了。也請記著這是我們的基地；破壞太嚴重的設施會無法運作一段時間，直到維修人員搶修完畢。&lt;br /&gt;&lt;br /&gt;如果異型成功炸毀異種航員的的基地，這可能會是個無法復原的重大打擊。絕不能讓這事發生。祝武運昌隆。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Briefing.XenoBase.FailureConditions</Data></Cell>
   <Cell><Data ss:Type="String">&lt;br /&gt;- 指揮中心被異型佔領三回合，或&lt;br /&gt;- 失去所有單位</Data></Cell>
@@ -953,7 +953,7 @@
   <Cell><Data ss:Type="String">取消</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CantDemolish</Data></Cell>
-  <Cell><Data ss:Type="String">這建築不能拆卸。</Data></Cell>
+  <Cell><Data ss:Type="String">這設施不能拆卸。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantproduce</Data></Cell>
   <Cell><Data ss:Type="String">暫停製作%1%，因為缺錢。</Data></Cell>
@@ -1133,7 +1133,7 @@
   <Cell><Data ss:Type="String">在%1%附近摧毀異型基地的行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DeadSoldier.BaseAttackSuccess</Data></Cell>
-  <Cell><Data ss:Type="String">%1%基地的防守</Data></Cell>
+  <Cell><Data ss:Type="String">%1%基地的防衛</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DeadSoldier.BaseAttackFailure</Data></Cell>
   <Cell><Data ss:Type="String">%1%基地的陷落</Data></Cell>
@@ -1181,7 +1181,7 @@
   <Cell><Data ss:Type="String">拆毀這基地？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DeleteBuildingConf</Data></Cell>
-  <Cell><Data ss:Type="String">拆毀這棟建築？</Data></Cell>
+  <Cell><Data ss:Type="String">拆毀這棟設施？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Dhaka</Data></Cell>
   <Cell><Data ss:Type="String">達卡</Data></Cell>
@@ -1890,7 +1890,7 @@
   <Cell><Data ss:Type="String">摧毀異型基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SentToResearchDivision</Data></Cell>
-  <Cell><Data ss:Type="String">送往研發部門</Data></Cell>
+  <Cell><Data ss:Type="String">送交實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SoldierPromoted</Data></Cell>
   <Cell><Data ss:Type="String">晉升到%1%</Data></Cell>
@@ -1935,22 +1935,22 @@
   <Cell><Data ss:Type="String">%1%失控。</Data></Cell>
  </Row><Row ss:Height="33">
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingOneWound</Data></Cell>
-  <Cell><Data ss:Type="String">%1%有1個傷口流血不止&#10;將會持續受 %2% 點 HP 傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%有 1 個傷口流血不止&#10;將會持續受 %2% 點 HP 傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingSeveralWounds</Data></Cell>
-  <Cell><Data ss:Type="String">%1%有%2%個傷口流血不止&#10;將會持續受 %3% 點 HP 傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%有 %2% 個傷口流血不止&#10;將會持續受 %3% 點 HP 傷害。</Data></Cell>
  </Row><Row ss:Height="33">
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingOneWoundHPLoss</Data></Cell>
-  <Cell><Data ss:Type="String">%1%有1個傷口流血不止&#10;並因此受 %2% 點 HP 傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%有 1 個傷口流血不止&#10;並因此受 %2% 點 HP 傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingSeveralWoundsHPLoss</Data></Cell>
-  <Cell><Data ss:Type="String">%1%有%2%個傷口流血不止&#10;並因此受 %3% 點 HP 傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%有 %2% 個傷口流血不止&#10;並因此受 %3% 點 HP 傷害。</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingOneWoundHPChange</Data></Cell>
-  <Cell><Data ss:Type="String">%1%有1個傷口流血不止&#10;並因此受 %2% 點 HP 傷害，&#10;下回合將增至 %3% 點 HP 傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%有 1 個傷口流血不止&#10;並因此受 %2% 點 HP 傷害，&#10;下回合將增至 %3% 點 HP 傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingSeveralWoundsHPChange</Data></Cell>
-  <Cell><Data ss:Type="String">%1%有%2%個傷口流血不止&#10;並因此受 %3% 點 HP 傷害，&#10;下回合將增至 %4% 點 HP 傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">%1%有 %2% 個傷口流血不止&#10;並因此受 %3% 點 HP 傷害，&#10;下回合將增至 %4% 點 HP 傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.Flee</Data></Cell>
   <Cell><Data ss:Type="String">%1%崩潰，開始逃跑。</Data></Cell>
@@ -2196,19 +2196,19 @@
   <Cell><Data ss:Type="String">縮小畫面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GoToAircraft</Data></Cell>
-  <Cell><Data ss:Type="String">航機介面</Data></Cell>
+  <Cell><Data ss:Type="String">前往機庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GoToBase</Data></Cell>
-  <Cell><Data ss:Type="String">基地介面</Data></Cell>
+  <Cell><Data ss:Type="String">前往基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GoToManufactures</Data></Cell>
-  <Cell><Data ss:Type="String">製作介面</Data></Cell>
+  <Cell><Data ss:Type="String">前往工房</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GoToResearch</Data></Cell>
-  <Cell><Data ss:Type="String">研發介面</Data></Cell>
+  <Cell><Data ss:Type="String">前往實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GoToVehicle</Data></Cell>
-  <Cell><Data ss:Type="String">戰車介面</Data></Cell>
+  <Cell><Data ss:Type="String">前往車庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Greenland</Data></Cell>
   <Cell><Data ss:Type="String">格陵蘭</Data></Cell>
@@ -3717,7 +3717,7 @@
   <Cell><Data ss:Type="String">護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Rese.BaseStructures</Data></Cell>
-  <Cell><Data ss:Type="String">基地建築</Data></Cell>
+  <Cell><Data ss:Type="String">基地設施</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Rese.Equipment</Data></Cell>
   <Cell><Data ss:Type="String">裝備</Data></Cell>
@@ -3750,7 +3750,7 @@
   <Cell><Data ss:Type="String">異能晶爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">我們的科學家有信心能開發出基於異能晶的手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">我們有信心能開發出基於異能晶的強力手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumWarhead</Data></Cell>
   <Cell><Data ss:Type="String">異能晶彈頭</Data></Cell>
@@ -3771,13 +3771,13 @@
   <Cell><Data ss:Type="String">異型合金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloysDesc</Data></Cell>
-  <Cell><Data ss:Type="String">異型的幽浮使用神奇的稀有物料建造。花點時間研究也許就能辨認它們。</Data></Cell>
+  <Cell><Data ss:Type="String">異型的幽浮採用了神奇的稀有物料建造，需要花點時間才能辨認它們的特性。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
   <Cell><Data ss:Type="String">異型反重力儀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGeneratorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
+  <Cell><Data ss:Type="String">這裝置能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
   <Cell><Data ss:Type="String">異型的生理</Data></Cell>
@@ -3810,7 +3810,7 @@
   <Cell><Data ss:Type="String">如何審問異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">也就是研究我們抓得的異型樣本。優先項目是找出跟敵人溝通的方法。</Data></Cell>
+  <Cell><Data ss:Type="String">研究我們抓得的異型樣本。優先項是找出跟敵人溝通的方法。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
   <Cell><Data ss:Type="String">異型的侵略</Data></Cell>
@@ -3963,7 +3963,7 @@
   <Cell><Data ss:Type="String">超空間引擎干擾器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperdriveDisruptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究能阻截異型的超空間跳躍的裝置，能防止幽浮跳離或跳入干擾場。</Data></Cell>
+  <Cell><Data ss:Type="String">研究能阻截超空間跳躍的裝置，防止幽浮跳離或跳入干擾場。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperionTank</Data></Cell>
   <Cell><Data ss:Type="String">太陽神浮空坦克</Data></Cell>
@@ -3975,7 +3975,7 @@
   <Cell><Data ss:Type="String">改良護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JackalDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究一下能怎樣改善我們的步兵護甲，提供他們被異型武器命中時的存活率。</Data></Cell>
+  <Cell><Data ss:Type="String">研究一下能怎樣改良我們的步兵護甲，提升面對異型武器的存活率。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
   <Cell><Data ss:Type="String">跳躍裝置</Data></Cell>
@@ -4005,7 +4005,7 @@
   <Cell><Data ss:Type="String">高速攔截機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MIGInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一架能追上幽浮的高速攔截機，攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
+  <Cell><Data ss:Type="String">開發一架能追上幽浮的高速攔截機，能攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
   <Cell><Data ss:Type="String">終局行動</Data></Cell>
@@ -4053,7 +4053,7 @@
   <Cell><Data ss:Type="String">量子解碼中心</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentreDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發用來解密幽浮通訊的基地建築，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
+  <Cell><Data ss:Type="String">開發用來解密幽浮通訊的基地設施，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedMAGs</Data></Cell>
   <Cell><Data ss:Type="String">重型電磁武器</Data></Cell>
@@ -5128,7 +5128,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;電磁風暴</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.MAGSTORM.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。 但射擊需要消耗士兵的八成 TU（除非配合獵戶戰甲使用），令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70），除非配合獵戶戰甲使用。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：120 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴_MAGSTORM：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。 但射擊需要消耗士兵的八成 TU（除非配合獵戶戰甲使用），令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70），除非配合獵戶戰甲使用。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：120 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.particlebeam</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;奇點炮</Data></Cell>
@@ -6280,7 +6280,7 @@
   <Cell><Data ss:Type="String">分析所虜獲的異型基地的設施。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BaseUpgradeDesc</Data></Cell>
-  <Cell><Data ss:Type="String">用異型科技升級我們的重點基地建築。</Data></Cell>
+  <Cell><Data ss:Type="String">用異型科技升級我們的重點基地設施。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.plasma</Data></Cell>
   <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
@@ -6527,10 +6527,10 @@
   <Cell><Data ss:Type="String">異型基地任務簡介</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.XenonautBase</Data></Cell>
-  <Cell><Data ss:Type="String">你的基地正受到異型攻擊。你必需排除所有異型單位，失敗的話你就會失去這個基地。如果異型佔領了你的指揮中心五回合，結果也一樣。&lt;br&gt;&lt;br&gt;入侵的異型精銳會非常主動，會是一場硬仗。牠們也會一邊前進一邊破壞基地的建築，被破壞的話要幾天時間修復。&lt;br&gt;&lt;br&gt;基地防守任務中，你一開始就清楚知道地型，包括異型的入侵點。在任務開始前，你可以安排部隊在指揮中心裡的起始位置，但異型會先開始回合！</Data></Cell>
+  <Cell><Data ss:Type="String">你的基地正受到異型攻擊。你必需排除所有異型單位，失敗的話你就會失去這個基地。如果異型佔領了你的指揮中心五回合，結果也一樣。&lt;br&gt;&lt;br&gt;入侵的異型精銳會非常主動，會是一場硬仗。牠們也會一邊前進一邊破壞基地的設施，被破壞的話要幾天時間修復。&lt;br&gt;&lt;br&gt;基地防衛任務中，你一開始就清楚知道地型，包括異型的入侵點。在任務開始前，你可以安排部隊在指揮中心裡的起始位置，但異型會先開始回合！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.XenonautBase.Title</Data></Cell>
-  <Cell><Data ss:Type="String">基地防守任務簡介</Data></Cell>
+  <Cell><Data ss:Type="String">基地防衛任務簡介</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.NightMission</Data></Cell>
   <Cell><Data ss:Type="String">這是個晚間任務，在地球示圖上這個地區正處於黑夜。夜戰令你有劣勢，因為你的士兵的有效視野會縮短，但異型的不會受到影響。&lt;br&gt;&lt;br&gt;地圖的格子必需同時受到照明並且處於士兵的 18 格視野內才能被看見。由於士兵所載的戰術電筒只能照明 12 格，夜戰實際上就是損失了三分一的視野。（戰車的車頭燈足夠強，不會受影響。）&lt;br&gt;&lt;br&gt;經由手雷格，士兵可以投擲照明彈彌補這段視野，照明彈數量不限而且比手雷容易扔。&lt;br&gt;&lt;br&gt;部分地圖也會有街燈等環境照明，可以好好利用。</Data></Cell>

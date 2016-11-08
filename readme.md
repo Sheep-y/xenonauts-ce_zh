@@ -25,9 +25,9 @@ This translation also use it as a standard.
 * [x] Translate custom solider and regiment (strings.xml)
 * [x] Add and translate mod contents (Lore+ and others)
 * [x] Translate Quickstart and Manual
-* [ ] Playtest - Adjust font sizes
+* [x] Playtest - Adjust font sizes
 * [x] Playtest - Fill in uncertain blanks
-* [x] Translate splashscreen, launcher
+* [x] Translate splashscreen, launcher, buttons
 * [ ] Build font and preview package
 * [ ] Edit strings.xml
 * [ ] Edit Xenopedia.xml
@@ -69,7 +69,7 @@ XCE mods with translate-able resources.
 
 Non-XCE mods with translate-able resoruces.
 
-* Aegia Armor
+* Aegis Armor
   * Ver 2014-08-18.
   * Merged and translated.
 
@@ -92,12 +92,12 @@ The fonts only contains used characters, not all common characters, and may not 
 * arial.mvec
   * Replace with WenQuanYi Micro Hei (文泉驛微米黑).
   * Select underscore (half-width), Move Y 4000, and use it as non-breaking space.
-  * 1632 Chinese characters + English & Punctuation, total 1647.
+  * All non-Xenopedia characters + 3000 common characters + English & Punctuation.
 * xenonauts.mvec
   * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72.
   * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols.
-  * 1632 Chinese characters + English & Punctuation, total 1647.
+  * All non-Xenopedia characters + 3000 common characters + English & Punctuation.
 * xenopedia.mvec
   * Replace with AR PL MingTi (文鼎 PL 明體).
   * Select underscore (half-width), Move Y 2000, and use it as non-breaking space.
-  * 1850 Chinese characters + English & Punctuation, total ???.
+  * All Xenopedos characters + English & Punctuation.
