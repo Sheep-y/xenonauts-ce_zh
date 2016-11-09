@@ -92,11 +92,11 @@ The fonts only contains used characters, not all common characters, and may not 
 * arial.mvec
   * Replace with WenQuanYi Micro Hei (文泉驛微米黑).
   * Select underscore (half-width), Move Y 4000, and use it as non-breaking space.
-  * All non-Xenopedia characters + 3000 common characters + English & Punctuation.
+  * Whole font is exported to support custom names.
 * xenonauts.mvec
   * Em size 1000 => 820, Scale 150% (width no change), Scale width 150%, Move Y 72.
   * Merge with cwTeXQYuan (cwTeX 圓體, Em size 1024), Delete merged half-width symbols.
-  * All non-Xenopedia characters + 3000 common characters + English & Punctuation.
+  * Whole font is exported to support custom names.
 * xenopedia.mvec
   * Replace with AR PL MingTi (文鼎 PL 明體).
   * Select underscore (half-width), Move Y 2000, and use it as non-breaking space.

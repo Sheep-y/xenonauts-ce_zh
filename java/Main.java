@@ -1,3 +1,4 @@
+import java.awt.FileDialog;
 import java.awt.GraphicsEnvironment;
 import java.io.File;
 import java.io.IOException;
@@ -6,14 +7,13 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import java.util.SortedMap;
 import java.util.TreeMap;
+import java.util.stream.Stream;
+import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
@@ -35,7 +35,7 @@ public class Main {
 
    private static final String TITLE = "Glyph list generator for Playmate Font Maker / Xenonauts translation";
    private static final String INPUT = "mod_xce_zh";
-   private static final String OUTPUT = "Playmate Font Maker/Character Sets/Xenonauts.txt";
+   private static final String OUTPUT = "Playmate Font Maker/Character Sets/";
 
    public static void main( String[] args ) {
       new Main().gen();
@@ -43,40 +43,29 @@ public class Main {
 
    public void gen() {
       alert( TITLE + ".\nThis program reads UTF-8 xml files from the "+INPUT+" folder and create a list of unique unicode characters." );
-      int file_count = 0;
-      List<String> lines = new ArrayList<>( 4 );
 
       // Read files
       File[] files = new File( INPUT ).listFiles( f -> f.isFile() && f.getName().endsWith( ".xml" ) );
       if ( files == null ) {
-         alert( "No files found in xml folder.", JOptionPane.ERROR_MESSAGE );
+         alert( "No files found in " + INPUT + " folder.", JOptionPane.ERROR_MESSAGE );
          return;
       }
-      for ( File f : files ) {
-         lines.add( read( f.toString() ).getDocumentElement().getTextContent() );
-         ++file_count;
-      }
 
-      // Collect distinct glyphs
-      String output = lines.stream().parallel()
-         .collect( () -> new HashSet<Integer>( 2400 ),
-            ( list, line ) -> line.codePoints().forEach( list::add ),
-            Set::addAll )
+      // Read text content
+      String output = Arrays.stream( files ).parallel()
+         .map( f -> read( f.toString() ).getDocumentElement().getTextContent() )
+         // Split into distinct code points
+         .flatMapToInt( text -> text.codePoints() ).parallel().distinct().sorted()
          // Convert to string for output
-         .stream().sorted().collect( StringBuilder::new, StringBuilder::appendCodePoint, StringBuilder::append )
+         .collect( StringBuilder::new, StringBuilder::appendCodePoint, StringBuilder::append )
          .toString().trim();
 
-      if ( output.isEmpty() ) {
-         alert( "Nothing to output.", JOptionPane.WARNING_MESSAGE );
-      } else {
-         try {
-            Files.write( new File( OUTPUT ).toPath(), output.getBytes( StandardCharsets.UTF_8 ) );
-            alert( "Written to " + OUTPUT + ". Processed " + file_count + " files for " + output.length() + " characters." );
-         } catch ( IOException ex ) {
-            alert( "Cannot write " + OUTPUT + ": " + ex.getMessage(), JOptionPane.ERROR_MESSAGE );
-         }
-      }
+      write( output, OUTPUT + "Xenonauts.txt" );
    }
+
+
+
+   JFrame frame;
 
    private void alert( String msg ) {
       alert( msg, JOptionPane.INFORMATION_MESSAGE );
@@ -86,16 +75,63 @@ public class Main {
       if ( GraphicsEnvironment.isHeadless() ) {
          System.out.println( msg );
       } else {
-         JOptionPane.showMessageDialog( null, msg, "Glyph Lister", type );
+         if ( frame == null ) frame = new JFrame( "Main Hidden Window" );
+         JOptionPane.showMessageDialog( frame, msg, "Glyph Lister", type );
+      }
+   }
+
+   public void sfd() {
+      alert( TITLE + ".\nThis program reads sfd (FontForge) file and output glyph list for font maker." );
+      FileDialog dlgOpen = new FileDialog( frame, "Select sfd file ", FileDialog.LOAD );
+      dlgOpen.setFilenameFilter( ( dir, name ) -> name.endsWith( ".sfd" ) );
+      dlgOpen.setMultipleMode( true );
+      dlgOpen.setVisible( true );
+
+      // Read into lines
+      String output = Arrays.stream( dlgOpen.getFiles() )
+         .flatMap( this::readLineStream ).parallel()
+         // Map to glyph code
+         .filter( line -> line.startsWith( "Encoding: " ) )
+         .mapToInt( line -> { try {
+               return Integer.parseInt( line.substring( 10 ).split( " " )[0] );
+            } catch ( NumberFormatException ex ) { return 32; } } )
+         .filter( codepoint -> codepoint < 65535 ).distinct()
+         // Convert to string for output
+         .collect( StringBuilder::new, StringBuilder::appendCodePoint, StringBuilder::append )
+         .toString().trim();
+
+      write( output, OUTPUT + "All Glyphs.txt" );
+   }
+
+   private Stream<String> readLineStream ( File file ) {
+      try {
+         return Files.readAllLines( file.toPath() ).stream();
+      } catch ( IOException ex ) {
+         throw new RuntimeException( ex );
       }
    }
 
    private Document read ( String file ) {
       try {
          return DocumentBuilderFactory.newInstance().newDocumentBuilder().parse( new File( file ) );
-      } catch ( IOException | SAXException | ParserConfigurationException ex) {
+      } catch ( IOException | SAXException | ParserConfigurationException ex ) {
          throw new RuntimeException( ex );
       }
+   }
+
+
+   private void write ( String output, String file ) {
+      if ( output.isEmpty() ) {
+         alert( "Nothing to output.", JOptionPane.WARNING_MESSAGE );
+      } else {
+         try {
+            Files.write( new File( file ).toPath(), output.getBytes( StandardCharsets.UTF_8 ) );
+            alert( "Written to '" + file + "'. Total " + output.length() + " characters." );
+         } catch ( IOException ex ) {
+            alert( "Cannot write '" + file + "': " + ex.getMessage(), JOptionPane.ERROR_MESSAGE );
+         }
+      }
+      frame.dispose();
    }
 
    private void write ( Document doc, String file ) {
@@ -170,7 +206,8 @@ public class Main {
             map.put( tokens[0], tokens[1] );
          }
          for ( String key : getCode( map ).split( "" ) )
-            enc.append( map.get( key ) );
+            if ( map.containsKey( key ) )
+               enc.append( map.get( key ) );
          e( row.getPreviousSibling(), "Data", data_index ).setTextContent( enc.toString() );
 
          map.clear();
@@ -183,6 +220,7 @@ public class Main {
 
    private void enc() {
       //enc( INPUT + "/strings.xml", 1 );
+      dec( INPUT + "/xenopedia.xml", 5 );
       enc( INPUT + "/xenopedia.xml", 5 );
    }
 
@@ -235,13 +273,20 @@ public class Main {
 
 
    private String getCode ( String txt ) {
-      return codes[ Math.abs( md.digest( txt.getBytes( StandardCharsets.UTF_16 ) )[0] ) % codes.length ];
+      StringBuilder code = new StringBuilder( codes[ Math.abs( md.digest( txt.getBytes( StandardCharsets.UTF_16 ) )[0] ) % codes.length ] );
+      for ( int i = code.length() - 1 ; i >= 0 ; i-- )
+         if ( txt.indexOf( code.charAt( i ) ) >= 0 ) {
+            code.delete( i, i + 1 );
+            continue;
+         }
+      return code.toString();
    }
 
    private String getCode( Map<String, String> tokens ) {
-      for ( String s : codes )
-         if ( tokens.containsKey( s.substring( 0, 1 ) ) )
-            return s;
+      char firstKey = tokens.keySet().iterator().next().charAt( 0 );
+      for ( String code : codes )
+         if ( code.indexOf( firstKey ) >= 0 )
+            return code;
       throw new IllegalArgumentException();
    }
 }
