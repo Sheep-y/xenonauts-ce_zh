@@ -1890,7 +1890,7 @@
   <Cell><Data ss:Type="String">摧毀異型基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SentToResearchDivision</Data></Cell>
-  <Cell><Data ss:Type="String">送交實驗室</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;送交實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SoldierPromoted</Data></Cell>
   <Cell><Data ss:Type="String">晉升到%1%</Data></Cell>
@@ -2352,10 +2352,10 @@
   <Cell><Data ss:Type="String">以大利</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-  <Cell><Data ss:Type="String">已摧毀</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已摧毀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Executed</Data></Cell>
-  <Cell><Data ss:Type="String">已槍斃</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已槍斃</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Alenium</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;異能晶</Data></Cell>
@@ -5416,40 +5416,40 @@
   <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;輕型偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCorvetteDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;護衛幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLandingCraftDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;運輸幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;巡洋幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCarrierDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;航母幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBattleshipDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;戰列幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienHeavyFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;重型空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
   <Cell><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
@@ -6208,7 +6208,7 @@
   <Cell><Data ss:Type="String">基地升級</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Datacore</Data></Cell>
-  <Cell><Data ss:Type="String">回收</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;回收</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScimitarTank</Data></Cell>
   <Cell><Data ss:Type="String">彎刀戰車</Data></Cell>
@@ -6268,10 +6268,10 @@
   <Cell><Data ss:Type="String">長距離而準確的異型射手武器。它的研究可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Reaper</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;鐮刀蟲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.ReaperAlpha</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲王</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;鐮刀蟲王</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScimitarTankDesc</Data></Cell>
   <Cell><Data ss:Type="String">利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
