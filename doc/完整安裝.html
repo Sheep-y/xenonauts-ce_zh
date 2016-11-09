@@ -10,8 +10,9 @@ h1, h2, p { margin: 1.5ex 0; }
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
-h1, h3 { display: inline-block; }
+h1, h2 { display: inline-block; }
 img { max-width: 600px; }
+dt { margin-top: 1em; }
    </style>
 </head><body>
 
@@ -20,7 +21,8 @@ img { max-width: 600px; }
      <a href="#xce">1. 安裝社群版</a><br/>
      <a href="#xce_mods">2. 安裝社群版模組</a><br/>
      <a href="#zh">3. 安裝漢化包</a><br/>
-     <a href="#done">4. 遊戲入門</a><br/>
+     <a href="#remarks">4. 漢化包注意事項</a><br/>
+     <a href="#tutorial">5. 新手上路</a><br/>
    </nav>
 
    <main>
@@ -36,16 +38,16 @@ img { max-width: 600px; }
          <p>我花了約兩個月漢化異種航員，讓大家不用捧著手機逐字查都只能一知半解。如對漢化有意見，最可靠的討論方法是上 <a href="https://github.com/Sheep-y/xenonauts-ce_zh">GitHub 專頁</a>。語法用詞跟兩地可能有顯著差異，請多多包涵。</p>
 
          <p>作為獨立遊戲，異種航員價格低廉。<a href="https://www.gog.com/game/xenonauts">GOG</a>、<a href="https://www.humblebundle.com/store/xenonauts">Humble Store</a>、和 <a href="http://store.steampowered.com/app/223830/">Steam</a> 都常常打折，撰文時 GOG 折後只需 56人民幣/260新台幣，比大部分電影票便宜。請支持遊戲產業。 - Sheepy</p>
-      </details>
+      </details></section>
 
-      <h2>漢化包安裝步驟</h2>
+      <h1>漢化包安裝步驟</h1>
 
       <p>步驟略多但只需做一次，請小心看清楚指示。部分步驟花時頗長，可以閱讀漢化包內的快速上手指南或遊戲手冊。</p>
 
       <section><details id="xce" open="open">
-         <summary><h3>1. 安裝社群版</h3></summary>
+         <summary><h2>1. 安裝社群版</h2></summary>
 
-         <p>漢化包是為社群版而設，該版是對原版遊戲的改良，強烈建議安裝。</p>
+         <p>漢化包是為社群版而設，該版是對原版遊戲的改良，不裝的話不保證漢化包能運作。</p>
 
          <p>本步驟假設你已經正常地安裝了異種航員。當你執行遊戲時，會出現英文版的啟動器。</p>
 
@@ -70,7 +72,7 @@ img { max-width: 600px; }
       </details></section>
 
       <section><details id="xce_mods" open="open">
-         <summary><h3>2. 安裝社群版模組</h3></summary>
+         <summary><h2>2. 安裝社群版模組</h2></summary>
 
          <p>社群版只是最基本的修正，大部分的增強內容都放在模組裡。</p>
 
@@ -89,17 +91,15 @@ img { max-width: 600px; }
       </details></section>
 
       <section><details id="zh" open="open">
-         <summary><h3>3. 安裝漢化包</h3></summary>
+         <summary><h2>3. 安裝漢化包</h2></summary>
 
-         <p>由於模組<a href="http://www.goldhawkinteractive.com/forums/index.php?/topic/13532-xce-0342-mod-cant-override-font-splashscreen-and-launcher/&do=findComment&comment=157621">無法修改</a>字體等資源，需要手動覆蓋。</p>
+         <p>由於模組<a href="http://www.goldhawkinteractive.com/forums/index.php?/topic/13532-xce-0342-mod-cant-override-font-splashscreen-and-launcher/&amp;do=findComment&amp;comment=157621">無法修改</a>字體等資源，需要手動覆蓋。</p>
 
-         <p>Steam 平台的請注意，每次遊戲更新都會重設模組設定，可能導致漢化失效，而自動更新不能停止。最簡單的補救方法是在模組管理中刪掉（Delete Mod）舊的漢化包然後照以下步驟重新安裝。</p>
-
-         <p><img src='steps/74.jpg' alt='請確保啟動器已經關掉，雙擊漢化包打開它，然後將目錄和 PDF 拖放到遊戲目錄，覆蓋六個檔案。'/></p>
+         <p><img src='steps/74.jpg' alt='請確保啟動器已經關掉。打開覆蓋檔案包，將裡面的所有東西拖放到遊戲目錄覆蓋遊戲的檔案。'/></p>
 
          <p><img src='steps/82.jpg' alt='啟動遊戲。啟動器圖片已經換成中文。按 Modding Tools。'/></p>
 
-         <p><img src='steps/90.jpg' alt='按 Add New Mod，選擇漢化包 zip。完成後漢化包自動被置頂及啟用。按 Back 返回上頁並立刻啟航。'/></p>
+         <p><img src='steps/90.jpg' alt='按 Add New Mod，選擇漢化模組 zip。完成後漢化包自動被置頂及啟用。按 Back 返回上頁並立刻啟航。'/></p>
 
          <p>（模組管理器不支援中文，只能用中文的<a href="https://zh.wikipedia.org/wiki/ISO_639-1">國際代號</a> "ZH" 作記認。）</p>
 
@@ -107,64 +107,118 @@ img { max-width: 600px; }
 
       </details></section>
 
-      <section><details id="done" open="open">
-         <summary><h3>4. 遊戲入門</h3></summary>
+      <section><details id="remarks">
+         <summary><h2>4. 漢化包注意事項</h2></summary>
+
+         <p>在 Steam 的內容頁中檢查遊戲檔案也會導致字型等資源恢復成英文版，需重新覆蓋。</p>
+
+         <p>當 Steam 平台自動更新遊戲時，模組設定可能會被刪除，令遊戲打回原型。最簡單的補救方法是在模組管理中刪掉（Delete Mod）舊的漢化包，將所有模組重設（Default Setup），這就能恢復到社群版的出廠設定。然後請重新安裝漢化模組。</p>
+
+         <p>由於工作量頗為龐大，異種百科的圖片沒有漢化。況且有字的圖全是模組後加的，不是原遊戲的。</p>
+
+         <p>漢化模組可以隨時啟用或停用，並支持以下模組。只要漢化模組的優先度比它們更高，這些模組啟用時都會被漢化。</p>
+
+         <dl>
+           <dt>Aegis Armor 神盾護甲</dt>
+           <dd>（<a href='http://www.goldhawkinteractive.com/forums/index.php?/topic/11626-xce-v027-s-20-quotaegisquot-counterpsionic-support-armour/'>官網</a>、<a href='https://steamcommunity.com/sharedfiles/filedetails/?id=498011543'>Steam</a>）<br/>提供一款新的高階護甲。</dd>
+
+           <dt>Armoured Assault 裝甲突擊</dt>
+           <dd>（社群版內附，預設停用。）<br/>提升戰車的裝甲並新增戰車武器。</dd>
+
+           <dt>Extended Weapon Descriptions for Fighters 戰鬥機武器描述增補</dt>
+           <dd>（社群版內附，預設啟用。）<br/>提供戰鬥機武器的異種百科條目。</dd>
+
+           <dt>Fire in the Hole 即將引爆</dt>
+           <dd>（<a href='http://www.goldhawkinteractive.com/forums/index.php?/topic/9836-fire-in-the-hole-destructible-ufo-hulls-and-dynamic-ufo-assaults/'>官網</a>、<a href='https://steamcommunity.com/sharedfiles/filedetails/?id=335616807'>Steam</a>）<br/>修改幽浮的格局，更接近傳統 X-COM 的風格，並允許從幽浮外部開洞突破。</dd>
+
+           <dt>Geographic addition</dt>
+           <dd>（<a href='http://www.goldhawkinteractive.com/forums/index.php?/topic/13367-xce-geographic-addition-11/'>官網</a>、<a href='https://steamcommunity.com/sharedfiles/filedetails/?id=705553557'>Steam</a>）<br/>在世界各地新增上海、平壤等十多個城市，及修正一些城市的地圖風格。</dd>
+
+           <dt>Lore+ 知識增補</dt>
+           <dd>（社群版內附，預設啟用。）<br/>提供幽浮和異型的知識的異種百科條目。</dd>
+
+           <dt>X:CE Balance Adjustment 社群版平衡調整</dt>
+           <dd>（社群版內附，預設啟用。）<br/>調整遊戲參數提升平衡，包括新增燃燒彈和燃燒火箭。</dd>
+
+         </dl>
+         
+         <p>其他模組的話，地圖和影音模組一般都相容。增加或修改文字的模組一概不支援，包括所有增添裝備或幽浮的模組。漢化模組不修改任何介面排版或數值，不影響其他模組的實際運作，可以放心置頂。</p>
+
+      </details></section>
+
+      <section><details id="tutorial" open="open">
+         <summary><h2>5. 新手上路</h2></summary>
 
          <p>現在可以開始遊戲了！本節會簡介開始遊戲時建議做的事。如果你想自己摸索這遊戲，看看圖就好，別看字！（右按圖片檢視大圖）</p>
 
          <p>異種航員並不容易，抱怨太難的玩家比說太容易的多。請挑選適合自己的難度。</p>
 
-         <p><img src='screenshots/home.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/home.jpg' alt=''/></p>
 
          <p>第一個基地的位置非常重要，要能覆蓋多個地域及大片陸地。開羅附近是首選。</p>
 
-         <p><img src='screenshots/geo.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/geo.jpg' alt=''/></p>
 
          <p>先按上方的問號閱讀異種百科，瞭解一下各種資源。</p>
 
-         <p><img src='screenshots/xenopedia.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/xenopedia.jpg' alt=''/></p>
 
          <p>按上方的頭盔進入基地畫面。興建醫護所和起居室各一。可以考慮建新機庫、雷達、和實驗室。</p>
 
-         <p><img src='screenshots/base.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/base.jpg' alt=''/></p>
 
          <p>去兵營看一看。開除你覺得沒用的士兵，並僱用能力值合心意的。如果有士兵同時有高力量和高精度，例如圖中的謝爾蓋下士，那一定要請他回來給他重機槍！完成後去實驗室僱滿科家。</p>
 
-         <p><img src='screenshots/barrack.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/barrack.jpg' alt=''/></p>
 
          <p>去武器庫，瀏覽右方的裝備欄，用遊標懸浮可獲裝備說明。然後看看士兵，給過載的士兵減輕負擔，有餘力的則多帶點裝備。煙霧彈和眩目彈一定要有人帶，霰彈槍和重機槍也必不可少。步槍反而有人喜愛有人恨。</p>
 
-         <p><img src='screenshots/equipment.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/equipment.jpg' alt=''/></p>
 
          <p>去機庫，選運輸機，將士兵拖放到你喜歡的出擊位置。注意兩側都有門，士兵不一定要從尾部出擊。</p>
 
-         <p><img src='screenshots/hanger.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/hanger.jpg' alt=''/></p>
 
          <p>回到地球，按上方的箭頭將速度調至最快，直到發現幽浮。在出擊畫面選取兩架神鷲出擊。如果很罕見地完全沒幽浮飄入雷達網，遊戲也會體貼地讓國家的空軍為你打下一艘。（還有更罕見的事件，都要忠實地一一翻譯……）</p>
 
-         <p><img src='screenshots/launch.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/launch.jpg' alt=''/></p>
 
          <p>別放過手動空戰的練習機會！右邊可以控制速度和武器（例如防止飛彈齊射）。練習使用後燃器和迴避去誘敵、咬尾、發揚火力。</p>
 
-         <p><img src='screenshots/air_combat.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/air_combat.jpg' alt=''/></p>
 
          <p>擊落了就要送士兵過去。如果墜地點處於晚上（地球的陰影部分），那就等快天亮了再派查理出擊，因為夜戰頗為艱辛。</p>
 
-         <p><img src='screenshots/ufo_down.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/ufo_down.jpg' alt=''/></p>
 
          <p>地面戰鬥是遊戲最複雜的部分，請讀 "快速上手" PDF。八名士兵不算多，別分散，一起行動。保險的玩法是讓偵察兵進取地搜索異型，找不到就退回大隊，找到就狙擊或w圍攻。</p>
 
-         <p><img src='screenshots/ground_combat.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/ground_combat.jpg' alt=''/></p>
 
          <p>找到幽浮別急著衝進去，人家可等著你呢！用煙霧彈或地型掩護接近，準備萬全後開門，丟眩目彈壓制門後的異型，再派持霰彈槍的士兵突擊。</p>
 
-         <p><img src='screenshots/ufo_combat.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/ufo_combat.jpg' alt=''/></p>
 
          <p>勝利後，大部分異型裝備會被變賣，這是正常的。到這兒就算畢業了，接下來你可以想一想戰略方向，例如考慮在亞洲或美洲興建第二基地保護更多天空。祝你能早日打退異型、守護地球。</p>
 
-         <p><img src='screenshots/victory.jpg' alt=''/></p>
+         <p><img src='遊戲畫面/victory.jpg' alt=''/></p>
 
       </details></section>
 
    </main>
+   
+   <script>//<![CDATA[
+
+// Expand sections on click
+Array.prototype.forEach.call( document.querySelectorAll( 'nav a' ), ( a ) => {
+   a.addEventListener( 'click', ( evt ) => {
+      document.querySelector( a.getAttribute( 'href' ) ).open = 'open';
+   } );
+} );
+
+// Expand initial hash
+if ( location.hash )
+   document.querySelector( location.hash ).open = 'open';
+
+   //]]></script>
 </body></html>

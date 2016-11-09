@@ -1,0 +1,307 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Solver</Author>
+  <LastAuthor>DUman</LastAuthor>
+  <Created>2011-04-13T20:36:37Z</Created>
+  <LastSaved>2014-07-06T13:17:28Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>6315</WindowHeight>
+  <WindowWidth>13425</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>214</TabRatio>
+  <DisplayDrawingObjects>PlaceHolders</DisplayDrawingObjects>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Center"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="strings">
+  <Table ss:ExpandedColumnCount="2" ss:ExpandedRowCount="61" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:AutoFitWidth="0" ss:Width="246"/>
+   <Column ss:AutoFitWidth="0" ss:Width="478.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.basic</Data></Cell>
+    <Cell><Data ss:Type="String">Standard Uniform</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.jackal</Data></Cell>
+    <Cell><Data ss:Type="String">Jackal Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Jackal</Data></Cell>
+    <Cell><Data ss:Type="String">Jackal Combat Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Jackal</Data></Cell>
+    <Cell><Data ss:Type="String">Jackal Combat Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.wolf_4</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.wolf_4_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.wolf_4_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Wolf_4</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Battle Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Wolf</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Battle Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.wolf</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf-AST</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Wolf</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Assault Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.WolfImplants</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Assault Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.wolf_2</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf-TAC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Wolf_2_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Wolf_2_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Wolf_2</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Tactical Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.WolfSensors</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Tactical Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.wolf_3</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf-NRS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Wolf_3_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Wolf_3_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Wolf_3</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Neural-Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.WolfNeuro</Data></Cell>
+    <Cell><Data ss:Type="String">Wolf Neural-Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.sentinel</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel-NRS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Sentinel</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Neuro-Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.SentinelNeuro</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Neuro-Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.sentinel_2</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel-TAC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Sentinel_2_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Sentinel_2_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.SentinelSensors</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Tactical Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Sentinel_2</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Tactical Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.sentinel_3</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel-AST</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Sentinel_3_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Sentinel_3_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Researches.SentinelImplants</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Assault Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Sentinel_3</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Assault Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.sentinel_4</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Sentinel_4_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Sentinel_4_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Sentinel</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Sentinel_4</Data></Cell>
+    <Cell><Data ss:Type="String">Sentinel Battlesuit</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.predator</Data></Cell>
+    <Cell><Data ss:Type="String">Predator Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.Predator</Data></Cell>
+    <Cell><Data ss:Type="String">Predator Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Predator</Data></Cell>
+    <Cell><Data ss:Type="String">Predator Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.predator_2</Data></Cell>
+    <Cell><Data ss:Type="String">Predator-TAC</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Predator_2_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Predator_2_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Researches.PredatorSensors</Data></Cell>
+    <Cell><Data ss:Type="String">Predator TAC Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Predator_2</Data></Cell>
+    <Cell><Data ss:Type="String">Predator TAC Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">armour.predator_3</Data></Cell>
+    <Cell><Data ss:Type="String">Predator-NRS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Predator_3_Corpse</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut Corpse</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Items.Predator_3_Stunned</Data></Cell>
+    <Cell><Data ss:Type="String">Xenonaut</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Researches.PredatorNeuro</Data></Cell>
+    <Cell><Data ss:Type="String">Predator Neuro-Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">ManTech.Predator_3</Data></Cell>
+    <Cell><Data ss:Type="String">Predator Neuro-Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CyberneticArmour</Data></Cell>
+    <Cell><Data ss:Type="String">Cybernetic Armour</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CyberneticArmourDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Study of the Andron wreck has revealed the possibility of constructing cybernetic enhancements for our soldiers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CyberneticSensors</Data></Cell>
+    <Cell><Data ss:Type="String">Cybernetic Sensors</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CyberneticSensorsDesc</Data></Cell>
+    <Cell><Data ss:Type="String">A cybernetic sensor system might work to improve our soldiers' combat performance</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CyberneticImplants</Data></Cell>
+    <Cell><Data ss:Type="String">Cybernetic Implants</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.CyberneticImplantsDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Cybernetic implants using regenerative chemics may serve as an automated healing system for soldiers during combat missions</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.NeuroCyberneticShielding</Data></Cell>
+    <Cell><Data ss:Type="String">Neuro-Cybernetic Shielding</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell><Data ss:Type="String">Researches.NeuroCyberneticShieldingDesc</Data></Cell>
+    <Cell><Data ss:Type="String">Study of the Caesan subject might lead to the creation of effective defences against psionic attacks</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>48</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

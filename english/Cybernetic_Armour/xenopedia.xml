@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Ruth and Will</LastAuthor>
+  <Created>2013-04-29T16:38:45Z</Created>
+  <LastSaved>2014-08-12T19:43:43Z</LastSaved>
+  <Version>12.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5205</WindowHeight>
+  <WindowWidth>14355</WindowWidth>
+  <WindowTopX>7320</WindowTopX>
+  <WindowTopY>3075</WindowTopY>
+  <TabRatio>221</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="238"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Interior ss:Color="#969696" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Center"/>
+  </Style>
+ </Styles>
+ <Names>
+  <NamedRange ss:Name="Categories" ss:RefersTo="=Sheet1!#REF!"/>
+ </Names>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:AutoFitWidth="0" ss:Width="232.5" ss:Span="1"/>
+   <Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="188.25"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="130.5"/>
+   <Column ss:StyleID="s62" ss:AutoFitWidth="0" ss:Width="80.25"/>
+   <Column ss:StyleID="s63" ss:AutoFitWidth="0" ss:Width="1067.25"/>
+   <Column ss:AutoFitWidth="0" ss:Width="537"/>
+   <Row ss:StyleID="s66">
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">DisplayName</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Category</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">Interface</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Description</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">armour.wolf_4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Wolf Battle Armour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/wolfarmour_4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">The &quot;Wolf&quot; Battle Armour improves upon the Jackal Armour using the remarkable properties of alien alloys to provide extra protection to your men in combat. Each individual suit requires a large amount of money and alien alloys to fabricate in our workshops, but they should dramatically increase the combat effectiveness of our men.&#10;&#10;The construction of Wolf armour is similar to the construction of Jackal, except the ceramic plating is underlayed by plates fabricated from alien alloys.  This provides a significant amount of protection as heat is dispersed by the ceramic layer and impact absorbed by the alloy layer.  Accordingly, the centimetre-thick breastplate is capable of stopping a .50cal round at point blank range; it is the equivalent of walking around with three inches of steel strapped to your chest. Both the plating and the undersuit have also been impregnated with a dense network of ultrafine superconductor filaments, which absorb the heat from an energy projectile and dissipate it across the full surface of the armour, giving the soldier underneath a much improved chance of surviving the impact.&#10;&#10;None of this appears to have dramatically improved the mood of your soldiers. Indeed, I cannot recall a single smile from the miserable sods since the invasion began - it is almost as if they do not realise quite how difficult working in the laboratories can be. A little more gratitude would hardly go amiss.&#10;&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">armour.buzzard</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">The Buzzard Jumpsuit is a variant of the Wolf Battle Armour designed for mobility over protective ability. It is fitted with an integrated jump unit, a device that allows the wearer to move vertically on the battlefield. Refinement of the armour plate has decreased weight, slightly reducing protection but letting the soldier carry more into battle. &#10;&#10;The jump unit is a rather substantial device worn in a back harness. It consists of a miniaturised Alenium reactor connected to a pair of thrusters that sit above the wearer's shoulders, paired with various gyroscopic flight control systems and sensors. Though the jump unit is not powerful enough for prolonged flight, the user is able to hover for short periods if necessary. Even those who are not trained as pilots should find it easy enough to use in combat - input from the wearer is recorded via touchpads in the gloves, allowing them to steer their intended flight path (sadly also preventing them from using weapons while airborne). A complex array of vectored thrust ports copied from the alien directional thruster design provide fine control and auto-stabilisation when in flight. &#10;&#10;Clearly, the ability to &quot;jump&quot; atop buildings or leap impassable terrain has utility on the battlefield - particularly for your scouts and marksmen. Soldiers regularly exposed to enemy fire will likely still need the added protection of the Wolf, however.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="191.25">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">armour.predator</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">The S-2 &quot;Predator&quot; Assault Armour is a powered personal exoskeleton designed for heavy assault and breaching action. It offers exceptional protection and is powerful enough to wield heavy weapons without suffering movement or recoil penalties, transforming the wearer into a fearsome walking tank.&#10;&#10;The Predator's main armour plates are nearly an inch thick and formed from hardened alien alloys, whilst the joints use sliding layers of thinner plates to offer both flexibility and strength - even at its weakest point, the armour is still a centimetre thick. The backplate unit contains both the SA-16 personal Alenium reactor (which generates enough power to keep the suit operating at full capacity virtually indefinitely) and rebreather apparatus that renders the wearer completely immune to environmental toxins. Conventional measures of protection are almost meaningless by this point, but a Predator could wade through molten lava or withstand a small nuclear blast with little more than superficial damage.&#10;&#10;The suit uses powerful servomotors that give it functional strength two or three times greater than the average human. This allows the wearer to operate heavy automatic weapons as if they were normal weapons, able to fire on the move and their accuracy unaffected by recoil. Nor is the wearer slowed by the weight of their equipment; even the heaviest load is of little consequence to a Predator. Nor, indeed, are walls - the sheer bulk of the suit means it can charge straight through many of them with no ill-effects whatsoever.&#10;&#10;However, the design is limited by its view cone and weapon selection. The reduced spatial awareness caused by the enclosed helmet is compounded by the poor peripheral vision granted by the cameras, effectively giving the wearer a permanent case of tunnel vision. Additionally, the massive armoured gauntlets of the Predator are simply too large and clumsy to use much of our equipment. Heavy weapons can be modified easily enough, but the battlesuit cannot use lighter weapons or other equipment like grenades, stun weapons and protective shields. Much like an actual tank, a Predator will require infantry support if it is to be fully effective.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">armour.sentinel</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/sentinelarmour_3</Data></Cell>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"/>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">The S-6 &quot;Sentinel&quot; Battlesuit is a combat exoskeleton designed for general combat usage. It offers less protection than our S-2 &quot;Predator&quot; exoskeletons, but incorporates a personal jump unit and is not limited to using only heavy weapons.&#10;&#10;The Sentinel contains thousands of tiny sensors that work to detect and augment the wearer's movement, making it operate more like a second skin than a half-tonne armoured suit.  It is capable of the same dexterity and range of motion as an unarmoured soldier, whilst also providing excellent protection. The helmet contains a full rebreather system (rendering the wearer immune to smoke and gas effects). The jump unit does away with the miniaturised jet turbines of the Buzzard and utilises alien antigravity technology instead, resulting in a much more compact device that also contains the suit reactor.&#10;&#10;It should be noted that this level of precision engineering would simply not be possible if the Sentinel were armoured as heavily as the Predator. The more primitive design still excels at soaking up damage and remains our best option for assault work, but the Sentinel is far more versatile in combat. A mixture of the two designs would be a powerful combination; taken together they represent the final word in the development of battlefield protection.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell ss:StyleID="s69"><Data ss:Type="String">armour.jackal</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Jackal Armour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">xenopediaimages/jackalarmour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ARM</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">The &quot;Jackal&quot; Armour offers our soldiers extra battlefield protection at the cost of increased weight. It is not the ideal equipment for every situation, but in many cases the extra survivability could be the difference between life and death.&#10;&#10;Laboratory tests on captured alien plasma weapons have confirmed that traditional body armour is essentially worthless against energy projectiles, having been designed to resist ballistic impact rather than heat damage. However, testing a modified combat vest with heat-resistant rather than impact-resistant ceramic plates showed impressive results. The ceramics were able to dissipate enough of the heat to give the wearer a reasonable chance of survival, though they are still likely to suffer injuries in the process.&#10;&#10;While it provides an obvious boost to survivability, this armour is heavy and will limit the other equipment (such as ammunition or secondary weapons) a soldier can carry into battle. Armour also degrades rapidly under fire and will not withstand repeated hits, nor provide the wearer guaranteed protection - e.g. it hardly matters what armour a soldier is wearing if he is shot in the face. Nevertheless, it is still better than nothing and can be constructed in the workshop.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="127.5">
+    <Cell><Data ss:Type="String">Researches.CyberneticArmour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Cybernetic Armour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienelectronics</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Technology</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">After rescuing our final Andron specimen from the scrap-heap shortly before it was erroneously melted down by the engineering crew, I have spent some additional time examining the electronics which compose its systems and have reason to believe we may be able to exploit their design for our own ends.&#10;&#10;Other than its armour and robotics, the Andron is comprised by a large array of sensors which feed information to a central processing unit.  These sensors, from what I can tell, mimic the sensory input of living organisms.  My hypothesis, then, is that it may be possible to integrate this technology into our combat armour in order to augment the capabilities of our soldiers.&#10;&#10;Doing this will be no easy task.  To function, it will be necessary for soldiers to undergo surgery to implant receivers which will connect to the sensors embedded in their armour.  As this is experimental, I cannot promise that there will not be harm done to our soldiers.  However, I suggest that the gains from this will be great indeed, in the end allowing us to improve every aspect of our soldiers' fighting ability.&#10;&#10;I have already drawn up some schematics which I can develop further given your approval.  Furthermore, I suggest attempting to capture live aliens as studying them may enable to develop additional applications of this technology.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102">
+    <Cell><Data ss:Type="String">Researches.CyberneticSensors</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Cybernetic Sensors</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/alienbiology</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Technology</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">While it was never in doubt, I am pleased to report that my experiments with cybernetic augmentations have been a success&#10;&#10;Using technology adapted from the Andron wreckages we recovered, I have devised a cybernetic interface which feeds a wealth of tactical data to the soldier.  The centrepiece of the system is a view-screen on the inside of the visor which displays targeting aids and other tactical information.  The screen is manipulated directly through thought impulses to allow target tracking, precision zooming, night vision and more.  In addition to this, targeting and reaction speed are improved by a number of automated processes which feed behaviour-commands directly to parts of the body.&#10;&#10;On the negative side, soldiers have reported some disorientation as a result of using the cybernetic interface and I therefore recommend frequent training with the armour to ensure effective use.  There is also significant power consumption and armour including the cybernetic interface will be require a small amount of alenium in its construction.  In spite of these issues, however, I am confident that this system will be of great benefit in out fight against our alien invaders.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="114.75">
+    <Cell><Data ss:Type="String">Researches.CyberneticImplants</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Cybernetic Implants</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/analysis_sebillian</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Technology</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">While we have been able to produce superior medical treatments derived from my study of the live Sebillian subject, use of these treatments has been heavily inhibited by their propensity to cause massive cell growth and quickly fatal tumours.  (This reminds me - the labs are critically low on rats and I will require a fresh batch as soon as possible.)  The kind of regenerative power possessed by the Sebillians is therefore impossible to replicate in human beings.&#10;&#10;However, through use of my cybernetic technology I have designed a system which can autonomously dispense chemical treatments to a soldier in precise and measured amounts.  An array of cybernetic sensors monitor the body's status, detecting fatigue and trauma and delivering micro-infusions of regenerative serum to affected areas.&#10;&#10;In this instance, however, I have surpassed my own genius.  While I originally designed the system to provide emergency treatment to wounded soldiers, the system is sensitive enough that it can detect even very minor damage such as that produced by strenuous physical labour.  Not only, then, does the system improve a soldier's resilience, but also improves their speed and endurance as well.  This armour is therefore especially well-suited for front-line soldiers by improving both their speed and resiliance.&#10;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="102">
+    <Cell><Data ss:Type="String">Researches.NeuroCyberneticShielding</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Neuro-Cybernetic Shielding</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/analysis_caesan</Data></Cell>
+    <Cell><Data ss:Type="String">Alien Technology</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s71"><Data ss:Type="String">The live Caesan subject has presented a perfect opportunity to study the psionic powers of the alien invaders and I am pleased (though hardly surprised) to report that I have developed an effective defense against their mental attacks.&#10;&#10;The neuro-cybernetic shield (or 'mind shield', as the engineering team insist on calling it) works by monitoring the brain-wave patterns of the wearer to detect unusual activity.  If an atypical pattern is detected, the system deploys a series of minor electrical impulses designed to reset the wearer's brain activity to its prior normal state.  While this was designed to counteract psionic attacks, it has an additional beneficial effect of counteracting stress, panic and metal trauma, increasing the courage and discipline of the wearer accordingly. &#10;&#10;It has not been possible to rigorously test this system as that would require combat conditions and a powerful alien psion.  However, on the basis of laboratory testing I am convinced that this system will negate all psionic attacks directed against the wearer.  However, over time the system rebalances to the unusual activity caused by the psionic attacks, meaning that it willl not provide protection indefinitely.  I estimate that roughly three psionic attacks can be reliably negated by the system before it is rendered ineffective.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Researches.WolfSensors</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Wolf Tactical Armour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/wolfarmour_2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates cybernetic sensor technology with the Wolf Battle Armour.  In addition to the protection offered by the armour, the wearer gains increased accuracy (+15) and reflexes (+15) and can see up to their normal distance during night missions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Researches.WolfImplants</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Wolf Assault Armour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/wolfarmour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates cybernetic implant technology with the Wolf Battle Armour.  The armour offers slightly more protection than normal (50 instead of 45), weighs slightly less (12 instead of 15) and adds +20 TUs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Researches.WolfNeuro</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Wolf Neuro-Shielding</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/wolfarmour_3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates neuro-cybernetic shielding technology with the Wolf Battle Armour.  In addition to the protection offered by the armour, the wearer gains increased bravery (+20)  and can automatically resist a small number of psionic attacks during a mission.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Researches.SentinelSensors</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sentinel Tactical Armour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sentinelarmour_2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates cybernetic sensor technology with the Sentinel Battle Suit.  In addition to the protection offered by the armour, the wearer gains increased accuracy (+15) and reflexes (+15) and can see up to their normal distance during night missions</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.SentinelImplants</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sentinel Assault Armour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sentinelarmour_3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates cybernetic implant technology with the Sentinel Battle Suit.  The armour offers slightly more protection than normal (70 instead of 65), weighs slightly less (12 instead of 15) and adds +20 TUs.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Researches.SentinelNeuro</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Sentinel Neuro-Shielding</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/sentinelarmour</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates neuro-cybernetic shielding technology with the Sentinel Battle Suit.  In addition to the protection offered by the armour, the wearer gains increased bravery (+20)  and can automatically resist a small number of psionic attacks during a mission.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PredatorSensors</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Predator Tactical Armour</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/predatorarmour_2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates cybernetic implant technology with the Predator Power Armour.  In addition to the protection offered by the armour, the wearer gains increased Tus (+20) and resiliance (+20)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">Researches.PredatorNeuro</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">Predator Neuro-Shielding</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">xenopediaimages/predatorarmour_3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">Xenonaut Armour</Data></Cell>
+    <Cell ss:Index="6"><Data ss:Type="String">This armour integrates neuro-cybernetic shielding technology with the Predator Power Armour.  In addition to the protection offered by the armour, the wearer gains increased bravery (+20)  and can automatically resist a small number of psionic attacks during a mission.</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>1</SplitHorizontal>
+   <TopRowBottomPane>1</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
