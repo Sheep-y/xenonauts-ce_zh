@@ -1827,7 +1827,7 @@
   <Cell><Data ss:Type="String">精度</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.AliensKilled</Data></Cell>
-  <Cell><Data ss:Type="String">所殺異型</Data></Cell>
+  <Cell><Data ss:Type="String">殲滅異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.APS</Data></Cell>
   <Cell><Data ss:Type="String">TU</Data></Cell>
@@ -3483,7 +3483,7 @@
   <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hiring_XX_Hours</Data></Cell>
-  <Cell><Data ss:Type="String">僱用中，需%1%小時</Data></Cell>
+  <Cell><Data ss:Type="String">僱用中，需_%1%_小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Perth</Data></Cell>
   <Cell><Data ss:Type="String">珀斯</Data></Cell>
@@ -5188,7 +5188,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;破片火箭彈</Data></Cell>
  </Row><Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.frag.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;破片火箭彈：&lt;/b&gt;&#10;&#10;破片火箭是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：50 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;破片火箭彈：&lt;/b&gt;&#10;&#10;破片火箭是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：50 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.fusion</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;核融火箭彈</Data></Cell>
@@ -6470,15 +6470,15 @@
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.alenium.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶火箭彈&lt;/b&gt;&#10;&#10;異能晶火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：75 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶火箭彈&lt;/b&gt;&#10;&#10;異能晶火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：75 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;等離子火箭彈：&lt;/b&gt;&#10;&#10;等離子火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：115 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;等離子火箭彈：&lt;/b&gt;&#10;&#10;等離子火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：115 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.fusion.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;核融火箭彈：&lt;/b&gt;&#10;&#10;核融火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效地殺傷多名聚集的敵人。&#10;&#10;傷害類型：170 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;核融火箭彈：&lt;/b&gt;&#10;&#10;核融火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：170 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row>
  <Row ss:Height="99">
   <Cell><Data ss:Type="String">weapon.rocket.stun.desc</Data></Cell>
