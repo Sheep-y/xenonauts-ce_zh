@@ -5,7 +5,7 @@
 html, body { margin: 0; min-height: 100vh; padding: 0; width: 100%; }
 
 nav { background-color: #CCC; min-height: 100%; padding: 1ex 1em; position: fixed; width: 160px; }
-main { padding: 1ex 1em 1ex 160px; max-width: 960px; font-size: 110%; }
+main { padding: 1ex 1em 1ex 180px; max-width: 960px; font-size: 110%; }
 h1, h2, p { margin: 1.5ex 0; }
 
 a { text-decoration: none; }
@@ -13,6 +13,12 @@ a:hover { text-decoration: underline; }
 h1, h2 { display: inline-block; }
 img { max-width: 600px; }
 dt { margin-top: 1em; }
+
+@media( max-width: 799px ) {
+   nav { display: none; }
+   main { padding-left: 1em; }
+   img { max-width: calc( 100vw - 2em ); }
+}
    </style>
 </head><body>
 
@@ -41,7 +47,7 @@ dt { margin-top: 1em; }
       <section><details id="zh" open="open">
          <summary><h2>1. 安裝漢化包</h2></summary>
 
-         <p>以下步驟假設你已經成功安裝遊戲。由於模組字體等資源，需要手動覆蓋。</p>
+         <p>以下步驟假設你已經成功安裝遊戲，並已下載及解壓漢化包。由於模組字體等資源，需要手動覆蓋。</p>
 
          <p><img src='steps/74.jpg' alt='請確保啟動器已經關掉。打開覆蓋檔案包，將裡面的所有東西拖放到遊戲目錄覆蓋遊戲的檔案。'/><?coco-datauri "steps/74.jpg" position( src of img before this ) ?></p>
 
@@ -58,8 +64,8 @@ dt { margin-top: 1em; }
       <section><details id="remarks">
          <summary><h2>2. 漢化包注意事項</h2></summary>
 
-         <p>漢化模組主要在社群版（Community Edition）上測試，而非純正的遊戲原版。社群版連漢化的安裝請看懶人安裝包。模組管理器不支援中文，只能用中文的<a href="https://zh.wikipedia.org/wiki/ISO_639-1">國際代號</a> "ZH" 作記認。</p>
-         
+         <p>漢化模組主要在社群版（Community Edition）上測試，而非純正的遊戲原版。模組管理器不支援中文，只能用中文的<a href="https://zh.wikipedia.org/wiki/ISO_639-1">國際代號</a> "ZH" 作記認。</p>
+
          <p>遊戲<a href="http://www.goldhawkinteractive.com/forums/index.php?/topic/13532-xce-0342-mod-cant-override-font-splashscreen-and-launcher/&amp;do=findComment&amp;comment=157621">不支援中文路徑</a>。安裝漢化模組前請確認路徑沒有中文。</p>
 
          <p>在 Steam 的內容頁中檢查遊戲檔案也會導致字型等資源恢復成英文版，需重新覆蓋。</p>
@@ -170,7 +176,7 @@ Array.prototype.forEach.call( document.querySelectorAll( 'main img' ), ( img ) =
    img.remove();
    a.appendChild( img );
 } );
-   
+
 // Expand sections on click
 Array.prototype.forEach.call( document.querySelectorAll( 'nav a' ), ( a ) => {
    a.addEventListener( 'click', ( evt ) => {
