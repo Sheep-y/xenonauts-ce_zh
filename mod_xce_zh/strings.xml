@@ -692,79 +692,79 @@
   <Cell><Data ss:Type="String">已有同名基地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.PersonnelCapUsed</Data></Cell>
-  <Cell><Data ss:Type="String">已佔居住配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已佔居住配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.ResearchCapUsed</Data></Cell>
-  <Cell><Data ss:Type="String">已佔研發配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已佔研發配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.WorkshopCapUsed</Data></Cell>
-  <Cell><Data ss:Type="String">已佔生產配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已佔生產配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.HangarCapUsed</Data></Cell>
-  <Cell><Data ss:Type="String">已佔機庫配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已佔機庫配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.GarageCapUsed</Data></Cell>
-  <Cell><Data ss:Type="String">已佔車庫配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已佔車庫配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.HospitalCapUsed</Data></Cell>
-  <Cell><Data ss:Type="String">已佔醫護床位：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;已佔醫護床位：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Soldiers</Data></Cell>
-  <Cell><Data ss:Type="String">士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Scientists</Data></Cell>
-  <Cell><Data ss:Type="String">科學家</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Engineers</Data></Cell>
-  <Cell><Data ss:Type="String">工程師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.DetectRange</Data></Cell>
-  <Cell><Data ss:Type="String">偵察半徑</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;偵察半徑</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.DefenseStrength</Data></Cell>
-  <Cell><Data ss:Type="String">防禦武力</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;防禦武力</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.MonthlyMaintenance</Data></Cell>
-  <Cell><Data ss:Type="String">維護費／月</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;維護費</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Structures</Data></Cell>
-  <Cell><Data ss:Type="String">- 設施</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;- 設施</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Personnel</Data></Cell>
-  <Cell><Data ss:Type="String">- 人員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;- 人員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Soldiers</Data></Cell>
-  <Cell><Data ss:Type="String">  - 士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Scientists</Data></Cell>
-  <Cell><Data ss:Type="String">  - 科學家</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Engineers</Data></Cell>
-  <Cell><Data ss:Type="String">  - 工程師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Vehicles</Data></Cell>
-  <Cell><Data ss:Type="String">- 戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;- 戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Hunter</Data></Cell>
-  <Cell><Data ss:Type="String">  - 獵手</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 獵手</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Scimitar</Data></Cell>
-  <Cell><Data ss:Type="String">  - 彎刀</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 彎刀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Hyperion</Data></Cell>
-  <Cell><Data ss:Type="String">  - 太陽神</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 太陽神</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Aircrafts</Data></Cell>
-  <Cell><Data ss:Type="String">- 航機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;- 航機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Interceptors</Data></Cell>
-  <Cell><Data ss:Type="String">  - 戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Wages.Dropships</Data></Cell>
-  <Cell><Data ss:Type="String">  - 運輸機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;  - 運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.MonthlyCost</Data></Cell>
-  <Cell><Data ss:Type="String">每月共需</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;每月共需</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BaseView.Rotate</Data></Cell>
   <Cell><Data ss:Type="String">旋轉</Data></Cell>
@@ -905,22 +905,22 @@
   <Cell><Data ss:Type="String">布宜諾斯艾利斯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingComplete</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%2%&lt;/font&gt;的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;已建造完成。&lt;br /&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;&lt;font color='FAA902'&gt;%2%&lt;/font&gt;的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;建造完成。&lt;br /&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltip</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10;維護費：%2%&#10;拆卸進賬：%3%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;%1%&#10;維護費：%2%&#10;拆卸進賬：%3%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltipNoRefund</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10;維護費：%2%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;%1%&#10;維護費：%2%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltipSpace</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10;已用配額：%2%/%3%&#10;維護費：%4%&#10;拆卸進賬：%5%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;%1%&#10;已用配額：%2%/%3%&#10;維護費：%4%&#10;拆卸進賬：%5%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltipUC</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10;距離完工：%2% 日&#10;維護費：%3%&#10;拆卸進賬：%4%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;%1%&#10;距離完工：%2% 日&#10;維護費：%3%&#10;拆卸進賬：%4%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">button</Data></Cell>
-  <Cell><Data ss:Type="String">button</Data></Cell>
+  <Cell><Data ss:Type="String">按鍵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuyPlane</Data></Cell>
   <Cell><Data ss:Type="String">訂購新航機</Data></Cell>
@@ -938,7 +938,7 @@
   <Cell><Data ss:Type="String">維護費</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BV.TOTAL</Data></Cell>
-  <Cell><Data ss:Type="String">Total</Data></Cell>
+  <Cell><Data ss:Type="String">總額</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">CA</Data></Cell>
   <Cell><Data ss:Type="String">中美洲</Data></Cell>
@@ -956,10 +956,10 @@
   <Cell><Data ss:Type="String">這設施不能拆卸。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantproduce</Data></Cell>
-  <Cell><Data ss:Type="String">暫停製作%1%，因為缺錢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;現金不足，暫停製作%1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantproducematerial</Data></Cell>
-  <Cell><Data ss:Type="String">%2%暫停製作%1%，因為%3%不足。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;%2%的%3%不足，暫停製作%1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantstartproduce</Data></Cell>
   <Cell><Data ss:Type="String">原料不足，無法開始製作。&lt;br/&gt;需要%1%。</Data></Cell>
@@ -1214,7 +1214,7 @@
   <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻擊告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異種航員事敗表示不滿。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.transportarrived</Data></Cell>
-  <Cell><Data ss:Type="String">物資抵達%1%基地。</Data></Cell>
+  <Cell><Data ss:Type="String">物資運抵%1%基地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.Begin</Data></Cell>
   <Cell><Data ss:Type="String">開始遊戲</Data></Cell>
@@ -1343,151 +1343,151 @@
   <Cell><Data ss:Type="String">歐洲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近有異型活動。當地部隊報告 %3% 死 %4% 被虜。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%附近有異型活動。當地部隊報告 %3% 死 %4% 被虜。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近目擊到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%附近目擊到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">民用雷達在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;民用雷達在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">軍方巡邏機發現幽浮。當地部隊等待異種航員出動。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;軍方巡邏機發現幽浮。當地部隊等待異種航員出動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">廣泛地區受到電磁干擾，原因不明。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;廣泛地區受到電磁干擾，原因不明。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">地區通訊受到不明原因的重大干擾。政府認為可能涉及異型活動。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;地區通訊受到不明原因的重大干擾。政府認為可能涉及異型活動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land7</Data></Cell>
-  <Cell><Data ss:Type="String">當地農夫回報多個農場怪圓。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;當地農夫回報多個農場怪圓。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land8</Data></Cell>
-  <Cell><Data ss:Type="String">當地政府回報多起不明山火。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;當地政府回報多起不明山火。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">發現無人的%1%，有明顯的能量放射痕跡。%2%名乘員估計被虜。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;發現無人的%1%，有明顯的能量放射痕跡。%2%名乘員估計被虜。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">漁民目擊幽浮。當地居民擔心人身安危。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;漁民目擊幽浮。當地居民擔心人身安危。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">商船目擊神秘光點，船員不願出航。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;商船目擊神秘光點，船員不願出航。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea4</Data></Cell>
-  <Cell><Data ss:Type="String">潮汐反常，原因不明。海洋學家苦無頭緒。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;潮汐反常，原因不明。海洋學家苦無頭緒。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea5</Data></Cell>
-  <Cell><Data ss:Type="String">晴空中無故形成五級颶風。氣像學家茫無頭緒，估計涉及異型活動。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;晴空中無故形成五級颶風。氣像學家茫無頭緒，估計涉及異型活動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea6</Data></Cell>
-  <Cell><Data ss:Type="String">漁民發現死亡海域，有數以千計的海洋生物死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;漁民發現死亡海域，有數以千計的海洋生物死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">空軍戰機小隊被幽浮擊墜，%3% 名機師陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;空軍戰機小隊被幽浮擊墜，%3% 名機師陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">軍用運輸機被幽浮擊墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;軍用運輸機被幽浮擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">海軍巡邏機被幽浮擊墜，%3% 名機組人員據報失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海軍巡邏機被幽浮擊墜，%3% 名機組人員據報失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">海岸防衛隊的直昇機被幽浮擊墜，%3% 名機組人員陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海岸防衛隊的直昇機被幽浮擊墜，%3% 名機組人員陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%2%政府報告%1%附近的%4%電廠被毀，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2%政府報告%1%附近的%4%電廠被毀，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近有煉油廠受到幽浮轟炸，多起二次火災和爆炸。估計 %3% 死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%附近有煉油廠受到幽浮轟炸，多起二次火災和爆炸。估計 %3% 死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%的主要橋樑被幽浮炸斷，%3% 死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%的主要橋樑被幽浮炸斷，%3% 死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">鐵路樞紐受到幽浮轟炸，多列客車被毀。估算 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;鐵路樞紐受到幽浮轟炸，多列客車被毀。估算 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2%附近的天然氣井受到幽浮轟炸。估算 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2%附近的天然氣井受到幽浮轟炸。估算 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的醫院被幽浮炸毀，據報 %3% 死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的醫院被幽浮炸毀，據報 %3% 死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land7</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的發電水壩被幽浮炸穿，做成廣泛洪水。估算 %3% 人死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的發電水壩被幽浮炸穿，做成廣泛洪水。估算 %3% 人死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land8</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的警察總部受到幽浮轟炸，%3% 死。當地警方陷入混亂。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的警察總部受到幽浮轟炸，%3% 死。當地警方陷入混亂。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">商船 SS %2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;商船 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">客船 SS %2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;客船 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">遊輪 SS %2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;遊輪 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea4</Data></Cell>
-  <Cell><Data ss:Type="String">油輪 SS %2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;油輪 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea5</Data></Cell>
-  <Cell><Data ss:Type="String">海上油井 %2% 被幽浮炸毀，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海上油井 %2% 被幽浮炸毀，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">高速公路受到幽浮炮擊，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;高速公路受到幽浮炮擊，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">住宅區受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;住宅區受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">機場受到幽浮炮擊，估計 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;機場受到幽浮炮擊，估計 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">商場受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;商場受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">列車因受到幽浮炮擊而出軌，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;列車因受到幽浮炮擊而出軌，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">公園受到幽浮炮擊，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;公園受到幽浮炮擊，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">捕漁船隊受到幽浮攻擊，%1% 隻拖船沉沒，%2% 名船員死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;捕漁船隊受到幽浮攻擊，%1% 隻拖船沉沒，%2% 名船員死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">海上油井 %3% 受到幽浮炮擊，嚴重受損，%2% 名工人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海上油井 %3% 受到幽浮炮擊，嚴重受損，%2% 名工人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">軍機 %3% 被幽浮攻擊，%2% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;軍機 %3% 被幽浮攻擊，%2% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的軍事基地受到轟炸，損失 %4% 輛裝甲車及 %3% 名軍人。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的軍事基地受到轟炸，損失 %4% 輛裝甲車及 %3% 名軍人。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的雷達站被炸毀，%3% 名軍人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的雷達站被炸毀，%3% 名軍人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的軍火庫受到幽浮轟炸，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的軍火庫受到幽浮轟炸，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的軍事中心被幽浮炸毀，%3% 名軍人陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的軍事中心被幽浮炸毀，%3% 名軍人陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的空軍基地受到幽浮轟炸，損失 %4% 架飛機及 %3% 人。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的空軍基地受到幽浮轟炸，損失 %4% 架飛機及 %3% 人。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">戰艦 %1% 在滿員狀態下被幽浮炸沉，%2% 名軍人陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;戰艦 %1% 在滿員狀態下被幽浮炸沉，%2% 名軍人陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">航母 %1% 及其護衛艦受到幽浮轟炸，%2% 名軍人陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;航母 %1% 及其護衛艦受到幽浮轟炸，%2% 名軍人陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land1</Data></Cell>
   <Cell><Data ss:Type="String">%1%.%2%：虜拐事件</Data></Cell>
@@ -1637,7 +1637,7 @@
   <Cell><Data ss:Type="String">%1%.%2%：航母群被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Timestamp</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2% (X:%3% Y:%4%):</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1%.%2%&lt;font size='12'&gt; (X:%3% Y:%4%):</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Exit</Data></Cell>
   <Cell><Data ss:Type="String">離開遊戲</Data></Cell>
@@ -1788,7 +1788,7 @@
   <Cell><Data ss:Type="String">享受和平的一日</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Garage</Data></Cell>
-  <Cell><Data ss:Type="String">車庫</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;車庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">gas</Data></Cell>
   <Cell><Data ss:Type="String">天然氣</Data></Cell>
@@ -1953,28 +1953,28 @@
   <Cell><Data ss:Type="String">%1%有 %2% 個傷口流血不止&#10;並因此受 %3% 點 HP 傷害，&#10;下回合將增至 %4% 點 HP 傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.Flee</Data></Cell>
-  <Cell><Data ss:Type="String">%1%崩潰，開始逃跑。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 崩潰，開始逃跑。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.Panic</Data></Cell>
-  <Cell><Data ss:Type="String">%1%陷入恐慌。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 陷入恐慌。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PsionicAttackMsg.Dread</Data></Cell>
-  <Cell><Data ss:Type="String">%1%被嚇得不敢動。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 被嚇得不敢動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PsionicAttackMsg.Fear</Data></Cell>
-  <Cell><Data ss:Type="String">%1%感到灰心喪志。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 感到灰心喪志。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PsionicAttackMsg.LocateEnemies</Data></Cell>
-  <Cell><Data ss:Type="String">%1%被異型感測到位置。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 被異型感測到位置。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PsionicAttackMsg.MindControl</Data></Cell>
-  <Cell><Data ss:Type="String">%1%正被異型操控。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 正被異型操控。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PsionicAttackMsg.Paralyse</Data></Cell>
-  <Cell><Data ss:Type="String">%1%被麻痺。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 被麻痺。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PsionicAttackMsg.Bezerk</Data></Cell>
-  <Cell><Data ss:Type="String">%1%思覺失調。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 思覺失調。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.ReactionFire</Data></Cell>
   <Cell><Data ss:Type="String">反應射擊</Data></Cell>
@@ -2238,7 +2238,7 @@
   <Cell><Data ss:Type="String">異族百科</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Hangar</Data></Cell>
-  <Cell><Data ss:Type="String">機庫</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;機庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Harare</Data></Cell>
   <Cell><Data ss:Type="String">哈拉雷</Data></Cell>
@@ -2739,13 +2739,13 @@
   <Cell><Data ss:Type="String">上月資助：&lt;br/&gt;本月維護費：&lt;br/&gt;預期增減：&lt;br/&gt;總死亡人數：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Laboratory</Data></Cell>
-  <Cell><Data ss:Type="String">實驗室</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Lagos</Data></Cell>
   <Cell><Data ss:Type="String">拉哥斯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LaserTurret</Data></Cell>
-  <Cell><Data ss:Type="String">激光電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;激光炮陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LASTLOC</Data></Cell>
   <Cell><Data ss:Type="String">前往失去蹤影前的位置</Data></Cell>
@@ -2766,7 +2766,7 @@
   <Cell><Data ss:Type="String">利馬</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LivingQuarters</Data></Cell>
-  <Cell><Data ss:Type="String">起居室</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;起居室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LoadGame</Data></Cell>
   <Cell><Data ss:Type="String">載入遊戲</Data></Cell>
@@ -2799,7 +2799,7 @@
   <Cell><Data ss:Type="String">馬德里</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MAGTurret</Data></Cell>
-  <Cell><Data ss:Type="String">電磁炮陣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;電磁炮陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Mali</Data></Cell>
   <Cell><Data ss:Type="String">馬里</Data></Cell>
@@ -3069,7 +3069,7 @@
   <Cell><Data ss:Type="String">中東</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MedicalCenter</Data></Cell>
-  <Cell><Data ss:Type="String">醫護所</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;醫護所</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Melbourne</Data></Cell>
   <Cell><Data ss:Type="String">墨爾本</Data></Cell>
@@ -3090,7 +3090,7 @@
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳在一場行動內解決五名異型單位。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MissileTurret</Data></Cell>
-  <Cell><Data ss:Type="String">飛彈陣地</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;飛彈陣地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">MonthShort.January</Data></Cell>
   <Cell><Data ss:Type="String">一月</Data></Cell>
@@ -3147,7 +3147,7 @@
   <Cell><Data ss:Type="String">納米比亞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NanotechWorkshop</Data></Cell>
-  <Cell><Data ss:Type="String">納米技術工房</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;納米技術工房</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Nav.BuildBase</Data></Cell>
   <Cell><Data ss:Type="String">興建新基地</Data></Cell>
@@ -3198,22 +3198,22 @@
   <Cell><Data ss:Type="String">資金不足。需要 %1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.NoLongerGrounded</Data></Cell>
-  <Cell><Data ss:Type="String">%1%已然修復到可以起飛。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 已然修復到可以起飛。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.RearmedRefuelledReady</Data></Cell>
-  <Cell><Data ss:Type="String">%1%裝彈及加油完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 裝彈及加油完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.Repaired</Data></Cell>
-  <Cell><Data ss:Type="String">%1%修理完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 修理完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.RearmedRefuelled</Data></Cell>
-  <Cell><Data ss:Type="String">%1%裝彈及加油完畢，修理中。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 裝彈及加油完畢，修理中。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.Rearmed</Data></Cell>
-  <Cell><Data ss:Type="String">%1%裝彈完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 裝彈完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.Refuelled</Data></Cell>
-  <Cell><Data ss:Type="String">%1%加油完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 加油完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">November</Data></Cell>
   <Cell><Data ss:Type="String">十一月</Data></Cell>
@@ -3321,10 +3321,10 @@
   <Cell><Data ss:Type="String">射擊指令可以用保留的 TU？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OptionsDialog.ShowStatsIncrements</Data></Cell>
-  <Cell><Data ss:Type="String">在戰鬥結束畫面用增加的差額(+1, +2, ..)顯示能力值成長</Data></Cell>
+  <Cell><Data ss:Type="String">戰鬥結束後用成長額(+1, +2, ..)顯示能力值成長</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ORDERARRIVED</Data></Cell>
-  <Cell><Data ss:Type="String">以下物品已抵達&lt;font color='FAA902'&gt;%1%&lt;/font&gt;:</Data></Cell>
+  <Cell><Data ss:Type="String">以下資源已抵達&lt;font color='FAA902'&gt;%1%&lt;/font&gt;:</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OrderOfGallantry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;義勇衛士勳章：&lt;/b&gt; &lt;i&gt;（+1 勇氣）&lt;/i&gt;&lt;br/&gt;&lt;/font&gt;</Data></Cell>
@@ -3348,7 +3348,7 @@
   <Cell><Data ss:Type="String">巴布亞新幾內亞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ParticleTurret</Data></Cell>
-  <Cell><Data ss:Type="String">粒子炮陣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;粒子炮陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PATROL</Data></Cell>
   <Cell><Data ss:Type="String">巡邏</Data></Cell>
@@ -3492,7 +3492,7 @@
   <Cell><Data ss:Type="String">秘魯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PlasmaTurret</Data></Cell>
-  <Cell><Data ss:Type="String">等離子炮陣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;等離子炮陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Population</Data></Cell>
   <Cell><Data ss:Type="String">人口</Data></Cell>
@@ -3546,10 +3546,10 @@
   <Cell><Data ss:Type="String">緩慢</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">QuantumCryptologyCenter</Data></Cell>
-  <Cell><Data ss:Type="String">量子解碼中心</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;量子解碼中心</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">QuantumLaboratory</Data></Cell>
-  <Cell><Data ss:Type="String">量子實驗室</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;量子實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">QuitGame</Data></Cell>
   <Cell><Data ss:Type="String">離開遊戲</Data></Cell>
@@ -3558,7 +3558,7 @@
   <Cell><Data ss:Type="String">基多</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Radar</Data></Cell>
-  <Cell><Data ss:Type="String">雷達陣列</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;雷達陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">rank.captain</Data></Cell>
   <Cell><Data ss:Type="String">上尉</Data></Cell>
@@ -4557,7 +4557,7 @@
   <Cell><Data ss:Type="String">數量</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">STOR.SELL</Data></Cell>
-  <Cell><Data ss:Type="String">賣出</Data></Cell>
+  <Cell><Data ss:Type="String">售賣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">STOR.TRANSFER</Data></Cell>
   <Cell><Data ss:Type="String">轉運</Data></Cell>
@@ -4575,7 +4575,7 @@
   <Cell><Data ss:Type="String">倉庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Storeroom</Data></Cell>
-  <Cell><Data ss:Type="String">倉庫</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;倉庫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.TotalSale</Data></Cell>
   <Cell><Data ss:Type="String">總進賬：</Data></Cell>
@@ -5110,7 +5110,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;機槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.machinegun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;傳統機槍：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：30 動能&#10;壓制：120 連發&#10;穿甲力：5&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;機槍：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：30 動能&#10;壓制：120 連發&#10;穿甲力：5&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGcarbine</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;電磁霰彈槍</Data></Cell>
@@ -5137,7 +5137,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;手槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.pistol.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;傳統手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：30 動能&#10;壓制：20 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：30 動能&#10;壓制：20 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmacarbine</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;等離子霰彈槍</Data></Cell>
@@ -5176,7 +5176,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.rifle.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;傳統步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：30 動能&#10;壓制：20 單發 / 60 連發&#10;穿甲力：0&#10;裝彈量：20 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU  130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：30 動能&#10;壓制：20 單發 / 60 連發&#10;穿甲力：0&#10;裝彈量：20 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU  130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.alenium</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;異能晶火箭彈</Data></Cell>
@@ -5227,7 +5227,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.sniper.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;傳統狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：35 動能&#10;壓制：25 點&#10;穿甲力：10&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：35 動能&#10;壓制：25 點&#10;穿甲力：10&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weaponcooldown.ready</Data></Cell>
   <Cell><Data ss:Type="String">（就緒）</Data></Cell>
@@ -5245,7 +5245,7 @@
   <Cell><Data ss:Type="String">異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Workshop</Data></Cell>
-  <Cell><Data ss:Type="String">工房</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;工房</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">製作管理介面</Data></Cell>
@@ -6223,19 +6223,19 @@
   <Cell><Data ss:Type="String">接收物資</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ItemsArrived.Airplanes</Data></Cell>
-  <Cell><Data ss:Type="String">航機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;航機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ItemsArrived.Scientists</Data></Cell>
-  <Cell><Data ss:Type="String">科學家</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ItemsArrived.Soldiers</Data></Cell>
-  <Cell><Data ss:Type="String">士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ItemsArrived.Technicians</Data></Cell>
-  <Cell><Data ss:Type="String">工程師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ItemsArrived.Vehicles</Data></Cell>
-  <Cell><Data ss:Type="String">戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Alienbase.Small.Caesan</Data></Cell>
   <Cell><Data ss:Type="String">異型前哨基地</Data></Cell>
@@ -6304,13 +6304,13 @@
   <Cell><Data ss:Type="String">X</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NewGameSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">      &lt;font size='20'&gt;開展新的行動</Data></Cell>
+  <Cell><Data ss:Type="String">       &lt;font size='20'&gt;開展新的行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LoadGameSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">        &lt;font size='20'&gt;繼續現有行動</Data></Cell>
+  <Cell><Data ss:Type="String">          &lt;font size='20'&gt;繼續現有行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">OptionsSubtitle</Data></Cell>
-  <Cell><Data ss:Type="String">          &lt;font size='20'&gt;自訂司令介面</Data></Cell>
+  <Cell><Data ss:Type="String">            &lt;font size='20'&gt;自訂司令介面</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DestinationReached</Data></Cell>
   <Cell><Data ss:Type="String">抵達目的地。</Data></Cell>
@@ -6585,15 +6585,15 @@
  </Row>
  <Row ss:Height="33">
   <Cell><Data ss:Type="String">BuildingTooltipLivingSpace</Data></Cell>
-  <Cell><Data ss:Type="String">提供 %1% 名居住配額&#10;共有居住配額：%2%/%3%</Data></Cell>
+  <Cell><Data ss:Type="String">提供 %1% 名居住配額&#10;總居住配額：%2%/%3%</Data></Cell>
  </Row>
  <Row ss:Height="33">
   <Cell><Data ss:Type="String">BuildingTooltipResearchSpace</Data></Cell>
-  <Cell><Data ss:Type="String">提供 %1% 名研發配額&#10;共有研發配額：%2%/%3%</Data></Cell>
+  <Cell><Data ss:Type="String">提供 %1% 名研發配額&#10;總研發配額：%2%/%3%</Data></Cell>
  </Row>
  <Row ss:Height="33">
   <Cell><Data ss:Type="String">BuildingTooltipWorkshopSpace</Data></Cell>
-  <Cell><Data ss:Type="String">提供 %1% 名生產配&#10;共有生產配額：%2%/%3%</Data></Cell>
+  <Cell><Data ss:Type="String">提供 %1% 名生產配額&#10;總生產配額：%2%/%3%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AlienBase.Small</Data></Cell>
   <Cell><Data ss:Type="String">異型前哨基地</Data></Cell>
