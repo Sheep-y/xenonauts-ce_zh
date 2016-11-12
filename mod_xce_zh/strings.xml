@@ -77,7 +77,7 @@
   <Cell><Data ss:Type="String">- 按空白鍵繼續 -</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.PLAYERSTAT</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%%%&#10; 耐久：%3%%%&#10; 速度：%4% 公里/小時</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%&#10; 燃料：%2%%%&#10; 耐久：%3%%%&#10; 速度：%4% 公里/小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.PROJECTILESTAT</Data></Cell>
   <Cell><Data ss:Type="String">%1%&#10; 燃料：%2%</Data></Cell>
@@ -95,7 +95,7 @@
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下達新指令。&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT</Data></Cell>
-  <Cell><Data ss:Type="String">%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT_SHORT</Data></Cell>
   <Cell><Data ss:Type="String">%1%</Data></Cell>
@@ -905,7 +905,7 @@
   <Cell><Data ss:Type="String">布宜諾斯艾利斯</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingComplete</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20'&gt;&lt;font color='FAA902'&gt;%2%&lt;/font&gt;的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;建造完成。&lt;br /&gt;</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FAA902'&gt;%2%&lt;/font&gt;的&lt;font color='FAA902'&gt;%1%&lt;/font&gt;建造完成。&lt;br /&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingTooltip</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;%1%&#10;維護費：%2%&#10;拆卸進賬：%3%</Data></Cell>
@@ -956,13 +956,13 @@
   <Cell><Data ss:Type="String">這設施不能拆卸。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantproduce</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20'&gt;現金不足，暫停製作%1%。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;資金不足，暫停製作%1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantproducematerial</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20'&gt;%2%的%3%不足，暫停製作%1%。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;%2%的%3%不足，暫停製作%1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">cantstartproduce</Data></Cell>
-  <Cell><Data ss:Type="String">原料不足，無法開始製作。&lt;br/&gt;需要%1%。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;材料不足，無法開始製作。&lt;br/&gt;需要%1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Cape Town</Data></Cell>
   <Cell><Data ss:Type="String">開普敦</Data></Cell>
@@ -1163,25 +1163,25 @@
   <Cell><Data ss:Type="String">神秘地點</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DECAB</Data></Cell>
-  <Cell><Data ss:Type="String">航機還在空中飛，不能除役！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;航機還在空中飛，不能除役！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">December</Data></Cell>
   <Cell><Data ss:Type="String">十二月</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DecommissionVehicleConf</Data></Cell>
-  <Cell><Data ss:Type="String">除役%1%？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;除役%1%？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DeficitWarning</Data></Cell>
-  <Cell><Data ss:Type="String">付不起維護費和糧餉！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;付不起維護費和糧餉！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Delhi</Data></Cell>
   <Cell><Data ss:Type="String">德里</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DeleteBaseConf</Data></Cell>
-  <Cell><Data ss:Type="String">拆毀這基地？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;拆毀這基地？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DeleteBuildingConf</Data></Cell>
-  <Cell><Data ss:Type="String">拆毀這棟設施？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;拆毀這設施？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Dhaka</Data></Cell>
   <Cell><Data ss:Type="String">達卡</Data></Cell>
@@ -1193,10 +1193,10 @@
   <Cell><Data ss:Type="String">偵察到%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.goalreached</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;抵達目的地，開始巡邏。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;抵達目的地，開始巡邏。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.lowfuel</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;燃料不足，開始返航。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;燃料不足，開始返航。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.moremessages</Data></Cell>
   <Cell><Data ss:Type="String">還有%1%項……</Data></Cell>
@@ -1214,7 +1214,7 @@
   <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;的恐襲以核彈攻擊告終，&lt;br /&gt;%2% 死 %3% 失蹤。&lt;br /&gt;&lt;br /&gt;當地官員對異種航員事敗表示不滿。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">dialogs.transportarrived</Data></Cell>
-  <Cell><Data ss:Type="String">物資運抵%1%基地。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;物資運抵%1%基地。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.Begin</Data></Cell>
   <Cell><Data ss:Type="String">開始遊戲</Data></Cell>
@@ -1262,16 +1262,16 @@
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;表勳累積三十次帶英勇表現的作戰。&lt;/font&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.NoSurvivors</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。沒找到生還者。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。沒找到生還者。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.OverEnemy</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;在敵國上空被擊墜。以下士兵逃過了追補：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;在敵國上空被擊墜。以下士兵逃過了追補：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.OverFriendly</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。當地部隊救出以下倖存者：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。當地部隊救出以下倖存者：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DSCRASH.OverSea</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。當地海軍救出以下倖存者：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;被擊墜。當地海軍救出以下倖存者：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Dubai</Data></Cell>
   <Cell><Data ss:Type="String">杜拜</Data></Cell>
@@ -1322,10 +1322,10 @@
   <Cell><Data ss:Type="String">尾隨目標直到回岸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ENGAGE.TEXT</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;靠近到作戰距離，準備接戰&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;靠近到作戰距離，準備接戰&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ENGAGE.TEXT.AIRSUPERIORITY</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;被攔截，需與&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;交戰。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;被攔截，需與&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;交戰。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ENGAGE.TITLE</Data></Cell>
   <Cell><Data ss:Type="String">%1%被攔截</Data></Cell>
@@ -1664,7 +1664,7 @@
   <Cell><Data ss:Type="String">阿富汗</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.AirCombat</Data></Cell>
-  <Cell><Data ss:Type="String">您可以略過空戰，也可以親自指揮空戰，視乎你的個人喜好。現在這是指揮模式。&lt;br&gt;&lt;br&gt;您隨時可以按空白鍵以暫停或繼續作戰。每名單位都獨立運作，有各自的武器射界。飛彈必需完成鎖定及目標進入射程後才可以發射。&lt;br&gt;&lt;br&gt;雙方各有最多三名單位。選擇自己的單位後，左按以指定航向目標，速度則在右方的資訊欄設定。某些戰鬥機和幽浮能進行迴避滾轉，預設Q鍵左滾、E鍵右滾，也可以按資訊欄裡的迴避鍵。&lt;br&gt;&lt;br&gt;如有戰鬥機被擊墜，它會被回收然後修復，但這會頗為需時。所以如果戰鬥機受損嚴重，請用資訊欄裡的撤退鍵命令它轉進。</Data></Cell>
+  <Cell><Data ss:Type="String">您可以略過空戰，也可以親自指揮空戰，視乎你的個人喜好。現在這是指揮模式。&lt;br&gt;&lt;br&gt;您隨時可以按空白鍵以暫停或繼續作戰。每名單位都獨立運作，有各自的武器射界。飛彈必需完成鎖定及目標進入射程後才可以發射。&lt;br&gt;&lt;br&gt;雙方各有最多三名單位。選擇自己的單位後，左按以指定航向目標，速度則在右方的資訊欄設定。某些戰鬥機和幽浮能進行迴避滾轉，預設Q鍵左滾、E鍵右滾，也可以按資訊欄裡的迴避鍵。&lt;br&gt;&lt;br&gt;如有戰鬥機被擊墜，它會被搜救然後修復，但這會頗為需時。所以如果戰鬥機受損嚴重，請用資訊欄裡的撤退鍵命令它轉進。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.AirCombat.Title</Data></Cell>
   <Cell><Data ss:Type="String">空戰解說</Data></Cell>
@@ -1983,7 +1983,7 @@
   <Cell><Data ss:Type="String">終止進行中的移動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCBeginConfirm</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font color='FAA902'&gt;%1%&lt;/font&gt;已抵達&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。開始行動？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;&lt;font color='FAA902'&gt;%1%&lt;/font&gt;已抵達&lt;font color='FAA902'&gt;%2%&lt;/font&gt;。開始行動？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCCameraDown</Data></Cell>
   <Cell><Data ss:Type="String">視點往下降一層</Data></Cell>
@@ -3048,7 +3048,7 @@
   <Cell><Data ss:Type="String">外太空</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.SoldierWeapons</Data></Cell>
-  <Cell><Data ss:Type="String">士兵武器</Data></Cell>
+  <Cell><Data ss:Type="String">單兵武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.Vehicles</Data></Cell>
   <Cell><Data ss:Type="String">戰車</Data></Cell>
@@ -3174,10 +3174,10 @@
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;不足，無法給&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;補充彈藥。&lt;br/&gt;當&lt;font color='FBBD03'&gt;%3%&lt;/font&gt;基地獲得%1%的時候會繼續裝彈作業。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoFreeGarage</Data></Cell>
-  <Cell><Data ss:Type="String">需要空置的車庫。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;需要空置的車庫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoFreeHangar</Data></Cell>
-  <Cell><Data ss:Type="String">需要空置的機庫。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;需要空置的機庫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoGeneralStore</Data></Cell>
   <Cell><Data ss:Type="String">（沒有倉庫）</Data></Cell>
@@ -3186,7 +3186,7 @@
   <Cell><Data ss:Type="String">無</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoRequirements</Data></Cell>
-  <Cell><Data ss:Type="String">無特別需求</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;無特別需求</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NotEnoughEquipment</Data></Cell>
   <Cell><Data ss:Type="String">裝備不足。</Data></Cell>
@@ -3195,7 +3195,7 @@
   <Cell><Data ss:Type="String">資金不足。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NotEnoughMoneyForBase</Data></Cell>
-  <Cell><Data ss:Type="String">資金不足。需要 %1%。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;資金不足。需要 %1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.NoLongerGrounded</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 已然修復到可以起飛。</Data></Cell>
@@ -3465,22 +3465,22 @@
   <Cell><Data ss:Type="String">&lt;font size='24'&gt;烈士名冊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.LivSpace</Data></Cell>
-  <Cell><Data ss:Type="String">居住配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;居住配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.HireBtn</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;僱用所選士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Wages</Data></Cell>
-  <Cell><Data ss:Type="String">士兵糧餉：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;士兵糧餉：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.PerMonth</Data></Cell>
-  <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.TotalSoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">士兵數目：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;士兵數目：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hiring_XX_Hours</Data></Cell>
   <Cell><Data ss:Type="String">僱用中，需%1%小時</Data></Cell>
@@ -3744,13 +3744,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這種發光的黃色晶石是幽浮的動力爐的核心。我們相信它蘊藏著巨大的力量。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這種發光的黃色晶石是幽浮的動力爐的核心。我們相信它蘊藏著巨大的力量。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">我們有信心能開發出基於異能晶的強力手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;我們有信心能開發出基於異能晶的新一代強力手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumWarhead</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶彈頭</Data></Cell>
@@ -3759,37 +3759,37 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金鍛造</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyFabricationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">找出塑造先進異型合金的方法，然後就能研發下一代的戰鬥裝備。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;找出塑造先進異型合金的方法，然後就能研發下一代的戰鬥裝備。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型裝甲板</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyHardeningDesc</Data></Cell>
-  <Cell><Data ss:Type="String">主力幽浮所用的裝甲板特別堅固。也許我們能用它開發新的護甲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;主力幽浮所用的裝甲板特別堅固。也許我們能用它開發新的護甲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloysDesc</Data></Cell>
-  <Cell><Data ss:Type="String">異型的幽浮採用了神奇的稀有物料建造，需要花點時間才能辨認它們的特性。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;異型的幽浮採用了神奇的稀有物料建造，需要花點時間才能辨認它們的特性。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反重力儀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGeneratorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這裝置能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這裝置能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBiologyDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析異型的生理，發掘牠們的起源及能如何活抓它們。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析異型的生理，發掘牠們的起源及能如何活抓它們。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的航電</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienElectronicsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">先進的異型電路版。研究一下也許能開發新的戰車和航機。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;先進的異型電路版。研究一下也許能開發新的戰車和航機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型手雷</Data></Cell>
@@ -3798,61 +3798,61 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子重步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHeavyPlasmaRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">短射程的強力異型突擊武器。它的研究可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;短射程的強力異型突擊武器。研究它應該可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型超空間引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHyperdriveDesc</Data></Cell>
-  <Cell><Data ss:Type="String">我們相信這件神秘裝置埋藏著星際航行的秘密。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;我們相信這件神秘裝置埋藏著星際航行的秘密。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;如何審問異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究我們抓得的異型樣本。優先項是找出跟敵人溝通的方法。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究我們抓得的異型樣本。優先項是找出跟敵人溝通的方法。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的侵略</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInvasionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">對異型的侵略艦隊的早期研究，分析其數量及組成。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;對異型的侵略艦隊的早期研究，分析其數量及組成。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問異型領袖</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">審問我們抓到的異型領袖。牠應該能提供異型帝國的資訊，讓我們向勝利邁進一步。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;審問我們抓到的異型領袖。牠應該能提供異型帝國的資訊，讓我們向勝利邁進一步。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問異型士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">審問我們抓到的異型士官。我們想知道異型的目的，令我們能更有方向地阻止侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;審問我們抓到的異型士官。我們想知道異型的目的，令我們能更有方向地阻止侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaCannonDesc</Data></Cell>
-  <Cell><Data ss:Type="String">強力的異型重武器，有機關槍那麼大。它的研究可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力的異型重武器，有機關槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaPistolDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這是件輕型的異型武器，推斷是一種副武器。它的研究可以讓我們知道該如何改善我們的步兵護甲，及推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這是件輕型的異型武器，推斷是一種副武器。研究它可以讓我們知道該如何改善我們的步兵護甲，及推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這是件輕便的雙手異型武器，大小跟步槍差不多。它的研究可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這是件輕便的雙手異型武器，大小跟步槍差不多。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子技術</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnologyDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析各種異型的能量武器如何產生等離子，為我們這一方的能量武器舖路。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析各種異型的能量武器如何產生等離子，為我們這一方的能量武器舖路。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型能源爐</Data></Cell>
@@ -3861,19 +3861,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反應堆</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienReactorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這個能源狀置的輸出比以往的都要高出許多，它的研究也許能成為生產等離子武器的關鍵。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這個能源狀置的輸出比以往的都要高出許多，也許就是製作等離子武器的關鍵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型奇點爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSingularityCoreDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這異型裝置的能量輸出完全超越人類的理解。我們相信這就是異型的終極能量源。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這異型裝置的能量輸出完全超越人類的理解。我們相信這就是異型的終極能量源。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型核融合爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienFusionReactorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這個異型的線圈反應堆能持續產生巨額能量。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這個異型的線圈反應堆能持續產生巨額能量。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人解拆</Data></Cell>
@@ -3882,13 +3882,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;突擊盾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AssaultShieldDesc</Data></Cell>
-  <Cell><Data ss:Type="String">用強化過的異型合金所製作的新型戰鬥盾，能更有效地抵禦異型的等離子武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;用強化過的異型合金所製作的新型戰鬥盾，能更有效地抵禦異型的等離子武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Buzzard</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;狼鷲護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BuzzardDesc</Data></Cell>
-  <Cell><Data ss:Type="String">輕量版的灰狼護甲，強調機動機多於保護力。這套新式護甲會包括垂直移動用的噴射背包。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;輕量版的灰狼護甲，強調機動機多於保護力。這套新式護甲會包括垂直移動用的噴射背包。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人解剖</Data></Cell>
@@ -3897,19 +3897,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所抓到的灰人，找出牠們的弱點。完成後會提升士兵對灰人做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的灰人，找出牠們的弱點。完成後會提升士兵對灰人做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-37 海賊 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;多角度推力矩陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArrayDesc</Data></Cell>
-  <Cell><Data ss:Type="String">可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DisposableHypervelocityRocketLauncher</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;拋棄式特速火箭發射器</Data></Cell>
@@ -3918,19 +3918,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ElectroshockGrenadeDesc</Data></Cell>
-  <Cell><Data ss:Type="String">強力的電擊手雷，能同時電擊敵人的有生戰力及殺傷機械單位。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力的電擊手雷，能同時電擊敵人的有生戰力及殺傷機械單位。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-120 天怒 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發終極的人類戰機，在大氣層內絕不會敗給任何幽浮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發終極的人類戰機，在大氣層內絕不會敗給任何幽浮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究如何用核融合技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究如何用核融合技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融手雷</Data></Cell>
@@ -3945,37 +3945,37 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HarridanVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所抓到的醜魔，找出牠們的弱點。完成後會提升士兵對醜魔做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的醜魔，找出牠們的弱點。完成後會提升士兵對醜魔做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手火箭發射臺</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterMissilesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">為獵手裝甲車開發新的火箭發射臺，破壞力會優於車載機炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;為獵手裝甲車開發新的火箭發射臺，破壞力會優於車載機炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手裝甲車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">適用於地面作戰的偵察戰車，比士兵有更遠視距並裝有車載機炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;適用於地面作戰的偵察戰車，比士兵看得更遠並裝有車載機炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperdriveDisruptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;超空間引擎干擾器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperdriveDisruptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究能阻截超空間跳躍的裝置，防止幽浮跳離或跳入干擾場。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究能阻截超空間跳躍的裝置，防止幽浮跳離或跳入干擾場。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperionTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;太陽神浮空坦克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperionTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">比現有戰車更快更硬的地面戰鬥支援戰車。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;比現有戰車更快更硬的地面戰鬥支援戰車。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Jackal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;改良護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JackalDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究一下能怎樣改良我們的步兵護甲，提升面對異型武器的存活率。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;改良我們的步兵護甲，提升面對異型武器的存活率。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;跳躍裝置</Data></Cell>
@@ -3984,19 +3984,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.LaserWeaponryDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一系列全新的步兵激光武器，以汰換現有的傳統武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一系列全新的步兵激光武器，以汰換現有的傳統武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MAGWeaponryDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發新一代的步兵動能武器，相信會比我們的等離子武器更強。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發新一代的步兵動能武器，相信會比我們的等離子武器更強。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-59 賊王 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">先進的多用途戰鬥機，設計上能取代現有的所有戰機。更快、更堅固，並且能同時攜帶機載炮及兩支飛雷。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;先進的多用途戰鬥機，設計上能取代現有的所有戰機。更快、更堅固，並且能同時攜帶機載炮及兩支飛雷。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Medkit</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醫療包</Data></Cell>
@@ -4005,19 +4005,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;高速攔截機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MIGInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一架能追上幽浮的高速攔截機，能攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一架能追上幽浮的高速攔截機，能攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;終局行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.OperationEndgameDesc</Data></Cell>
-  <Cell><Data ss:Type="String">我們只有一次撤底擊退異型的機會。人類的存亡就全看這項任務。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;我們只有一次機會去撤底擊退異型。人類的生死存亡就全看這項任務。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研究如何用等離子技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究如何用等離子技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子彈頭</Data></Cell>
@@ -4026,7 +4026,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaWeaponryDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一系列的步兵等離子武器，用以汰換早前開發的激光武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一系列的步兵等離子武器，用以汰換早前開發的激光武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;裁判官解剖</Data></Cell>
@@ -4035,37 +4035,37 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問裁判官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PraetorInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">審問我們抓到的裁判官，相信能揭示大量的異型秘密，例如牠們的起源和侵略的真正目的。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;審問我們抓到的裁判官，相信能揭示大量的異型秘密，例如牠們的起源和侵略的真正目的。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Predator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵戶戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PredatorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一套機械化的步兵突擊裝甲，不單有卓越的保護力，而且能不受力量限制地使用重型武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一套機械化的步兵突擊裝甲，不單有卓越的保護力，而且能不受力量限制地使用重型武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedLasers</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型激光武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedLasersDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發大型的改良激光武器，包括步兵和機載的速射激光武器及地基或車載的強力脈衝激光。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發大型的改良激光武器，包括步兵和機載的速射激光武器及地基或車載的強力脈衝激光。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;量子解碼中心</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentreDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發用來解密幽浮通訊的基地設施，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發用來解密幽浮通訊的基地設施，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedMAGs</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型電磁武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedMAGsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發大型的改良電磁武器，包括步兵和機載的速射電磁武器及地基或車載的強力磁軌炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發大型的改良電磁武器，包括步兵和機載的速射電磁武器及地基或車載的強力磁軌炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedPlasmas</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型等離子武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedPlasmasDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發大型的改良等離子武器，包括步兵和機載的速射等離子武器及地基或車載的等離子集束炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發大型的改良等離子武器，包括步兵和機載的速射等離子武器及地基或車載的等離子集束炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲解剖</Data></Cell>
@@ -4074,7 +4074,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所抓到的鐮刀蟲，找出牠們的弱點。完成後會提升士兵對鐮刀蟲做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的鐮刀蟲，找出牠們的弱點。完成後會提升士兵對鐮刀蟲做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SaracenInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-44 大食 戰鬥機</Data></Cell>
@@ -4089,19 +4089,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所抓到的斯巴蜥人，找出牠們的弱點。完成後會提升士兵對斯巴蜥人做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的斯巴蜥人，找出牠們的弱點。完成後會提升士兵對斯巴蜥人做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Sentinel</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;衛士護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SentinelDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropship</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;D-42 伯勞鳥 運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropshipDesc</Data></Cell>
-  <Cell><Data ss:Type="String">研發飛得更快、能運載更多士兵的先進運輸機。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研發飛得更快、能運載更多士兵的先進運輸機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點飛雷</Data></Cell>
@@ -4113,7 +4113,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;非致命武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.StunWeaponsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發能令異型失去作戰能力的非致命性武器， 方便抓活的樣本作進一步研究。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發能令異型失去作戰能力的非致命性武器， 方便抓活的樣本作進一步研究。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
@@ -4122,13 +4122,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;D-54 女武神 空降艇</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ValkyrieDropshipDesc</Data></Cell>
-  <Cell><Data ss:Type="String">利用登陸倉技術開發飛得更快、投放更多士兵的終極運輸機。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;利用登陸倉技術開發飛得更快、投放更多士兵的終極運輸機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Wolf</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WolfDesc</Data></Cell>
-  <Cell><Data ss:Type="String">用異型合金打造新一代的步兵護甲，會比現存的護甲重但也會有物超所值的保護力。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;用異型合金打造新一代的步兵護甲，會比現存的護甲重但也會有物超所值的保護力。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈解剖</Data></Cell>
@@ -4137,7 +4137,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所抓到的鬼靈，找出牠們的弱點。完成後會提升士兵對鬼靈做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的鬼靈，找出牠們的弱點。完成後會提升士兵對鬼靈做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">研發管理介面</Data></Cell>
@@ -4170,28 +4170,28 @@
   <Cell><Data ss:Type="String">&lt;font size='24'&gt;僱用或解僱&lt;br/&gt;科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.TotalSci</Data></Cell>
-  <Cell><Data ss:Type="String">科學家總數：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;科學家總數：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.LabSpace</Data></Cell>
-  <Cell><Data ss:Type="String">實驗室配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;研發配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.LivSpace</Data></Cell>
-  <Cell><Data ss:Type="String">居住配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;居住配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.Wages</Data></Cell>
-  <Cell><Data ss:Type="String">科學家薪酬：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;科學家薪酬：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.PerMonth</Data></Cell>
-  <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='24'&gt;僱用科學家</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;僱用科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.FireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='24'&gt;解僱科學家</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;解僱科學家</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResumeGame</Data></Cell>
   <Cell><Data ss:Type="String">繼續遊戲</Data></Cell>
@@ -4605,7 +4605,7 @@
   <Cell><Data ss:Type="String">蘇維埃共和國</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SuicideConf</Data></Cell>
-  <Cell><Data ss:Type="String">戰機 %1% 燃料不足。如果繼續戰鬥，它將會無法返航。現在就返航？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;戰機 %1% 燃料不足。如果繼續戰鬥，它將會無法返航。現在就返航？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SupplyRun</Data></Cell>
   <Cell><Data ss:Type="String">補給</Data></Cell>
@@ -5260,7 +5260,7 @@
   <Cell><Data ss:Type="String">數量</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.UnitCost</Data></Cell>
-  <Cell><Data ss:Type="String">單價</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='18'&gt;做價</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Engineers</Data></Cell>
   <Cell><Data ss:Type="String">工程師（%1%）</Data></Cell>
@@ -5269,7 +5269,7 @@
   <Cell><Data ss:Type="String">需時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.TotalCost</Data></Cell>
-  <Cell><Data ss:Type="String">總價</Data></Cell>
+  <Cell><Data ss:Type="String">總做價</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Comment1</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='24'&gt;你要建甚麼都可以，拍擋。</Data></Cell>
@@ -5278,10 +5278,10 @@
   <Cell><Data ss:Type="String">&lt;font size='24'&gt;人手越多，做得越快。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.ConstructionTime</Data></Cell>
-  <Cell><Data ss:Type="String">製作時間</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='18'&gt;製作時間</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.ManHours</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 人日</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='18'&gt;%1% 人日</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Commence</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;動工</Data></Cell>
@@ -5293,31 +5293,31 @@
   <Cell><Data ss:Type="String">&lt;font size='24'&gt;僱用或解僱&lt;br/&gt;工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.TotalEng</Data></Cell>
-  <Cell><Data ss:Type="String">工程師總數：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;工程師總數：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.LabSpace</Data></Cell>
-  <Cell><Data ss:Type="String">工房配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;生產配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.LivSpace</Data></Cell>
-  <Cell><Data ss:Type="String">居住配額：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;居住配額：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Wages</Data></Cell>
-  <Cell><Data ss:Type="String">工程師薪酬：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;工程師薪酬：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.PerMonth</Data></Cell>
-  <Cell><Data ss:Type="String">每月 %1%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;每月 %1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">僱用工程師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;僱用工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.FireBtn</Data></Cell>
-  <Cell><Data ss:Type="String">解僱工程師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;解僱工程師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.HireCost</Data></Cell>
-  <Cell><Data ss:Type="String">僱用費：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">WorkshopView.Required</Data></Cell>
-  <Cell><Data ss:Type="String">需求：%1%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='18'&gt;材料需求：%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">X-120 Fury</Data></Cell>
   <Cell><Data ss:Type="String">X-120 天怒</Data></Cell>
@@ -5380,40 +5380,40 @@
   <Cell><Data ss:Type="String">羅德西亞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;輕型偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;護衛幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;運輸幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienCarrierDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;航母幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;戰列幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;輕型偵察幽浮數據中樞</Data></Cell>
@@ -5452,7 +5452,7 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Auckland</Data></Cell>
   <Cell><Data ss:Type="String">奧克蘭</Data></Cell>
@@ -6202,19 +6202,19 @@
   <Cell><Data ss:Type="String">法籍巴西</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
-  <Cell><Data ss:Type="String">分析異型基地</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析異型基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
-  <Cell><Data ss:Type="String">基地升級</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;基地升級</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Datacore</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;回收</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScimitarTank</Data></Cell>
-  <Cell><Data ss:Type="String">彎刀戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;彎刀戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiers</Data></Cell>
-  <Cell><Data ss:Type="String">請先選擇要僱用的士兵。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;請先選擇要僱用的士兵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">BuildingComplete.Title</Data></Cell>
   <Cell><Data ss:Type="String">建造完成</Data></Cell>
@@ -6265,7 +6265,7 @@
   <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasmaDesc</Data></Cell>
-  <Cell><Data ss:Type="String">長距離而準確的異型射手武器。它的研究可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;長距離而準確的異型射手武器。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Reaper</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;鐮刀蟲</Data></Cell>
@@ -6274,13 +6274,13 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;鐮刀蟲王</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScimitarTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBaseFacilitiesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所虜獲的異型基地的設施。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所虜獲的異型基地的設施。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BaseUpgradeDesc</Data></Cell>
-  <Cell><Data ss:Type="String">用異型科技升級我們的重點基地設施。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;用異型科技升級我們的重點基地設施。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.plasma</Data></Cell>
   <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
@@ -6289,10 +6289,10 @@
   <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;等離子炸彈：&lt;/b&gt;&#10;&#10;等離子炸彈是一塊主要用以爆破建築的爆破物，因為它的爆炸對景物會造成四倍的傷害。士兵可以設定炸彈多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：100 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;TU 花費：60%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子戰鬥步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子戰鬥步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBattleRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">強力的雙手異型武器，約有步槍那麼大。它的研究可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力的雙手異型武器，約有步槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ARMOURBOX</Data></Cell>
   <Cell><Data ss:Type="String">護甲</Data></Cell>
@@ -6343,28 +6343,28 @@
   <Cell><Data ss:Type="String">恐襲結束</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
-  <Cell><Data ss:Type="String">異型通訊陣列</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型通訊陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienCommunicationArrayDesc</Data></Cell>
-  <Cell><Data ss:Type="String">虜獲的異型通訊狀置。研究它也許就能解讀異型的通訊。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;虜獲的異型通訊狀置。研究它也許就能解讀異型的通訊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">奇點飛雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點飛雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienAssaultPlasma</Data></Cell>
   <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
-  <Cell><Data ss:Type="String">奇點炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ParticleBeamDesc</Data></Cell>
-  <Cell><Data ss:Type="String">利用異型奇點爐所存的巨大能量開發強力的步兵武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;利用異型奇點爐所存的巨大能量開發強力的步兵武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子突擊步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAssaultPlasmaDesc</Data></Cell>
-  <Cell><Data ss:Type="String">短射程的異型等離子武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力但射程短的異型等離子武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.combatshield</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;戰鬥盾</Data></Cell>
@@ -6427,13 +6427,13 @@
   <Cell><Data ss:Type="String">Researches.HeavyDroneWreckageDesc</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">輕型無人機解拆</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;輕型無人機解拆</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">中型無人機解拆</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;中型無人機解拆</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">重型無人機解拆</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型無人機解拆</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">RESISTED</Data></Cell>
   <Cell><Data ss:Type="String">全抗</Data></Cell>
@@ -7828,15 +7828,15 @@
  </Row>
  <Row>
   <Cell><Data ss:Type="String">ManTech.Seer</Data></Cell>
-  <Cell><Data ss:Type="String">神盾支援護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;神盾支援護甲</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Researches.Seer</Data></Cell>
-  <Cell><Data ss:Type="String">神盾支援護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;神盾支援護甲</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Researches.SeerDesc</Data></Cell>
-  <Cell><Data ss:Type="String">灰狼護甲的變體，融合了獵戶戰甲的力量強化骨架並新增抵抗靈能攻擊的功能。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼護甲的變體，融合了獵戶戰甲的力量強化骨架並新增抵抗靈能攻擊的功能。</Data></Cell>
  </Row>
  <!-- Armored Assault -->
  <Row>
@@ -7864,13 +7864,13 @@
   <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;破門等離子：&lt;/b&gt;&#10;&#10;破門等離子是破門炸藥的升級版，威力不變但更輕更細。不過依然不能投擲因此使用方式不變，依然是在手上設置起爆，放在地上然後撤離。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮結構弱點</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋幽浮結構弱點</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮結構弱點</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;航母幽浮結構弱點</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮結構弱點</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;戰列幽浮結構弱點</Data></Cell>
  </Row>
  <!-- Geographic addition -->
  <Row>
@@ -7925,85 +7925,85 @@
  <!-- Lore+ -->
  <Row>
   <Cell><Data ss:Type="String">Researches.ImpossibleResearch</Data></Cell>
-  <Cell><Data ss:Type="String">沒法實現的研究</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;沒法實現的研究</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.RecursiveResearch</Data></Cell>
-  <Cell><Data ss:Type="String">遞迴研究</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;遞迴研究</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Espionage1</Data></Cell>
-  <Cell><Data ss:Type="String">失蹤？</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;失蹤？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Espionage2</Data></Cell>
-  <Cell><Data ss:Type="String">內奸！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;內奸！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Espionage3</Data></Cell>
-  <Cell><Data ss:Type="String">激光槍量產</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光槍量產</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人技術員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人進階職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人進階職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
-  <Cell><Data ss:Type="String">灰人技術員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
-  <Cell><Data ss:Type="String">灰人職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass3</Data></Cell>
-  <Cell><Data ss:Type="String">灰人靈能師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人靈能師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
-  <Cell><Data ss:Type="String">灰人進階職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人進階職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人進階職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人進階職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithClass</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔職能</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔職能</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
-  <Cell><Data ss:Type="String">偵察任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;偵察任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
-  <Cell><Data ss:Type="String">研究任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;研究任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
-  <Cell><Data ss:Type="String">恐襲任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;恐襲任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
-  <Cell><Data ss:Type="String">空襲任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;空襲任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
-  <Cell><Data ss:Type="String">轟炸任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;轟炸任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
-  <Cell><Data ss:Type="String">截擊任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;截擊任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
-  <Cell><Data ss:Type="String">基地建設任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;基地建設任務</Data></Cell>
  </Row> <Row>
   <Cell><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員基地攻略任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員基地攻略任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人分析</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人分析</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">一名正常運作的安卓機人被成功回收。此研究會分析所回收的機人，尋找它們的弱點。完成後能提升部隊對安卓機人所做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;一名正常運作的安卓機人被成功回收。此研究會分析所回收的機人，尋找它們的弱點。完成後能提升部隊對安卓機人所做成的傷害。</Data></Cell>
  </Row>
  <!-- X:CE Balance Adjustment -->
  <Row>
