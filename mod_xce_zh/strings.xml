@@ -1827,7 +1827,7 @@
   <Cell><Data ss:Type="String">精度</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.AliensKilled</Data></Cell>
-  <Cell><Data ss:Type="String">殲滅異型</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;殲滅異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.APS</Data></Cell>
   <Cell><Data ss:Type="String">TU</Data></Cell>
@@ -1854,22 +1854,22 @@
   <Cell><Data ss:Type="String">回收物資：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.KilledInAction</Data></Cell>
-  <Cell><Data ss:Type="String">陣亡</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;陣亡</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.MissedInAction</Data></Cell>
-  <Cell><Data ss:Type="String">失蹤</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;失蹤</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.Rating.Bad</Data></Cell>
-  <Cell><Data ss:Type="String">差勁</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;差勁</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.Rating.Excellent</Data></Cell>
-  <Cell><Data ss:Type="String">優良</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;優良</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.Rating.Good</Data></Cell>
-  <Cell><Data ss:Type="String">良好</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;良好</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.Rating.Terrible</Data></Cell>
-  <Cell><Data ss:Type="String">惡劣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;惡劣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.RecoveredWounded_XX_Days</Data></Cell>
   <Cell><Data ss:Type="String">已救活，需養傷 %1% 日</Data></Cell>
@@ -1899,28 +1899,28 @@
   <Cell><Data ss:Type="String">力量</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SurvivingCivilians</Data></Cell>
-  <Cell><Data ss:Type="String">倖存平民</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;倖存平民</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SurvivingLocalForces</Data></Cell>
-  <Cell><Data ss:Type="String">倖存當地部隊</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;倖存當地部隊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.TotalSales</Data></Cell>
-  <Cell><Data ss:Type="String">總收益</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;總收益</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.VehiclesLost</Data></Cell>
-  <Cell><Data ss:Type="String">報廢戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;報廢戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.Wounded_XX_Days</Data></Cell>
   <Cell><Data ss:Type="String">需養傷 %1% 日</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.XenonautsLost</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員死難</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;異種航員死難</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.NotificationMessages.Die</Data></Cell>
-  <Cell><Data ss:Type="String">%1%陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.NotificationMessages.Stun</Data></Cell>
-  <Cell><Data ss:Type="String">%1%昏迷。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 昏迷。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.NotificationMessages.CommandCenterIntruders</Data></Cell>
   <Cell><Data ss:Type="String">指揮中心內有入侵者。</Data></Cell>
@@ -1932,7 +1932,7 @@
   <Cell><Data ss:Type="String">任務目標</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.Bezerk</Data></Cell>
-  <Cell><Data ss:Type="String">%1%失控。</Data></Cell>
+  <Cell><Data ss:Type="String">%1% 失控。</Data></Cell>
  </Row><Row ss:Height="33">
   <Cell><Data ss:Type="String">GC.PanicMessages.BleedingOneWound</Data></Cell>
   <Cell><Data ss:Type="String">%1%有 1 個傷口流血不止&#10;將會持續受 %2% 點 HP 傷害。</Data></Cell>
@@ -2810,223 +2810,223 @@
   <Cell><Data ss:Type="String">Man.Funds</Data></Cell>
   <Cell><Data ss:Type="String">資金：%1%</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AleniumEnrichment</Cell>
+  <Cell><Data ss:Type="String">ManTech.AleniumEnrichment</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AleniumGrenade</Cell>
+  <Cell><Data ss:Type="String">ManTech.AleniumGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AleniumMissile</Cell>
+  <Cell><Data ss:Type="String">ManTech.AleniumMissile</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶飛彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AleniumTorpedo</Cell>
+  <Cell><Data ss:Type="String">ManTech.AleniumTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶飛雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AlienAlloyProduction</Cell>
+  <Cell><Data ss:Type="String">ManTech.AlienAlloyProduction</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AssaultShield</Cell>
+  <Cell><Data ss:Type="String">ManTech.AssaultShield</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;突擊盾</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.AV.PLASMABLASTER</Cell>
+  <Cell><Data ss:Type="String">ManTech.AV.PLASMABLASTER</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Buzzard</Cell>
+  <Cell><Data ss:Type="String">ManTech.Buzzard</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;狼鷲護甲</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Corsair</Cell>
+  <Cell><Data ss:Type="String">ManTech.Corsair</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;海賊戰鬥機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.DHVR</Cell>
+  <Cell><Data ss:Type="String">ManTech.DHVR</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;DHVR</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.ElectroshockGrenade</Cell>
+  <Cell><Data ss:Type="String">ManTech.ElectroshockGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Fury</Cell>
+  <Cell><Data ss:Type="String">ManTech.Fury</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;天怒戰鬥機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Fusiongrenade</Cell>
+  <Cell><Data ss:Type="String">ManTech.Fusiongrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.FusionTorpedo</Cell>
+  <Cell><Data ss:Type="String">ManTech.FusionTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融飛雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Hunter</Cell>
+  <Cell><Data ss:Type="String">ManTech.Hunter</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手偵察戰車</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.HyperionHovertank</Cell>
+  <Cell><Data ss:Type="String">ManTech.HyperionHovertank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;太陽神浮空坦克</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.HypervelocityMissile</Cell>
+  <Cell><Data ss:Type="String">ManTech.HypervelocityMissile</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;特速飛彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.HypervelocityRocket</Cell>
+  <Cell><Data ss:Type="String">ManTech.HypervelocityRocket</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;特速火箭彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Jackal</Cell>
+  <Cell><Data ss:Type="String">ManTech.Jackal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;豺狼護甲</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Lasercarbine</Cell>
+  <Cell><Data ss:Type="String">ManTech.Lasercarbine</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光卡賓槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.LasercarbineDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光卡賓槍是適合突擊用的短距離武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Lasercell</Cell>
+  <Cell><Data ss:Type="String">ManTech.Lasercell</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光電池</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Laserpistol</Cell>
+  <Cell><Data ss:Type="String">ManTech.Laserpistol</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.LaserpistolDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光手槍是適合近接戰的單手武器，也可或作為副武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Laserrifle</Cell>
+  <Cell><Data ss:Type="String">ManTech.Laserrifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.LaserrifleDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光步槍是適用於各種戰鬥狀況的泛用武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MAGcarbine</Cell>
+  <Cell><Data ss:Type="String">ManTech.MAGcarbine</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁霰彈槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MAGclip</Cell>
+  <Cell><Data ss:Type="String">ManTech.MAGclip</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁彈匣</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MAGpistol</Cell>
+  <Cell><Data ss:Type="String">ManTech.MAGpistol</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁手槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MAGprecision</Cell>
+  <Cell><Data ss:Type="String">ManTech.MAGprecision</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁狙擊槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MAGrifle</Cell>
+  <Cell><Data ss:Type="String">ManTech.MAGrifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁步槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MAGSTORM</Cell>
+  <Cell><Data ss:Type="String">ManTech.MAGSTORM</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁風暴</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Marauder</Cell>
+  <Cell><Data ss:Type="String">ManTech.Marauder</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;賊王戰鬥機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Medipack</Cell>
+  <Cell><Data ss:Type="String">ManTech.Medipack</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醫療包</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.MiG32</Cell>
+  <Cell><Data ss:Type="String">ManTech.MiG32</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;狐步戰鬥機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.ParticleBeam</Cell>
+  <Cell><Data ss:Type="String">ManTech.ParticleBeam</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.ParticleClip</Cell>
+  <Cell><Data ss:Type="String">ManTech.ParticleClip</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點爐</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmacarbine</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmacarbine</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子霰彈槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmacaster</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmacaster</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射器</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmacell</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmacell</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子電池</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmagrenade</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmagrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.PlasmaMissile</Cell>
+  <Cell><Data ss:Type="String">ManTech.PlasmaMissile</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子飛彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmapistol</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmapistol</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子手槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmarifle</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmarifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子步槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.PlasmaRocket</Cell>
+  <Cell><Data ss:Type="String">ManTech.PlasmaRocket</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子火箭彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Plasmatorch</Cell>
+  <Cell><Data ss:Type="String">ManTech.Plasmatorch</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴火槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.PlasmaTorpedo</Cell>
+  <Cell><Data ss:Type="String">ManTech.PlasmaTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子飛雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Precisionlaser</Cell>
+  <Cell><Data ss:Type="String">ManTech.Precisionlaser</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.PrecisionlaserDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光狙擊槍是極住的狙擊武器，但近距離就不行了。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Precisionplasma</Cell>
+  <Cell><Data ss:Type="String">ManTech.Precisionplasma</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子狙擊槍</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Predator</Cell>
+  <Cell><Data ss:Type="String">ManTech.Predator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵戶戰甲</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Saracen</Cell>
+  <Cell><Data ss:Type="String">ManTech.Saracen</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;大食戰鬥機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Scatterlaser</Cell>
+  <Cell><Data ss:Type="String">ManTech.Scatterlaser</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ScatterlaserDesc</Data></Cell>
   <Cell><Data ss:Type="String">散射激光是擅於掃倒敵步兵的進階重型武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.ScimitarSupportTank</Cell>
+  <Cell><Data ss:Type="String">ManTech.ScimitarSupportTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;彎刀支援戰車</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Sentinel</Cell>
+  <Cell><Data ss:Type="String">ManTech.Sentinel</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;衛士護甲</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Shrike</Cell>
+  <Cell><Data ss:Type="String">ManTech.Shrike</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;伯勞鳥運輸機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.StunRocket</Cell>
+  <Cell><Data ss:Type="String">ManTech.StunRocket</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;迷魂火箭彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.ToxinGrenade</Cell>
+  <Cell><Data ss:Type="String">ManTech.ToxinGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Valkyrie</Cell>
+  <Cell><Data ss:Type="String">ManTech.Valkyrie</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;女武神運輸機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.MAC</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.MAC</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;磁軌炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.MACHINEGUN</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.MACHINEGUN</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;機炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.MAGSTORM</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.MAGSTORM</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;車載電磁風暴</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.PLASMABLASTER</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.PLASMABLASTER</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.PLASMABOLT</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.PLASMABOLT</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁集束炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.PLASMACASTER</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.PLASMACASTER</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射器</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.PULSELASER</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.PULSELASER</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;脈衝激光</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.ROCKET</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.ROCKET</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;火箭炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.SCATTERLASER</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.SCATTERLASER</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.SCLASER</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.SCLASER</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.SCLASERDesc</Data></Cell>
   <Cell><Data ss:Type="String">散射激光是高速連射的反步兵武器。威力比 .50 口徑機槍強上不少。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.VV.SMAC</Cell>
+  <Cell><Data ss:Type="String">ManTech.VV.SMAC</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;SMAC 磁軌炮</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.Wolf</Cell>
+  <Cell><Data ss:Type="String">ManTech.Wolf</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.Aircraft</Data></Cell>
@@ -3462,7 +3462,7 @@
   <Cell><Data ss:Type="String">&lt;font size='24'&gt;僱用士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.MemorialWall</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='24'&gt;陣亡名單</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='24'&gt;烈士名冊</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.LivSpace</Data></Cell>
   <Cell><Data ss:Type="String">居住配額：</Data></Cell>
@@ -3483,7 +3483,7 @@
   <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">PersonnelView.Hiring_XX_Hours</Data></Cell>
-  <Cell><Data ss:Type="String">僱用中，需 %1% 時</Data></Cell>
+  <Cell><Data ss:Type="String">僱用中，需%1%小時</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Perth</Data></Cell>
   <Cell><Data ss:Type="String">珀斯</Data></Cell>
@@ -3740,400 +3740,400 @@
   <Cell><Data ss:Type="String">Research</Data></Cell>
   <Cell><Data ss:Type="String">研發</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Alenium</Cell>
+  <Cell><Data ss:Type="String">Researches.Alenium</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumDesc</Data></Cell>
   <Cell><Data ss:Type="String">這種發光的黃色晶石是幽浮的動力爐的核心。我們相信它蘊藏著巨大的力量。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AleniumExplosives</Cell>
+  <Cell><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumExplosivesDesc</Data></Cell>
   <Cell><Data ss:Type="String">我們有信心能開發出基於異能晶的強力手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AleniumWarhead</Cell>
+  <Cell><Data ss:Type="String">Researches.AleniumWarhead</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶彈頭</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAlloyFabrication</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienAlloyFabrication</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金鍛造</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyFabricationDesc</Data></Cell>
   <Cell><Data ss:Type="String">找出塑造先進異型合金的方法，然後就能研發下一代的戰鬥裝備。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAlloyHardening</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型裝甲板</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyHardeningDesc</Data></Cell>
   <Cell><Data ss:Type="String">主力幽浮所用的裝甲板特別堅固。也許我們能用它開發新的護甲。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAlloys</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloysDesc</Data></Cell>
   <Cell><Data ss:Type="String">異型的幽浮採用了神奇的稀有物料建造，需要花點時間才能辨認它們的特性。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAntigravityGenerator</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反重力儀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGeneratorDesc</Data></Cell>
   <Cell><Data ss:Type="String">這裝置能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBiology</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBiologyDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析異型的生理，發掘牠們的起源及能如何活抓它們。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienElectronics</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的航電</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienElectronicsDesc</Data></Cell>
   <Cell><Data ss:Type="String">先進的異型電路版。研究一下也許能開發新的戰車和航機。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienGrenade</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子重步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHeavyPlasmaRifleDesc</Data></Cell>
   <Cell><Data ss:Type="String">短射程的強力異型突擊武器。它的研究可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienHyperdrive</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型超空間引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHyperdriveDesc</Data></Cell>
   <Cell><Data ss:Type="String">我們相信這件神秘裝置埋藏著星際航行的秘密。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienInterrogation</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;如何審問異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogationDesc</Data></Cell>
   <Cell><Data ss:Type="String">研究我們抓得的異型樣本。優先項是找出跟敵人溝通的方法。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienInvasion</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的侵略</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInvasionDesc</Data></Cell>
   <Cell><Data ss:Type="String">對異型的侵略艦隊的早期研究，分析其數量及組成。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogation</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問異型領袖</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogationDesc</Data></Cell>
   <Cell><Data ss:Type="String">審問我們抓到的異型領袖。牠應該能提供異型帝國的資訊，讓我們向勝利邁進一步。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogation</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問異型士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogationDesc</Data></Cell>
   <Cell><Data ss:Type="String">審問我們抓到的異型士官。我們想知道異型的目的，令我們能更有方向地阻止侵略。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienPlasmaCannon</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaCannonDesc</Data></Cell>
   <Cell><Data ss:Type="String">強力的異型重武器，有機關槍那麼大。它的研究可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienPlasmaPistol</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaPistolDesc</Data></Cell>
   <Cell><Data ss:Type="String">這是件輕型的異型武器，推斷是一種副武器。它的研究可以讓我們知道該如何改善我們的步兵護甲，及推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienPlasmaRifle</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaRifleDesc</Data></Cell>
   <Cell><Data ss:Type="String">這是件輕便的雙手異型武器，大小跟步槍差不多。它的研究可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnology</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子技術</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnologyDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析各種異型的能量武器如何產生等離子，為我們這一方的能量武器舖路。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienPowerSource</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型能源爐</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienReactor</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反應堆</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienReactorDesc</Data></Cell>
   <Cell><Data ss:Type="String">這個能源狀置的輸出比以往的都要高出許多，它的研究也許能成為生產等離子武器的關鍵。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienSingularityCore</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型奇點爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSingularityCoreDesc</Data></Cell>
   <Cell><Data ss:Type="String">這異型裝置的能量輸出完全超越人類的理解。我們相信這就是異型的終極能量源。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienFusionReactor</Cell>
+  <Cell><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型核融合爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienFusionReactorDesc</Data></Cell>
   <Cell><Data ss:Type="String">這個異型的線圈反應堆能持續產生巨額能量。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AndronDisassembly</Cell>
+  <Cell><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人解拆</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AssaultShield</Cell>
+  <Cell><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;突擊盾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AssaultShieldDesc</Data></Cell>
   <Cell><Data ss:Type="String">用強化過的異型合金所製作的新型戰鬥盾，能更有效地抵禦異型的等離子武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Buzzard</Cell>
+  <Cell><Data ss:Type="String">Researches.Buzzard</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;狼鷲護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BuzzardDesc</Data></Cell>
   <Cell><Data ss:Type="String">輕量版的灰狼護甲，強調機動機多於保護力。這套新式護甲會包括垂直移動用的噴射背包。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.CaesanAutopsy</Cell>
+  <Cell><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人解剖</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.CaesanVivisection</Cell>
+  <Cell><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanVivisectionDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析所抓到的灰人，找出牠們的弱點。完成後會提升士兵對灰人做成的傷害。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.CorsairInterceptor</Cell>
+  <Cell><Data ss:Type="String">Researches.CorsairInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-37 海賊 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.DirectionalThrusterArray</Cell>
+  <Cell><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;多角度推力矩陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArrayDesc</Data></Cell>
   <Cell><Data ss:Type="String">可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.DisposableHypervelocityRocketLauncher</Cell>
+  <Cell><Data ss:Type="String">Researches.DisposableHypervelocityRocketLauncher</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;拋棄式特速火箭發射器</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ElectroshockGrenade</Cell>
+  <Cell><Data ss:Type="String">Researches.ElectroshockGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ElectroshockGrenadeDesc</Data></Cell>
   <Cell><Data ss:Type="String">強力的電擊手雷，能同時電擊敵人的有生戰力及殺傷機械單位。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.FuryInterceptor</Cell>
+  <Cell><Data ss:Type="String">Researches.FuryInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-120 天怒 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發終極的人類戰機，在大氣層內絕不會敗給任何幽浮。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.FusionExplosives</Cell>
+  <Cell><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionExplosivesDesc</Data></Cell>
   <Cell><Data ss:Type="String">研究如何用核融合技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.FusionGrenade</Cell>
+  <Cell><Data ss:Type="String">Researches.FusionGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.FusionWarheads</Cell>
+  <Cell><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融彈頭</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HarridanAutopsy</Cell>
+  <Cell><Data ss:Type="String">Researches.HarridanAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔解剖</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HarridanVivisection</Cell>
+  <Cell><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HarridanVivisectionDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析所抓到的醜魔，找出牠們的弱點。完成後會提升士兵對醜魔做成的傷害。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HunterMissiles</Cell>
+  <Cell><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手火箭發射臺</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterMissilesDesc</Data></Cell>
   <Cell><Data ss:Type="String">為獵手裝甲車開發新的火箭發射臺，破壞力會優於車載機炮。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HunterTank</Cell>
+  <Cell><Data ss:Type="String">Researches.HunterTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手裝甲車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterTankDesc</Data></Cell>
   <Cell><Data ss:Type="String">適用於地面作戰的偵察戰車，比士兵有更遠視距並裝有車載機炮。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HyperdriveDisruptor</Cell>
+  <Cell><Data ss:Type="String">Researches.HyperdriveDisruptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;超空間引擎干擾器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperdriveDisruptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">研究能阻截超空間跳躍的裝置，防止幽浮跳離或跳入干擾場。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HyperionTank</Cell>
+  <Cell><Data ss:Type="String">Researches.HyperionTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;太陽神浮空坦克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperionTankDesc</Data></Cell>
   <Cell><Data ss:Type="String">比現有戰車更快更硬的地面戰鬥支援戰車。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Jackal</Cell>
+  <Cell><Data ss:Type="String">Researches.Jackal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;改良護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JackalDesc</Data></Cell>
   <Cell><Data ss:Type="String">研究一下能怎樣改良我們的步兵護甲，提升面對異型武器的存活率。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.JumpUnit</Cell>
+  <Cell><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;跳躍裝置</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.LaserWeaponry</Cell>
+  <Cell><Data ss:Type="String">Researches.LaserWeaponry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.LaserWeaponryDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一系列全新的步兵激光武器，以汰換現有的傳統武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.MAGWeaponry</Cell>
+  <Cell><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MAGWeaponryDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發新一代的步兵動能武器，相信會比我們的等離子武器更強。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.MarauderInterceptor</Cell>
+  <Cell><Data ss:Type="String">Researches.MarauderInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-59 賊王 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">先進的多用途戰鬥機，設計上能取代現有的所有戰機。更快、更堅固，並且能同時攜帶機載炮及兩支飛雷。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Medkit</Cell>
+  <Cell><Data ss:Type="String">Researches.Medkit</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醫療包</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.MIGInterceptor</Cell>
+  <Cell><Data ss:Type="String">Researches.MIGInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;高速攔截機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MIGInterceptorDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一架能追上幽浮的高速攔截機，能攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.OperationEndgame</Cell>
+  <Cell><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;終局行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.OperationEndgameDesc</Data></Cell>
   <Cell><Data ss:Type="String">我們只有一次撤底擊退異型的機會。人類的存亡就全看這項任務。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.PlasmaExplosives</Cell>
+  <Cell><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaExplosivesDesc</Data></Cell>
   <Cell><Data ss:Type="String">研究如何用等離子技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.PlasmaWarheads</Cell>
+  <Cell><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子彈頭</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.PlasmaWeaponry</Cell>
+  <Cell><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaWeaponryDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一系列的步兵等離子武器，用以汰換早前開發的激光武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.PraetorAutopsy</Cell>
+  <Cell><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;裁判官解剖</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.PraetorInterrogation</Cell>
+  <Cell><Data ss:Type="String">Researches.PraetorInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問裁判官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PraetorInterrogationDesc</Data></Cell>
   <Cell><Data ss:Type="String">審問我們抓到的裁判官，相信能揭示大量的異型秘密，例如牠們的起源和侵略的真正目的。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Predator</Cell>
+  <Cell><Data ss:Type="String">Researches.Predator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵戶戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PredatorDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一套機械化的步兵突擊裝甲，不單有卓越的保護力，而且能不受力量限制地使用重型武器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AdvancedLasers</Cell>
+  <Cell><Data ss:Type="String">Researches.AdvancedLasers</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型激光武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedLasersDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發大型的改良激光武器，包括步兵和機載的速射激光武器及地基或車載的強力脈衝激光。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentre</Cell>
+  <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;量子解碼中心</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentreDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發用來解密幽浮通訊的基地設施，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AdvancedMAGs</Cell>
+  <Cell><Data ss:Type="String">Researches.AdvancedMAGs</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型電磁武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedMAGsDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發大型的改良電磁武器，包括步兵和機載的速射電磁武器及地基或車載的強力磁軌炮。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AdvancedPlasmas</Cell>
+  <Cell><Data ss:Type="String">Researches.AdvancedPlasmas</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型等離子武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedPlasmasDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發大型的改良等離子武器，包括步兵和機載的速射等離子武器及地基或車載的等離子集束炮。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ReaperAutopsy</Cell>
+  <Cell><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲解剖</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ReaperVivisection</Cell>
+  <Cell><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperVivisectionDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析所抓到的鐮刀蟲，找出牠們的弱點。完成後會提升士兵對鐮刀蟲做成的傷害。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.SaracenInterceptor</Cell>
+  <Cell><Data ss:Type="String">Researches.SaracenInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-44 大食 戰鬥機</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ScuttlerDisassembly</Cell>
+  <Cell><Data ss:Type="String">Researches.ScuttlerDisassembly</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;Scuttler Disassembly</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.SebillianAutopsy</Cell>
+  <Cell><Data ss:Type="String">Researches.SebillianAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人解剖</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.SebillianVivisection</Cell>
+  <Cell><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianVivisectionDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析所抓到的斯巴蜥人，找出牠們的弱點。完成後會提升士兵對斯巴蜥人做成的傷害。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Sentinel</Cell>
+  <Cell><Data ss:Type="String">Researches.Sentinel</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;衛士護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SentinelDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ShrikeDropship</Cell>
+  <Cell><Data ss:Type="String">Researches.ShrikeDropship</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;D-42 伯勞鳥 運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropshipDesc</Data></Cell>
   <Cell><Data ss:Type="String">研發飛得更快、能運載更多士兵的先進運輸機。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Cell>
+  <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點飛雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.StunRocket</Cell>
+  <Cell><Data ss:Type="String">Researches.StunRocket</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;迷魂火箭彈</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.StunWeapons</Cell>
+  <Cell><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;非致命武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.StunWeaponsDesc</Data></Cell>
   <Cell><Data ss:Type="String">開發能令異型失去作戰能力的非致命性武器， 方便抓活的樣本作進一步研究。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ToxinGrenade</Cell>
+  <Cell><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ValkyrieDropship</Cell>
+  <Cell><Data ss:Type="String">Researches.ValkyrieDropship</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;D-54 女武神 空降艇</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ValkyrieDropshipDesc</Data></Cell>
   <Cell><Data ss:Type="String">利用登陸倉技術開發飛得更快、投放更多士兵的終極運輸機。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.Wolf</Cell>
+  <Cell><Data ss:Type="String">Researches.Wolf</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WolfDesc</Data></Cell>
   <Cell><Data ss:Type="String">用異型合金打造新一代的步兵護甲，會比現存的護甲重但也會有物超所值的保護力。</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.WraithAutopsy</Cell>
+  <Cell><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈解剖</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.WraithVivisection</Cell>
+  <Cell><Data ss:Type="String">Researches.WraithVivisection</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithVivisectionDesc</Data></Cell>
@@ -4284,7 +4284,7 @@
   <Cell><Data ss:Type="String">護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ARMOUREQUIPPED</Data></Cell>
-  <Cell><Data ss:Type="String">已裝備的護甲：</Data></Cell>
+  <Cell><Data ss:Type="String">所穿護甲：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.BACKPACK</Data></Cell>
   <Cell><Data ss:Type="String">背包</Data></Cell>
@@ -4371,10 +4371,10 @@
   <Cell><Data ss:Type="String">增加新的崗位</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.Role.ChangeRole</Data></Cell>
-  <Cell><Data ss:Type="String">轉換崗位</Data></Cell>
+  <Cell><Data ss:Type="String">變更崗位</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.Role.EquipDefault</Data></Cell>
-  <Cell><Data ss:Type="String">使用崗位的預設裝備</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='18'&gt;使用崗位的預設裝備</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.SECWEAPON</Data></Cell>
   <Cell><Data ss:Type="String">副手</Data></Cell>
@@ -4803,13 +4803,13 @@
   <Cell><Data ss:Type="String">著陸階段</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">UnlockedManufactures.NewMan</Data></Cell>
-  <Cell><Data ss:Type="String">可以生產的新製品：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;可以生產的新製品：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">UnlockedManufactures.Title</Data></Cell>
   <Cell><Data ss:Type="String">研究完成</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">UnlockedResearches.NewProjects</Data></Cell>
-  <Cell><Data ss:Type="String">可以研究的新專案：</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;可以研究的新專案：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">UnlockedResearches.NoneUnlocked</Data></Cell>
   <Cell><Data ss:Type="String">無</Data></Cell>
@@ -6374,11 +6374,11 @@
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.combatshield.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;戰鬥盾：&lt;/b&gt;&#10;&#10;戰鬥盾能保護士兵免被異型直接擊中。這盾會吸受士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側方和後方就不一定了。&#10;&#10;HP：80&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;戰鬥盾：&lt;/b&gt;&#10;&#10;戰鬥盾能代替士兵挨打。這盾會吸收士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側面和後方就不一定了。&#10;&#10;HP：80&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
  </Row>
  <Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;突擊盾：&lt;/b&gt;&#10;&#10;&#10;突擊盾能保護士兵免被異型直接擊中。這盾會吸受士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側方和後方就不一定了。&#10;&#10;HP：160&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20' face='fonts/arial.mvec'&gt;&lt;b&gt;突擊盾：&lt;/b&gt;&#10;&#10;&#10;突擊盾能代替士兵挨打。這盾會吸收士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側面和後方就不一定了。&#10;&#10;HP：160&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data></Cell>
  </Row><Row>
