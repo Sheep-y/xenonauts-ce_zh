@@ -95,7 +95,7 @@
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;撤退：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;命令戰機終止作戰，飛往最新的作戰區域邊界&lt;br /&gt;脫離戰鬥。戰機會向射界內的敵機自動開火，&lt;br /&gt;但不會發射飛彈。&lt;br/&gt;&lt;br/&gt;除非是出於燃炓不足的迫退，否則你可以&lt;br /&gt;隨時取消撤退、下達新指令。&lt;/font\&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1%&#10; 受損 %5%%%（%6%）</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.UFOSTAT_SHORT</Data></Cell>
   <Cell><Data ss:Type="String">%1%</Data></Cell>
@@ -539,25 +539,25 @@
   <Cell><Data ss:Type="String">阿根廷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.basic</Data></Cell>
-  <Cell><Data ss:Type="String">常規護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;常規護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.buzzard</Data></Cell>
-  <Cell><Data ss:Type="String">狼鷲護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;狼鷲護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.colossus</Data></Cell>
-  <Cell><Data ss:Type="String">巨神戰甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;巨神戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.jackal</Data></Cell>
-  <Cell><Data ss:Type="String">豺狼護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;豺狼護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.predator</Data></Cell>
-  <Cell><Data ss:Type="String">獵戶戰甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;獵戶戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.sentinel</Data></Cell>
-  <Cell><Data ss:Type="String">衛士護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;衛士護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.wolf</Data></Cell>
-  <Cell><Data ss:Type="String">灰狼戰甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;灰狼戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AU</Data></Cell>
   <Cell><Data ss:Type="String">澳大利西亞</Data></Cell>
@@ -3744,13 +3744,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這種發光的黃色晶石是幽浮的動力爐的核心。我們相信它蘊藏著巨大的力量。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這種發光的黃色晶石是幽浮的動力爐的核心。我們相信它蘊藏著巨大的力量。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;我們有信心能開發出基於異能晶的新一代強力手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;我們有信心能開發出基於異能晶的新一代強力手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AleniumWarhead</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶彈頭</Data></Cell>
@@ -3759,37 +3759,37 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金鍛造</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyFabricationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;找出塑造先進異型合金的方法，然後就能研發下一代的戰鬥裝備。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;找出塑造先進異型合金的方法，然後就能研發下一代的戰鬥裝備。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型裝甲板</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloyHardeningDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;主力幽浮所用的裝甲板特別堅固。也許我們能用它開發新的護甲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;主力幽浮所用的裝甲板特別堅固。也許我們能用它開發新的護甲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloys</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAlloysDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;異型的幽浮採用了神奇的稀有物料建造，需要花點時間才能辨認它們的特性。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的幽浮採用了神奇的稀有物料建造，需要花點時間才能辨認它們的特性。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反重力儀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAntigravityGeneratorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這裝置能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這裝置能產生一片反重力場，令場內的物件變成無重。我們可以用它研究反重力的技術。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBiologyDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析異型的生理，發掘牠們的起源及能如何活抓它們。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析異型的生理，發掘牠們的起源及能如何活抓它們。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienElectronics</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的航電</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienElectronicsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;先進的異型電路版。研究一下也許能開發新的戰車和航機。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;先進的異型電路版。研究一下也許能開發新的戰車和航機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型手雷</Data></Cell>
@@ -3798,61 +3798,61 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子重步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHeavyPlasmaRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;短射程的強力異型突擊武器。研究它應該可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;短射程的強力異型突擊武器。研究它應該可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型超空間引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienHyperdriveDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;我們相信這件神秘裝置埋藏著星際航行的秘密。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;我們相信這件神秘裝置埋藏著星際航行的秘密。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;如何審問異型</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究我們抓得的異型樣本。優先項是找出跟敵人溝通的方法。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;研究我們抓得的異型樣本。優先項是找出跟敵人溝通的方法。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInvasion</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型的侵略</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienInvasionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;對異型的侵略艦隊的早期研究，分析其數量及組成。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;對異型的侵略艦隊的早期研究，分析其數量及組成。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問異型領袖</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienLeaderInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;審問我們抓到的異型領袖。牠應該能提供異型帝國的資訊，讓我們向勝利邁進一步。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問我們抓到的異型領袖。牠應該能提供異型帝國的資訊，讓我們向勝利邁進一步。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問異型士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienOfficerInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;審問我們抓到的異型士官。我們想知道異型的目的，令我們能更有方向地阻止侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問我們抓到的異型士官。我們想知道異型的目的，令我們能更有方向地阻止侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaCannonDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力的異型重武器，有機關槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;強力的異型重武器，有機關槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaPistolDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這是件輕型的異型武器，推斷是一種副武器。研究它可以讓我們知道該如何改善我們的步兵護甲，及推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這是件輕型的異型武器，推斷是一種副武器。研究它可以讓我們知道該如何改善我們的步兵護甲，及推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這是件輕便的雙手異型武器，大小跟步槍差不多。研究它可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這是件輕便的雙手異型武器，大小跟步槍差不多。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnology</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子技術</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPlasmaTechnologyDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析各種異型的能量武器如何產生等離子，為我們這一方的能量武器舖路。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析各種異型的能量武器如何產生等離子，為我們這一方的能量武器舖路。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型能源爐</Data></Cell>
@@ -3861,19 +3861,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反應堆</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienReactorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這個能源狀置的輸出比以往的都要高出許多，也許就是製作等離子武器的關鍵。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這個能源狀置的輸出比以往的都要高出許多，也許就是製作等離子武器的關鍵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型奇點爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSingularityCoreDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這異型裝置的能量輸出完全超越人類的理解。我們相信這就是異型的終極能量源。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這異型裝置的能量輸出完全超越人類的理解。我們相信這就是異型的終極能量源。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型核融合爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienFusionReactorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;這個異型的線圈反應堆能持續產生巨額能量。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;這個異型的線圈反應堆能持續產生巨額能量。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人解拆</Data></Cell>
@@ -3882,13 +3882,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;突擊盾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AssaultShieldDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;用強化過的異型合金所製作的新型戰鬥盾，能更有效地抵禦異型的等離子武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;用強化過的異型合金所製作的新型戰鬥盾，能更有效地抵禦異型的等離子武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Buzzard</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;狼鷲護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BuzzardDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;輕量版的灰狼護甲，強調機動機多於保護力。這套新式護甲會包括垂直移動用的噴射背包。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;輕量版的灰狼護甲，強調機動機多於保護力。這套新式護甲會包括垂直移動用的噴射背包。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人解剖</Data></Cell>
@@ -3897,19 +3897,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CaesanVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的灰人，找出牠們的弱點。完成後會提升士兵對灰人做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析所抓到的灰人，找出牠們的弱點。完成後會提升士兵對灰人做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-37 海賊 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.CorsairInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;多角度推力矩陣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArrayDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DisposableHypervelocityRocketLauncher</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;拋棄式特速火箭發射器</Data></Cell>
@@ -3918,19 +3918,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ElectroshockGrenadeDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力的電擊手雷，能同時電擊敵人的有生戰力及殺傷機械單位。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;強力的電擊手雷，能同時電擊敵人的有生戰力及殺傷機械單位。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-120 天怒 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FuryInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發終極的人類戰機，在大氣層內絕不會敗給任何幽浮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發終極的人類戰機，在大氣層內絕不會敗給任何幽浮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究如何用核融合技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;研究如何用核融合技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.FusionGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融手雷</Data></Cell>
@@ -3945,37 +3945,37 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HarridanVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的醜魔，找出牠們的弱點。完成後會提升士兵對醜魔做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析所抓到的醜魔，找出牠們的弱點。完成後會提升士兵對醜魔做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手火箭發射臺</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterMissilesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;為獵手裝甲車開發新的火箭發射臺，破壞力會優於車載機炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;為獵手裝甲車開發新的火箭發射臺，破壞力會優於車載機炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手裝甲車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HunterTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;適用於地面作戰的偵察戰車，比士兵看得更遠並裝有車載機炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;適用於地面作戰的偵察戰車，比士兵看得更遠並裝有車載機炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperdriveDisruptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;超空間引擎干擾器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperdriveDisruptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究能阻截超空間跳躍的裝置，防止幽浮跳離或跳入干擾場。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;研究能阻截超空間跳躍的裝置，防止幽浮跳離或跳入干擾場。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperionTank</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;太陽神浮空坦克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.HyperionTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;比現有戰車更快更硬的地面戰鬥支援戰車。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;比現有戰車更快更硬的地面戰鬥支援戰車。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Jackal</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;改良護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JackalDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;改良我們的步兵護甲，提升面對異型武器的存活率。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;改良我們的步兵護甲，提升面對異型武器的存活率。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;跳躍裝置</Data></Cell>
@@ -3984,19 +3984,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.LaserWeaponryDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一系列全新的步兵激光武器，以汰換現有的傳統武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發一系列全新的步兵激光武器，以汰換現有的傳統武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MAGWeaponryDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發新一代的步兵動能武器，相信會比我們的等離子武器更強。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發新一代的步兵動能武器，相信會比我們的等離子武器更強。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-59 賊王 戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MarauderInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;先進的多用途戰鬥機，設計上能取代現有的所有戰機。更快、更堅固，並且能同時攜帶機載炮及兩支飛雷。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;先進的多用途戰鬥機，設計上能取代現有的所有戰機。更快、更堅固，並且能同時攜帶機載炮及兩支飛雷。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Medkit</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;醫療包</Data></Cell>
@@ -4005,19 +4005,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;高速攔截機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.MIGInterceptorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一架能追上幽浮的高速攔截機，能攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發一架能追上幽浮的高速攔截機，能攜帶重型空對空導彈但沒有機載炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.OperationEndgame</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;終局行動</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.OperationEndgameDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;我們只有一次機會去撤底擊退異型。人類的生死存亡就全看這項任務。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;我們只有一次機會去撤底擊退異型。人類的生死存亡就全看這項任務。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子爆彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaExplosivesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研究如何用等離子技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;研究如何用等離子技術升級我們的手雷、火箭、和空對空導彈。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子彈頭</Data></Cell>
@@ -4026,7 +4026,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PlasmaWeaponryDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一系列的步兵等離子武器，用以汰換早前開發的激光武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發一系列的步兵等離子武器，用以汰換早前開發的激光武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PraetorAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;裁判官解剖</Data></Cell>
@@ -4035,37 +4035,37 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問裁判官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PraetorInterrogationDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;審問我們抓到的裁判官，相信能揭示大量的異型秘密，例如牠們的起源和侵略的真正目的。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;審問我們抓到的裁判官，相信能揭示大量的異型秘密，例如牠們的起源和侵略的真正目的。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Predator</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵戶戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.PredatorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一套機械化的步兵突擊裝甲，不單有卓越的保護力，而且能不受力量限制地使用重型武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發一套機械化的步兵突擊裝甲，不單有卓越的保護力，而且能不受力量限制地使用重型武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedLasers</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型激光武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedLasersDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發大型的改良激光武器，包括步兵和機載的速射激光武器及地基或車載的強力脈衝激光。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發大型的改良激光武器，包括步兵和機載的速射激光武器及地基或車載的強力脈衝激光。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;量子解碼中心</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.QuantumCryptologyCentreDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發用來解密幽浮通訊的基地設施，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發用來解密幽浮通訊的基地設施，為偵察到的幽浮提供任務和乘員等額外資訊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedMAGs</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型電磁武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedMAGsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發大型的改良電磁武器，包括步兵和機載的速射電磁武器及地基或車載的強力磁軌炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發大型的改良電磁武器，包括步兵和機載的速射電磁武器及地基或車載的強力磁軌炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedPlasmas</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型等離子武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AdvancedPlasmasDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發大型的改良等離子武器，包括步兵和機載的速射等離子武器及地基或車載的等離子集束炮。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發大型的改良等離子武器，包括步兵和機載的速射等離子武器及地基或車載的等離子集束炮。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲解剖</Data></Cell>
@@ -4074,7 +4074,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ReaperVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的鐮刀蟲，找出牠們的弱點。完成後會提升士兵對鐮刀蟲做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析所抓到的鐮刀蟲，找出牠們的弱點。完成後會提升士兵對鐮刀蟲做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SaracenInterceptor</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;X-44 大食 戰鬥機</Data></Cell>
@@ -4089,19 +4089,19 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SebillianVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的斯巴蜥人，找出牠們的弱點。完成後會提升士兵對斯巴蜥人做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析所抓到的斯巴蜥人，找出牠們的弱點。完成後會提升士兵對斯巴蜥人做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Sentinel</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;衛士護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SentinelDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropship</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;D-42 伯勞鳥 運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropshipDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;研發飛得更快、能運載更多士兵的先進運輸機。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;研發飛得更快、能運載更多士兵的先進運輸機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點飛雷</Data></Cell>
@@ -4113,7 +4113,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;非致命武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.StunWeaponsDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;開發能令異型失去作戰能力的非致命性武器， 方便抓活的樣本作進一步研究。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;開發能令異型失去作戰能力的非致命性武器， 方便抓活的樣本作進一步研究。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ToxinGrenade</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
@@ -4122,13 +4122,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;D-54 女武神 空降艇</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ValkyrieDropshipDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;利用登陸倉技術開發飛得更快、投放更多士兵的終極運輸機。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;利用登陸倉技術開發飛得更快、投放更多士兵的終極運輸機。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Wolf</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WolfDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;用異型合金打造新一代的步兵護甲，會比現存的護甲重但也會有物超所值的保護力。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;用異型合金打造新一代的步兵護甲，會比現存的護甲重但也會有物超所值的保護力。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈解剖</Data></Cell>
@@ -4137,7 +4137,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈生理</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.WraithVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所抓到的鬼靈，找出牠們的弱點。完成後會提升士兵對鬼靈做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析所抓到的鬼靈，找出牠們的弱點。完成後會提升士兵對鬼靈做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResearchHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">研發管理介面</Data></Cell>
@@ -4698,7 +4698,7 @@
   <Cell><Data ss:Type="String">東京</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">TooManyBases</Data></Cell>
-  <Cell><Data ss:Type="String">基地數量達到上限，不能再建。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;基地數量達到上限，不能再建。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">towboat</Data></Cell>
   <Cell><Data ss:Type="String">頂推船</Data></Cell>
@@ -4746,7 +4746,7 @@
   <Cell><Data ss:Type="String">速度</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">UFOEscaped</Data></Cell>
-  <Cell><Data ss:Type="String">%1%已經逃離大氣層。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;%1%已經逃離大氣層。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ufoheading.east</Data></Cell>
   <Cell><Data ss:Type="String">東</Data></Cell>
@@ -6265,7 +6265,7 @@
   <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSniperPlasmaDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;長距離而準確的異型射手武器。研究它可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;長距離而準確的異型射手武器。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Reaper</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;鐮刀蟲</Data></Cell>
@@ -6274,13 +6274,13 @@
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;鐮刀蟲王</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ScimitarTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBaseFacilitiesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;分析所虜獲的異型基地的設施。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;分析所虜獲的異型基地的設施。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BaseUpgradeDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;用異型科技升級我們的重點基地設施。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;用異型科技升級我們的重點基地設施。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.plasma</Data></Cell>
   <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
@@ -6292,7 +6292,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子戰鬥步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienBattleRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力的雙手異型武器，約有步槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;強力的雙手異型武器，約有步槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ARMOURBOX</Data></Cell>
   <Cell><Data ss:Type="String">護甲</Data></Cell>
@@ -6346,7 +6346,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型通訊陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienCommunicationArrayDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;虜獲的異型通訊狀置。研究它也許就能解讀異型的通訊。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;虜獲的異型通訊狀置。研究它也許就能解讀異型的通訊。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點飛雷</Data></Cell>
@@ -6358,13 +6358,13 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ParticleBeamDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;利用異型奇點爐所存的巨大能量開發強力的步兵武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;利用異型奇點爐所存的巨大能量開發強力的步兵武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子突擊步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienAssaultPlasmaDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;強力但射程短的異型等離子武器。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;強力但射程短的異型等離子武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.combatshield</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font size='20'&gt;戰鬥盾</Data></Cell>
@@ -7816,7 +7816,7 @@
  <!-- Aegia Armor -->
  <Row>
   <Cell><Data ss:Type="String">armour.seer</Data></Cell>
-  <Cell><Data ss:Type="String">神盾護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;神盾護甲</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Items.XenonautSeer</Data></Cell>
@@ -7832,11 +7832,11 @@
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Researches.Seer</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;神盾支援護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;神盾支援護甲</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Researches.SeerDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼護甲的變體，融合了獵戶戰甲的力量強化骨架並新增抵抗靈能攻擊的功能。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;升級灰狼護甲，結合獵戶戰甲的力量強化骨架並新增抵抗靈能攻擊的功能。</Data></Cell>
  </Row>
  <!-- Armored Assault -->
  <Row>
@@ -8003,7 +8003,7 @@
   <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人分析</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AndronVivisectionDesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font size='16'&gt;一名正常運作的安卓機人被成功回收。此研究會分析所回收的機人，尋找它們的弱點。完成後能提升部隊對安卓機人所做成的傷害。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;一名正常運作的安卓機人被成功回收。此研究會分析所回收的機人，尋找它們的弱點。完成後能提升部隊對安卓機人所做成的傷害。</Data></Cell>
  </Row>
  <!-- X:CE Balance Adjustment -->
  <Row>
