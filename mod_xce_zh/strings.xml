@@ -2760,7 +2760,7 @@
   <Cell><Data ss:Type="String">利比亞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LIDARArray</Data></Cell>
-  <Cell><Data ss:Type="String">光學雷達陣列</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;光學雷達陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Lima</Data></Cell>
   <Cell><Data ss:Type="String">利馬</Data></Cell>
