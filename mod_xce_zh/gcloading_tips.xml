@@ -115,7 +115,7 @@
 
 <Tip>投擲的準確度隨投擲距離下降，要在最遠距離丟中目標並不容易。</Tip>
 
-<!-- New tips -->
+<!-- New tips - ->
 
 <Tip>機械單位不能被迷暈或敲暈，不可以被虜獲。</Tip>
 
@@ -125,6 +125,6 @@
 
 <Tip>燃料充足的話，手動的空戰纏鬥往往能打下難以用其他方法擊落的幽浮。</Tip>
 
-<!-- <Tip>The game is bundled with an example developer mod (Soviet Weapons Pack) and a selection of community-made mods.</Tip> -->
+<!- - <Tip>The game is bundled with an example developer mod (Soviet Weapons Pack) and a selection of community-made mods.</Tip> -->
 
 </GCLoadingTips>
