@@ -233,7 +233,7 @@
   <Cell><Data ss:Type="String">&lt;outline color='000000' size='2'&gt;訂購單位中&lt;br/&gt;%1% 小時後抵達&lt;/outline&gt;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.HP</Data></Cell>
-  <Cell><Data ss:Type="String">%1%</Data></Cell>
+  <Cell><Data ss:Type="String">耐久度</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AEQ.INTERCEPTORS</Data></Cell>
   <Cell><Data ss:Type="String">戰鬥機</Data></Cell>
@@ -2058,7 +2058,7 @@
   <Cell><Data ss:Type="String">&lt;b&gt;視點控制：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;這顯示了目前的視角高度。用這兒的上下箭號將視角升降就可以觀察戰場上不同高度的各層。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GcGUI.Tooltips.CrouchToggle</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;b&gt;切換跪姿：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;指示士兵跪下或站起，需要 3 TU。跪地的士兵較難擊中，被命中率減少 25%。跪地士兵的命中率也會提升 25%。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;b&gt;切換跪姿：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;指示士兵跪下或站起，需要 3 TU。跪地的士兵較難擊中，被命中率減少 25%%。跪地士兵的命中率也會提升 25%%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GcGUI.Tooltips.EndTurnButton</Data></Cell>
   <Cell><Data ss:Type="String">&lt;b&gt;結束回合：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;此鍵會結束您的回合，開始異型的回合。請確保你已經做完所有想做的事，然後才按這鍵！&#10;</Data></Cell>
@@ -2356,6 +2356,9 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Executed</Data></Cell>
   <Cell><Data ss:Type="String">已槍斃</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Item.Dispose.Datacore</Data></Cell>
+  <Cell><Data ss:Type="String">順利回收</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Alenium</Data></Cell>
   <Cell><Data ss:Type="String">異能晶</Data></Cell>
@@ -2714,6 +2717,50 @@
   <Cell><Data ss:Type="String">Items.XenonautWolfCorpse</Data></Cell>
   <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
  </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienScoutDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienCorvetteDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienLandingCraftDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienCruiserDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienCarrierDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienBattleshipDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienFighterDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienHeavyFighterDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienInterceptorDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienBomberDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.Reaper</Data></Cell>
+  <Cell><Data ss:Type="String">鐮刀蟲</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Items.ReaperAlpha</Data></Cell>
+  <Cell><Data ss:Type="String">鐮刀蟲王</Data></Cell>
+ </Row><Row>
   <Cell><Data ss:Type="String">January</Data></Cell>
   <Cell><Data ss:Type="String">一月</Data></Cell>
  </Row><Row>
@@ -3029,6 +3076,9 @@
   <Cell><Data ss:Type="String">ManTech.Wolf</Data></Cell>
   <Cell><Data ss:Type="String">灰狼戰甲</Data></Cell>
  </Row><Row>
+  <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
+  <Cell><Data ss:Type="String">奇點飛雷</Data></Cell>
+ </Row><Row>
   <Cell><Data ss:Type="String">Manu.Aircraft</Data></Cell>
   <Cell><Data ss:Type="String">航機</Data></Cell>
  </Row><Row>
@@ -3174,10 +3224,10 @@
   <Cell><Data ss:Type="String">&lt;font color='FBBD03'&gt;%1%&lt;/font&gt;不足，無法給&lt;font color='FBBD03'&gt;%2%&lt;/font&gt;補充彈藥。&lt;br/&gt;當&lt;font color='FBBD03'&gt;%3%&lt;/font&gt;基地獲得%1%的時候會繼續裝彈作業。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoFreeGarage</Data></Cell>
-  <Cell><Data ss:Type="String">需要空置的車庫。</Data></Cell>
+  <Cell><Data ss:Type="String">需要閒置的車庫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoFreeHangar</Data></Cell>
-  <Cell><Data ss:Type="String">需要空置的機庫。</Data></Cell>
+  <Cell><Data ss:Type="String">需要閒置的機庫。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">NoGeneralStore</Data></Cell>
   <Cell><Data ss:Type="String">（沒有倉庫）</Data></Cell>
@@ -4139,6 +4189,143 @@
   <Cell><Data ss:Type="String">Researches.WraithVivisectionDesc</Data></Cell>
   <Cell><Data ss:Type="String">分析所抓到的鬼靈，找出牠們的弱點。完成後會提升士兵對鬼靈做成的傷害。</Data></Cell>
  </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienFighterDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBomberDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCarrierDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCruiserDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienScoutDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacoreDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AndronDisassemblyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.CaesanAutopsyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.HarridanAutopsyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.PraetorAutopsyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ReaperAutopsyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.SebillianAutopsyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.WraithAutopsyDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.LightDroneWreckageDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.MediumDroneWreckageDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.HeavyDroneWreckageDesc</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienScoutDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCruiserDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCarrierDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienFighterDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBomberDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacore</Data></Cell>
+  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
+  <Cell><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienSniperPlasmaDesc</Data></Cell>
+  <Cell><Data ss:Type="String">長距離而準確的異型射手武器。研究它可以推進我們對能量武器的理解。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
+  <Cell><Data ss:Type="String">分析異型基地</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
+  <Cell><Data ss:Type="String">基地升級</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ScimitarTank</Data></Cell>
+  <Cell><Data ss:Type="String">彎刀戰車</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ScimitarTankDesc</Data></Cell>
+  <Cell><Data ss:Type="String">利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBaseFacilitiesDesc</Data></Cell>
+  <Cell><Data ss:Type="String">分析所虜獲的異型基地的設施。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.BaseUpgradeDesc</Data></Cell>
+  <Cell><Data ss:Type="String">用異型科技升級我們的重點基地設施。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
+  <Cell><Data ss:Type="String">異型等離子戰鬥步槍</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienBattleRifleDesc</Data></Cell>
+  <Cell><Data ss:Type="String">強力的雙手異型武器，約有步槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
+  <Cell><Data ss:Type="String">異型通訊陣列</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienCommunicationArrayDesc</Data></Cell>
+  <Cell><Data ss:Type="String">虜獲的異型通訊裝置。研究它也許就能解讀異型的通訊。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
+  <Cell><Data ss:Type="String">奇點炮</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.ParticleBeamDesc</Data></Cell>
+  <Cell><Data ss:Type="String">利用異型奇點爐所存的巨大能量開發強力的步兵武器。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
+  <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.AlienAssaultPlasmaDesc</Data></Cell>
+  <Cell><Data ss:Type="String">強力但射程短的異型等離子武器。</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
+  <Cell><Data ss:Type="String">輕型無人機解拆</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
+  <Cell><Data ss:Type="String">中型無人機解拆</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
+  <Cell><Data ss:Type="String">重型無人機解拆</Data></Cell>
+ </Row><Row>
   <Cell><Data ss:Type="String">ResearchHeaderDesc</Data></Cell>
   <Cell><Data ss:Type="String">研發管理介面</Data></Cell>
  </Row><Row>
@@ -4818,7 +5005,7 @@
   <Cell><Data ss:Type="String">研究完成</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEHICLE.EMPTY</Data></Cell>
-  <Cell><Data ss:Type="String">空置</Data></Cell>
+  <Cell><Data ss:Type="String">閒置</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
   <Cell><Data ss:Type="String">獵手</Data></Cell>
@@ -5229,6 +5416,96 @@
   <Cell><Data ss:Type="String">weapon.sniper.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：35 動能&#10;壓制：25 點&#10;穿甲力：10&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
+  <Cell><Data ss:Type="String">weapon.explosive.plasma</Data></Cell>
+  <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
+ </Row><Row ss:Height="148.5">
+  <Cell><Data ss:Type="String">weapon.explosive.plasma.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子炸彈：&lt;/b&gt;&#10;&#10;等離子炸彈是一塊主要用以爆破建築的爆破物，因為它的爆炸對景物會造成四倍的傷害。士兵可以設定炸彈多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：100 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;TU 花費：60%</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.AlienAssaultPlasma</Data></Cell>
+  <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.combatshield</Data></Cell>
+  <Cell><Data ss:Type="String">戰鬥盾</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.assaultshield</Data></Cell>
+  <Cell><Data ss:Type="String">突擊盾</Data></Cell>
+ </Row>
+ <Row ss:Height="132">
+  <Cell><Data ss:Type="String">weapon.combatshield.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;戰鬥盾：&lt;/b&gt;&#10;&#10;戰鬥盾能代替士兵挨打。這盾會吸收士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側面和後方就不一定了。&#10;&#10;HP：80&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
+ </Row>
+ <Row ss:Height="148.5">
+  <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;突擊盾：&lt;/b&gt;&#10;&#10;&#10;突擊盾能代替士兵挨打。這盾會吸收士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側面和後方就不一定了。&#10;&#10;HP：160&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
+ </Row>
+ <Row ss:Height="280.5">
+  <Cell><Data ss:Type="String">weapon.MAGpistol.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：105 動能&#10;壓制：32 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
+ </Row>
+ <Row ss:Height="297">
+  <Cell><Data ss:Type="String">weapon.MAGcarbine.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：85 動能（三發）&#10;壓制：72 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
+ </Row>
+ <Row ss:Height="313.5">
+  <Cell><Data ss:Type="String">weapon.MAGrifle.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：105 動能&#10;壓制：32 單發 / 96 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
+ </Row>
+ <Row ss:Height="297">
+  <Cell><Data ss:Type="String">weapon.MAGprecision.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：120 動能&#10;壓制：37 點&#10;穿甲力：35&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
+ </Row>
+ <Row ss:Height="280.5">
+  <Cell><Data ss:Type="String">weapon.magstorm.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器。準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：165 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
+ </Row>
+ <Row ss:Height="264">
+  <Cell><Data ss:Type="String">weapon.particlebeam.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;奇點炮：&lt;/b&gt;&#10;&#10;奇點炮是供獵戶戰甲用者使用的重武器，穿其他戰甲的士兵無法滿足它的 TU 需求。它的效果類似一支超強力火箭炮，所以按下發射鍵前請確保爆炸範圍內沒有自己人！&#10;&#10;射程：35&#10;傷害：500 能量&#10;爆炸半徑：5 格&#10;壓制：80 點&#10;穿甲力：100&#10;裝彈量：1 發&#10;反應倍率：0.5 倍&#10;裝彈需時：40 TU&#10;&#10;射擊模式：&#10;- 120%% TU 100 精度 x 1 發</Data></Cell>
+ </Row>
+ <Row ss:Height="132">
+  <Cell><Data ss:Type="String">weapon.rocket.alenium.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶火箭彈&lt;/b&gt;&#10;&#10;異能晶火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：75 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+ </Row>
+ <Row ss:Height="132">
+  <Cell><Data ss:Type="String">weapon.rocket.plasma.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子火箭彈：&lt;/b&gt;&#10;&#10;等離子火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：115 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+ </Row>
+ <Row ss:Height="132">
+  <Cell><Data ss:Type="String">weapon.rocket.fusion.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融火箭彈：&lt;/b&gt;&#10;&#10;核融火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：170 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
+ </Row>
+ <Row ss:Height="99">
+  <Cell><Data ss:Type="String">weapon.rocket.stun.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迷魂火箭彈：&lt;/b&gt;&#10;&#10;迷魂火箭彈可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：4 格</Data></Cell>
+ </Row>
+ <Row ss:Height="82.5">
+  <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;高級醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能即場治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合扣減 HP。這些傷口也可以用醫療包止血。</Data></Cell>
+ </Row>
+ <Row ss:Height="99">
+  <Cell><Data ss:Type="String">weapon.grenade.stun.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迷暈手雷：&lt;/b&gt;&#10;&#10;迷暈手雷可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：3 格</Data></Cell>
+ </Row>
+ <Row ss:Height="132">
+  <Cell><Data ss:Type="String">weapon.grenade.shock.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電擊手雷：&lt;/b&gt;&#10;&#10;電擊手雷產生一度強裂的電磁脈衝，對有機單位做成暈眩傷害，而對機械單位則做成電磁脈衝傷害。&#10;&#10;傷害：50 眩暈（有機物） / 115 電磁（無機物）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
+ </Row>
+ <Row ss:Height="165">
+  <Cell><Data ss:Type="String">weapon.grenade.alenium.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶手雷：&lt;/b&gt;&#10;&#10;異能晶手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：75  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
+ </Row>
+ <Row ss:Height="165">
+  <Cell><Data ss:Type="String">weapon.grenade.plasma.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子手雷：&lt;/b&gt;&#10;&#10;等離子手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：115 能量&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
+ </Row>
+ <Row ss:Height="165">
+  <Cell><Data ss:Type="String">weapon.grenade.fusion.desc</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融手雷：&lt;/b&gt;&#10;&#10;核融手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：160  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
+ </Row><Row>
+  <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack</Data></Cell>
+  <Cell><Data ss:Type="String">高級醫療包</Data></Cell>
+ </Row><Row>
   <Cell><Data ss:Type="String">weaponcooldown.ready</Data></Cell>
   <Cell><Data ss:Type="String">（就緒）</Data></Cell>
  </Row><Row>
@@ -5378,81 +5655,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Rhodesia</Data></Cell>
   <Cell><Data ss:Type="String">羅德西亞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCarrierDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienCorvetteDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienLandingCraftDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienCarrierDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienBattleshipDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienHeavyFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Auckland</Data></Cell>
   <Cell><Data ss:Type="String">奧克蘭</Data></Cell>
@@ -6201,18 +6403,6 @@
   <Cell><Data ss:Type="String">French-Brazilian</Data></Cell>
   <Cell><Data ss:Type="String">法籍巴西</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
-  <Cell><Data ss:Type="String">分析異型基地</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
-  <Cell><Data ss:Type="String">基地升級</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Item.Dispose.Datacore</Data></Cell>
-  <Cell><Data ss:Type="String">回收</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ScimitarTank</Data></Cell>
-  <Cell><Data ss:Type="String">彎刀戰車</Data></Cell>
- </Row><Row>
   <Cell><Data ss:Type="String">personnel.nosoldiers</Data></Cell>
   <Cell><Data ss:Type="String">請先選擇要僱用的士兵。</Data></Cell>
  </Row><Row>
@@ -6264,36 +6454,6 @@
   <Cell><Data ss:Type="String">Alienbase.Large.Andron</Data></Cell>
   <Cell><Data ss:Type="String">異型要塞基地</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienSniperPlasmaDesc</Data></Cell>
-  <Cell><Data ss:Type="String">長距離而準確的異型射手武器。研究它可以推進我們對能量武器的理解。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.Reaper</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.ReaperAlpha</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲王</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ScimitarTankDesc</Data></Cell>
-  <Cell><Data ss:Type="String">利用先進的異型合金及航電技術所製作的支援戰車，應該比獵手有顯著增強。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBaseFacilitiesDesc</Data></Cell>
-  <Cell><Data ss:Type="String">分析所虜獲的異型基地的設施。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.BaseUpgradeDesc</Data></Cell>
-  <Cell><Data ss:Type="String">用異型科技升級我們的重點基地設施。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">weapon.explosive.plasma</Data></Cell>
-  <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
- </Row><Row ss:Height="148.5">
-  <Cell><Data ss:Type="String">weapon.explosive.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子炸彈：&lt;/b&gt;&#10;&#10;等離子炸彈是一塊主要用以爆破建築的爆破物，因為它的爆炸對景物會造成四倍的傷害。士兵可以設定炸彈多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：100 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;TU 花費：60%</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子戰鬥步槍</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBattleRifleDesc</Data></Cell>
-  <Cell><Data ss:Type="String">強力的雙手異型武器，約有步槍那麼大。研究它可以推進我們對能量武器的理解。</Data></Cell>
- </Row><Row>
   <Cell><Data ss:Type="String">SEQ.ARMOURBOX</Data></Cell>
   <Cell><Data ss:Type="String">護甲</Data></Cell>
  </Row><Row>
@@ -6342,99 +6502,6 @@
   <Cell><Data ss:Type="String">TerrorEndLabel</Data></Cell>
   <Cell><Data ss:Type="String">恐襲結束</Data></Cell>
  </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
-  <Cell><Data ss:Type="String">異型通訊陣列</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCommunicationArrayDesc</Data></Cell>
-  <Cell><Data ss:Type="String">虜獲的異型通訊狀置。研究它也許就能解讀異型的通訊。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">奇點飛雷</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">weapon.AlienAssaultPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ParticleBeam</Data></Cell>
-  <Cell><Data ss:Type="String">奇點炮</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ParticleBeamDesc</Data></Cell>
-  <Cell><Data ss:Type="String">利用異型奇點爐所存的巨大能量開發強力的步兵武器。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAssaultPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienAssaultPlasmaDesc</Data></Cell>
-  <Cell><Data ss:Type="String">強力但射程短的異型等離子武器。</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">weapon.combatshield</Data></Cell>
-  <Cell><Data ss:Type="String">戰鬥盾</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">weapon.assaultshield</Data></Cell>
-  <Cell><Data ss:Type="String">突擊盾</Data></Cell>
- </Row>
- <Row ss:Height="132">
-  <Cell><Data ss:Type="String">weapon.combatshield.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;戰鬥盾：&lt;/b&gt;&#10;&#10;戰鬥盾能代替士兵挨打。這盾會吸收士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側面和後方就不一定了。&#10;&#10;HP：80&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
- </Row>
- <Row ss:Height="148.5">
-  <Cell><Data ss:Type="String">weapon.assaultshield.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;突擊盾：&lt;/b&gt;&#10;&#10;&#10;突擊盾能代替士兵挨打。這盾會吸收士兵所受的傷害，直到吸滿毀壞。來自士兵前方九十度內的攻擊會被自動擋下，但側面和後方就不一定了。&#10;&#10;HP：160&#10;前擋機率：100%%&#10;側擋機率：60%%&#10;後擋機率：0%%</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienFighterDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienHeavyFighterDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienInterceptorDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBomberDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienBattleshipDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCarrierDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienStrikeCruiserDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCruiserDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienLandingCraftDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienCorvetteDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienScoutDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AlienLightScoutDatacoreDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.AndronDisassemblyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.CaesanAutopsyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HarridanAutopsyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.PraetorAutopsyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.ReaperAutopsyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.SebillianAutopsyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.WraithAutopsyDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.LightDroneWreckageDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.MediumDroneWreckageDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HeavyDroneWreckageDesc</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">輕型無人機解拆</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">中型無人機解拆</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">重型無人機解拆</Data></Cell>
- </Row><Row>
   <Cell><Data ss:Type="String">RESISTED</Data></Cell>
   <Cell><Data ss:Type="String">全抗</Data></Cell>
  </Row><Row>
@@ -6443,70 +6510,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">Turret.Miss</Data></Cell>
   <Cell><Data ss:Type="String">打失</Data></Cell>
- </Row>
- <Row ss:Height="280.5">
-  <Cell><Data ss:Type="String">weapon.MAGpistol.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：105 動能&#10;壓制：32 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
- </Row>
- <Row ss:Height="297">
-  <Cell><Data ss:Type="String">weapon.MAGcarbine.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：85 動能（三發）&#10;壓制：72 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
- </Row>
- <Row ss:Height="313.5">
-  <Cell><Data ss:Type="String">weapon.MAGrifle.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：105 動能&#10;壓制：32 單發 / 96 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
- </Row>
- <Row ss:Height="297">
-  <Cell><Data ss:Type="String">weapon.MAGprecision.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：120 動能&#10;壓制：37 點&#10;穿甲力：35&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
- </Row>
- <Row ss:Height="280.5">
-  <Cell><Data ss:Type="String">weapon.magstorm.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器。準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：165 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
- </Row>
- <Row ss:Height="264">
-  <Cell><Data ss:Type="String">weapon.particlebeam.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;奇點炮：&lt;/b&gt;&#10;&#10;奇點炮是供獵戶戰甲用者使用的重武器，穿其他戰甲的士兵無法滿足它的 TU 需求。它的效果類似一支超強力火箭炮，所以按下發射鍵前請確保爆炸範圍內沒有自己人！&#10;&#10;射程：35&#10;傷害：500 能量&#10;爆炸半徑：5 格&#10;壓制：80 點&#10;穿甲力：100&#10;裝彈量：1 發&#10;反應倍率：0.5 倍&#10;裝彈需時：40 TU&#10;&#10;射擊模式：&#10;- 120%% TU 100 精度 x 1 發</Data></Cell>
- </Row>
- <Row ss:Height="132">
-  <Cell><Data ss:Type="String">weapon.rocket.alenium.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶火箭彈&lt;/b&gt;&#10;&#10;異能晶火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：75 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
- </Row>
- <Row ss:Height="132">
-  <Cell><Data ss:Type="String">weapon.rocket.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子火箭彈：&lt;/b&gt;&#10;&#10;等離子火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：115 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
- </Row>
- <Row ss:Height="132">
-  <Cell><Data ss:Type="String">weapon.rocket.fusion.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融火箭彈：&lt;/b&gt;&#10;&#10;核融火箭彈是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：170 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
- </Row>
- <Row ss:Height="99">
-  <Cell><Data ss:Type="String">weapon.rocket.stun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迷魂火箭彈：&lt;/b&gt;&#10;&#10;迷魂火箭彈可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：4 格</Data></Cell>
- </Row>
- <Row ss:Height="82.5">
-  <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;高級醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能即場治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合扣減 HP。這些傷口也可以用醫療包止血。</Data></Cell>
- </Row>
- <Row ss:Height="99">
-  <Cell><Data ss:Type="String">weapon.grenade.stun.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;迷暈手雷：&lt;/b&gt;&#10;&#10;迷暈手雷可以從遠距離投射迷暈氣體。任何接觸這氣體的有機單位都會受到眩暈傷害，不過部分單位（特別是載頭盔的）能部分甚至完全無視它。&#10;&#10;傷害：40 眩暈（每回合）&#10;氣體半徑：3 格</Data></Cell>
- </Row>
- <Row ss:Height="132">
-  <Cell><Data ss:Type="String">weapon.grenade.shock.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電擊手雷：&lt;/b&gt;&#10;&#10;電擊手雷產生一度強裂的電磁脈衝，對有機單位做成暈眩傷害，而對機械單位則做成電磁脈衝傷害。&#10;&#10;傷害：50 眩暈（有機物） / 115 電磁（無機物）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
- </Row>
- <Row ss:Height="165">
-  <Cell><Data ss:Type="String">weapon.grenade.alenium.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;異能晶手雷：&lt;/b&gt;&#10;&#10;異能晶手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：75  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
- </Row>
- <Row ss:Height="165">
-  <Cell><Data ss:Type="String">weapon.grenade.plasma.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子手雷：&lt;/b&gt;&#10;&#10;等離子手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：115 能量&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
- </Row>
- <Row ss:Height="165">
-  <Cell><Data ss:Type="String">weapon.grenade.fusion.desc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融手雷：&lt;/b&gt;&#10;&#10;核融手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：160  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Crashsite</Data></Cell>
   <Cell><Data ss:Type="String">本任務的目標是奪取地上的幽浮，獲得裡面的異型技術作研究及開發之用。其他從戰場上回收的物資會自動放售，換取額外資金。&lt;br&gt;&lt;br&gt;要完成任務，最簡單是解決戰鬥區域內的所有異型。任務會立刻自動完成，並回收所有異型物資。但是你也可以掃盪幽浮內的所有異型，然後在幽浮內持續五回合駐守士兵。&lt;br&gt;&lt;br&gt;如果幽浮是從空中被強行擊落，部分乘員可能已經身故，幽浮內的裝置也可能已經損毀。自行著陸的幽浮會非常完整，但你也必需面對毫髮未傷的乘員。&lt;br&gt;&lt;br&gt;當你突擊幽浮內部時，切記用煙霧彈、火力壓制、或護盾去削弱或排除在內死守的異型的反應射擊。</Data></Cell>
@@ -6555,9 +6558,6 @@
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.AlienPraetor.Title</Data></Cell>
   <Cell><Data ss:Type="String">異型裁判官在場</Data></Cell>
- </Row><Row>
-  <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack</Data></Cell>
-  <Cell><Data ss:Type="String">高級醫療包</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SEQ.STATSTRENGTH.DESC</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;士兵的力量決定他能攜帶多少重量而不過載（過載有 TU 懲罰）。力量高的士兵也可以將手雷和炸彈丟得更遠。</Data></Cell>
