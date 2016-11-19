@@ -542,7 +542,7 @@
   <Cell><Data ss:Type="String">常規護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.buzzard</Data></Cell>
-  <Cell><Data ss:Type="String">狼鷲護甲</Data></Cell>
+  <Cell><Data ss:Type="String">狼鷲戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.colossus</Data></Cell>
   <Cell><Data ss:Type="String">巨神戰甲</Data></Cell>
@@ -554,7 +554,7 @@
   <Cell><Data ss:Type="String">獵戶戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.sentinel</Data></Cell>
-  <Cell><Data ss:Type="String">衛士護甲</Data></Cell>
+  <Cell><Data ss:Type="String">衛士戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">armour.wolf</Data></Cell>
   <Cell><Data ss:Type="String">灰狼戰甲</Data></Cell>
@@ -608,7 +608,7 @@
   <Cell><Data ss:Type="String">等離子飛雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AV.SCATTERLASER</Data></Cell>
-  <Cell><Data ss:Type="String">散射激光</Data></Cell>
+  <Cell><Data ss:Type="String">格林激光炮</Data></Cell>
   <Cell></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AV.SCOUTBEAM</Data></Cell>
@@ -2879,7 +2879,7 @@
   <Cell><Data ss:Type="String">等離子噴射炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Buzzard</Data></Cell>
-  <Cell><Data ss:Type="String">狼鷲護甲</Data></Cell>
+  <Cell><Data ss:Type="String">狼鷲戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Corsair</Data></Cell>
   <Cell><Data ss:Type="String">海賊戰鬥機</Data></Cell>
@@ -3023,7 +3023,7 @@
   <Cell><Data ss:Type="String">彎刀支援戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Sentinel</Data></Cell>
-  <Cell><Data ss:Type="String">衛士護甲</Data></Cell>
+  <Cell><Data ss:Type="String">衛士戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Shrike</Data></Cell>
   <Cell><Data ss:Type="String">伯勞鳥運輸機</Data></Cell>
@@ -3566,7 +3566,7 @@
   <Cell><Data ss:Type="String">D-30F6 索洛維耶夫</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">POWERPLANT.AleniumRepulsion</Data></Cell>
-  <Cell><Data ss:Type="String">ER-3 異能晶斥力器</Data></Cell>
+  <Cell><Data ss:Type="String">ER-3 異能晶脈衝渦輪引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">POWERPLANT.FusionCore</Data></Cell>
   <Cell><Data ss:Type="String">ER-14 核融爐</Data></Cell>
@@ -3935,7 +3935,7 @@
   <Cell><Data ss:Type="String">用強化過的異型合金所製作的新型戰鬥盾，能更有效地抵禦異型的等離子武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Buzzard</Data></Cell>
-  <Cell><Data ss:Type="String">狼鷲護甲</Data></Cell>
+  <Cell><Data ss:Type="String">狼鷲戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.BuzzardDesc</Data></Cell>
   <Cell><Data ss:Type="String">輕量版的灰狼護甲，強調機動機多於保護力。這套新式護甲會包括垂直移動用的噴射背包。</Data></Cell>
@@ -4142,10 +4142,10 @@
   <Cell><Data ss:Type="String">分析所抓到的斯巴蜥人，找出牠們的弱點。完成後會提升士兵對斯巴蜥人做成的傷害。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.Sentinel</Data></Cell>
-  <Cell><Data ss:Type="String">衛士護甲</Data></Cell>
+  <Cell><Data ss:Type="String">衛士戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.SentinelDesc</Data></Cell>
-  <Cell><Data ss:Type="String">開發一套保留高機動力的進階戰衣。設計包括噴射背包及提升穿載者視野的感測器。</Data></Cell>
+  <Cell><Data ss:Type="String">開發一套保留高機動力的進階戰衣。設計將採納噴射背包及提升穿載者視野的感測器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.ShrikeDropship</Data></Cell>
   <Cell><Data ss:Type="String">D-42 伯勞鳥 運輸機</Data></Cell>
