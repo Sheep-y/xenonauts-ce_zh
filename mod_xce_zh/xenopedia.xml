@@ -129,18 +129,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaPistol</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 琱 MODMERGEWITH: 餒，我們沒有白費功夫。只要繼續測試下去，應該能研發出適合抵禦這些外星能量武器的步兵護甲。 MODMERGEREPLACE: 局 MODMERGEWITH: 等離子手槍是異型的一種備用武裝，長約八寸、重約一公斤。有點類似人類的手槍，但不發射 MODMERGEREPLACE: 彫 MODMERGEWITH: 目標。我們目前也無法理解或複製它的技術，需要回收更大的異型武器去互相比較。不過別氣 MODMERGEREPLACE: 鵰 MODMERGEWITH: 異型握持。出於身體結構的差異，人類連握都握不好它，在戰場上拿起這槍的人類會很難打中 MODMERGEREPLACE: 侷 MODMERGEWITH: 子彈，而是發射一股熾熱的高溫等離子。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: ，而是發射一股熾熱的高溫等離子。
 
-它很強，能輕易一槍做掉沒穿護甲的人。不過我 MODMERGEREPLACE: 跼 MODMERGEWITH: 因此它在近距戰鬥中最危險，一槍就能打倒一名士兵。距離越遠，此槍的準確度和威力都越低 MODMERGEREPLACE: 挶 MODMERGEWITH: 們的測試表明它的小體積削弱了它的效能，它發射的等離子體基本上一離開槍身就開始消散。 MODMERGEREPLACE: 雕 MODMERGEWITH: 。因此對策很簡單：從遠距射倒拿這手槍的敵人就好。
+它很強，能輕易一槍做掉沒穿護甲的人。不過我們的測試表明它的 MODMERGEREPLACE: 臺 MODMERGEWITH: 等離子手槍是異型的一種備用武裝，長約_8_寸、重約_1_公斤。有點類似人類的手槍，但不發射子彈 MODMERGEREPLACE: 颱 MODMERGEWITH: 槍就能打倒一名士兵。距離越遠，此槍的準確度和威力都越低。因此對策很簡單：從遠距射倒拿這手槍的敵 MODMERGEREPLACE: 並 MODMERGEWITH: 戰場上拿起這槍的人類會很難打中目標。我們目前也無法理解或複製它的技術，需要回收更大的異型武器去 MODMERGEREPLACE: 檯 MODMERGEWITH: 小體積削弱了它的效能，它發射的等離子體基本上一離開槍身就開始消散。因此它在近距戰鬥中最危險，一 MODMERGEREPLACE: 并 MODMERGEWITH: 人就好。
 
-這是一把很好的武器，可惜只適合</Data></Cell>
+這是一把很好的武器，可惜只適合異型握持。出於身體結構的差異，人類連握都握不好它，在 MODMERGEREPLACE: 併 MODMERGEWITH: 互相比較。不過別氣餒，我們沒有白費功夫。只要繼續測試下去，應該能研發出適合抵禦這些外星能量武器的步兵護甲。</Data></Cell>
    </Row>
    <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBiology</Data></Cell>
@@ -188,18 +188,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 異型的等離子步槍長約三十寸，重約三公斤，是異型的雙手步兵武 MODMERGEREPLACE: 檯 MODMERGEWITH: 比手槍大了不少，裝載了更多等離子產生器，令到戰鬥射程跟人類 MODMERGEREPLACE: 颱 MODMERGEWITH: 步槍相若，但破壞力和貫穿力更高。實驗顥示豺狼護甲平均可以捱 MODMERGEREPLACE: 並 MODMERGEWITH: 手裝甲車都不應硬碰。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: 規護甲的就大概沒救。實際上，連我們的獵手裝甲車都不應 MODMERGEREPLACE: 濛 MODMERGEWITH: 硬碰。
 
-異型等離子步槍適合多種用途，是異型 MODMERGEREPLACE: 併 MODMERGEWITH: 士兵的標準武裝。強力、輕便、準確、能連射，比我們的任何武器都要優秀。 MODMERGEREPLACE: 台 MODMERGEWITH: 器。它產生的等離子體比等離子手槍的更強更緊緻。
+異型等離子步槍適合多種用途，是異型士兵的標 MODMERGEREPLACE: 干 MODMERGEWITH: 異型的等離子步槍長約_30_寸，重約_3_公斤，是異 MODMERGEREPLACE: 榦 MODMERGEWITH: 產生器，令到戰鬥射程跟人類步槍相若，但破壞力和貫穿力 MODMERGEREPLACE: 矇 MODMERGEWITH: 準武裝。強力、輕便、準確、能連射，比我們的任何武器都要優秀。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 更高。實驗顥示豺狼護甲平均可以捱一發而不死人，但穿常 MODMERGEREPLACE: 幹 MODMERGEWITH: 更緊緻。
 
-它的體積 MODMERGEREPLACE: 并 MODMERGEWITH: 一發而不死人，但穿常規護甲的就大概沒救。實際上，連我們的獵</Data></Cell>
+它的體積比手槍大了不少，裝載了更多等離子 MODMERGEREPLACE: 乾 MODMERGEWITH: 型的雙手步兵武器。它產生的等離子體比等離子手槍的更強</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyFabrication</Data></Cell>
@@ -327,18 +327,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHeavyPlasmaRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 異型重等離子長三十五寸，重約五公斤。它的傷害力跟標準的異型等離子步 MODMERGEREPLACE: 台 MODMERGEWITH: 槍差不多，但貫穿力要優良許多。代價是射程縮短了，以及不能連射。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 離子步槍的一半。
 
- MODMERGEREPLACE: 并 MODMERGEWITH: 對地不太穩定。跟手槍的一樣它幾乎一離開槍管就開始解體，有效射程大約 MODMERGEREPLACE: 併 MODMERGEWITH: 如同薄紙，兩三發就能毀掉一輛獵手戰車。要對付拿這武器的敵人就要保持距離。 MODMERGEREPLACE: 並 MODMERGEWITH: 只有異型等離子步槍的一半。
+即使如此它還是非常強力，強到豺狼護甲如 MODMERGEREPLACE: 幹 MODMERGEWITH: 短了，以及不能連射。
 
-即使如此它還是非常強力，強到豺狼護甲 MODMERGEREPLACE: 檯 MODMERGEWITH: 兩者的主要分別在於槍管。重等離子的槍管較厚短、較闊，等離子產生器大 MODMERGEREPLACE: 颱 MODMERGEWITH: 兩倍而電磁鐵則短一半。於是產生的等離子體能量更高（穿透力更強）但相</Data></Cell>
+兩者的主要分別在於槍管。重等離子的 MODMERGEREPLACE: 干 MODMERGEWITH: 異型重等離子長_35_五寸，重約_5_公斤。它的傷害力跟標 MODMERGEREPLACE: 蒙 MODMERGEWITH: 產生的等離子體能量更高（穿透力更強）但相對地不太穩定。跟手 MODMERGEREPLACE: 乾 MODMERGEWITH: 準的異型等離子步槍差不多，但貫穿力要優良許多。代價是射程縮 MODMERGEREPLACE: 榦 MODMERGEWITH: 槍管較厚短、較闊，等離子產生器大兩倍而電磁鐵則短一半。於是 MODMERGEREPLACE: 懞 MODMERGEWITH: 槍的一樣它幾乎一離開槍管就開始解體，有效射程大約只有異型等 MODMERGEREPLACE: 矇 MODMERGEWITH: 同薄紙，兩三發就能毀掉一輛獵手戰車。要對付拿這武器的敵人就要保持距離。</Data></Cell>
    </Row>
    <Row ss:Height="242.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.StunWeapons</Data></Cell>
@@ -405,18 +405,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.corsair</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 短時間之內重新設計一整架戰機依然難比登天。因此數值上的提升主要源自更高效的異型物料或製程。真正的突破有兩項。首 MODMERGEREPLACE: 台 MODMERGEWITH: 心挑選較能抵抗異型武器的物料，結果就是比_F-17_神鷲_更快、更耐打，纏鬥能力更優秀的新代戰機。它不能攜帶重 MODMERGEREPLACE: 檯 MODMERGEWITH: 型飛雷，所以還不能取代_Mig-32_狐步。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: ，其餘部分也精心挑選較能抵抗異型武器的物料，結果就是比_F-17_神鷲_更快、更耐打，纏鬥能力更 MODMERGEREPLACE: 蒙 MODMERGEWITH: 提升主要源自更高效的異型物料或製程。真正的突破有兩項。首先是可變後掠翼設計，不單提升了低速的機動 MODMERGEREPLACE: 懞 MODMERGEWITH: 性，也能優化高速的表現。第二是全新的_ER-3_異能晶脈衝渦輪引擎，提供的推力比現有的渦輪引擎多 MODMERGEREPLACE: 矇 MODMERGEWITH: 巡航。
 
-就各方面而言，海賊都只是演化而不是進化。即使聰明如我，要在這麼 MODMERGEREPLACE: 并 MODMERGEWITH: 先是可變後掠翼設計，不單提升了低速的機動性，也能優化高速的表現。第二是全新的_ER-3_異能晶脈衝渦輪引擎，提 MODMERGEREPLACE: 並 MODMERGEWITH: 供的推力比現有的渦輪引擎多一倍。將所有改進合起來之後，雖然海賊因裝甲關係比神鷲更大更重，但依然能用_3,000 MODMERGEREPLACE: 併 MODMERGEWITH: _公里的時速巡航。
+建造一架海賊需要大量的時間、金錢、和異型合金，但我絕對相信傳統戰機會隨著戰爭升溫而迅速落伍。 MODMERGEREPLACE: 榦 MODMERGEWITH: 只是演化而不是進化。即使聰明如我，要在這麼短時間之內重新設計一整架戰機依然難比登天。因此數值上的 MODMERGEREPLACE: 幹 MODMERGEWITH: 優秀的新代戰機。它不能攜帶重型飛雷，所以還不能取代_Mig-32_狐步。
 
-建造一架海賊需要大量的時間、金錢、和異型合金，但我絕對相信傳統戰機會隨著戰爭升溫而迅速落伍。 MODMERGEREPLACE: 臺 MODMERGEWITH: X-37“海賊”Corsair_是首架專為對付幽浮而設計的戰鬥機。我們在機體中大量採用了異型合金，其餘部分也精</Data></Cell>
+就各方面而言，海賊都 MODMERGEREPLACE: 濛 MODMERGEWITH: 一倍。將所有改進合起來之後，雖然海賊因裝甲關係比神鷲更大更重，但依然能用_3，000_公里的時速 MODMERGEREPLACE: 干 MODMERGEWITH: X-37“海賊”Corsair_是首架專為對付幽浮而設計的戰鬥機。我們在機體中大量採用了異型合金</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.SCIMITAR</Data></Cell>
@@ -462,18 +462,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.buzzard</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 這也意味著在飛行期間他們不能操作武器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: 跳躍裝置就是那具顯眼的背包，裡面有一副微縮版異能晶反應爐以驅動肩上的一對推進器， MODMERGEREPLACE: 局 MODMERGEWITH: 狼鷲戰衣是灰狼戰甲的變體，側重機動性高於防護力。它內建一套跳躍裝置，讓士兵能在戰 MODMERGEREPLACE: 琱 MODMERGEWITH: 物的能力會很有用，特別是在偵察和狙擊上。但經常遭遇敵襲的士兵最好繼續穿著保護性較佳的灰狼。 MODMERGEREPLACE: 侷 MODMERGEWITH: 場上垂直移動。改良的裝甲版犧牲少許防護力換來輕量化，讓士兵帶更多裝備上戰場。
 
-想當然耳，在戰場中“跳”上屋頂或跨過障 MODMERGEREPLACE: 幹 MODMERGEWITH: 跳躍裝置就是那具顯眼的背包，裡面有一副微縮版異能晶反應爐以驅動肩上的一對推進器， MODMERGEREPLACE: 矇 MODMERGEWITH: 礙物的能力會很有用，特別是在偵察和狙擊上。但經常遭遇敵襲的士兵最好繼續穿著保護性較佳的灰狼。 MODMERGEREPLACE: 干 MODMERGEWITH: 狼鷲戰衣是灰狼戰甲的變體，側重機動性高於防護力。它內建一套跳躍裝置，讓士兵能在戰 MODMERGEREPLACE: 懞 MODMERGEWITH: 定功能。即使沒受過機師訓練的人都可以操作它，用手套上的觸控盤就可以改變航向。不過 MODMERGEREPLACE: 乾 MODMERGEWITH: 場上垂直移動。改良的裝甲版犧牲少許防護力換來輕量化，讓士兵帶更多裝備上戰場。
+ MODMERGEREPLACE: 跼 MODMERGEWITH: 及陀螺儀飛行管制系統和傳感器等零碎設備。雖然這套跳躍裝置不足以長期飛行，但要懸浮 MODMERGEREPLACE: 鵰 MODMERGEWITH: 功能。即使沒受過機師訓練的人都可以操作它，用手套上的觸控盤就可以改變航向。不過這 MODMERGEREPLACE: 彫 MODMERGEWITH: 也意味著在飛行期間他們不能操作武器。
 
- MODMERGEREPLACE: 榦 MODMERGEWITH: 及陀螺儀飛行管制系統和傳感器等零碎設備。雖然這套跳躍裝置不足以長期飛行，但要懸浮 MODMERGEREPLACE: 蒙 MODMERGEWITH: 一段短時間絕對沒有問題，拷貝自多角度推力裝置的向量推力噴嘴提供精細的操控及自動穩</Data></Cell>
+想當然耳，在戰場中“跳”上屋頂或跨過障礙 MODMERGEREPLACE: 雕 MODMERGEWITH: 一段短時間絕對沒有問題，抄襲多向推力陣列的向量推力噴嘴能提供精細的操控及自動穩定</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
@@ -481,18 +481,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienPlasmaCannon</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 附近的所有東西做成巨大傷害。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 點附近的所有東西做成巨大傷害。
 
-但它比我們的火箭彈優勝許多，例如破壞力。在近距離它可以貫穿最少_15_寸厚的鋼 MODMERGEREPLACE: 矇 MODMERGEWITH: 直擊，但防一防爆焰應該可以，特別是灰狼甲。我已經向你的手下警告過這武器的強大威力，要是他們聰明的話見到它開火就會知道要跑。 MODMERGEREPLACE: 干 MODMERGEWITH: 異型等離子炮是長約五十寸的大型步兵武器，我們認為該將它看待成異型的火箭炮。它會發射長射程的等離子團，能對爆炸點 MODMERGEREPLACE: 濛 MODMERGEWITH: 止這種事發生，直接對抗電漿團的純能量。因此我開發出的先進技術能有限度地提供保護。雖然灰狼甲和狼鷲甲都擋不住一發 MODMERGEREPLACE: 幹 MODMERGEWITH: 板（具體多少我們不肯定，因為它燒穿了我們的所有鋼板）。簡單而言，它能一擊摧毀世上的任何傳統戰車。另一個重大差異 MODMERGEREPLACE: 榦 MODMERGEWITH: 是裝彈量。再熟練的火箭手都需要十秒或以上才能裝好下一發反坦克飛彈，但異型等離子炮的電池可以供應好幾發而不需裝彈 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。這武器幾乎沒有回彈力也完全沒後焰，容易操作之餘亦更安全。
+但它比我們的火箭彈優勝許多，例如破壞力。在近距離它可以貫穿最少_15_寸厚的鋼 MODMERGEREPLACE: 跼 MODMERGEWITH: 裝彈量。再熟練的火箭手都需要十秒或以上才能裝好下一發反坦克飛彈，但異型等離子炮的電池可以供應好幾發而不需裝彈。這 MODMERGEREPLACE: 彫 MODMERGEWITH: 發生，直接對抗電漿團的純能量。因此我開發出的先進技術能有限度地提供保護。雖然灰狼甲和狼鷲甲都擋不住一發直擊，但防 MODMERGEREPLACE: 局 MODMERGEWITH: 異型等離子炮是長約_50_寸的大型步兵武器，我們認為該將它看待成異型的火箭炮。它會發射長射程的等離子團，能對爆炸 MODMERGEREPLACE: 雕 MODMERGEWITH: 武器幾乎沒有回彈力也完全沒後焰，容易操作之餘亦更安全。
 
-幸運地，異型的合金對等離子的抗力比傳統物強上不少 MODMERGEREPLACE: 懞 MODMERGEWITH: 。我們推測這是因為傳統鋼鐵受到攻擊的時候會汽化，圍著電漿團構成一個彈體，做成穿甲效果。而異型合金的高熔點可以防</Data></Cell>
+幸運地，異型的合金對等離子的抗力比傳統物強上不少。我們 MODMERGEREPLACE: 挶 MODMERGEWITH: 板（具體多少我們不肯定，因為它燒穿了我們的所有鋼板）。簡單而言，它能一擊摧毀世上的任何傳統戰車。另一個重大差異是 MODMERGEREPLACE: 鵰 MODMERGEWITH: 推測這是因為傳統鋼鐵受到攻擊的時候會汽化，圍著電漿團構成一個彈體，做成穿甲效果。而異型合金的高熔點可以防止這種事 MODMERGEREPLACE: 琱 MODMERGEWITH: 一防爆焰應該可以，特別是灰狼甲。我已經向你的手下警告過這武器的強大威力，要是他們聰明的話見到它開火就會知道要跑。</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
@@ -500,18 +500,18 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSniperPlasma</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 麼可怕。雖然它能貫穿任何戰術護甲，但亦會貫穿所擊中的士兵。在身上開個半 MODMERGEREPLACE: 侷 MODMERGEWITH: 鏡陣，所產生的等離子團飛得又準又遠，是為狙擊而設的武器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 幹 MODMERGEWITH: 跟異型重等離子有很多相近的內部組件，包括產生高能電漿的特大加熱倉。主要 MODMERGEREPLACE: 干 MODMERGEWITH: 異型等離子狙擊槍是長約_50_寸的長型異型步兵武器。它裝設有複雜的浮影 MODMERGEREPLACE: 矇 MODMERGEWITH: 很有意思：它能長距離命中士兵，能打穿任何護甲，但射速緩慢而威力也難以一擊弊命。 MODMERGEREPLACE: 乾 MODMERGEWITH: 尋標鏡陣，所產生的等離子團飛得又準又遠，是為狙擊而設的武器。
 
-這武器跟異 MODMERGEREPLACE: 局 MODMERGEWITH: 異型等離子狙擊槍是長約五十寸的長型異型步兵武器。它裝設有複雜的浮影尋標 MODMERGEREPLACE: 琱 MODMERGEWITH: 意思：它能長距離命中士兵並打穿任何護甲，但射速緩慢，威力也難以一擊弊命。 MODMERGEREPLACE: 彫 MODMERGEWITH: 寸直徑的洞會是不愉快的體驗，但只要沒打穿重要器官就不致命。這件武器很有 MODMERGEREPLACE: 雕 MODMERGEWITH: 定性，將能量集中於一點提升貫穿力。
+這武器 MODMERGEREPLACE: 懞 MODMERGEWITH: 去那麼可怕。雖然它能貫穿任何戰術護甲，但亦會貫穿所擊中的士兵。在身上開 MODMERGEREPLACE: 蒙 MODMERGEWITH: 升穩定性，將能量集中於一點提升貫穿力。
 
-這個驚人的貫穿力其實沒有聽上去那 MODMERGEREPLACE: 挶 MODMERGEWITH: 型重等離子有很多相近的內部組件，包括產生高能電漿的特大加熱倉。主要分別 MODMERGEREPLACE: 跼 MODMERGEWITH: 在於本槍的槍管電磁鐵長而緊緻。它們會收窄等離子束，減低空氣阻力並提升穩</Data></Cell>
+這個驚人的貫穿力其實沒有聽上 MODMERGEREPLACE: 榦 MODMERGEWITH: 分別在於本槍的槍管電磁鐵長而緊緻。它們會收窄等離子束，減低空氣阻力並提 MODMERGEREPLACE: 濛 MODMERGEWITH: 個半寸直徑的洞會是不愉快的體驗，但只要沒打穿重要器官就不致命。這件武器</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
@@ -519,20 +519,20 @@
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBaseFacilities</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 檯 MODMERGEWITH: 駐員會開始氧中毒致死。我們可以肯定異型會寧可將基地自爆；自爆前會不會派幽浮撤離人員就很難說了。如果目的只是要摧毀異型基地，您只要炸毀這個動力爐就可以 MODMERGEREPLACE: 并 MODMERGEWITH: 時會死守指揮室。由此可以推斷他們的任務就是保護司令官，因為司令官在異型中有一定的地位及重要的機密情報。如此屬實，那就冒必要抓到牠。攻佔指揮室並掃盪全 MODMERGEREPLACE: 颱 MODMERGEWITH: 撒退。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 護衛是全基地最強的戰力，當基地遇襲時會死守指揮室。由此可以推斷他們的任務就是保護司令官，因為司令官在異型中有一 MODMERGEREPLACE: 侷 MODMERGEWITH: 處具戰術價值的目標設施：動力爐和指揮室。動力爐會發出藍光，很易辨認。它為全基地提供動力，當中包括維持空氣氧含量 MODMERGEREPLACE: 挶 MODMERGEWITH: 的環境維持系統。失去動力源的話，基地在數小時內就會耗盡後備動力，內部駐員會開始氧中毒致死。我們可以肯定異型會寧 MODMERGEREPLACE: 局 MODMERGEWITH: 對不起，指揮官，我私下換了研發部主管那分自我膨脹的科研報告，因為您需要的是客觀的情報匯總。
 
-但如果您想入手基地所藏的技術，您需要攻佔指揮室。指揮室是異型基地的神經中樞，駐有異型司令官及其護衛。這些護衛是全基地最強的戰力，當基地遇襲 MODMERGEREPLACE: 臺 MODMERGEWITH: 對不起，指揮官，我私下換了研發部主管那分自我膨脹的科研報告，因為您需要的是客觀的情報匯總。
+地下異型基地有兩 MODMERGEREPLACE: 彫 MODMERGEWITH: 定的地位及重要的機密情報。如此屬實，那就冒必要抓到牠。攻佔指揮室並掃盪全基地的難度遠大於摧毀動力爐，但風險跟回 MODMERGEREPLACE: 琱 MODMERGEWITH: 報成正比。希望指揮官您能從這兩個選擇中作出最適當的決定。
 
-地下異型基地有兩處具戰術價值的目標建築：動力爐和指揮室 MODMERGEREPLACE: 併 MODMERGEWITH: 基地的難度遠大於摧毀動力爐，但風險跟回報成正比。希望指揮官您能從這兩個選擇中作出最適當的決定。
+P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂它。 MODMERGEREPLACE: 跼 MODMERGEWITH: 可將基地自爆；自爆前會不會派幽浮將人員撤離就很難說了。如果目的只是要摧毀異型基地，您只需炸毀這個動力爐就可以。 MODMERGEREPLACE: 雕 MODMERGEWITH: 
 
-P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。 MODMERGEREPLACE: 台 MODMERGEWITH: 。動力爐可以用它所發的藍光去辨認。動力爐為全基地提供動力，當中包括維持空氣氧含量的環境維持系統。失去動力源的話，基地在數小時內就會耗盡後備動力，內部</Data></Cell>
+但如果您想入手基地所蘊藏的技術，您需要攻佔指揮室。指揮室是異型基地的神經中樞，駐有異型司令官及其護衛。這些</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
@@ -540,18 +540,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseUpgrade</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 適當懲戒那些滋事者。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: 的成果。最大的提升可見於實驗室和工房，兩者的工作效率都平均提升了一半。新的生體電腦可以自動處理多項耗時的工 MODMERGEREPLACE: 颱 MODMERGEWITH: 廚房的激光烤爐，只需要幾秒就能烤熟食物，及娛樂室新添置的浮影遊戲機，兩者都大受歡迎。居住室那邊，將浴室升級 MODMERGEREPLACE: 臺 MODMERGEWITH: 在上一分報告中我闡明了我們為解開異型基地之謎所達成的種種科學創舉，現在可以報告將這些新技術應用於我們的基地 MODMERGEREPLACE: 并 MODMERGEWITH: 到異型明膠的計劃則不太順利，即使明膠比水更快更清潔。你的人甚至不滿到做成一些不愉快事件，令升級計劃需要押後 MODMERGEREPLACE: 併 MODMERGEWITH: 傳送到地球另一面的基地，示範了這網路能如何迅速傳達組織內部的機密資訊。我將這項潛能無可限量的偉大發明稱為“互聯網路”。 MODMERGEREPLACE: 檯 MODMERGEWITH: 作，大大解放我的團隊的充沛腦力。升級的實驗室也裝設了隔音裝置，保障我們免受愚民的燥音干擾。
 
-最後就是我開發了一套連結所有基地系統的內部網路。就在今早我們成功將一幅小貓照片傳送給 MODMERGEREPLACE: 幹 MODMERGEWITH: 果。最大的提升可見於實驗室和工房，兩者的工作效率都平均提升了一半。新的生體電腦可以自動處理多種耗時的程序，大 MODMERGEREPLACE: 榦 MODMERGEWITH: 大解放我的團隊的充足腦力。升級的實驗室也裝設了隔音裝置，保障我們免受愚民的燥音干擾。
+其他改進包括 MODMERGEREPLACE: 並 MODMERGEWITH: ……希望你能適當懲戒那些滋事者。
 
-其他改進包括廚房的激 MODMERGEREPLACE: 乾 MODMERGEWITH: 在上一分報告中我闡明了我們為了解開異型基地之謎所達成的科學創舉，現在可以報告在我們的基地中應用這些新技術的結 MODMERGEREPLACE: 矇 MODMERGEWITH: 半個地球外的基地，表示這網路可以讓我們迅速傳達組織內部的機密資訊。我將這偉大發明稱為“互聯網路”，潛能無可限量。 MODMERGEREPLACE: 懞 MODMERGEWITH: 劃則沒有那麼順利，即使明膠比水更快更清潔。你的人甚至不滿到出現一些不愉快事件，令升級計劃需要押後……希望你能 MODMERGEREPLACE: 蒙 MODMERGEWITH: 光烤爐，烤熟食物只需要幾秒，及娛樂室新添置的浮影遊戲機，兩項都大受歡迎。居住室那邊，將浴室升級到異型明膠的計</Data></Cell>
+最後就是我開發了一套連結所有基地的內部網路。今早我們成功將一幅小貓照片</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
@@ -559,37 +559,37 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWeaponry</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 相對距離就能射出特性各異的等離子束，做出不同的一系列武器。跟激光武器一樣，我們參考 MODMERGEREPLACE: 跼 MODMERGEWITH: 所以剩下的就是不斷地盲目試驗，直到找出三者能連成一體的配置。進一步調整它們的體積和 MODMERGEREPLACE: 彫 MODMERGEWITH: 我最近發現諾貝爾獎只拒收抄襲人類的科學發現，盜自外星生物的話就沒有問題。我現在能拿 MODMERGEREPLACE: 局 MODMERGEWITH: 從戰爭一開始我們就在研究虜獲的異型等離子武器，但一直都無法複制它們。隨著我們漸漸深 MODMERGEREPLACE: 挶 MODMERGEWITH: 器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: ，我們終於獲得足以仿造的技術。突破點是我們終於能正確地複制重力子發射器。
 
-研發過程沒甚麼好說的；我們對等離子產生器和負責成形的電磁鐵都已經深入瞭解， MODMERGEREPLACE: 侷 MODMERGEWITH: 入理解異型科技，我們終於獲得足以抄襲的技術。突破點是我們終於能正確地複制重力子發射 MODMERGEREPLACE: 鵰 MODMERGEWITH: 了現有的射程和準確性，縮減適應所需的時間，所以主要是傷害方面的升級。
+研發過程沒甚麼好 MODMERGEREPLACE: 檯 MODMERGEWITH: 說的；我們對等離子產生器和負責成形的電磁鐵都已經深入瞭解，所以剩下的就是不斷地盲目試驗，直到 MODMERGEREPLACE: 並 MODMERGEWITH: 級在於殺傷力。
 
-最後就是， MODMERGEREPLACE: 琱 MODMERGEWITH: 下最少六個獎，希望你能用新的等離子武器好好保衛斯德哥爾摩直到戰爭結束好讓我後過去領獎。</Data></Cell>
+最後就是，我最近發現諾貝爾獎只會拒收抄襲人類的科研，盜自外星生物的話就沒有 MODMERGEREPLACE: 并 MODMERGEWITH: 的一系列武器。跟激光武器一樣，我們參考了現有的射程和準確性，縮減適應所需的時間，所以主要的升 MODMERGEREPLACE: 颱 MODMERGEWITH: 找出三者能連成一體的配置。進一步調整它們的體積和相對距離就能射出特性各異的等離子束，做出不同 MODMERGEREPLACE: 臺 MODMERGEWITH: 從戰爭一開始我們就在研究異型的等離子武器，但一直都無法重現它們。隨著我們漸漸深入理解異型科技 MODMERGEREPLACE: 併 MODMERGEWITH: 問題。我現在穩握最少六個獎，希望你能用新的等離子武器好好保衛斯德哥爾摩，好讓我在戰爭結束後過去領獎。</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">多角度推力陣列</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">多向推力陣列</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 琱 MODMERGEWITH: ，要管幾個噴射器的話沒可能難倒我的團隊。也許我們的系統會比不過異型的，但即使是簡單的系統都能提升傳統航機的機動力。 MODMERGEREPLACE: 彫 MODMERGEWITH: 航向。可惜的是它太複雜了，很難仿制，但我們應該可以用現有技術取代它。我們的太空火箭在二十年前就已經全自動控制 MODMERGEREPLACE: 挶 MODMERGEWITH: 幽浮外殼的可動噴射器。這些噴射器明顯是為真空環境而設，在太氣層中則同時肩負了轉向、穩定、舉升等職能。每支噴射 MODMERGEREPLACE: 侷 MODMERGEWITH: 如空中的芭蕾舞員。最近虜獲的多角度推力陣列解釋了這背後的原理。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 經全自動控制，才幾個噴射器可難不倒我的團隊。也許我們的系統比不過異型的，但即使是簡單的系統都能提升傳統航機的機動力。 MODMERGEREPLACE: 濛 MODMERGEWITH: 糾正幽浮的航向。可惜的是它太複雜了，很難仿制，但我們應該可以用現有技術取代它。我們的太空火箭在二十年前就已 MODMERGEREPLACE: 蒙 MODMERGEWITH: 更多的噴射器，幽浮就能隨心所欲地飛舞。雖然這套系統的能源效益不及我們的飛翼，但幽浮有充沛的動力可以揮霍。
+ MODMERGEREPLACE: 幹 MODMERGEWITH: 幽浮外殼的活動式噴射器。這些噴射器明顯是為真空環境而設，在太氣層中則同時肩負了轉向、穩定、舉升等職能。每支 MODMERGEREPLACE: 干 MODMERGEWITH: 外星飛船有很多令人驚異之處，其中包括它們神奇的機動力。它們不單止能懸浮，轉向速度也遠超越其體積應有的限制， MODMERGEREPLACE: 榦 MODMERGEWITH: 噴射器都有一層佈滿細小襟翼的“甲殼”，每塊都能輸出微量的向量推力，令到每支噴射器都有驚人的精度。裝上一打或 MODMERGEREPLACE: 乾 MODMERGEWITH: 仿如空中的芭蕾舞員。最近虜獲的多向推力陣列解釋了箇中奧秘。
 
-本裝置的主體是一個中央“大腦”及一系列裝在 MODMERGEREPLACE: 局 MODMERGEWITH: 外星飛船有很多令人驚異之處，其中包括它們神奇的機動力。它們不單止能懸浮，轉向速度也遠超越其體積應有的限制，仿 MODMERGEREPLACE: 雕 MODMERGEWITH: 噴射器，幽浮就能隨心所欲地飛舞。雖然這套系統的能源效益不及我們的飛翼，但幽浮有足以這樣浪費的充沛動力。
-
-統 MODMERGEREPLACE: 跼 MODMERGEWITH: 器都有一層佈滿細小襟翼的“甲殼”，每塊都能輸出微量的向量推力，令到每支噴射器都有驚人的精度。裝上一打或更多的 MODMERGEREPLACE: 鵰 MODMERGEWITH: 合噴射器的“大腦”約有汽車引擎那麼大，裡面是密密麻麻的生體電路。我們相信它會採集傳感器的訊息並自動糾正幽浮的</Data></Cell>
+推力陣列的主體是一個中央“大腦”及一系列裝在 MODMERGEREPLACE: 懞 MODMERGEWITH: 
+統合噴射器的“大腦”約有汽車引擎那麼大，裡面是密密麻麻的生體電路。我們相信它會採集傳感器的訊息，從而自動</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
@@ -597,37 +597,37 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.shrike</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 驅動，能進行超音速巡航，抵步後能垂直起降。支持這對渦輪風扇的是兩件體積不小的_ER-12_異 MODMERGEREPLACE: 挶 MODMERGEWITH: 降落一架巨型直昇機幾乎是自尋死路，我們的運輸機到目前為止都沒變成一堆廢鐵只能證明機師的技術爐 MODMERGEREPLACE: 侷 MODMERGEWITH: 速度和效率。它能完全取代_CH-48_查理，飛得更快、載員更多。它也更適合都市行動；在鬧市中 MODMERGEREPLACE: 鵰 MODMERGEWITH: 能晶反應爐，足以讓滿載的伯勞鳥飛好幾日。但我們還是很限制它的航程，以免機師過勞。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: ，能進行超音速巡航，抵步後能垂直起降。支持這對渦輪風扇的是一對體積不小的_ER-12_異能晶 MODMERGEREPLACE: 榦 MODMERGEWITH: 的技術。
 
-最重要的 MODMERGEREPLACE: 跼 MODMERGEWITH: 火純青。
+伯勞鳥的機體四方、粗壯，難看但很實用。它由一對可旋轉的_TF-19_渦輪風扇驅動 MODMERGEREPLACE: 濛 MODMERGEWITH: 引擎提升的酬載量。跟_CH-48_查理_相比，伯勞鳥的裝甲機艙能運送十名全副武裝的士兵（多了 MODMERGEREPLACE: 乾 MODMERGEWITH: 度和效率。它比_CH-48_查理飛得更快、載員更多，完全取代查理。它也更適合都市行動；在鬧市 MODMERGEREPLACE: 懞 MODMERGEWITH: 反應爐，足以讓滿載的伯勞鳥飛好幾日。但我們還是得限制它的航程，以免機師過勞。
 
-伯勞鳥的機體四方而粗壯，雖然難看但很實用。它由一對可旋轉的_TF-19_渦輪風扇 MODMERGEREPLACE: 彫 MODMERGEWITH: 是新引擎提升的載重。跟_CH-48_查理_相比，伯勞鳥的裝甲機艙能運送十名全副武裝的士兵（多 MODMERGEREPLACE: 琱 MODMERGEWITH: 了兩名），而前後兩面的開口也帶給士兵更多進出的選擇。即使是比我蠢的人都應該能理解多帶四分一的部隊的優勢。 MODMERGEREPLACE: 局 MODMERGEWITH: D-42“伯勞鳥”Shrike_是一架垂直升降的航機，揉合了直昇機的即場起降能力及傳統飛機的</Data></Cell>
+最重要的是新 MODMERGEREPLACE: 矇 MODMERGEWITH: 兩名），而前後兩面的開口也帶給士兵更多的進出選擇。即使是比我蠢的人都應該能理解多帶四分一的部隊的優勢。 MODMERGEREPLACE: 幹 MODMERGEWITH: 中降落一架巨型直昇機幾乎是自尋死路，我們的運輸機到目前為止都沒變成一堆廢鐵，全賴機師爐火純青 MODMERGEREPLACE: 干 MODMERGEWITH: D-42“伯勞鳥”Shrike_是一架垂直升降的航機，揉合了直昇機的垂直起降能力及定翼機的速</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">異型反應堆</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">異型反應爐</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 這些異型合金圓筒會吸收伽瑪幅射並發熱，產生大量實用的熱能。基本上是個簡單有效的設計，要應用到我們的研發中應該沒有難度。 MODMERGEREPLACE: 榦 MODMERGEWITH: 越來越大，而空氣阻力會隨體積增大而指數式增長，空間效率就開始變得重要：異型反應爐能提供十倍的輸出，而不需 MODMERGEREPLACE: 蒙 MODMERGEWITH: 要十倍的空間，所以新的幽浮反而*變快*了。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 需要十倍的空間，所以新的幽浮反而*變快*了。
 
-反應爐的效率提升源自捕取伽瑪射線的能量。當異能晶的化學鏈被 MODMERGEREPLACE: 乾 MODMERGEWITH: 相似，反應爐遠要精密，能輸出多十倍的能量。
+反應爐的效率提升源自對伽瑪射線的捕取。當異能晶的化學鏈被 MODMERGEREPLACE: 侷 MODMERGEWITH: 相似，但反應爐遠要精密，且能輸出多十倍的能量。
 
-它用的異能晶核心跟動力爐相同，沒有其他秘密的動力來源。反應 MODMERGEREPLACE: 干 MODMERGEWITH: 異型的反應爐有一輛私家車那麼大，主體是在異型合金的曲面平臺上水平安置的圓筒。雖然看上去跟幽浮的動力爐有點 MODMERGEREPLACE: 幹 MODMERGEWITH: 爐的主要改進是提升了抽取能量的效率；似乎能源爐是最簡單的異能晶裝置，結構簡單但低效率。入侵的主力幽浮變得 MODMERGEREPLACE: 濛 MODMERGEWITH: 方向性的話這程度的伽瑪爆發會很危險），剛好照射到反應爐內好像單車輛軸一樣平均分佈的六根超高密度幼細圓筒。 MODMERGEREPLACE: 懞 MODMERGEWITH: 打破時，除了釋放我們正取用的熱能外似乎也會爆出一股伽瑪幅射。這射線不單止很高能，而且也有很強的指向性（無</Data></Cell>
+它用的異能晶核心跟動力爐相同，沒有其他秘密的動力來源。 MODMERGEREPLACE: 局 MODMERGEWITH: 異型的反應爐有一輛私家車那麼大，主體是一枚橫置於異型合金的曲面平臺上的圓筒。雖然看上去跟幽浮的動力爐有點 MODMERGEREPLACE: 跼 MODMERGEWITH: 浮越來越大，而空氣阻力會隨體積增大而指數式增長，空間效率就開始變得重要：異型反應爐能提供十倍的輸出，而不 MODMERGEREPLACE: 鵰 MODMERGEWITH: 打破時，除了釋放出我們目前取用的熱能外似乎也會爆出一股伽瑪幅射。這射線不單止高能，還有強力的指向性（無指 MODMERGEREPLACE: 彫 MODMERGEWITH: 向性的話，這等級的伽瑪爆發會很危險），剛好照射反應爐內好像單車輛軸一樣平均分佈的六根超高密度幼細圓筒。這 MODMERGEREPLACE: 挶 MODMERGEWITH: 反應爐的主要改進是提升了汲取能量的效率；似乎能源爐是最簡單的異能晶裝置，結構簡單但低效率。但入侵的主力幽 MODMERGEREPLACE: 琱 MODMERGEWITH: 些異型合金圓筒會吸收伽瑪幅射並發熱，產生大量便於取用的熱能。基本上是個簡單有效的設計，不難應用到我們將來的研發。</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
@@ -635,18 +635,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAlloyHardening</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 局 MODMERGEWITH: 裝在異型的主力幽浮上的裝甲不單止比小幽浮的厚，而且保護力超高，並不單單出於所增的厚度。實驗顯示這些裝甲比 MODMERGEREPLACE: 琱 MODMERGEWITH: 能完美克服這難題。這冷卻需要消耗大量異能晶，不過只要我們可以自行生產這些強化合金我們就可以在日後的設計中採用它。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 浸入凍水，用的是同樣的原理。但要對高熔點的異型合金進行淬火就很困難。要避免合金原子再次結晶化，需要在一秒 MODMERGEREPLACE: 挶 MODMERGEWITH: 性差異，類似鋼鐵的熱處理。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: ）我們現在能完美克服這難題。這種熱處理需要消耗大量異能晶，但我們總算可以自行生產這些強化合金，可以在日後的設計中採用它。 MODMERGEREPLACE: 臺 MODMERGEWITH: 裝在異型的主力幽浮上的裝甲不單止比小幽浮的厚，而且保護力超高，遠遠超出所增加的厚度。實驗顯示這些裝甲比同等質量的標準的 MODMERGEREPLACE: 颱 MODMERGEWITH: 種合金卻有非結晶的原子結構。非結晶結構的原子是無序的，能防止形成結晶結構常見的微小裂痕，增強抗熱性和抗衝擊力。
 
-差別在於兩者的原子結構；跟我們的金屬一樣，大部分的異型合金在固態下都有結晶 MODMERGEREPLACE: 雕 MODMERGEWITH: 形成結晶結構常見的微小裂痕，增強抗熱性和抗衝擊力。
+這不 MODMERGEREPLACE: 并 MODMERGEWITH: 是甚麼新鮮事；鋼鐵的淬火，也就是將燒紅的鋼鐵浸入凍水，用的是同樣的原理。問題在於高熔點的異型合金難以淬火。要避免合金原 MODMERGEREPLACE: 台 MODMERGEWITH: 幽浮外殼耐打_50%。兩者的密度和成分都差不多，這韌性的差異是源自生產過程所導致的結構性差異，類似鋼鐵的熱處理。
 
-這不是甚麼新鮮的事；鋼鐵的淬火，也就是將燒紅的鋼鐵 MODMERGEREPLACE: 侷 MODMERGEWITH: 同等重量的標準的幽浮外殼多耐打_50%。兩者的密度和成分都差不多，這韌性的差異是源自生產過程所導致的結構 MODMERGEREPLACE: 跼 MODMERGEWITH: 化的原子排列，井然有序。但異型裝甲板所用的各種合金卻有非結晶的原子結構。非結晶結構的原子是無序的，能防止 MODMERGEREPLACE: 彫 MODMERGEWITH: 內冷卻足足一百萬度攝氐。戰爭剛開始的時候也許不可能（只是也許），但以我的高超智慧（加上異型合金）我們現在</Data></Cell>
+差 MODMERGEREPLACE: 並 MODMERGEWITH: 子再次結晶化，需要在一秒內冷卻足足一百萬度攝氏。戰爭剛開始的時候也許不可能（只是也許），但以我的高超智慧（加上異型合金 MODMERGEREPLACE: 檯 MODMERGEWITH: 別在於兩者的原子結構；跟我們的金屬一樣，大部分的異型合金在固態下都呈現結晶化的原子排列，井然有序。但異型裝甲板所用的各</Data></Cell>
    </Row>
    <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.predator</Data></Cell>
@@ -654,20 +654,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.predator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: ，等同揮之不去的管狀視力。獵戶的厚重手套亦難以操作我們的大部分武器；重型武器不難改裝，不過輕武器、手雷、電擊棍、突擊盾等免問。跟真的坦克一樣，獵戶需要步兵支援才能發揮全力。 MODMERGEREPLACE: 颱 MODMERGEWITH: 踩入熔岩或抵受輕量的原子彈攻擊而不會有實質損傷。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 幹 MODMERGEWITH: 而關節位也用上多層連鎖的薄甲板確保防護力。即使是最薄弱的地方也有最少一厘米裝甲。背部裝甲整合了_SA-16_單人異能晶反應爐（ MODMERGEREPLACE: 蒙 MODMERGEWITH: 直接踩入熔岩或抵受輕量的原子彈攻擊而不會有實質損傷。
 
-本甲載有強力的伺服馬達，給穿載者等同兩三倍於常人的力量。因此重武器可以當作正常武器使用，命中率不受移動或回彈力影響。也 MODMERGEREPLACE: 台 MODMERGEWITH: 者變成所向披靡的人型坦克。
+本甲載有強力的伺服馬達，令穿載者擁有常人的兩三倍力量。因此重武器可以當 MODMERGEREPLACE: 乾 MODMERGEWITH: 用，免卻回彈力的限制也不會削減機動力，將穿載者變成所向披靡的人型坦克。
 
-獵戶的主要裝甲足足有一寸厚，用強化的異型合金一體成型，而關節位也用上多層連鎖的薄甲板確保防護力。即使是最薄弱的地方也有最少一厘米裝甲。背部裝 MODMERGEREPLACE: 檯 MODMERGEWITH: 甲整合了_SA-16_單人異能晶反應爐（幾乎可以永久地全力操作這套裝甲）及密閉式循環呼吸器，保障穿載者完全免受環境毒素侵害。傳統的保護力指標已經無用武之地，獵戶甲可以直接 MODMERGEREPLACE: 并 MODMERGEWITH: 不用擔心超載，即使是最重的戰術負荷都難不倒獵戶。甚至不用擔心牆壁：本裝甲的分量足以直接衝破大部分牆壁而不影響戰力。
+獵戶的主裝甲足足有一寸厚，用強化的異型合金一體成型， MODMERGEREPLACE: 矇 MODMERGEWITH: 手套亦難以操作我們的大部分武器；重型武器不難改裝，不過輕武器、手雷、電擊棍、突擊盾等免問。跟真的坦克一樣，獵戶需要步兵支援才能發揮全力。 MODMERGEREPLACE: 榦 MODMERGEWITH: 幾乎可以永久地全力操作這套裝甲）及密閉式循環呼吸器，保障穿載者完全免受環境毒素侵害。傳統的保護力指標已經無用武之地，獵戶甲可以 MODMERGEREPLACE: 懞 MODMERGEWITH: 作正常武器使用，命中率不受移動或回彈力影響。也不用擔心超載，即使是最重的戰術負荷都難不倒獵戶。甚至不用擔心牆壁：本裝甲的斤兩足 MODMERGEREPLACE: 濛 MODMERGEWITH: 以直接衝破大部分牆壁而不減保護力。
 
-不過缺點也是有的。密閉式的頭盔降低了空間感和週邊視野 MODMERGEREPLACE: 臺 MODMERGEWITH: S-2“獵戶”Predator_突擊裝甲是一套自帶動力的個人外骨骼，專為重火力突擊而設。它有超卓的保護力，並能輔助重型武器的使用，免卻回彈力的限制也不會削減機動力，將穿載</Data></Cell>
+不過缺點也是有的。密閉式的頭盔削弱了空間感和週邊視野，等同揮之不去的管狀視力。獵戶的厚重 MODMERGEREPLACE: 干 MODMERGEWITH: S-2“獵戶”Predator_突擊裝甲是一套自備動力的單人外骨骼，專為重火力突擊而設。它有超卓的保護力，並能輔助重型武器的使</Data></Cell>
    </Row>
    <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
@@ -675,20 +675,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 這股無限循環的巨大能量。當奇點的能量耗盡，循環的能量歸零，奇點就會和粒子場一起崩坍、消失。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 驚天動地的原能量。作為本裝置核心的能量球直徑不到一寸，供應的能量已經足夠全地球使用幾十年。
 
-奇點爐可以解決我們的所有能源危機。異能晶爐總會佔一定空間， MODMERGEREPLACE: 颱 MODMERGEWITH: 這個簡約的系統至此就能自我維持。粒子場汲取奇點放出的巨大能量，從中撥取一點維持自己，剩下的輸回給奇點，再次令它爆炸。任何連接著奇點爐的裝置都可以隨時取用 MODMERGEREPLACE: 檯 MODMERGEWITH: 的最終形態，就是黑洞釋放它累積的所有能量的最終爆炸。外星異型一定有方法“捕獲”黑洞並且誘使它進入爆炸狀態，然後用粒子場將奇點在爆炸中途“固定”下來。
+裝置內的奇點似乎永遠 MODMERGEREPLACE: 鵰 MODMERGEWITH: 連接奇點爐的裝置都可以隨時取用這股無限循環的巨大能量。當奇點的能量耗盡，循環的能量歸零，奇點就會和粒子場一起崩坍、 MODMERGEREPLACE: 挶 MODMERGEWITH: 處於崩潰邊緣，全靠圍繞它的粒子場維持穩定。作為祼奇異點，我相信它是黑洞的最終形態，就是黑洞釋放它累積的所有能量的最 MODMERGEREPLACE: 跼 MODMERGEWITH: 終爆炸。外星異型一定有方法“捕獲”黑洞並且誘使它進入爆炸狀態，然後用粒子場將奇點在爆炸中途“固定”下來。
 
- MODMERGEREPLACE: 台 MODMERGEWITH: 球直徑不到一寸，已經能供應足夠的能量供全地球用幾十年。
+這套簡 MODMERGEREPLACE: 雕 MODMERGEWITH: 約的系統至此就能自我維持。粒子場汲取奇點放出的巨大能量，從中撥取一點維持自己，剩下的輸回給奇點，再次令它爆炸。任何 MODMERGEREPLACE: 彫 MODMERGEWITH: 消失。
 
-裝置內的奇點似乎永遠處於崩潰邊緣，由圍繞它的粒子場維持著穩定狀態。作為祼奇異點，我相信它是黑洞 MODMERGEREPLACE: 臺 MODMERGEWITH: 做得好，指揮官，就是這件了，這就是撐起整個星際帝國的動力源。一粒赤裸裸的奇點，處於纖細的粒子場之內，源源不絕地湧出驚天動地的原能量。作為本裝置核心的能量 MODMERGEREPLACE: 併 MODMERGEWITH: 但奇點爐的束縛力場可以做到很細，細到可以裝在任何地方，提供接近無窮無盡的能量。唯一的障礙是我們很明顯沒能力抓住奇點，所以我們只能從異型手上把它們搶過來。</Data></Cell>
+奇點爐可以解決我們的所有能源危機。異能晶爐總會佔一定空間，但奇點爐的束縛力場可以做到很細，細到可以裝在任 MODMERGEREPLACE: 局 MODMERGEWITH: 做得好，指揮官，就是這件了，這就是撐起整個星際帝國的動力源。一粒赤裸裸的奇點，處於纖細的粒子場之內，源源不絕地湧出 MODMERGEREPLACE: 琱 MODMERGEWITH: 何地方，提供接近無窮無盡的能量。唯一的障礙是我們很明顯沒能力抓住奇點，所以我們只能從異型手上將現成的奇點爐搶到手。</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.sentinel</Data></Cell>
@@ -703,11 +703,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 體積還是縮減了。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: 裝置，也保留了使用各種武器的戰術彈性。新形的頭盔裝有獨特的全景視像系統，帶給穿載者_360_度視角。
 
-不過這程度的精細工藝絕對做不到獵戶的防護力。獵戶那相對原始的設計始終能吸收較多傷害，依然 MODMERGEREPLACE: 颱 MODMERGEWITH: 設限，只會進一步提供強化的力量及保護。頭盔連接一套密閉式循環呼吸器，完全不用懼怕濃煙或毒氣。連接眼罩的感應器 MODMERGEREPLACE: 台 MODMERGEWITH: 裝置，也保留了使用各種武器的能力。新形的頭盔裝有獨特的全景視像系統，帶給穿載者_360_度視角。
+衛士 MODMERGEREPLACE: 併 MODMERGEWITH: 突擊的首選，但在其餘情況下衛士甲比較有戰術彈性。兩者混合使用就能互補不足，一起為戰場護甲的發展劃下完美的句號。 MODMERGEREPLACE: 并 MODMERGEWITH: 的感應器和鏡頭則給穿載者前所未見的戰場觸覺。跳躍裝置不再用狼鷲的迷你噴射引擎，改用異型的反重力技術，即使算上 MODMERGEREPLACE: 檯 MODMERGEWITH: 有數以千計的微形感測器，持續地偵察及輔助穿載者的動作，令它像一層皮膚多於僵硬的裝甲。它支持人類能做到的所有動 MODMERGEREPLACE: 並 MODMERGEWITH: 反應爐都依然更輕便。
 
-衛士有數 MODMERGEREPLACE: 併 MODMERGEWITH: 是突擊的首選，但在其餘情況下衛士甲比較有戰術彈性。兩者混合使用就能互補不足，一起為戰場護甲的發展劃下完美的句號。 MODMERGEREPLACE: 并 MODMERGEWITH: 和鏡頭則給穿載者前所未見的戰場觸覺。跳躍裝置不再用狼鷲的迷你噴射引擎，改用異型的反重力技術，即使加上反應爐後 MODMERGEREPLACE: 檯 MODMERGEWITH: 以千計的微形感測器，偵察及輔助穿載者的動作，令它像一層皮膚多於半調子的裝甲。它支持人類能做到的所有動作，毫不 MODMERGEREPLACE: 臺 MODMERGEWITH: S-6“衛士”Sentinel_戰衣是套多用途戰術外骨骼。它的保護能力不及_S-2_獵戶，但繼承了狼鷲的跳躍</Data></Cell>
+不過這種精細工藝絕對做不到獵戶的防護力。獵戶採用的原始設計始終能吸收較多傷害，依然是 MODMERGEREPLACE: 颱 MODMERGEWITH: 作，毫不設限，只會進一步提供強化的力量及保護。頭盔連接一套密閉式循環呼吸器，完全不用懼怕濃煙或毒氣。連接眼罩 MODMERGEREPLACE: 臺 MODMERGEWITH: S-6“衛士”Sentinel_戰衣是套多用途戰術外骨骼。它的保護能力不如_S-2_獵戶，但繼承了狼鷲的跳躍</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGWeaponry</Data></Cell>
@@ -722,11 +722,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 都能將用異型合金做的彈頭推到超音速。它們幾乎一定會是地球上最強的步兵武器；如果進一步提升槍口初速，空氣阻 MODMERGEREPLACE: 侷 MODMERGEWITH: 路。電磁武器是揉合異型的先進合金及地球的彈道武器技術所做的電磁線圈武器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: 線圈槍，早於一百年前已經有此概念，主體是一組連環發功的電磁鐵，將子彈沿槍管推到致命的極速。這跟異型的等離子 MODMERGEREPLACE: 鵰 MODMERGEWITH: 水又怎能擋以五倍音速飛行的彈頭？
 
-這種槍又稱高斯槍或線圈槍，早 MODMERGEREPLACE: 雕 MODMERGEWITH: 能沿用，而且好處多多。例如說，能量武器主要做成熱能傷害，很容易被大氣等因素吸收/反射/散發掉。一滴雨水又 MODMERGEREPLACE: 局 MODMERGEWITH: 當你考慮到我們的等離子技術恐怕永遠無法超越異型的，要勝過牠們就需要新思路。而有時新思路的最佳來源是走回頭 MODMERGEREPLACE: 挶 MODMERGEWITH: 於一百年前已經有此概念，主體是一組連續發功的電磁鐵，將子彈沿槍管推到致命的極速。這跟異型的等離子武器有很 MODMERGEREPLACE: 鵰 MODMERGEWITH: 怎能擋以五倍音速飛行的鐵塊？
+現階段的電磁武器有手槍、霰彈槍、步槍、狙擊槍四種，輕易攜帶，能將用異型 MODMERGEREPLACE: 跼 MODMERGEWITH: 武器有很多相似之處，不過等離子武器的電磁鐵只是一個過程，而線圈武器的根本重點就是電磁線圈。很多等離子武器的 MODMERGEREPLACE: 雕 MODMERGEWITH: 技術都能沿用，而且優點多多。例如說，能量武器主要做成熱能傷害，很容易被大氣等因素吸收/反射/散發掉。一滴雨 MODMERGEREPLACE: 局 MODMERGEWITH: 我們的等離子技術恐怕永遠無法超越異型的技術。當你考慮到這一點，要勝過牠們就需要新的思維。而有時新思維的最佳 MODMERGEREPLACE: 琱 MODMERGEWITH: 引爆彈頭後面的空氣，高機率殺傷發射武器的士兵。現在我們的武器發展到了一個極點，受大氣所限而不昰受技術所限。 MODMERGEREPLACE: 彫 MODMERGEWITH: 合金做的彈頭推到超音速。幾乎可以肯定它們會是地球上最強的單兵武器；如果進一步提升槍口初速，空氣阻力的高溫會 MODMERGEREPLACE: 侷 MODMERGEWITH: 來源是走回頭路。電磁武器是揉合異型的先進合金及地球的彈道武器技術所做的電磁線圈武器。
 
-現階段的電磁武器有手槍、霰彈槍、步槍、狙擊槍四種，可以被士兵輕易攜帶，但 MODMERGEREPLACE: 跼 MODMERGEWITH: 多相似之處，不過等離子武器的電磁鐵只是一個過程，而線圈武器的重點根本就是電磁線圈。很多等離子武器的技術都 MODMERGEREPLACE: 琱 MODMERGEWITH: 力的高溫會引爆彈頭後面的空氣，高機率殺傷發射武器的士兵。現在我們的武器發展到了一個極點，受大氣所限大於受技術所限。</Data></Cell>
+這種槍又稱高斯槍或</Data></Cell>
    </Row>
    <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
@@ -734,20 +734,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.fury</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 約每小時_10,000_公里），前往地球的任一點都花不超過兩小時。武器只有一項，就是單一支超重型的奇點飛雷。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: ，這溫度完全難不倒硬化過的異型合金，根本不會構成磨損。因此天怒可以常常保持極速，徹底擺脫任何幽浮武器。不幸的是因此武器也要重新設計，迎合超音速條件下的發射，除此以外的所有武器都 MODMERGEREPLACE: 颱 MODMERGEWITH: 比任務目標，確保任務以最快最安全的方式完成。引擎是_增壓噴射/衝壓噴射/超音速衝壓噴射_的三段式設計，分階段將戰機推至極速。
 
-天怒的設計受高度機密的_SR-71“黑鳥” MODMERGEREPLACE: 濛 MODMERGEWITH: 本不會構成磨損。因此天怒可以常常保持極速，幽浮的武根本打不到。不幸的是因此武器也要重新設計，迎合超音速條件下的發射，除此以外的所有武器都不能用。這項特殊武 MODMERGEREPLACE: 榦 MODMERGEWITH: 師及機師所需的所有維生裝置。一套自動化的飛控系統會用感測器的數據時刻對比任務目標，確保任務以最快最安全的方式完成。引擎是_增壓噴射/衝壓噴射/超音速衝壓噴 MODMERGEREPLACE: 蒙 MODMERGEWITH: 射_的三段式設計，分階段將戰機推至極速。
+當速度達到_4_馬赫時兩個超音速衝壓噴射引擎就會 MODMERGEREPLACE: 檯 MODMERGEWITH: 基本上完全免疫傳統武器（不過我們的戰力要對付地球的軍隊綽綽有餘）。天怒的設計經進一步改良和進化，包括移走機師及機師所需的所有維生裝置。一套自動化的飛控系統會用感測器的數據時刻對 MODMERGEREPLACE: 并 MODMERGEWITH: 啟動，各提供_75，000_磅出力，將天怒迅速推至_8_馬赫。在此速度下空氣阻力會令航機的外殼升到攝氏_4，000_度，以地球的技術只能用需要每次替換的太空船隔熱磚去阻隔。不過 MODMERGEREPLACE: 併 MODMERGEWITH: 不能用。這項特殊武器就是超重型奇點飛雷。
 
-當速度達到_4_馬赫時兩個超音速衝壓噴射引擎就會啟動，各提供_75,000_磅的出力，將天怒迅速推至_8_馬赫 MODMERGEREPLACE: 矇 MODMERGEWITH: 器就是超重型奇點飛雷。
+想當然耳，這些怪獸級的引擎和先進的飛控系統都要消耗龐大的能量，只有奇點爐可以滿足需求。因此每製作一架天怒都要先虜獲一隻異型的主力幽浮。 MODMERGEREPLACE: 台 MODMERGEWITH: _公里），前往地球的任一點都花不超過兩小時。武器只有一種，就是單一支超重型的奇點飛雷。
 
-想當然耳，這些怪獸級的引擎和先進的飛控系統都會消耗龐大的能量，只有奇點爐可以滿足需求。因此每製作一架天怒都要先虜獲一隻異型的主力幽浮。 MODMERGEREPLACE: 懞 MODMERGEWITH: 。在此速度下空氣阻力會將航機的表面燒到攝氏_4,000_度，以地球的技術只能用需要每次替換的太空船隔熱磚去阻隔。不過，這對硬化過的異型合金完全不是問題，根 MODMERGEREPLACE: 干 MODMERGEWITH: X-120“天怒”Fury_戰鬥機是終極的空戰武器。這架無人機有近乎無限的航程，速度和爬升極限能追上任何幽浮，亦能甩掉任何幽浮。它的巡航速度達_8_馬赫（ MODMERGEREPLACE: 幹 MODMERGEWITH: Blackbird_影響，其極高的速度和高度基本上完全免疫傳統武器（不過以我們的戰力，要對付地球的軍隊綽綽有餘）。天怒的設計經進一步改良和進化，包括移走機</Data></Cell>
+天怒的設計受高度機密的_SR-71“黑鳥”Blackbird_啟發，其極高的速度和高度 MODMERGEREPLACE: 臺 MODMERGEWITH: X-120“天怒”Fury_戰鬥機是終極的空戰武器。這架無人機有近乎無限的航程，速度和爬升極限能追上任何幽浮，亦能甩掉任何幽浮。它的巡航速度達_8_馬赫（約每小時_10，000</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
@@ -755,18 +755,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SingularityTorpedo</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: ；被這玩意打中的幽浮不會剩下任何渣滓。由於它是為超音速發射而設，只有我們的_X-120_天怒_戰鬥 MODMERGEREPLACE: 彫 MODMERGEWITH: 速衝壓引擎，能以_15_馬赫（約每小時_20,000_公里）飛行_30_秒。這樣不單止容許超音速飛 MODMERGEREPLACE: 琱 MODMERGEWITH: 行中的天怒發射它，而且只能被這樣發射。這引擎要_4_馬赫或以上才能開始運作，其他戰鬥機根本達不到。 MODMERGEREPLACE: 雕 MODMERGEWITH: 炸範圍內的任何東西。事實上為此開發了利用它所存的能量做出副粒子場的技術，以此限制爆炸的範圍；沒有這 MODMERGEREPLACE: 挶 MODMERGEWITH: 機能使用它。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 被打破時就會釋放。這就是本飛雷的彈頭，充能之後可以完全毀滅爆炸範圍內的任何東西。事實上因此必需開發利用這些能量產 MODMERGEREPLACE: 台 MODMERGEWITH: 的幽浮不會剩下任何渣滓。由於它是專為超音速發射而設，只有我們的_X-120_天怒_戰鬥機能使用它。
 
-這武器的巨大破壞力源自奇點爐的無窮能量：維持奇點的粒子場也可以用作儲存能量，一度的 MODMERGEREPLACE: 跼 MODMERGEWITH: 新粒子場可以從奇點爐獲得能量，等粒子場被打破時就會釋放。這就是本飛雷的彈頭，充能之後可以完全毀滅爆 MODMERGEREPLACE: 鵰 MODMERGEWITH: 度副粒子場的話，有一個微小（但不能忽略）的機率會毀滅整個地球。
+這武器的巨 MODMERGEREPLACE: 并 MODMERGEWITH: 生副粒子場的技術，從而限制爆炸的範圍；沒有這副粒子場的話，每次爆炸都有一個微小（但不能忽略）的機率會毀滅整個地球 MODMERGEREPLACE: 臺 MODMERGEWITH: 奇點飛雷是史上最具破壞力的人造武器。它發出的球體能量會將半徑五公里以內的所有物質立刻還原成基本原子；被這玩意打中 MODMERGEREPLACE: 檯 MODMERGEWITH: 大破壞力源自奇點爐的無窮能量：維持奇點的粒子場可以儲存能量，也就是說一面的新粒子場可以從奇點爐獲得能量，當粒子場 MODMERGEREPLACE: 併 MODMERGEWITH: 。這樣不單止容許超音速飛行中的天怒發射它，而且只能被這樣發射。這引擎要_4_馬赫或以上才能開始運作，其他戰鬥機只能棄權。 MODMERGEREPLACE: 並 MODMERGEWITH: 。
 
-其餘部分相對簡單；主推進器是超音 MODMERGEREPLACE: 局 MODMERGEWITH: 奇點飛雷是史上最具破壞力的人造武器。它發出的球體能量會將半徑五公里以內的所有物質立刻還原成基本原子</Data></Cell>
+其餘部分相對簡單；主推進器是超音速衝壓引擎，能以_15_馬赫（約每小時_20，000_公里）飛行_30_秒</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.marauder</Data></Cell>
@@ -781,11 +781,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: 陣列提供舉升和推進，粗壯的前掠翼則主要提供機動力。這對主翼對戰機的靈活性貢獻很大，不過 MODMERGEREPLACE: 雕 MODMERGEWITH: 被炸掉也不影響飛行。尾部的穩定翼也一樣，傳統的垂直尾翼換成了新穎的鈄角設計。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: ，最厚有四寸，像飛行坦克多於普通戰鬥機。增大的引擎出力讓它可以同時攜帶機炮和飛雷，比前 MODMERGEREPLACE: 侷 MODMERGEWITH: 高火力（一支機載炮、兩支飛彈或飛雷），還能進行迴避翻滾。它既能打靈活的空戰幽浮，也能截 MODMERGEREPLACE: 鵰 MODMERGEWITH: 部分的氣動力顧慮，我們可以專心提升戰鬥效能。它的裝甲“外殼”完全採用強化的異型合金打造 MODMERGEREPLACE: 挶 MODMERGEWITH: 擊龐大的主力幽浮。
 
-去除了 MODMERGEREPLACE: 挶 MODMERGEWITH: 截擊大型主力幽浮。
+頗覆傳統的設計令性能獲得巨大的提升。賊王的推力陣列提供強力的舉升 MODMERGEREPLACE: 跼 MODMERGEWITH: 和推進，粗壯的前掠翼則提供出神入化的機動力。這對主翼對戰機的靈活性貢獻甚大，不過被炸掉 MODMERGEREPLACE: 琱 MODMERGEWITH: 代戰鬥機都更面面俱圓。賊王戰鬥機粗大、難看、並會破壞相遇的一切事物，跟我們的工程師一樣。 MODMERGEREPLACE: 雕 MODMERGEWITH: 也不影響飛行。尾部的穩定翼也一樣，而傳統的垂直尾翼也換成了新穎的鈄角設計。
 
-性能的最大改良源自拋開飛機的傳統設計。賊王的機體整合了強力的推力 MODMERGEREPLACE: 彫 MODMERGEWITH: 成，最厚有四寸，像飛行坦克多於普通戰鬥機。增大的引擎出力讓它可以同時攜帶機炮和飛雷，比 MODMERGEREPLACE: 鵰 MODMERGEWITH: 大部分的氣動力顧慮，我們可以專心提升戰鬥效能。它的裝甲“外殼”完全由強化過的異型合金制 MODMERGEREPLACE: 侷 MODMERGEWITH: 又高火力（一支機載炮、兩支飛彈或飛雷），還能進行迴避翻滾。它既能打靈活的空戰幽浮，也能 MODMERGEREPLACE: 琱 MODMERGEWITH: 前代都更為面面俱圓。綜合以上的賊王粗大、難看、會破壞所遇上的一切事物（跟我們的工程師一樣）。 MODMERGEREPLACE: 局 MODMERGEWITH: X-59“賊王”Marauder_是設計來攔截所有已知幽浮的先進戰鬥機。又快，又耐打，</Data></Cell>
+去除了大 MODMERGEREPLACE: 局 MODMERGEWITH: X-59“賊王”Marauder_是用來攔截所有已知幽浮的先進戰鬥機，又快，又耐打，又</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HYPERION</Data></Cell>
@@ -800,11 +800,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 車的一半，但這些飄浮物可以獨力打敗一整個裝甲排。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: 裝置啟動時會將坦克的重量減到幾百公斤（而關閉時它就是六噸重的固定鐵塊）。一個小型的噴 MODMERGEREPLACE: 蒙 MODMERGEWITH: 現代戰車的一半，但這些飄浮物可以獨力打敗一整個裝甲排。
 
-飄浮效應由反重力裝置產生，當啟動 MODMERGEREPLACE: 榦 MODMERGEWITH: 的射擊平臺，加上升級的射控系統，令它不論遠近目標都有優異的命中率。雖然體積只有現代戰 MODMERGEREPLACE: 矇 MODMERGEWITH: 爐需要大量異能晶去製作，但足以維持反重力效果超過一年。到那時這場仗都應該打完了，不管是贏是輸。 MODMERGEREPLACE: 懞 MODMERGEWITH: 時會將坦克的有效重量減到幾百公斤（而關閉時它就是六噸重的固定鐵塊）。一個小型噴射引擎 MODMERGEREPLACE: 濛 MODMERGEWITH: 提供向量推力，產生滑移的效果並令狹窄空間下的精細操作變得可能。內置的_AR-6_反應 MODMERGEREPLACE: 干 MODMERGEWITH: 太陽神是在戰鬥區域內支援異種航員部隊的浮空坦克。它採用異型的反重力科技，永遠浮在空中 MODMERGEREPLACE: 幹 MODMERGEWITH: 動力，駛得更快，採用強化異型合金提升硬度、減輕重量。懸浮設計給它一個比接地車輛更穩定 MODMERGEREPLACE: 乾 MODMERGEWITH: 一米高左右，能穿過水面等障礙地型。
+飄浮效應源自反重力裝置，當 MODMERGEREPLACE: 幹 MODMERGEWITH: 更高機動力，駛得更快，用強化異型合金提升強度、減輕重量。懸浮設計讓它能提供比接地車輛 MODMERGEREPLACE: 榦 MODMERGEWITH: 更穩定的射擊平臺，加上升級的射控系統，令它不論遠近目標都有優異的命中率。雖然體積只有 MODMERGEREPLACE: 濛 MODMERGEWITH: 射引擎提供向量推力，產生滑移的果，即使是狹窄空間的精細操作都遊刃有餘。內置的_AR- MODMERGEREPLACE: 干 MODMERGEWITH: 太陽神是在戰鬥區域內支援異種航員部隊的浮空坦克。它使用了異型的反重力科技，永遠在離地 MODMERGEREPLACE: 乾 MODMERGEWITH: 一米左右的高度漂浮，能越過水面等障礙地型。
 
-太陽神的戰鬥力遠大於它所取代的彎刀，有更高的機</Data></Cell>
+太陽神的戰鬥力遠大於它所取代的彎刀，有 MODMERGEREPLACE: 矇 MODMERGEWITH: 6_反應爐需用大量異能晶製作，但足以維持反重力效果超過一年。到時這場仗都應該打完了，不論是贏是輸。</Data></Cell>
    </Row>
    <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
@@ -812,18 +812,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienAntigravityGenerator</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 開了這個謎：硬推不行的話，就做出一種裝置減輕幽浮的重量。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 這裝置會產生一個範圍有限的引力阻絕場，在不改變場內物件的前提下大大減輕它們的重量。設有此裝置的幽浮 MODMERGEREPLACE: 懞 MODMERGEWITH: 球上空發生故障，它的下場會頗為慘烈。
 
-首先需要解釋一下：重量是引力 MODMERGEREPLACE: 琱 MODMERGEWITH: 物質的重量只有原來的十分一。要複制這技術不難，我們應該能把這偉大的發現應用到我們的研發。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 會頗為淒慘。
+本裝置的運作原理是對重力子作出干涉。重力子是重力的載體，如 MODMERGEREPLACE: 乾 MODMERGEWITH: 我們接觸過的巨型幽浮都很重很重，重到我們完全無法理解單單用推進器能怎樣在空中飛行。反重力儀解開了這 MODMERGEREPLACE: 濛 MODMERGEWITH: 同光子是光的載體。這裝置會持續產生反重力子，跟範圍內的重力子配對並湮滅，大減場內遭受的重力達九成， MODMERGEREPLACE: 蒙 MODMERGEWITH: 只需要用少許的推力就能浮在空中，遠少於原本所需/所能產生的推力。即是說如果有主力幽浮的反重力場在地 MODMERGEREPLACE: 幹 MODMERGEWITH: 個謎：硬推不行的話，就做出一種減輕幽浮重量的裝置。
 
-本裝置的運作跟重力子有關。重力子是重力的載體，如同光子是光的載體。這裝置 MODMERGEREPLACE: 彫 MODMERGEWITH: 會持續產生反重力子，跟範圍內的重力子配對並湮滅，大減場內遭受的重力達九成，也就是說場內的 MODMERGEREPLACE: 挶 MODMERGEWITH: 拉扯物件的作用力。這裝置會產生一度地區性的場，阻絕場內物件所受的引力，在不改變這些物件的 MODMERGEREPLACE: 局 MODMERGEWITH: 我們接觸過的巨型幽浮很重很重，重到我們完全無法理解單用推進器能怎樣在空中飛行。反重力儀解 MODMERGEREPLACE: 雕 MODMERGEWITH: 少於原本所需/所能產生的推力。即是說如果有主力幽浮在我們的空中發生反重力場故障，它的下場 MODMERGEREPLACE: 跼 MODMERGEWITH: 前提下大大減輕重量，甚至不用改變質量。設有此裝置的幽浮只需要用少許的推力就能浮在空中，遠</Data></Cell>
+首先需要解釋一下：重量是引力拉扯物件的結果。 MODMERGEREPLACE: 矇 MODMERGEWITH: 也就是說場內的物質的重量只有原來的十分一。這技術不難複制，我們應該能把這偉大的發現應用到我們日後的研發。</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienCommunicationArray</Data></Cell>
@@ -838,13 +838,13 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 過，你的人從異型基地回收的通訊陣列似乎具發訊能力。當我們在實驗室設定好它之後，只需幾小時就能用逆向工 MODMERGEREPLACE: 彫 MODMERGEWITH: 程找出加密方式。我們現在可以用這知識去設計一座解密幽浮通訊的基地建築，從而得知各幽浮的乘員及目的。
- MODMERGEREPLACE: 挶 MODMERGEWITH: 碰巧收集到一些樣本。全世界目前有幾千名情報人員正在解拆它們的密碼，但異型用的是量子等級的加密。以人類 MODMERGEREPLACE: 跼 MODMERGEWITH: 的技術即使到宇宙壽命終結都解不開，窮盡一生都只是枉然（除非把這解拆視為在鼓舞士氣）。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: ，你的人從異型基地回收的通訊陣列似乎具發訊能力。當我們在實驗室設定好它之後，只需幾小時就能用逆向工程找出 MODMERGEREPLACE: 雕 MODMERGEWITH: 方法是虜獲一部可以解碼的裝置。到目前為止從幽浮回收的所有解碼裝置都完全無法運作，估計只能由異型操作。不過 MODMERGEREPLACE: 挶 MODMERGEWITH: 巧收集到可以研究的樣本。目前全世界有幾千名情報人員正在解拆它們的密碼，但異型用的是量子加密。以人類的技術 MODMERGEREPLACE: 跼 MODMERGEWITH: 即使到宇宙壽命終結都解不開，窮盡一生都只是枉然（除非把這解拆工作視為在鼓舞士氣）。
 
-最簡單的解決 MODMERGEREPLACE: 雕 MODMERGEWITH: 方式是回收一部可以解碼的裝置。到目前為止從幽浮回收的所有解碼裝置都完全無法運作，估計需要異型操作。不 MODMERGEREPLACE: 侷 MODMERGEWITH: 就能傳完所需的資籵。
+故此，最快捷的解決 MODMERGEREPLACE: 彫 MODMERGEWITH: 加密方式。現在我們可以用這些知識去設計一座解密幽浮通訊的基地設施，就能得知各幽浮的載員及任務。
 
-這短暫的時刻令到攔截異型通訊非常困難，不過由於實在是太頻密所以地上的天線總會 MODMERGEREPLACE: 局 MODMERGEWITH: 不論是相距隔幾公里還是相隔整個太陽系，幽浮都是用電波互相通訊。它們的長程通程經過高度壓縮，只需幾納秒 MODMERGEREPLACE: 琱 MODMERGEWITH: 
-順便補充一下，全世界都在拼命破譯的通訊是關於異型所抓的一條不幸的淡水三文魚的解剖報告。我們最好還是別告訴他們。</Data></Cell>
+順便補 MODMERGEREPLACE: 琱 MODMERGEWITH: 充一下，全世界都在拼命破譯的通訊是關於異型所抓的一條不幸的淡水三文魚的解剖報告。我們最好還是別告訴他們。 MODMERGEREPLACE: 侷 MODMERGEWITH: 傳完所需的資籵。
+
+由於這些通訊很短暫，攔截異型通訊非常困難。不過通訊實在是太頻密。所以地上的天線總會碰 MODMERGEREPLACE: 局 MODMERGEWITH: 不論是相距隔幾公里還是相隔整個太陽系，幽浮都是用電波互相通訊。它們的長程通訊經過高度壓縮，只需幾納秒就能</Data></Cell>
    </Row>
    <Row ss:Height="114.75" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
@@ -852,18 +852,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員空戰武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionWarheads</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: 要達成此效果，兩種導彈都在彈頭前裝有高密度的鋨制圓錐。爆炸會將 MODMERGEREPLACE: 干 MODMERGEWITH: 純綷的核融合不難增大，要做出空對空導彈易如反掌。我們已經在給航 MODMERGEREPLACE: 蒙 MODMERGEWITH: 爆反裝甲彈頭，爆炸的能量會集中向前方噴射，貫穿幽浮的外殼。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 錐汽化，化成一束超音速粒子流。它的破壞力頗為可觀，但主要目的是破壞 MODMERGEREPLACE: 局 MODMERGEWITH: 要增大核融合的規模並不難，有了火箭彈後要做出空對空導彈易如反掌。我 MODMERGEREPLACE: 雕 MODMERGEWITH: 用的高爆反裝甲彈頭，爆炸的能量會集中向前方噴射，貫穿幽浮的外殼。
+ MODMERGEREPLACE: 琱 MODMERGEWITH: 幽浮的耐熱表層，令緊接而來的熱衝擊波能深入幽浮。不得不讚一下我的這設計。 MODMERGEREPLACE: 跼 MODMERGEWITH: 千噸，不算大但我們要的也不是地區毀滅式的大殺傷武器。設計沿襲山崩所 MODMERGEREPLACE: 挶 MODMERGEWITH: 傷害比等離子彈頭大，其餘表現則差不多。飛彈的當量約五百噸，飛雷約兩 MODMERGEREPLACE: 侷 MODMERGEWITH: 們已經裝航機的裝備升級到核融飛彈和核融飛雷。
 
- MODMERGEREPLACE: 榦 MODMERGEWITH: 然不算大但我們要的也不是核彈式大殺傷武器。設計沿襲山崩所用的高 MODMERGEREPLACE: 乾 MODMERGEWITH: 機升級到核融飛彈和核融飛雷。
-
-這些核融武器做成的傷害比等離子 MODMERGEREPLACE: 矇 MODMERGEWITH: 是破壞幽浮的耐熱表層，令緊接而來的熱衝擊波更有效。不得不讚一下我的這設計。 MODMERGEREPLACE: 幹 MODMERGEWITH: 彈頭大，其餘表現則差不多。飛彈的當量約五百噸，飛雷約兩千噸，雖 MODMERGEREPLACE: 濛 MODMERGEWITH: 圓錐汽化，化成一串超音速粒子流。它的破壞力頗為可觀，但主要目的</Data></Cell>
+這些核融武器做成的 MODMERGEREPLACE: 鵰 MODMERGEWITH: 
+要達成此效果，兩種導彈都在彈頭前裝有高密度的鋨制圓錐。爆炸會將圓</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
@@ -871,18 +871,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AssaultShield</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: 金的耐熱性和抗衝擊力大大提升了抵擋的能力。製作方形的盾並不 MODMERGEREPLACE: 雕 MODMERGEWITH: 護。你的手下幾乎全部支持後者，而突擊兵的高死亡率也提供了數 MODMERGEREPLACE: 局 MODMERGEWITH: 突擊盾是戰鬥盾的升級版，應用強化的異型合金大幅提升耐久力。 MODMERGEREPLACE: 彫 MODMERGEWITH: 最好能撐完一場任務。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: 隻手，持盾的人只能拿手槍或電擊棍。請記著盾不是萬全的，露出盾外的身體部位總有機會被打中。 MODMERGEREPLACE: 并 MODMERGEWITH: 要能抵受大部分異型等離子武器的數擊，最好能撐完一場任務。
 
-當然，突擊盾會佔用一隻手，持盾的人 MODMERGEREPLACE: 鵰 MODMERGEWITH: 據支持。結論是突擊盾應要能抵受大部分異型等離子武器的數擊， MODMERGEREPLACE: 侷 MODMERGEWITH: 它的用法維持不變：抵擋、吸收迎面而來的攻擊。
+當然，突擊盾會佔用一 MODMERGEREPLACE: 臺 MODMERGEWITH: 突擊盾是戰鬥盾的升級版，應用強化的異型合金大幅提升耐久力。它的用法維持不變：抵擋 MODMERGEREPLACE: 颱 MODMERGEWITH: 力。你的手下幾乎全部支持後者，而突擊兵的高死亡率也提供了數據支持。結論是突擊盾應 MODMERGEREPLACE: 檯 MODMERGEWITH: 作方形的盾並不困難，所以主要的問題是要設計一個較便的盾還是維持重量不變但提升保護 MODMERGEREPLACE: 台 MODMERGEWITH: 、吸收迎面而來的攻擊。
 
-強化異型合 MODMERGEREPLACE: 跼 MODMERGEWITH: 困難，所以主要的取捨是要計一個較便的盾還是維持重量但提升保 MODMERGEREPLACE: 琱 MODMERGEWITH: 只能拿手槍。請記著盾不是萬全的，露出盾外的身體部位總有機會被打中。</Data></Cell>
+強化異型合金的耐熱性和抗衝擊力大大提升了抵擋的能力。製</Data></Cell>
    </Row>
    <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
@@ -890,18 +890,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">基地設施</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.QuantumCryptologyCentre</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: ，即使有了解密算法都需要大量的運算能力去解碼。為此需要設計全新的特化量子電腦；本來是 MODMERGEREPLACE: 懞 MODMERGEWITH: 驗室等）。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: ）。
 
-裝置的計基於有一定歷史的克雷超級電腦，不過強上幾個量級。異型的加密很強 MODMERGEREPLACE: 蒙 MODMERGEWITH: 需要的話，不重要的建築會暫時斷電（休憩設施、工房等）而重要建築則不受影響（指揮室、實 MODMERGEREPLACE: 干 MODMERGEWITH: 量子加密破譯中心是一棟新的基地建築，令我們在偵察到幽浮後可以破譯它的通訊。這些通訊會 MODMERGEREPLACE: 幹 MODMERGEWITH: 能做出實時察及破譯異型通訊的裝置。所需要的只是要追蹤的幽浮的位置，由基地的雷達系統提 MODMERGEREPLACE: 乾 MODMERGEWITH: 揭示幽浮的種類、任務、及乘員。
+設施的設計基於頗有歷史的克雷超級電腦，不過強上幾個量級。異型的加密很強，即使 MODMERGEREPLACE: 局 MODMERGEWITH: 量子加密破譯中心是一棟新的基地設施，令我們在偵察到幽浮後可以立刻破譯它的通訊。這些通 MODMERGEREPLACE: 跼 MODMERGEWITH: 譯中心所用的動態超級電腦架構能隨時調整出力，只要增加供電就能追蹤無限量的幽浮。有必要 MODMERGEREPLACE: 侷 MODMERGEWITH: 訊會揭示幽浮的種類、任務、及乘員。
 
-利用我的團隊在研究異型通訊陣列時所開發的破譯算法， MODMERGEREPLACE: 榦 MODMERGEWITH: 供。破譯中心所用的動態超級電腦架構能追蹤無限量的幽浮，要追蹤多艘幽浮只需要提升供電。 MODMERGEREPLACE: 矇 MODMERGEWITH: 不可能的事，幸運地有我在。有了這建築，不論是防空戰略還是出擊前的部隊選配都應該更得心應手。</Data></Cell>
+利用我的團隊在研究異型通訊陣列時所開發的破譯算 MODMERGEREPLACE: 琱 MODMERGEWITH: 能的事，幸運地你有我在。有了這設施，不論是防空戰略還是出擊前的部隊選配都應該更得心應手。 MODMERGEREPLACE: 挶 MODMERGEWITH: 法，能做出實時監察及破譯異型通訊的裝置。所需要的幽浮位置由基地的雷達系統進行追蹤。破 MODMERGEREPLACE: 彫 MODMERGEWITH: 有了解密算法都需要大量的運算能力去解碼。為此需要設計全新的特化量子電腦；本來這是不可 MODMERGEREPLACE: 雕 MODMERGEWITH: 時，不重要的設施會暫時斷電（休憩設施、工房等）而重要設施則不受影響（指揮室、實驗室等</Data></Cell>
    </Row>
    <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
@@ -909,20 +909,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.human.valkyrie</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: ，每個倉都會發出隱型的等離子場保護乘客，並以音速的幾倍速度劃過天際。離地幾百米左右，緩速火箭會發射，將 MODMERGEREPLACE: 跼 MODMERGEWITH: 這並不是易事。載著這麼多都能用時速_2,000_公里航行只是錦上添花。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 降倉拖到安全的降落速度。等離子場會在著陸的一刻散去，允許乘客離開。
 
-出於航母幽浮的電磁發射管可以 MODMERGEREPLACE: 彫 MODMERGEWITH: 空降拖到安全的速度。等離子場會在著陸的一刻散去，允許乘客離開。
+被以一千米時速射向戰場可能會令你的 MODMERGEREPLACE: 懞 MODMERGEWITH: 破。投射之後，每個倉都會發出隱型的等離子場保護乘客，以幾倍音速劃過天際。離地幾百米時會發射緩速火箭，將空 MODMERGEREPLACE: 乾 MODMERGEWITH: 的設計運用強化異型合金的高硬度做出一個空曠的輕量機倉，以往用鋁是做不到的。配上一對強力噴射引擎及_A-2 MODMERGEREPLACE: 榦 MODMERGEWITH: 是易事。載著這麼多都能用時速_2，000_公里航行更加是錦上添花。
 
-被以時速一千米射向戰場可能會令你的士 MODMERGEREPLACE: 侷 MODMERGEWITH: 神的設計運用強化異型合金的高硬度做出一個空曠的輕量機倉，以往用鋁是做不到的。配上一對強力噴射引擎及_A MODMERGEREPLACE: 雕 MODMERGEWITH: 將異種航員單位投放至著陸區的任何地方，以便開展戰鬥。雖然空降倉看上去其貌不揚，但卻是一大突破。投射之後 MODMERGEREPLACE: 琱 MODMERGEWITH: 兵感到不快，不過他們要習慣一下；我看不出運輸船的技術還有甚麼改善的空間，所以女武神應該是我們的最終設計。 MODMERGEREPLACE: 局 MODMERGEWITH: D-54“女武神”Valkyrie_突擊艇是終極的運輸船，有強大的運載能力及優良的速度和航程。
+航母幽浮用來投放幽浮的電磁發射管， MODMERGEREPLACE: 蒙 MODMERGEWITH: 女武神也有，可以將異種航員單位投放至著陸區的任何地方，以利開展戰鬥。這些空降倉看上去其貌不揚但卻是一大突 MODMERGEREPLACE: 矇 MODMERGEWITH: 士兵感到不快，不過他們要習慣一下；我看不出運輸船的技術還有甚麼改善的空間，所以女武神應該是我們的最終設計。 MODMERGEREPLACE: 干 MODMERGEWITH: D-54“女武神”Valkyrie_突擊艇是終極的運輸船，有強大的運載能力及優良的速度和航程。
 
-女武 MODMERGEREPLACE: 挶 MODMERGEWITH: -23_異能晶脈衝反應爐，我們就有了能載十二名士兵或同等戰力的運輸機。考慮到我們的戰車和戰甲越來越重，</Data></Cell>
+女武神 MODMERGEREPLACE: 幹 MODMERGEWITH: 3_異能晶脈衝反應爐，我們就有了能載十二名士兵或同等戰力的運輸機。考慮到我們的戰車和戰甲越來越重，這並不</Data></Cell>
    </Row>
    <Row ss:Height="102">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFirePlasmas</Data></Cell>
@@ -941,7 +941,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
 
 效果上這等同將傳統武器的高射 MODMERGEREPLACE: 挶 MODMERGEWITH: 離子噴射炮去填補這空隙。
 
-兩者都利用大型的產生器陣列去持續 MODMERGEREPLACE: 琱 MODMERGEWITH: 速跟等離子武器的高傷害合二為一。為了對抗外星生物，兩者都是實用的升級。 MODMERGEREPLACE: 局 MODMERGEWITH: 現在我們有了等離子版的輕型步兵武器，但還沒有對等的速射武器例 MODMERGEREPLACE: 雕 MODMERGEWITH: 散，導玫短射程及低下的貫穿力。我們的解決辦法是在槍管裝上一圈 MODMERGEREPLACE: 侷 MODMERGEWITH: 如機槍或機載炮。為此我們設計了步兵用的等離子噴射器和機載的等 MODMERGEREPLACE: 跼 MODMERGEWITH: 噴出大量等離子。一般情況下這樣的等離子流難以聚焦，很快就會消 MODMERGEREPLACE: 鵰 MODMERGEWITH: 五個的重力子發射器。它們會逐一連環發射，為等離子流注入重力子</Data></Cell>
+兩者都利用大型的產生器陣列去持續 MODMERGEREPLACE: 琱 MODMERGEWITH: 速跟等離子武器的高傷害二合為一。為了對抗外星生物，兩者都是實用的升級。 MODMERGEREPLACE: 局 MODMERGEWITH: 現在我們有了等離子版的輕型步兵武器，但還沒有對等的速射武器例 MODMERGEREPLACE: 雕 MODMERGEWITH: 散，導致短射程及低落的貫穿力。我們的解決辦法是在槍管裝上一圈 MODMERGEREPLACE: 侷 MODMERGEWITH: 如機槍或機載炮。為此我們設計了步兵用的等離子噴射器和機載的等 MODMERGEREPLACE: 跼 MODMERGEWITH: 噴出大量等離子。一般情況下這樣的等離子流難以聚焦，很快就會消 MODMERGEREPLACE: 鵰 MODMERGEWITH: 五個的重力子發射器。它們會連環發功，為等離子流分批注入重力子</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
@@ -949,18 +949,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaBolt</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 點兒不失色；我們給等離子束加了扭轉力，令它能飛行好幾公里而不會偏遠太遠。否則，螺旋形電磁鐵所添 MODMERGEREPLACE: 颱 MODMERGEWITH: 裝彈量。車載的集串炮幾乎有步槍的兩倍大，破壞力和貫穿力都大大提升。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: ，用盡設施或戰車所提供的每寸空間。為了提升出力，其餘部分也都按各自的需要增大了， MODMERGEREPLACE: 雕 MODMERGEWITH: 貫穿力都大大提升。
 
-作為基地的點防禦系統也一 MODMERGEREPLACE: 台 MODMERGEWITH: 經升級，但也可以主動給戰車換裝。
+作為基地的點防禦系統也一點兒不失色；我們給等離子束加了扭轉 MODMERGEREPLACE: 彫 MODMERGEWITH: 米左右（作為對空武器形同虛設）。但我們發現可以在槍口加上第二組重力子發射器，跟原 MODMERGEREPLACE: 局 MODMERGEWITH: 等離子集束炮是發射爆炸性等離子團的重型武器，能對目標和附近範圍做成嚴重破壞。基地 MODMERGEREPLACE: 侷 MODMERGEWITH: 的防禦陣地已經升級，戰車也可以隨時換裝。
 
-武器的等離子產生器採用步兵武器的升級版，用盡建築或戰車所提 MODMERGEREPLACE: 臺 MODMERGEWITH: 等離子集束炮是發射爆炸性等離子團的重型武器，能對目標和附近範圍做成嚴重破壞。基地中的防禦陣地已 MODMERGEREPLACE: 併 MODMERGEWITH: 器，跟原來的一組配合，發出成對互相環行的重力子。這樣就能令整束等離子一直旋轉，保持穩定的彈道達幾公里之遠。 MODMERGEREPLACE: 並 MODMERGEWITH: 加的旋轉力只能維持一百米左右（作為對空武器形同虛設）。但我們發現可以在槍口加上第二組重力子發射 MODMERGEREPLACE: 檯 MODMERGEWITH: 供的每寸空間。為了提升出力，其餘部分也都按各自的需要增大了，例如異能晶電池的就加得特別大以增加</Data></Cell>
+武器的等離子產生器是步兵武器的放大版 MODMERGEREPLACE: 鵰 MODMERGEWITH: 力，令它能飛好幾公里而不偏差太遠。基本上，螺旋形電磁鐵所添加的旋轉力只能維持一百 MODMERGEREPLACE: 跼 MODMERGEWITH: 例如異能晶電池就加得特別大以增加裝彈量。車載的集串炮幾乎有步槍的兩倍大，破壞力和 MODMERGEREPLACE: 琱 MODMERGEWITH: 來的一組配合，發出成對繞行的重力子。這樣就能令整束等離子一直旋轉，保持穩定的彈道達幾公里之遙。</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaWarheads</Data></Cell>
@@ -977,7 +977,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: ，要對付為進入大氣層的高熱而設的裝甲實在不太理想。比較有效的方式 MODMERGEREPLACE: 鵰 MODMERGEWITH: 裝甲。
 
-異能晶所剩的能量就繼續用來爆炸，跟之前的彈頭一樣。但由 MODMERGEREPLACE: 侷 MODMERGEWITH: 能晶彈頭。
+異能晶的其餘能量就全部用來爆炸，跟之前的彈頭一樣。但由 MODMERGEREPLACE: 侷 MODMERGEWITH: 能晶彈頭。
 
 現有的異能晶彈頭絕對不弱，不過始終依賴熱爆炸去穿甲 MODMERGEREPLACE: 跼 MODMERGEWITH: 是在爆炸前用異能晶的能量驅動小型的等離子產生器，形成一股高能等離 MODMERGEREPLACE: 彫 MODMERGEWITH: 於貫穿力的提升所以破壞力也增加了一半左右。其他數值基本不變；我們 MODMERGEREPLACE: 局 MODMERGEWITH: 新開發的等離子彈頭是新一代的先進空對空武器，可以完全替換現有的異 MODMERGEREPLACE: 雕 MODMERGEWITH: 子團。效果就如同利用一個等離子“鑽頭”借助火箭的動能去溶解、穿透 MODMERGEREPLACE: 琱 MODMERGEWITH: 可以直接無視成本量產新彈頭並換裝現有的導彈。我已經代你指示我們的戰機升級武裝。</Data></Cell>
    </Row>
@@ -987,18 +987,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienFusionReactor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 琱 MODMERGEWITH: ，足足比得上我們基地的主發電機。無論下一步怎樣，從現有能量源獲得更高能量的技術都很有用，能繼續推進科技發展。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 需要大量動力，並且貴重到值得裝設異型核融合爐。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: ，足足比得上我們基地的主發電機。無論下一步怎樣，從現有能源獲得更高能量的技術都很有用，可以繼續推進技術發展。 MODMERGEREPLACE: 幹 MODMERGEWITH: （一種氫同位素）所需的能量，以啟動核聚變反應，然後反應的能量就能自我維持。異能晶的功用相等於起 MODMERGEREPLACE: 干 MODMERGEWITH: 異型核融合爐是推動較大型主力幽浮的大圓筒。它有一個異能晶核心，外面是一層環狀線圈，負責產生一度 MODMERGEREPLACE: 蒙 MODMERGEWITH: 爐的主要限制是設計複雜，相比單純的異能晶反應爐要多花很多時間建造。因此它比較適合較大的幽浮。它 MODMERGEREPLACE: 濛 MODMERGEWITH: 核融合反應爐。雖然微型化導致效率降低，不過以汽車引擎大小的體積來說它能輸出廿倍於其他設計的能量 MODMERGEREPLACE: 乾 MODMERGEWITH: 強力磁場隔絕攝氏_22_億度高溫的核融合反應。
 
-我們利用研究所得在實驗室內建了一個微形的核融 MODMERGEREPLACE: 局 MODMERGEWITH: 異型核融合爐是推動較大型主力幽浮的大型圓型裝置。它有一個異能晶核心，外面是一層環狀線圈，負責產 MODMERGEREPLACE: 侷 MODMERGEWITH: 生一度強力磁場將核融合反應和反應的攝氏_22_億度高溫。
+這反應爐並不燃燒異能晶，異能晶只提供撞擊重氫 MODMERGEREPLACE: 榦 MODMERGEWITH: 動馬達。重氫隨處可見，所需的量也不多，因此從少量的異能晶就能獲得遠大於異能晶所含的能量。核融合 MODMERGEREPLACE: 懞 MODMERGEWITH: 們需要大量動力，並且貴重到值得裝設異型核融合爐。
 
-反應爐並不以異能晶作燃料，異能晶只 MODMERGEREPLACE: 雕 MODMERGEWITH: 爐的主要限制是設計複雜，相比單純的異能晶反應爐要多化很多時間建造。因此它很適合較大的幽浮，它們 MODMERGEREPLACE: 挶 MODMERGEWITH: 提供撞擊重氫（一種氫同位素）所需的能量，以產生核聚變反應，從反應獲得能量。異能晶的功用相等於起 MODMERGEREPLACE: 彫 MODMERGEWITH: 合反應爐。雖然微型化導玫效率降低，不過以它那汽車引擎的大小來說它能產的能量是其他所有設計的廿倍 MODMERGEREPLACE: 跼 MODMERGEWITH: 動馬達。重氫隨處可見，所需的量也不多，因此從少量的異能晶就能獲得遠大於異能晶所含的能量。核融合</Data></Cell>
+我們利用研究的成果在實驗室內建了一個微形的</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
@@ -1006,20 +1006,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienHyperdrive</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: ，令目標跌回我們的這個次元。在這兒目標不能同時存在於兩個地點，所以結果只會在其中一點出現。最重要是，這裝置似乎能控 MODMERGEREPLACE: 榦 MODMERGEWITH: 驗（更可惜的是沒有工程師肯貢獻他們的腦袋）,但我相信我已經知道它如何運作。管子和電磁鐵會一起產生圍繞目標的電磁場， MODMERGEREPLACE: 矇 MODMERGEWITH: 道是如何建立的，也無法解釋它的物理法則，這些研究要等戰爭結束後再談。我們現在只需要知道它的運作方式，以及如何壓制它。 MODMERGEREPLACE: 幹 MODMERGEWITH: 米的圓柱體。裡面有一個全長的管子，盛滿等離子並由四塊轉動的電磁圈保持懸浮。我們能提供的能量只足夠對細小的物體進行實 MODMERGEREPLACE: 干 MODMERGEWITH: 異型的超空間引擎是一個超光速引擎，令搭載它的飛船可以用幾日時間“跳躍”幾千年的宇航距離。它實際上是一度門，通往多維 MODMERGEREPLACE: 乾 MODMERGEWITH: 宇宙的另一次元（一個超空間）。該次元不比我們的小但有不同的物理法則。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: 躍需要越大的能量。
 
-超空間引擎是個長約_5_米，直徑_1.5_ MODMERGEREPLACE: 濛 MODMERGEWITH: 制目標總在目的地的一點出現。跳躍的距離幾乎不受限制，唯一的限制是越遠的目標也需要越大的能量。
+我不知道這超空間通道是如何建立的，也無法解釋它的物理法則，這些研究要等戰爭結束後再談。我們現在只需要知道它的運作方式，以及如何壓制它。 MODMERGEREPLACE: 颱 MODMERGEWITH: 的電磁場，作為打通超空間的兩點的“通道”。這等於令目標同時存在於另一次元的兩個不同地點。
 
-我不知道這超空間通 MODMERGEREPLACE: 蒙 MODMERGEWITH: 作為打通超空間的兩點的“通道”。這等於令目標同時存在於另一次元的兩個不同地點。
+接通這“通道”後，裝置就停止運作，令目標跌回我們的這個次 MODMERGEREPLACE: 臺 MODMERGEWITH: 異型的超空間引擎是一種超光速引擎，搭載它的飛船可以用幾日時間“跳躍”幾千年的宇航距離。它實際上是一度門，通往多維宇宙的另一次元（一個超空間）。該次元 MODMERGEREPLACE: 檯 MODMERGEWITH: 我們所能供應的能量只足以跳躍細小的物件（更可惜的是沒有工程師肯貢獻他們的腦袋進行實驗），但我相信我已經知道它如何運作。管子和電磁鐵會一起產生圍繞目標 MODMERGEREPLACE: 并 MODMERGEWITH: 元。這兒的物質不能同時存在於兩點，所以目標只會跌入其中一點。最重要是，這裝置似乎能控制目標在那一點出現。跳躍的距離不受物理限制，唯一的限制是越遠的跳 MODMERGEREPLACE: 台 MODMERGEWITH: 不比我們的小但有不同的物理法則。
 
-接通這“通道”後，裝置就停止運作</Data></Cell>
+超空間引擎是個長約_5_米，直徑_1.5_米的圓柱體。裡面有一條長管子，盛滿等離子並由四塊轉動的電磁圈保持懸浮。</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
@@ -1027,18 +1027,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.RapidFireMAGs</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 局 MODMERGEWITH: 重近動能武器頗令人心曠神怡。人類用了它們幾千年，我覺得人類跟它們特別親 MODMERGEREPLACE: 挶 MODMERGEWITH: 通的基礎理論。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 風暴，一種用暴雨般的超音速子彈徹底毀滅目標的武器。它有四根槍管，每根的電磁鐵都比標 MODMERGEREPLACE: 臺 MODMERGEWITH: 重返動能武器頗令人心曠神怡。人類用了它們幾千年，我覺得人類對它們特別感到親切。電磁 MODMERGEREPLACE: 并 MODMERGEWITH: 準的電磁武器多扭一倍的圈。更多的圈可以更用力推動子彈，但我們沒有這樣做，而是將線圈 MODMERGEREPLACE: 台 MODMERGEWITH: 武器的技術細節非常複雜，跟傳統彈道武器很不同，不過兩者依然有共通的基礎理論。
 
-多槍管設計是其中一項，對以往的速射武器都貢獻良多。它 MODMERGEREPLACE: 跼 MODMERGEWITH: 被再次應用於我們的最終武器：電磁風暴，一種用暴雨般的超音速子彈徹底毀滅 MODMERGEREPLACE: 雕 MODMERGEWITH: 目標的武器。它有四根槍管，每根的電磁鐵都比標準的電磁武器多扭一倍的圈。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 更多的圈可以更用力推動子彈，但我們沒有這樣做，而是將線圈分給兩粒子彈。 MODMERGEREPLACE: 彫 MODMERGEWITH: 於是每支槍管能同時推動兩粒子彈，而不減破壞力。
+多 MODMERGEREPLACE: 檯 MODMERGEWITH: 槍管設計是其中一項，對以往的速射武器都貢獻良多。它被再次應用於我們的最終武器：電磁 MODMERGEREPLACE: 併 MODMERGEWITH: 口徑的步兵武器和大口徑的機載武器。這是我們的終極速射武器；你的手下已經急不可耐想要它。 MODMERGEREPLACE: 並 MODMERGEWITH: 分給兩粒子彈。於是每支槍管能同時推動兩粒子彈，而不減破壞力。
 
-這技術同時適用於低口 MODMERGEREPLACE: 琱 MODMERGEWITH: 徑的步兵武器和大口徑的機載武器。這是我們的終極速射武器；你的手下已經急不可耐想要它。 MODMERGEREPLACE: 侷 MODMERGEWITH: 切。電磁武器科技的細節非常複雜，跟傳統彈道武器很不同，不過兩者依然有共</Data></Cell>
+這技術同時適用於低</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
@@ -1046,18 +1046,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MAGrailgun</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: 重裝甲的地面武器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: ，是唯一能打穿主力幽浮的重裝甲的地面武器。
 
-磁軌炮不同於電磁炮，並不採用線圈。取而代之，磁軌炮用一對正負兩極的電磁軌道推進炮彈。炮 MODMERGEREPLACE: 臺 MODMERGEWITH: 磁軌炮是我們能裝在戰車上的最強武器，發射口徑可觀的超音速彈頭。放到防禦陣地也很適合，作為唯一能打穿主力幽浮的 MODMERGEREPLACE: 檯 MODMERGEWITH: 彈處於中央，連接兩邊成為迴路的一部分，產生推動自己的電磁力，直到從炮口高速射出。實際上磁軌炮比線圈炮更複雜， MODMERGEREPLACE: 併 MODMERGEWITH: 升級了基地的防禦陣地，大大提升了火力。從某角度而言只可惜地球有大氣層，否則現在我們可以直接轟爆軌道上的幽浮艦隊。 MODMERGEREPLACE: 并 MODMERGEWITH: 力磨到沒意思這樣做。但它依然是很有的武器，可以一炮摧毀大部分目標，並產生大爆炸去破壞附近的任何東西。我們已經 MODMERGEREPLACE: 颱 MODMERGEWITH: 但效率更好，可以達到更高的彈速。
+磁軌炮不同於電磁炮，並不採用線圈。 MODMERGEREPLACE: 懞 MODMERGEWITH: 軌道……只不過炮彈會被空氣阻力磨到喪失殺傷力。但它依然是很強的武器，可以一炮摧毀 MODMERGEREPLACE: 干 MODMERGEWITH: 磁軌炮是我們能裝在戰車上的最強武器，發射口徑可觀的超音速彈頭。放到防禦陣地也很妙 MODMERGEREPLACE: 榦 MODMERGEWITH: 的一部分，產生推動自己的電磁力，直到從炮口高速射出。實際上磁軌炮比線圈炮更複雜， MODMERGEREPLACE: 濛 MODMERGEWITH: 大部分目標，產生的大爆炸也會做成大範圍破壞。我們已經升級了基地的防禦陣地，大大提 MODMERGEREPLACE: 幹 MODMERGEWITH: 取而代之，磁軌炮用一對正負兩極的電磁軌道推進炮彈。炮彈處於中央，連接兩邊成為迴路 MODMERGEREPLACE: 矇 MODMERGEWITH: 升了火力。從某角度而言只可惜地球有大氣層，否則現在我們可以直接轟爆軌道上的幽浮艦隊。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 但效率更好，可以達到更高的彈速。
 
-我們的原型炮很強，甚至強到可以將炮彈打到太空軌道……只不過炮彈會被空氣阻</Data></Cell>
+我們的原型炮很強，甚至強到可以將炮彈打到太空</Data></Cell>
    </Row>
    <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
@@ -1065,20 +1065,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">VEHICLE.HUNTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: 配額，但比士兵耐打、快速、視界遠。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 運輸船的兩名運載配額，但比士兵更耐打、更快、視界更遠。
 
-獵手改裝自_Daimler_Ferret_裝甲車，少數夠輕夠細能以戰備狀態 MODMERGEREPLACE: 颱 MODMERGEWITH: 的戰車都不會有重裝甲，而獵手也不例外。不過更換裝甲版總比士兵養傷快，使用得宜的話它很適合在戰場上作為偵察用。
+獵手改裝自_Daimler_Ferre MODMERGEREPLACE: 蒙 MODMERGEWITH: 版總比士兵養傷快，使用得宜的話它很適合用來偵察戰場。
 
- MODMERGEREPLACE: 檯 MODMERGEWITH: 用查理運輸機載送的戰車，即使每次只有足夠空間帶一輛。“偵察戰車”不是瞎說的；獵手不是主戰坦克。任何能被直昇機運送 MODMERGEREPLACE: 并 MODMERGEWITH: 獵手裝備有雙_.30_口徑機槍，威力不錯但命中率不過爾爾，適合壓制敵人多於直接攻擊，所以獵手比較適合作為士兵的支 MODMERGEREPLACE: 並 MODMERGEWITH: 援。但如果你想升級它的火力，你的工程師說過也可以將炮塔換成火箭炮，但這樣就大概不會剩下甚麼給我的團隊研究。
+獵手裝備有雙_.30_口徑機槍，威力不錯 MODMERGEREPLACE: 榦 MODMERGEWITH: 是瞎說的；獵手不是主戰坦克。任何能被直昇機運送的戰車都不會有重裝甲，而獵手也不例外。不過更換裝甲 MODMERGEREPLACE: 矇 MODMERGEWITH: 房下令開始制作獵手。提醒那幫粗人要照足藍圖做，一分都不能偏；能理解設計動機的人該是在實驗室工作而不是工房。 MODMERGEREPLACE: 濛 MODMERGEWITH: 力，你的工程師說過也可以將炮塔換成火箭炮，但這樣就大概不會剩下甚麼給我的團隊研究。
 
-你 MODMERGEREPLACE: 併 MODMERGEWITH: 可以去工房下令開始制作獵手。提醒那幫粗人要照足藍圖做，一分都不能偏；如果他們能理解設計動機的話就該是在實驗室工作而不是工房。 MODMERGEREPLACE: 臺 MODMERGEWITH: “獵手”Hunter_偵察戰車是一輛小型的裝甲車，能在地面戰鬥中協助偵察和提供火力支援。它會佔用運輸船的兩名運載</Data></Cell>
+你可以去工 MODMERGEREPLACE: 懞 MODMERGEWITH: 但命中率不過爾爾，適合壓制敵人多於直接攻擊，所以獵手比較適合作為士兵的支援。但如果你想升級它的火 MODMERGEREPLACE: 干 MODMERGEWITH: “獵手”Hunter_偵察戰車是一輛小型的裝甲車，能在地面戰鬥中協助偵察和提供火力支援。它會佔用 MODMERGEREPLACE: 幹 MODMERGEWITH: t_裝甲車，少數夠輕夠細能以戰備狀態用查理運輸機載送的戰車，即使每程只能運載一輛。“偵察戰車”不</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.jackal</Data></Cell>
@@ -1086,18 +1086,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員護甲</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">armour.jackal</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 槍的話身穿甚麼都沒有用。不過那總比沒有好，你現在就能去工房下令開始制作豺狼甲。 MODMERGEREPLACE: 濛 MODMERGEWITH: 攻擊的護甲會快速衰敗，所以不能抵禦多次攻擊。它也不一定能提供保護：當面吃一 MODMERGEREPLACE: 榦 MODMERGEWITH: 抵擋動能衝擊而不是熱衝擊。因此我們測試了一套用不防彈的抗熱陶瓷板做的戰術背 MODMERGEREPLACE: 蒙 MODMERGEWITH: 心，效果不錯。這陶瓷能承擔及散發熱能，足以提升存活率，即使無法完全防止傷害 MODMERGEREPLACE: 幹 MODMERGEWITH: 型等子武器所做的實驗顯示傳統護甲對能量武器基本上等同無效，因為它們的設計是 MODMERGEREPLACE: 乾 MODMERGEWITH: 。也許它不適合所有情況，但在大部分情況下多點存活率都是好事。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 量。被攻擊的護甲會快速衰敗，所以不能抵禦多次攻擊。它也不一定能提供保護： MODMERGEREPLACE: 侷 MODMERGEWITH: 重。也許它不適合所有情況，但在大部分情況下多點存活率都是好事。
 
-用虜獲的異 MODMERGEREPLACE: 懞 MODMERGEWITH: 。
+用虜獲 MODMERGEREPLACE: 雕 MODMERGEWITH: 術背心，效果不錯。這陶瓷能阻隔及散發熱能，足以提升存活率，即使無法完全防 MODMERGEREPLACE: 挶 MODMERGEWITH: 的異型等子武器所做的實驗顯示傳統護甲基本上對能量武器無效，因為它們的設計 MODMERGEREPLACE: 琱 MODMERGEWITH: 當面吃一槍的話身穿甚麼都沒有用。不過有總比沒有好，你現在就能去工房下令開始制作豺狼甲。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 止受傷。
 
-提升防護率的代價是它重量不輕，會減少彈藥等其他戰鬥裝備的攜帶量。受到 MODMERGEREPLACE: 干 MODMERGEWITH: “豺狼”Jackal_戰鬥護甲給我們的士兵提供額外保護，但會增加他們的負重</Data></Cell>
+提升防護率的代價是它重量不輕，會減少彈藥等其他戰鬥裝備的攜帶 MODMERGEREPLACE: 跼 MODMERGEWITH: 是抵擋動能衝擊而不是熱衝擊。因此我們測試了一套用不防彈的抗熱陶瓷板做的戰 MODMERGEREPLACE: 局 MODMERGEWITH: “豺狼”Jackal_戰鬥護甲給我們的士兵提供額外保護，但會增加他們的負</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumExplosives</Data></Cell>
@@ -1112,11 +1112,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 結構維修。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 要進行結構維修。
 
-新武器的原理非常簡單：一塊異能晶權充炸藥，當被觸發時就將它的能量釋 MODMERGEREPLACE: 挶 MODMERGEWITH: 物：用來做爆炸物。
+新武器的原理非常簡單：一塊異能晶權充炸藥，當被觸發時就將它的 MODMERGEREPLACE: 彫 MODMERGEWITH: 能量釋放。火箭彈的彈頭足夠大，會做成大爆炸。手雷則會將鋼殼化成致命的破片雲。注意 MODMERGEREPLACE: 琱 MODMERGEWITH: 的是它們炸的不止是異型，也會炸壞異型的外星裝備。被炸死的異型連屍骨都不全，更妄論手持的裝備。 MODMERGEREPLACE: 挶 MODMERGEWITH: 物：用來做爆炸物。
 
-異能晶渣滓所含的能量依然高於同等分量的黃色炸藥。我的團隊計 MODMERGEREPLACE: 彫 MODMERGEWITH: 放。火箭彈的彈頭足夠大，會做成大爆炸。手雷則會將鋼殼化成玫命的破片雲。注意的是它 MODMERGEREPLACE: 雕 MODMERGEWITH: 基本上可以無限量供應。你的手下頗為著迷：他們花了很長時間測試，長到測試場需要進行 MODMERGEREPLACE: 局 MODMERGEWITH: 在幽浮內搜到的異能晶大都是動力爐用剩的殘餘物，沒有作為燃料的價值。這些劣質異能晶 MODMERGEREPLACE: 侷 MODMERGEWITH: 只能燒幾分鐘，而全新的異能晶可以燒數小時。但我想到一個方法利用這些不愁供應的廢棄 MODMERGEREPLACE: 琱 MODMERGEWITH: 們炸的不止是異型，也包括異型的外星裝備。被炸死的異型連屍骨都不全，更妄論手持的裝備。 MODMERGEREPLACE: 跼 MODMERGEWITH: 了改良的高爆火箭彈和破片手雷，換上異能晶炸藥後破壞力提升了約一半。由於材料充足，</Data></Cell>
+即使是渣滓，異能晶所含的能量都依然高於等量的黃色炸藥。我的 MODMERGEREPLACE: 局 MODMERGEWITH: 在幽浮內搜到的異能晶大都是動力爐用剩的殘餘物，沒有作為燃料的價值。這些劣質異能晶 MODMERGEREPLACE: 跼 MODMERGEWITH: 團隊計了改良的高爆火箭彈和破片手雷，換上異能晶炸藥後破壞力提升了約一半。由於材料 MODMERGEREPLACE: 侷 MODMERGEWITH: 只能燒幾分鐘，而全新的異能晶可以燒數小時。但我想到一個方法利用這些不愁供應的廢棄 MODMERGEREPLACE: 雕 MODMERGEWITH: 充足，基本上可以無限量供應。你的手下頗為著迷：他們花了很長時間測試，令到測試場需</Data></Cell>
    </Row>
    <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AleniumWarheads</Data></Cell>
@@ -1131,9 +1131,9 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 飛彈，而異能晶飛雷則取代山崩重型飛雷。後者適宜攻擊笨重、無法滾轉迴避的幽浮。飛彈的傷害力較 MODMERGEREPLACE: 檯 MODMERGEWITH: 貫穿力，我們在異型塊頂部裝了個小型激光發射器。藉由調整激光的發射模式，我們可以控制爆炸的形 MODMERGEREPLACE: 颱 MODMERGEWITH: 狀，將爆炸力聚焦到任意方向。我們沒時間去試驗怎樣的形狀最有效，所以我們簡單地確保爆炸力會集 MODMERGEREPLACE: 臺 MODMERGEWITH: 劣質的異能晶也適用於戰鬥機的導彈。這比步兵武器複雜少許，因為對空彈頭既要爆炸力也要貫穿力。 MODMERGEREPLACE: 併 MODMERGEWITH: 低，但較易命中靈活的小幽浮。兩種導彈都只涉及更換彈頭，應該不會影響目前的空戰戰術，只會降低難度。 MODMERGEREPLACE: 并 MODMERGEWITH: 中向前，而不會無謂地四散。雖然原始但有效。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: ，但較易命中靈活的小幽浮。兩種導彈都只換了彈頭，應該不會影響目前的空戰戰術，只會降低難度。 MODMERGEREPLACE: 檯 MODMERGEWITH: 貫穿力，我們在異型塊頂部裝了個小型激光發射器。藉由調整激光的發射模式，我們可以控制爆炸的形 MODMERGEREPLACE: 颱 MODMERGEWITH: 狀，將爆炸力聚焦到任意方向。我們沒時間去試驗怎樣的形狀最有效，所以我們簡單地確保爆炸力會集 MODMERGEREPLACE: 並 MODMERGEWITH: 彈，而異能晶飛雷則取代山崩重型飛雷。後者適宜攻擊笨重、無法滾轉迴避的幽浮。飛彈的傷害力較低 MODMERGEREPLACE: 臺 MODMERGEWITH: 劣質的異能晶也適用於戰鬥機的導彈。這比步兵武器複雜少許，因為對空彈頭既要爆炸力也要貫穿力。 MODMERGEREPLACE: 并 MODMERGEWITH: 中向前，而不會無謂地四散。原始，但有效。
 
-異能晶飛彈直接取代替代我們的響尾蛇輕型空對空 MODMERGEREPLACE: 台 MODMERGEWITH: 不過我們還是成功了，而且由於新彈頭兼容現有的彈體，我們已經升級了戰鬥機的武裝。
+異能晶飛彈直接取代替代我們的響尾蛇輕型空對空飛 MODMERGEREPLACE: 台 MODMERGEWITH: 不過我們還是成功了，而且由於新彈頭兼容現有的彈體，我們已經升級了戰鬥機的武裝。
 
 為了提升</Data></Cell>
    </Row>
@@ -1143,18 +1143,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.PlasmaExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: ，我們已經直接廢除了舊的版本。為了減低對戰術的影響，只有傷害增加了，其餘一切不變。 MODMERGEREPLACE: 乾 MODMERGEWITH: 直接將反應爐做成炸彈，但它示範了能如何提升能量效益。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 過空氣傳遞能量，省下耗在熱阻上的能量就可以增加爆炸的破壞力。
 
-直接引爆劣質異能晶的效 MODMERGEREPLACE: 幹 MODMERGEWITH: 果還算不錯，但始終比較原始，很浪費。爆炸的熱能會浪費到加熱空氣，高熱阻的空氣。 MODMERGEREPLACE: 干 MODMERGEWITH: 拿異型反應爐能跟動力爐相比，反應爐能從同一塊異能晶中抽取更多能量。雖然我們不能 MODMERGEREPLACE: 懞 MODMERGEWITH: 增加爆炸的破壞力。
+我們設計了等離子手雷及等離 MODMERGEREPLACE: 颱 MODMERGEWITH: 生等離子團會比較有效。為此我們開發了微型的等離子產生器。等離子團會推開週圍的空氣，而不需透 MODMERGEREPLACE: 臺 MODMERGEWITH: 拿異型反應爐能跟動力爐相比，反應爐能從同一塊異能晶中抽取更多能量。雖然我們不能直接將反應爐 MODMERGEREPLACE: 併 MODMERGEWITH: 幾乎可以供限量供應，我們已經直接廢除了舊的版本。為了減低對戰術的影響，增加的只有破壞力，其餘一切不變。 MODMERGEREPLACE: 並 MODMERGEWITH: 子火箭，取代現有的異能晶爆炸武器，以及等離子炸彈取代現有的_C4_炸藥包。這些等離子爆破物 MODMERGEREPLACE: 台 MODMERGEWITH: 做成炸彈，但它示範了異能晶的能源效益可以進一步提升。
 
-我們設計了等離子手雷及等離子火箭，取代現有的異能晶爆炸武 MODMERGEREPLACE: 濛 MODMERGEWITH: 器，以及等離子炸彈取代現有的_C4_炸藥包。這些等離子爆破物幾乎可以供限量供應 MODMERGEREPLACE: 榦 MODMERGEWITH: 作為武器，用這些能量去產生等離子團會比較有效。為此我們開發了微型的等離子產生器 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。等離子團會推開週圍的空氣，而不需透過空氣傳遞能量，省下耗在熱阻上的能量就可以</Data></Cell>
+直接引爆劣質異能晶的效果還算不錯， MODMERGEREPLACE: 檯 MODMERGEWITH: 但始終比較原始，很浪費。爆炸的熱能會浪費到加熱空氣，高熱阻的空氣。作為武器，用這些能量去產</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
@@ -1162,18 +1162,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.FusionExplosives</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 氚產生核聚變。新的技術能從劣質異能晶提取足夠能量，讓我們為你的手下設計出純核融合的火箭彈和 MODMERGEREPLACE: 台 MODMERGEWITH: 核融合反應。不幸地這核分裂也會做成久久不散的輻射污染。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: ，而不是來自核融合反應。不幸地這核分裂也會做成久久不散的輻射污染。
 
-純綷的核融合更細、更乾淨、更致命 MODMERGEREPLACE: 併 MODMERGEWITH: 手雷，比等離子的更強。切記提醒他們佩帶新配給的黑色護目鏡。雖然載護目鏡不好看，但視網膜燒傷也不好受。 MODMERGEREPLACE: 并 MODMERGEWITH: 心使用而不會留下核輻射。
+純綷的核 MODMERGEREPLACE: 鵰 MODMERGEWITH: 點就需要用其他方法獲得足夠大的能量，能令彈頭內的重氫和氚產生核聚變。新的技術能 MODMERGEREPLACE: 挶 MODMERGEWITH: 融合更細、更乾淨、更致命。只有不顧士兵死活的指揮官會給部隊配給短程核聚變武器. MODMERGEREPLACE: 琱 MODMERGEWITH: 更強。切記提醒他們佩帶新配給的黑色護目鏡。雖然載護目鏡不好看，但視網膜燒傷也不好受。 MODMERGEREPLACE: 彫 MODMERGEWITH: 從劣質異能晶提取能量，讓我們為你的手下設計出純核融合的火箭彈和手雷，比等離子的 MODMERGEREPLACE: 雕 MODMERGEWITH: 制到不會炸到使用者，也可以在友方的土地上安心使用而不會留下核輻射。
 
-要做到這點就需要用其他方法獲得足夠大的能量，能令彈頭內的重氫和 MODMERGEREPLACE: 颱 MODMERGEWITH: 合作為戰術武器用。它們不單止強，而且能將爆炸範圍限制到不會炸到使用者，也可以在友方的地上安 MODMERGEREPLACE: 臺 MODMERGEWITH: 傳統的二段式原子/氫彈的大部分爆炸能量來自第一階段用來啟動核融合的的核分裂爆炸，而不是來自 MODMERGEREPLACE: 檯 MODMERGEWITH: 。只有不顧士兵死活的指揮官會給部隊配給短程核聚變武器...但迷你的純核融合就不同了，完全適</Data></Cell>
+要做到這 MODMERGEREPLACE: 局 MODMERGEWITH: 傳統的二段式原子/氫彈的大部分爆炸能量來自第一階段用來啟動核融合的的核分裂爆炸 MODMERGEREPLACE: 跼 MODMERGEWITH: ..但核融合就不同了，完全適合作為戰術武器用。它們不單止強，而且能將爆炸範圍限</Data></Cell>
    </Row>
    <Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
@@ -1181,18 +1181,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員戰車武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="89.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HunterMissiles</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 檯 MODMERGEWITH: 箭改裝自輕型的空對空飛彈，爆炸範圍不廣但依然能做成可觀的大範圍爆 MODMERGEREPLACE: 颱 MODMERGEWITH: 焰，適合用來爆破建築物，但也可以直接攻擊較弱的異型。缺點有二：首 MODMERGEREPLACE: 并 MODMERGEWITH: 先是獵手只能攜帶八發火箭。其次是爆炸會炸毀本來能回收到的異型裝備 MODMERGEREPLACE: 台 MODMERGEWITH: 代_.30_口徑雙管炮塔並大大提升戰車的火力。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 然可觀，適合用來爆破建築物，但也可以直接攻擊較 MODMERGEREPLACE: 鵰 MODMERGEWITH: 弱的異型。缺點有二：首先是獵手只能攜帶八發火箭 MODMERGEREPLACE: 挶 MODMERGEWITH: 大提升戰車的火力。
 
-它所用的高爆火 MODMERGEREPLACE: 併 MODMERGEWITH: 。
+它所用的高爆火箭改裝自輕 MODMERGEREPLACE: 跼 MODMERGEWITH: 型的空對空飛彈，爆炸範圍不算大但爆焰的破壞力依 MODMERGEREPLACE: 琱 MODMERGEWITH: 不過很多時士兵的命會比回收更重要。你可以隨時去車房指示換裝。 MODMERGEREPLACE: 侷 MODMERGEWITH: 一炮塔選擇，可以取代_.30_口徑雙管炮塔並大 MODMERGEREPLACE: 彫 MODMERGEWITH: 。其次是爆炸會炸毀本來能回收到的異型裝備。
 
-不過很多時士兵的名會比回收更重要。你可以隨時去車房指示換裝。 MODMERGEREPLACE: 臺 MODMERGEWITH: “毒蛇”Viper_火箭炮塔是獵手偵察戰車的另一炮塔選擇，可以取</Data></Cell>
+ MODMERGEREPLACE: 局 MODMERGEWITH: “毒蛇”Viper_火箭炮塔是獵手偵察戰車的另</Data></Cell>
    </Row>
    <Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
@@ -1200,18 +1200,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienBattleRifle</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 等離子武器的主要分別也是做工，幾乎每件零件都有多項小改良。例如每塊電磁鐵的核心都用強化異型 MODMERGEREPLACE: 臺 MODMERGEWITH: 異型戰鬥步槍長約四十寸，重約五公斤。它可以用高精度將致命的等離子射出一段長距離，能連射而且 MODMERGEREPLACE: 併 MODMERGEWITH: 然受其本質所限。如果我們能完成所有異型武器的研究，也許我們能開發出勝過它們的全新一代武器。 MODMERGEREPLACE: 並 MODMERGEWITH: 槍。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 雖然我們可以盡力這樣做，但也許有其他更好的出路。等離子武器的破壞力很強，但依 MODMERGEREPLACE: 鵰 MODMERGEWITH: 重整，可以產生平常的兩倍磁力。我們要花很多年才能完美複制出一柄這樣的槍。
 
-雖然我們可以儘我們的能力這樣做，但也許我們能做得更好。等離子武器的破壞力很強，但依 MODMERGEREPLACE: 台 MODMERGEWITH: 有優異的貫穿力。要小心拿這槍的敵人：牠們不單止有最可怕的異型武器，本身也是異型的精銳代表。 MODMERGEREPLACE: 并 MODMERGEWITH: 合金打造，經歷過磁向重整，可以產生平常的兩倍磁力。我們會需要很多年才能完美複制出一柄這樣的 MODMERGEREPLACE: 檯 MODMERGEWITH: 
+ MODMERGEREPLACE: 挶 MODMERGEWITH: 的異型武器，本身也是異型的精銳代表。
 
-戰鬥步槍大概是我們會遇上的等離子武器中的最高傑作，做工非常精良。異型戰鬥步槍跟其他異型</Data></Cell>
+戰鬥步槍大概是異型等離子武器中的最高 MODMERGEREPLACE: 局 MODMERGEWITH: 異型戰鬥步槍長約_40_寸，重約_5_公斤。它可以用高精度將致命的等離子射出 MODMERGEREPLACE: 琱 MODMERGEWITH: 然受其本質所限。如果我們能完成所有異型武器的研究，也許我們能開發出勝過它們的全新武器。 MODMERGEREPLACE: 雕 MODMERGEWITH: 每件零件都有多項小改良。例如每塊電磁鐵的核心都用強化異型合金打造，經歷過磁向 MODMERGEREPLACE: 跼 MODMERGEWITH: 傑作，做工非常精良。異型戰鬥步槍跟其他異型等離子武器的主要分別就是做工，幾乎 MODMERGEREPLACE: 侷 MODMERGEWITH: 一段長距離，能連射而且有優異的貫穿力。要小心拿這槍的敵人：牠們不單止有最可怕</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"/>
@@ -1227,18 +1227,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="165.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: ：較大的顱骨裝著更大的腦，而聲帶衰減到不能說話的程度。後者表明牠們也許已經超越了語言，改用心靈感應。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 發生這事的概率接近零。
 
-在細胞 MODMERGEREPLACE: 濛 MODMERGEWITH: 連接著血液循環系統，也許是用來進行取代排泄的人工透析，因為肝臟和腎臟都略為退化。更進一步的話，連進食和消失都可 MODMERGEREPLACE: 乾 MODMERGEWITH: 這事的概率接近零。
+物理上，灰人比人類弱，肌肉較薄弱而且骨骼的乘重只有人類骨骼的_60%。兩者都可能是長 MODMERGEREPLACE: 局 MODMERGEWITH: 灰人_Caesan_是一種人型的異型，高約_1.7_米。像你一樣，我們都很驚訝牠跟人類是如此相似；我們相信偶然 MODMERGEREPLACE: 彫 MODMERGEWITH: 活閂，連接著血液循環系統，也許是用來進行人工透析以取代排泄，因為肝臟和腎臟都略為有所退化。更進一步的話，連進食 MODMERGEREPLACE: 挶 MODMERGEWITH: 期活於低重力環境的結果。生理結構也可疑地跟人類非常相近，大部分器官都很相似，骨骼結構也差不多。有幾項差異之處值 MODMERGEREPLACE: 跼 MODMERGEWITH: 得一提：較大的顱骨裝著更大的腦，而聲帶衰減到不能說話的程度。後者表明牠們也許已經超越了語言，改用心靈感應。
 
-物理上，灰人比人類弱，肌肉較弱而且骨骼的乘重只有人類骨骼的_60%。兩者都可能是長期活於 MODMERGEREPLACE: 懞 MODMERGEWITH: 生殖器官不是沒有，但同樣極度衰退。這兒發生的並不單單是單性繁殖，而且是用科技進行的繁殖。脊骨上部有個金屬活閂， MODMERGEREPLACE: 干 MODMERGEWITH: 灰人_Caesan_是人型的異型，高約_1.7_米。像你一樣，我們都很驚訝牠跟人類是如此相似；我們相信偶然發生 MODMERGEREPLACE: 蒙 MODMERGEWITH: 層面可見深入的基因改造。灰人的身體組織只有只性染色體，而且所有灰人戰鬥員的基因完全一樣，也就是說牠們是複制體。 MODMERGEREPLACE: 幹 MODMERGEWITH: 低重力環境的結果。生理結構也可疑地跟人類非常相近，大部分器官都很相似，骨骼結構也差不多。有幾項差異之處值得一提 MODMERGEREPLACE: 矇 MODMERGEWITH: 以完全省略，營養可以在過濾血液的過程中直接注入血漿。外星的科技是不是已經超越了肉體？這些屍首帶來的問題比解答更多。</Data></Cell>
+ MODMERGEREPLACE: 雕 MODMERGEWITH: 在細胞層面可見深入的基因改造。灰人的身體組織只有單性染色體，而且所有灰人戰鬥員的基因完全一樣，也就是說牠們是複 MODMERGEREPLACE: 琱 MODMERGEWITH: 和消化都可以完全省略，營養可以在過濾血液時直接注入血漿。外星的科技是不是已經超越了肉體？這些屍首帶來的問題比解答更多。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 制體。生殖器官不是沒有，但同樣極度衰退。這兒發生的並不單單是單性繁殖，而且是用科技進行的繁殖。脊骨上部有個金屬</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianAutopsy</Data></Cell>
@@ -1253,11 +1253,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 體重的四成，其餘的大部分體重是肌肉和牙齒。進化出斯巴蜥人的環境必然非常惡劣；牠們的生理強到我很難想像有甚麼天敵能驅 MODMERGEREPLACE: 雕 MODMERGEWITH: 足以令血液循環全身？斯巴蜥人的血液分析結果也很耐人尋味：牠們的血液有十分一是強力的凝血劑和幹細胞。這可以意味很多東 MODMERGEREPLACE: 鵰 MODMERGEWITH: 西，但活生生的斯巴蜥人很可能可以迅速止血甚至再生所受的傷。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: ，但活生生的斯巴蜥人很可能可以迅速止血甚至再生所受的傷。
 
-感到安慰的是，牠們不是完美的士兵。就好像工房裡的魯漢 MODMERGEREPLACE: 跼 MODMERGEWITH: 的傷害。當我們放棄骨鋸改用電鋸後，終於能看到牠的內臟。跟設想的差不多，主要的差異是胸口內有兩個心臟。也許一個心臟不 MODMERGEREPLACE: 琱 MODMERGEWITH: 發達，導致反射慢和低命中率（不過也因此煙霧彈對牠們無效）。因此它們會喜歡衝上來近戰，彌補自己的不足，所以別讓牠們接近。 MODMERGEREPLACE: 局 MODMERGEWITH: 斯巴蜥人_Sebillian_是爬蟲類異型，高約_1.95_米，重約_200_公斤。牠的骨骼和皮膚都非常厚實，佔了 MODMERGEREPLACE: 挶 MODMERGEWITH: 使這種進化。
+感到安慰的是，牠們不是完美的士兵。就好像工房裡的魯漢一 MODMERGEREPLACE: 侷 MODMERGEWITH: 體重的四成，其餘的大部分體重是肌肉和牙齒。進化出斯巴蜥人的環境必然非常惡劣；牠們的生理強到我很難想像有甚麼天敵能驅 MODMERGEREPLACE: 琱 MODMERGEWITH: 達，導致反射慢和低命中率（不過也因此煙霧彈對牠們無效）。因此它們會喜歡衝上來近戰，彌補自己的不足，所以別讓牠們接近。 MODMERGEREPLACE: 彫 MODMERGEWITH: 樣，強壯肌肉之下埋藏的是小腦袋。斯巴蜥人對戰術的理解應該跟牠們對莎士比亞著作的理解一樣深入。牠們的熱能視力也不很發 MODMERGEREPLACE: 局 MODMERGEWITH: 斯巴蜥人_Sebillian_是爬蟲類異型，高約_1.95_米，重約_200_公斤。牠的骨骼和皮膚都非常厚實，佔了 MODMERGEREPLACE: 跼 MODMERGEWITH: 傷害。當我們放棄骨鋸改用電鋸後，終於能看到牠的內臟。跟設想的差不多，主要的差異是胸口內有兩個心臟。也許一個心臟不足 MODMERGEREPLACE: 挶 MODMERGEWITH: 使這種進化。
 
-牠們的皮鱗最厚可達一寸，是對彈道武器的天然防護。鱗片之下是厚實的肌肉及粗硬的骨頭，兩者都能抵禦一定 MODMERGEREPLACE: 彫 MODMERGEWITH: 一樣，強壯肌肉之下埋藏的是小腦袋。斯巴蜥人對戰術的理解應該跟牠們對莎士比亞著作的理解一樣深入。牠們的熱能視力也不很</Data></Cell>
+牠們的皮鱗最厚可達一寸，是對彈道武器的天然防護。鱗甲之後是厚實的肌肉及粗硬的骨頭，兩者都能抵禦一定 MODMERGEREPLACE: 雕 MODMERGEWITH: 以令血液循環全身？斯巴蜥人的血液分析結果也很耐人尋味：牠們的血液有十分一是強力的凝血劑和幹細胞。這可以意味很多東西</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
@@ -1265,7 +1265,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronDisassembly</Data></Cell>
@@ -1273,11 +1273,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 頭部內的中央控制單元。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: ，能量管道從背部連結全身。每個關節都兼具有力的液壓伺服馬達，可以進行精細的操作。雖然人類的技術無法做到異型物料的高性能，但複制基 MODMERGEREPLACE: 侷 MODMERGEWITH: 走一邊發射重型武器，不過完全沒有戰場觸覺：戰場錄影顯示從來沒安卓機人找過任何掩體。也許異型認為這些機械衛士完全免疫我們的武器？無 MODMERGEREPLACE: 挶 MODMERGEWITH: 論如何，你可以好好利用它們的這個程式設定。
 
-安卓機人是非常強的戰鬥單位，不過我們認真想知道它們存在的理由。它們的設計明顯及蓄意地模仿有機生命：活物有心的地方它們有反應爐，腦袋裝在裝甲化的頭顱 MODMERGEREPLACE: 併 MODMERGEWITH: 裡，連動力輸送系統都擬似活物的神經系統。我完全想不通要做出雙足戰鬥機械人的理由，輪基或履帶設計會更穩定，更快，更堅固，更難被命中。這是異型的民族自傲？還是單純的愚蠢？實在是匪異所思。 MODMERGEREPLACE: 颱 MODMERGEWITH: 技術不難複制基本的機械結構。人類科技做不到的是複制那幾乎填滿每分內部空間的感應器網路，當中有一大部分連我們都摸不著頭腦。不過這網路的整體功用很清晰，就是採集環境數據然後傳到 MODMERGEREPLACE: 臺 MODMERGEWITH: 安卓機人 Andron 是雙足步行機械步兵。它們高約 2 米，跟幽浮外殼用同樣的異型合金構成。它們有重裝甲，完全無畏，並且能一邊走一邊發射重型武器，不過完全沒有戰場觸覺：戰 MODMERGEREPLACE: 台 MODMERGEWITH: 場錄影顯示從來沒安卓機人找過任何掩體。也許異型認為這些機械衛士完全免疫我們的武器？無論如何，你可以好好利用它們的這個程式設定。
+安卓機人的技術既簡單又複雜。設計很簡約，胸口裡有一個裝甲室，安裝了一個異能晶反應爐 MODMERGEREPLACE: 彫 MODMERGEWITH: 設計明顯、蓄意地模仿有機生命：活物有心臟的地方它們有反應爐，腦袋裝在裝甲化的頭顱裡，連動力輸送系統都擬似活物的神經系統。我完全想 MODMERGEREPLACE: 鵰 MODMERGEWITH: 用很清晰，就是採集環境數據然後傳到頭部內的中央控制單元。
 
-安卓機人的技術既簡單又複雜。設計很簡約，胸 MODMERGEREPLACE: 檯 MODMERGEWITH: 口裡有一個裝甲室，安裝了一個異能晶反應爐，能量管道從背部出去連結全身。每個關節都兼具有力的液壓馬達伺服馬達，可以進行精細的操作。雖然我們無法仿效異型物料的高性能，但用人類的</Data></Cell>
+安卓機人是非常強的戰鬥單位，只是我們認真想知道它們存在的理由。它們的 MODMERGEREPLACE: 雕 MODMERGEWITH: 本的機械結構不難。人類技術做不到的是複制那幾乎填滿每分內部空間的感應器網路，當中有一大部分連我們都摸不著頭腦。不過這網路的整體功 MODMERGEREPLACE: 局 MODMERGEWITH: 安卓機人_Andron_是雙足步行機械步兵。它們高約_2_米，跟幽浮外殼用同樣的異型合金構成。它們有重裝甲，完全無畏，並且能一邊 MODMERGEREPLACE: 琱 MODMERGEWITH: 不通要做出雙足戰鬥機械人的理由，輪基或履帶設計會更穩定，更快，更堅固，更難被命中。這是異型的民族自傲？還是單純的愚蠢？實在是匪異所思。</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number"/></Cell>
    </Row>
    <Row ss:Height="191.25">
@@ -1286,7 +1286,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number">1</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithAutopsy</Data></Cell>
@@ -1294,13 +1294,13 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 鬼靈 Wraith 高約 1.8 米，可能是目前所遇過最奇特的異型。只能勉強算是類人，腳有三節，圓大的頭左右兩邊各有多肉的發光突起物。據報牠們可以在戰場 MODMERGEREPLACE: 并 MODMERGEWITH: 許足以導致發光。這項生物反應每小時要消耗五萬卡路里，不可能是自然演化的結果。唯一可能的解釋是，這些能量是經由頸上所植的大量活門直接注入血液。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: ，只要大力打下去就可以殺死鬼靈，普通的子彈都絕對沒有問題。頭骨的其他部分非常保護周全，所以這些肉團一定很重要，甚至可能跟傳送能力有關。 MODMERGEREPLACE: 局 MODMERGEWITH: 鬼靈_Wraith_高約_1.8_米，可能是目前所遇過最奇特的異型。牠們只能勉強算是類人，腳有三節，圓大的頭左右兩邊各有多肉的發光突起 MODMERGEREPLACE: 琱 MODMERGEWITH: 當抓到活口的時候我們打算立刻切除它們，以證實這理論。如果牠醒來的時候無法用傳送逃出觀察室，那我們就是正確的。否則的話，就很難繼續審問了…… MODMERGEREPLACE: 侷 MODMERGEWITH: 物。據報牠們可以在戰場上傳送出沒，傳聞連牆壁都擋不住。
 
-另一項值 MODMERGEREPLACE: 併 MODMERGEWITH: 至可能跟傳送能力有關。當抓到活口的時候我們打算立刻切除它們，以證實這理論。如果牠醒來的時候無法用傳送逃出觀察室，那我們就是正確的。否則的話，就很難繼續審問了…… MODMERGEREPLACE: 颱 MODMERGEWITH: 者，但可能是異型的精英部隊。
+鬼靈的肌肉發達但普通，力量及持久力跟人類相若。器官有四個，全都無法辨認，估計 MODMERGEREPLACE: 挶 MODMERGEWITH: 混合多種功能。每個器官都有手術植入的裝甲板，材質跟幽浮的一樣。雖然只有幾毫米厚但富具彈性，既輕盈又有效，為甚麼其他異型沒有皮下裝甲我們 MODMERGEREPLACE: 鵰 MODMERGEWITH: 是自然演化的結果。唯一可能的解釋是，這些能量是經由頸上所植的大量活門直接注入血液。
 
-牠們的巨頭有厚厚的頭骨，有裝甲加固，裡面是大大的腦袋。頭骨兩邊的發光肉團主要是充滿代謝細胞的軟組織，能產生巨大的能量，也 MODMERGEREPLACE: 檯 MODMERGEWITH: 板，材質跟幽浮的一樣，但只有幾毫米厚，富具彈性。它們既輕盈又有效，為甚麼其他異型沒有皮下裝甲我們就不得而知。不過這可能表明牠們舉足輕重。鬼靈應該不是領導 MODMERGEREPLACE: 並 MODMERGEWITH: 得一提的發現是這兩塊肉在頭骨上開了個大口，只要大力打下去就可以殺死鬼靈，普通的子彈都絕對沒有問題。頭骨的其他部分非常保護周全，所以這些肉團一定很重要，甚 MODMERGEREPLACE: 台 MODMERGEWITH: 上傳送出沒，傳聞連牆壁都擋不住。
+另一項值得一提的發現是這兩塊肉在頭骨上開了個大口 MODMERGEREPLACE: 跼 MODMERGEWITH: 就不得而知。不過這可能表明牠們舉足輕重。鬼靈應該不是領導層，但可能是異型的精英部隊。
 
-鬼靈的肌肉發達但普通，力量及持久力跟人類相若。器官有四個，全都無法辨認，估計混合多種功能。每個器官都有手術植入的裝甲</Data></Cell>
+牠們的巨頭有厚厚的頭骨，頭骨有裝甲加固，裡面是 MODMERGEREPLACE: 雕 MODMERGEWITH: 大大的腦袋。頭兩邊的發光肉團主要是充滿代謝細胞的軟組織，能產生巨大的能量，也許足以導致發光。這項生物反應每小時要消耗五萬卡路里，不可能</Data></Cell>
     <Cell ss:Index="22"><Data ss:Type="Number"/></Cell>
    </Row>
    <Row ss:Height="191.25">
@@ -1309,20 +1309,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanAutopsy</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 干 MODMERGEWITH: 醜魔_Harridan_高約_1.7_米。牠們很神秘，身穿全身的飛行服之餘，頭胸都載著裝甲鐵殼。牠們頗為纖瘦，手足比較長。配備遠程武器及噴射 MODMERGEREPLACE: 懞 MODMERGEWITH: 部工作，內部就更加沒有問題。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: ，內部就更加沒有問題。
 
-裝甲下的異型跟灰人有多少相似，有著同樣的灰白色皮膚，大大的黑眼和脆弱的骨骼。也許牠們有著同樣的始源，但後來漸 MODMERGEREPLACE: 乾 MODMERGEWITH: 背包的牠們幾乎肯定是異型的射手。
+裝甲下的異型跟灰人有多少相似，有著同樣的灰白色皮膚，大大的黑眼和脆弱的骨骼。也許牠們有著同樣的始源，但後來漸漸分家 MODMERGEREPLACE: 局 MODMERGEWITH: 醜魔_Harridan_高約_1.7_米。牠們很神秘，身穿全身的飛行服之餘，頭胸都載著裝甲鐵殼。整體纖瘦，手足修長。配備遠程武器及噴射背包的 MODMERGEREPLACE: 雕 MODMERGEWITH: 路直接連結醜魔的腦袋，相信可以用潛意識操作。我認為牠們實際上是異型的工程師；牠們可以在太空中活動和飛行，也就是說能在太空航行中的幽浮外部工作 MODMERGEREPLACE: 琱 MODMERGEWITH: 等。醜魔則是基本的區域較發達，例如運動、空間感、視像分析等。牠們是盲目的僕人，存在的意義就只有飛行和使用工具。對我們來說很不幸的是狙擊槍也只是一種工具。 MODMERGEREPLACE: 侷 MODMERGEWITH: 牠們幾乎肯定是異型的射手。
 
-牠的裝甲也需要被一起解剖，種種跡像都顯示這裝甲是不能被移除的。頭盔裡的循環呼吸器很先進，配合飛行服可以在 MODMERGEREPLACE: 矇 MODMERGEWITH: 等思想等。醜魔則是基本的區域較發達，例如運動、空間感、視像分析等。牠是盲目的僕人，只為飛行和使用工具而存在。對我們來說很不幸的是狙擊槍也只是一種工具。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 神經網路直接連結醜魔的腦袋，相信可以用潛意識操作。我認為牠們實際上是異型的工程師；牠們可以在太空中活動和飛行，也就是說能在太空航行中的幽浮外 MODMERGEREPLACE: 濛 MODMERGEWITH: 漸分家。最明顯是醜魔的前臂更長，下垂的耳朵，及口部左右的骨刺。不過最大的分別是腦袋。灰人的腦袋很大，有高度發達的認知區域，例如社交、記憶、高 MODMERGEREPLACE: 幹 MODMERGEWITH: 任何環境中維持醜魔的生存，包括真空。胸部的一副血液透析系統直接連結醜魔的血液循環系統，除了濾走排泄物和廢物外，還負責泵血維持血脈循環。頭盔內 MODMERGEREPLACE: 榦 MODMERGEWITH: 也有強勁的視像系統，能檢視差不多整個電磁波譜，給醜魔卓越的視距及極佳的環境意識。
+種種跡像都顯示醜魔的這裝甲是不能被移除的，需要被一起解剖。頭盔裡的循環呼吸器很先進，配合飛行服可以在包括真空在 MODMERGEREPLACE: 跼 MODMERGEWITH: 勁的視像系統，能檢視差不多整個電磁波譜，給醜魔卓越的視距及極佳的環境意識。
 
-裝甲背部的跳躍裝置基本上是幽浮推進器的微型版。控制它們的</Data></Cell>
+裝甲背部的跳躍裝置基本上是幽浮推進器的微型版。控制它們的神經網 MODMERGEREPLACE: 挶 MODMERGEWITH: 內的任何環境中維持醜魔的生命。胸部的一副血液透析系統直接連結醜魔的血液循環系統，除了濾走排泄物和廢物外，還負責泵血維持血脈循環。頭盔內也有強 MODMERGEREPLACE: 彫 MODMERGEWITH: 。最明顯是醜魔的前臂更長，下垂的耳朵，及口部左右的骨刺。不過最大的分別是腦袋。灰人的腦袋很大，有高度發達的認知區域，例如社交、記憶、高等思想</Data></Cell>
    </Row>
    <Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
@@ -1331,7 +1331,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;乾幹榦蒙懞濛矇</Data></Cell>
     <Cell/>
    </Row><Row ss:Height="191.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperAutopsy</Data></Cell>
@@ -1340,13 +1340,13 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell/>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 長找出並侵入受害人。牠們的感應器官很發達，能用超越人類的速度奔向目標。瘦長的身體有驚人的力量，可以用長在肩上的大刀輕易地刺穿戰甲。這些刀實 MODMERGEREPLACE: 局 MODMERGEWITH: 鐮刀蟲_Reaper_是六尺高的蟲形惡夢，甲殼質構成的利刃削鐵如泥，但都不及繁殖的方式可怕。牠是一種生化的大殺傷性武器，是令人聞風喪膽的死 MODMERGEREPLACE: 鵰 MODMERGEWITH: 質上是空的，裡面有住著幼蟲和神經毒素的肌肉管，只要一刺入受害人的肉身就會注射。一刀就可以將受害人化成不堪入目的喪屍，不論他們穿著甚麼護甲。 MODMERGEREPLACE: 挶 MODMERGEWITH: 蟲就用這段時間從裡而外消化宿主的血肉，快速地孕育成長。數分鐘之內，一隻羽翼長成的鐮刀蟲就破屍而出，尋找新的宿主。自然演化的孕育期不可能這麼 MODMERGEREPLACE: 侷 MODMERGEWITH: 神。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 鐮刀蟲_Reaper_是_6_尺高的蟲形惡夢，甲殼質構成的利刃削鐵如泥，但繁殖的方式才真正可怕。牠們是一種生化的大殺傷性武器，是令人聞風喪膽的死神。
 
-鐮刀蟲全都是寄生生物，要繁殖就要將幼蟲注入其他生物體內。這幼蟲會分秘出一種干擾受害人神經系統的化學物質，令他們半死不活地跛行，而幼 MODMERGEREPLACE: 跼 MODMERGEWITH: 短，所以可能有異型科技牽涉在裡頭。無論如何，這能力非常令人困擾：不單止宿主應該會感到非常痛苦，而且牠們也可能在戰場上迅速繁殖。
+鐮刀 MODMERGEREPLACE: 幹 MODMERGEWITH: 蟲全都是寄生生物，要繁殖就要將幼蟲注入其他生物體內。這幼蟲會分秘出一種干擾受害人神經系統的化學物質，令他們半死不活地跛行，而幼蟲就用這段時間從裡而外消化宿主 MODMERGEREPLACE: 矇 MODMERGEWITH: 看見就沒問題。牠們的智力也很低下，雖然不懂得懼怕也不怕被壓制但同時也不會施展任何進階戰術。牠們所做成的喪屍也一樣，除了緩步走向最近的人用發脹的拳頭敲打以外就甚麼都不會。 MODMERGEREPLACE: 榦 MODMERGEWITH: 的血肉，快速地孕育成長。數分鐘之內，一隻羽翼長成的鐮刀蟲就破屍而出，尋找新的宿主。自然演化的孕育期不可能這麼短，所以可能有異型科技牽涉在裡頭。無論如何，這能 MODMERGEREPLACE: 懞 MODMERGEWITH: 標。瘦長的身體有驚人的力量，肩上的大刀可以輕易刺穿戰甲。這些刀實質上是空的，裡面有多根肌肉管，只要一刺入受害人的肉身就會注入幼蟲和神經毒素。一刀就可以將受害 MODMERGEREPLACE: 蒙 MODMERGEWITH: 力非常令人困擾：不單止宿主應該會感到非常痛苦，而且牠們也可能在戰場上迅速繁殖。
 
-牠們很擅 MODMERGEREPLACE: 琱 MODMERGEWITH: 很低下，雖然不懂得懼怕也不怕被壓制但同時也不會施展任何進階戰術。牠們所做成的喪屍也一樣，除了緩步走向最近的人用發脹的拳頭敲打以外就甚麼都不會。 MODMERGEREPLACE: 彫 MODMERGEWITH: 
+牠們很擅長找出及刺殺受害人。牠們的感覺器官很發達，能用超越人類的高速奔向目 MODMERGEREPLACE: 濛 MODMERGEWITH: 人化成不堪入目的喪屍，不論他們穿著甚麼護甲。
 
-不過這些原始的恐怖蟲子也有明顯的弱點。牠們沒有遠程武器，甲質外殼也相對脆弱，只要在空曠的地方或用其他方法及早看見就沒問題。牠們的智力也</Data></Cell>
+不過這些原始的恐怖蟲子也有明顯的弱點。牠們沒有遠程武器，甲質外殼也相對脆弱，只要在空曠的地方或用其他方法及早</Data></Cell>
     <Cell/>
    </Row>
    <Row ss:Height="178.5">
@@ -1362,13 +1362,13 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 干 MODMERGEWITH: 裁判官_Praetor_是隻瘦弱、枯乾的生物，身高_1.8_米……不過牠們也許根本不能站：戰地報告說牠擁有強力的靈能，單用意念就可以自己 MODMERGEREPLACE: 懞 MODMERGEWITH: 的動力來源。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: 靈能的動力來源。
 
-這些發現很影響深遠。牠們很明顯用科技超越了身體極限，有系統地將大腦和身體改造成擁有龐大的靈能。牠們必需靠自己的科技存活， MODMERGEREPLACE: 矇 MODMERGEWITH: 牠們？也許兩者皆是。
+這些發現很影響深遠。牠們很明顯用科技超越了身體極限，有系統地將大腦和身體改造成擁有龐大的靈能。牠們必需靠自己的科技存 MODMERGEREPLACE: 干 MODMERGEWITH: 裁判官_Praetor_是隻瘦弱、枯乾的生物，直立身高_1.8_米……不過牠們也許根本不能站：戰地報告說牠擁有強力的靈能，單用意念就可以 MODMERGEREPLACE: 幹 MODMERGEWITH: 自己浮在空中。組織化驗顯示牠們比其他所有異型都要老幾千萬年，基本上可以肯定是異型的指揮階層。
 
-我應該不需要解釋這些生物的靈能非常非常危險。你也別以為牠們很易殺；我強烈懷疑牠們的靈能護盾已經超越傳統護甲的境界。 MODMERGEREPLACE: 幹 MODMERGEWITH: 浮在空中。組織化驗顯示牠們比其他所有異型都要老幾千萬年，基本上可以肯定是異型的指揮階層。
+牠們穿的白色護甲很輕，推斷是作作樣子，不 MODMERGEREPLACE: 榦 MODMERGEWITH: 能提供多少實質保護。護甲下的軀體嚴重衰退，骨骼很脆，內臟嚴重萎縮。牠的血液循環系統由肩胛骨間的合成“心臟”推動，為異常巨大的腦袋提供大量 MODMERGEREPLACE: 蒙 MODMERGEWITH: 營養。腦袋大概有人腦的兩倍大，有多個複雜的結構，大量的代謝細胞能直接從血液裡的納米異能晶吸收能量。這些細胞能供應非常巨大的能量，也許就是 MODMERGEREPLACE: 濛 MODMERGEWITH: 活，單單是腦袋在休息的時候就已經要消耗一整個核電廠的發電量。如果不定時將納米異能晶注入血液，腦袋就會餓死。那牠們的技術是解放了牠們還是拘 MODMERGEREPLACE: 矇 MODMERGEWITH: 束了牠們？也許兩者都有。
 
-牠們穿的白色護甲很輕，推斷是形式居多，不能提 MODMERGEREPLACE: 濛 MODMERGEWITH: 單單是腦袋在休息的時候就已經要消耗一整個核電廠的發電量。如果不定時將納米異能晶注入血液，腦袋就會餓死。那牠們的技術是解放了牠們還是拘束了 MODMERGEREPLACE: 榦 MODMERGEWITH: 供多少實質保護。護甲下的身軀衰退嚴重，骨骼很脆，內臟嚴重萎縮。牠的血液循環系統由肩胛骨間的強力合成“心臟”推動，為異常巨大的腦袋提供營養 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。腦袋大概有人腦的兩倍大，有多個複雜的結構，大量的代謝細胞能直接從血液裡的納米異能晶吸收能量。這些細胞能提供非常巨大的能量，也許就是靈能</Data></Cell>
+我應該不需要解釋這些生物的靈能非常非常危險。你也別以為牠們很易殺；我強烈懷疑牠們的靈能護盾已經超越傳統護甲的境界。</Data></Cell>
    </Row>
    <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
@@ -1376,18 +1376,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.LightDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 輕型無人機_Light_Drone_是小型的碟狀航機，直徑約_1.4_米，背部有推進陣列而前面有感應器和武器。它能在空中懸浮，不過 MODMERGEREPLACE: 台 MODMERGEWITH: 被目擊時通常都只距離地表幾米，已經足以飄越障礙物或水面等地型。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 離子手槍還低，甚至可能一擊殺不死平民。無人機的外殼也很薄，薄到不能承受持續的小武器攻擊，令我懷疑它 MODMERGEREPLACE: 蒙 MODMERGEWITH: 部的十二個小型推進器提供。前頭裝設的感應器能監察整個電波譜，給它良好的視力。
 
-折解所回收的殘骸表明作為它核心的異能晶動力爐只有拳頭那麼大，而圍 MODMERGEREPLACE: 檯 MODMERGEWITH: 繞它的大堆異型電路應該就是腦袋。由於找不到明顯的接收天線，它可能是全自動運作的。尾部的引擎陣列推供前向推力，懸浮及其他推力則由底部 MODMERGEREPLACE: 颱 MODMERGEWITH: 的十二個小型推進器提供。前頭裝設的感應器能監察整個電波譜，給它良好的視力。
+無人機的整合式武器 MODMERGEREPLACE: 干 MODMERGEWITH: 輕型無人機_Light_Drone_是小型的碟狀航機，直徑約_1.4_米，背部有推進陣列而前面有感 MODMERGEREPLACE: 乾 MODMERGEWITH: 應器和武器。它能在空中懸浮，雖然被目擊時通常都只距離地表幾米但已經足夠飄越障礙物或水面等地型。
 
-無人機的整合式武器很不尋常，我們暫稱之為“掃射炮”。 MODMERGEREPLACE: 併 MODMERGEWITH: 承受持續的小武器攻擊，令我懷疑它們只是拋棄式的偵察單位，主要目的只是尋找並壓制敵人，好讓伴隨的異型更容易解決對手。是支援機而不是獵殺機吧。 MODMERGEREPLACE: 并 MODMERGEWITH: 它的等離子產生器強調射速高於一切，達成很高的射速但威力很低，比等離子手槍還低，甚至可能一擊殺不死平民。無人機的外殼也很薄，甚至不能</Data></Cell>
+ MODMERGEREPLACE: 懞 MODMERGEWITH: 很不尋常，我們暫稱之為“掃射炮”。它的等離子產生器強調射速高於一切，達成很高的射速但威力很低，比等 MODMERGEREPLACE: 幹 MODMERGEWITH: 回收的殘骸經過折解後可以發現它核心的異能晶動力爐只有拳頭那麼大，而圍繞它的大堆異型電路應該就是腦袋 MODMERGEREPLACE: 矇 MODMERGEWITH: 們只是拋棄式的偵察單位，主要目的只是尋找並壓制敵人，好讓伴隨的異型更容易解決對手。是支援機而不是獵殺機吧。 MODMERGEREPLACE: 榦 MODMERGEWITH: 。由於找不到明顯的接收天線，它可能是全自動運作的。尾部的引擎陣列推供前向推力，懸浮及其他推力則由底</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
@@ -1395,18 +1395,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.MediumDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: ，可以連續射出幾發，每發都能轟死或轟傷全副武裝的士兵。更特別的是這武器陣列會儲存動力爐的能量 MODMERGEREPLACE: 颱 MODMERGEWITH: 陣列的相似之處也顯示兩者出自同一手筆。其他部分則比較像輕型無人機，包括強力的前置感應器及中置 MODMERGEREPLACE: 并 MODMERGEWITH: 的異能晶動力爐，但當然兩者都更大。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 續射出幾發，每發都能轟死或擊傷全副武裝的士兵。更特別的是這武器陣列會儲存動力爐 MODMERGEREPLACE: 蒙 MODMERGEWITH: 筆。其他部分則比較像輕型無人機，包括強力的前置感應器及中置的異能晶動力爐，但當 MODMERGEREPLACE: 矇 MODMERGEWITH: 的能量以提升射擊速率。當無人機被破壞時，這些儲存的能量就會被釋放，做成殺傷力可觀的二次爆炸。 MODMERGEREPLACE: 乾 MODMERGEWITH: 的單位，有重裝甲和高射速而強力的主炮，火力勝過異型步兵。
 
-它的武器系統值得特別報告。它能產生大量高能的高爆等離子 MODMERGEREPLACE: 台 MODMERGEWITH: 甲和高射速而強力的主炮，火力勝過異型步兵。
+中型無人機可以被視 MODMERGEREPLACE: 懞 MODMERGEWITH: 然兩者都更大。
 
-可以將中型無人機視作一艘迷你幽浮。一寸厚的外殼 MODMERGEREPLACE: 檯 MODMERGEWITH: 用的材料跟空戰幽浮的一樣，既輕且硬，飛彈都能抗了要對抗步兵武器是輕易而舉。飛行管制電路和武器 MODMERGEREPLACE: 併 MODMERGEWITH: 以提升射擊速率。當無人機被破壞時，這些存起來的能量就會被釋放，做成足以殺傷附近人物的二次爆炸。 MODMERGEREPLACE: 臺 MODMERGEWITH: 中型無人機_Medium_Drone_直徑約_2_米。它是目前來說最像異型戰車的單位，有重裝</Data></Cell>
+它的武器系統值得特別報告，能產生大量高能的高爆等離子，可以連 MODMERGEREPLACE: 榦 MODMERGEWITH: 擋步兵武器當然是輕易而舉。飛行管制電路和武器陣列的相似之處也顯示兩者出自同一手 MODMERGEREPLACE: 幹 MODMERGEWITH: 作一艘迷你幽浮。一寸厚的外殼用的材料跟空戰幽浮的一樣，既輕且硬，飛彈都能抗了要 MODMERGEREPLACE: 干 MODMERGEWITH: 中型無人機_Medium_Drone_直徑約_2_米。目前來說它是最像異型戰車</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
@@ -1414,18 +1414,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HeavyDroneWreckage</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 琱 MODMERGEWITH: ，也繼承了中型無人機的自爆問題。不過本機的自爆更大更華麗，要炸死附近的單位遊刃有餘。 MODMERGEREPLACE: 局 MODMERGEWITH: 重型無人機_Heavy_Drone_是貨車那麼大的笨重結構，身披重甲，並有怪物級 MODMERGEREPLACE: 彫 MODMERGEWITH: 識過它，它是護衛幽浮的主炮。它的高破壞力非筆墨所能形容，所射的等離子團爆炸範圍大 MODMERGEREPLACE: 侷 MODMERGEWITH: 的主炮。它是目前為止最可怕的異型單位，我們只能希望它們的數量不太多。不知這算不算 MODMERGEREPLACE: 鵰 MODMERGEWITH: 此這些單位很難對付，最好出動重型武器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 懞 MODMERGEWITH: ，太重了。因此這些單位很難對付，最好出動重型武器。
 
-你應該很熟識無人機的主炮，因為你已經見 MODMERGEREPLACE: 挶 MODMERGEWITH: 安慰，我不相信物理上能有異型單位比這更強。
+你應該很熟識無人機的主炮 MODMERGEREPLACE: 濛 MODMERGEWITH: ，因為你已經見識過它，它是護衛幽浮的主炮。它的破壞力非筆墨所能形容，不單止破壞 MODMERGEREPLACE: 干 MODMERGEWITH: 重型無人機_Heavy_Drone_是貨車那麼大的笨重單位，身披重甲，裝有怪物 MODMERGEREPLACE: 乾 MODMERGEWITH: 級的主炮。它是目前為止最可怕的異型單位，我們只能希望它們的數量不太多。不知這算 MODMERGEREPLACE: 矇 MODMERGEWITH: 範圍大，也繼承了中型無人機的自爆問題。不過本機的自爆更大更華麗，要炸死附近的單位遊刃有餘。 MODMERGEREPLACE: 榦 MODMERGEWITH: 的重型突擊單位。這巨獸的裝甲跟主力幽浮的相同，連實驗室的設備都難以切開它（感謝 MODMERGEREPLACE: 蒙 MODMERGEWITH: 你的手下給它開了些洞）。裝甲厚到異型需要轉用反重力儀去浮起它，傳統推進器推不動 MODMERGEREPLACE: 幹 MODMERGEWITH: 不算安慰，我不相信有異型單位在物理上能比它更強。
 
-毫無問此報告所說的是異型的重型突擊 MODMERGEREPLACE: 雕 MODMERGEWITH: 它開了些洞）。裝甲厚到異型需要轉用反重力儀去浮起它，傳統推進器推不動，太重了。因 MODMERGEREPLACE: 跼 MODMERGEWITH: 單位。這巨獸的裝甲跟主力幽浮的一樣，連實驗室的設備都難以將它切開（感謝你的手下給</Data></Cell>
+毫無疑問，重型無人機是異型</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
@@ -1433,18 +1433,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: ，會尋找掩體並保持距離開火。雖然牠們生理上比較虛弱，但有裝備補足。單是無處不 MODMERGEREPLACE: 干 MODMERGEWITH: 這些面如死灰的生物非常令人感到不安。牠們是模仿我們形像的幽魂，相似到當你望著 MODMERGEREPLACE: 懞 MODMERGEWITH: 織特別活躍，解剖後可發現裡面富含高能量納米異能晶。除了我們已經談過牠們的心靈 MODMERGEREPLACE: 乾 MODMERGEWITH: 牠的邪惡大眼的時候會感到反胃。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 局 MODMERGEWITH: 這些面如死灰的生物非常令人感到不安。牠們是模仿我們形像的幽魂，相似到當你望著 MODMERGEREPLACE: 鵰 MODMERGEWITH: 織特別活躍，解剖後可發現裡面富含高能量納米異能晶。除了在解剖報告中提過的心靈 MODMERGEREPLACE: 雕 MODMERGEWITH: 的飛行服已經提供不錯的保護，高級灰人的保護只會更周全。
 
-數值上，灰人約等同於精英的人類士兵，有高度 MODMERGEREPLACE: 幹 MODMERGEWITH: 智能以及大眼所賜的優良戰場觸覺，靈活性和反應速度跟人類相若。戰術也跟人類相似 MODMERGEREPLACE: 濛 MODMERGEWITH: 感應，這些能量可能用以支持其他未知的心靈能力。我們為你的士兵寫了一份文件，整 MODMERGEREPLACE: 蒙 MODMERGEWITH: 在的飛行服已經提供不錯的保護，高級灰人的保護會更周全。
+掃瞄顯示牠們的腦組 MODMERGEREPLACE: 侷 MODMERGEWITH: 牠的邪惡大眼時會感到反胃。
 
-掃瞄顯示牠們的腦組 MODMERGEREPLACE: 矇 MODMERGEWITH: 合了牠們在裝備、戰術、生理層面上的弱點。這些知識能令他們對灰人做成的傷害增加約十分一。</Data></Cell>
+數值上，灰人約等同於精英的人類士兵，有高度智能 MODMERGEREPLACE: 琱 MODMERGEWITH: 整合了牠們在裝備、戰術、生理層面上的弱點。這些知識能令他們對灰人做成的傷害增加約十分一。 MODMERGEREPLACE: 彫 MODMERGEWITH: 感應外，這些能量可能用以支持其他未知的心靈能力。我們為你的士兵寫了一份文件， MODMERGEREPLACE: 跼 MODMERGEWITH: 尋找掩體並保持距離開火。雖然牠們在生理上比較虛弱，但有裝備補足。單是無處不在 MODMERGEREPLACE: 挶 MODMERGEWITH: 以及大眼所賜的優良戰場觸覺，靈活性和反應速度跟人類相若。戰術也跟人類相似，會</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
@@ -1452,7 +1452,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾榦蒙懞濛矇</Data>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data>
     </Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianVivisection</Data></Cell>
@@ -1460,11 +1460,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 項研究有兩項成果。一是醫療包的升級。升級版借用異型的納米技術去穩定傷勢，雖然還不能再生組織（那先需要好幾十 MODMERGEREPLACE: 蒙 MODMERGEWITH: 血液內的幹細胞，它們能迅速分裂並復原受損的組織，包括眼球或神經等複雜組織。這種再生太強大了，不可能是天然形 MODMERGEREPLACE: 干 MODMERGEWITH: 我很佩服，指揮官。我無法想像你的手下是怎樣壓制這種生物。現在牠在觀察室裡，我們就能安全地分析牠。這些測試證 MODMERGEREPLACE: 懞 MODMERGEWITH: 成的。估計牠們天生就有再生能力，但加上血液內的納米異能晶所提供的能量就能將幾星期的再生縮短到幾分鐘。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 這些測試證實了我們的推論：斯巴蜥人低智商，眼力差，及不擅長操作槍械。但以牠們的巨大身型來說牠們 MODMERGEREPLACE: 雕 MODMERGEWITH: 神經等複雜組織。這種再生實在太強大了，不可能是天然形成的。估計牠們天生就有再生能力，但加上血液 MODMERGEREPLACE: 局 MODMERGEWITH: 我很佩服，指揮官。我無法想像你的手下是怎樣壓制這種生物。現在牠在觀察室裡，我們能安全地分析牠。 MODMERGEREPLACE: 挶 MODMERGEWITH: 很敏捷，移動速度也很高。
 
-是 MODMERGEREPLACE: 矇 MODMERGEWITH: 年的基因研究）。它們的治療速度比舊的醫療包快一倍。二是斯巴蜥人的弱點列表，能令士兵對蜥人做成的傷害增加約十分一。 MODMERGEREPLACE: 乾 MODMERGEWITH: 實了我們的推論：斯巴蜥人低智商，眼力差，及不擅長操作槍械。但以牠們的巨大身型來說牠們很敏捷，移動速度也很高 MODMERGEREPLACE: 榦 MODMERGEWITH: 。
+牠們也有神奇的再生能力。只要一息尚存，牠在幾分鐘內就能治療好所有傷 MODMERGEREPLACE: 跼 MODMERGEWITH: 害，包括腦部損傷。這項能力源自牠們血液內的幹細胞，它們能迅速分裂然後復原受損的組織，包括眼球或 MODMERGEREPLACE: 彫 MODMERGEWITH: 升級。升級版借用異型的納米技術去穩定傷勢，雖然還不能再生組織（那先需要好幾十年的基因研究）。它 MODMERGEREPLACE: 鵰 MODMERGEWITH: 內的納米異能晶所提供的能量就能將幾星期的再生縮短到幾分鐘。
 
-牠們也有神奇的再生能力。除非真的被殺，牠在幾分鐘內就能治療好所有傷害，包括腦部損傷。這項能力源自牠們</Data>
+是項研究有兩項成果。一是醫療包的 MODMERGEREPLACE: 琱 MODMERGEWITH: 們的治療速度比舊的醫療包快一倍。二是斯巴蜥人的弱點列表，能令士兵對蜥人做成的傷害增加約十分一。</Data>
     </Cell>
    </Row>
    <Row ss:Height="140.25" ss:StyleID="s82">
@@ -1473,18 +1473,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="140.25" ss:StyleID="s82">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 趣，這卻令我們很難專心工作。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 檯 MODMERGEWITH: ，但鬼靈則很神經質。牠不肯給我們看到背，總會轉身面向最接近觀察室的人。如果有多人從多方位同時接近，牠會不停原地轉 MODMERGEREPLACE: 併 MODMERGEWITH: 離有限，牠們在每次“跳躍”也需要一點時間適應，令牠們不能立刻發射武器。不過我還是建議你的士兵小心背後，最好跟牠們一樣小心。 MODMERGEREPLACE: 颱 MODMERGEWITH: 身直到大家離開，有一次連續轉了幾小時。你的手下覺得這很有趣，這卻令我們很難專心工作。
 
-不管這習性是否有趣，鬼靈在所有測試上都取得佳積。牠們有高度智慧，靈 MODMERGEREPLACE: 琱 MODMERGEWITH: 次“跳躍”也需要一點時間適應，令牠們不能立刻發射武器。不過我還是建議你的士兵小心背後，最好跟牠們一樣小心。 MODMERGEREPLACE: 挶 MODMERGEWITH: 會默默地透過玻璃看著我們工作，但鬼靈則很神經質。牠不肯給我們看到背，總會轉身面向最接近觀察室的人。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 敏的感官，及快速的反應。牠們的射擊能力頗為不錯，而身體即使在移除皮下裝甲後依然出奇地耐打。傳送能力 MODMERGEREPLACE: 侷 MODMERGEWITH: 弱點已經派給了你的手下，能提升傷害約十分一。
+不管這習性是否有趣，鬼靈 MODMERGEREPLACE: 並 MODMERGEWITH: 甲後都依然出奇地耐打。傳送能力令牠們如虎添翼；我們已經確認了鬼靈從密室直接傳送而出的證供。值得興幸的是這能力的距 MODMERGEREPLACE: 并 MODMERGEWITH: 在所有測試上都取得佳積。牠們有高度智慧，靈敏的感官，及快速的反應。牠們的射擊能力頗為不錯，而身體即使在移除皮下裝 MODMERGEREPLACE: 臺 MODMERGEWITH: 切除觀察目標頭上的發光肉塊似乎真的會令牠無法傳送，不過為以防萬一我會繼續派駐守衛。跟往常一樣，牠的弱點已經派給了 MODMERGEREPLACE: 台 MODMERGEWITH: 你的手下，能提升傷害約十分一。
 
-鬼靈不論身手都非常異類，切合異型之名。其他的異型只 MODMERGEREPLACE: 跼 MODMERGEWITH: 如果有多人從多方位同時接近，牠會不停原地轉身直到大家離開，有一次連續轉了幾小時。你的手下覺得這很有 MODMERGEREPLACE: 局 MODMERGEWITH: 切除觀察目標頭上的發光肉塊似乎真的會令牠無法傳送，不過為以防萬一我會繼續派駐守衛。跟往常一樣，牠的 MODMERGEREPLACE: 彫 MODMERGEWITH: 令牠們如虎添翼；我們已經確認了鬼靈從密室直接傳送而出的證供。值得興幸的是這能力的距離有限，牠們在每</Data></Cell>
+鬼靈不論身心都非常異類，切合異型之名。其他的異型只會默默地透過玻璃看著我們工作</Data></Cell>
    </Row>
    <Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
@@ -1492,18 +1492,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 醜魔是我們抓來的異型中最放鬆隨和的，我有時甚至會懷疑牠有沒有意識到自己其實被困住。不過封鎖著牠的護甲 MODMERGEREPLACE: 併 MODMERGEWITH: 神射手。為了彌補我們的弱勢，我們總結了醜魔的護甲的弱點，已經派了給你的手下。他們對醜魔做成的傷害能增加約十分一。 MODMERGEREPLACE: 檯 MODMERGEWITH: 的過程。醜魔大致上意識不到我們的存在，很難吸引牠的注意力讓牠進行實驗。目前的結果表明牠們有嚴重的學者 MODMERGEREPLACE: 颱 MODMERGEWITH: 症候群：雙手非常靈活，視覺和空間感奇佳，但對任何需要思考的事都缺乏興趣。也許戰鬥對牠們而言只是簡單的 MODMERGEREPLACE: 并 MODMERGEWITH: 機械性工作，瞄準-扣板機-重覆。牠們可能根本沒為意我們是有生命的活物，假設牠們能理解甚麼叫“生命”。 MODMERGEREPLACE: 台 MODMERGEWITH: 本來不能脫下，脫的過程會弄死牠，所以也許我們只是在牠的囚獄外面多加了層玻璃。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: ，沒有感情也沒有思想。但這些都不影響牠們的戰鬥效率；牠們依然是千里眼的神射手。為了彌補我 MODMERGEREPLACE: 乾 MODMERGEWITH: 鎖著牠的護甲本來就不能脫下，脫了只會弄死牠，所以也許我們只是在牠的囚獄外面多加了層玻璃。 MODMERGEREPLACE: 干 MODMERGEWITH: 醜魔是我們抓來的異型中最放鬆隨和的，我有時甚至會懷疑牠有沒有意識到自己其實被困住。不過封 MODMERGEREPLACE: 懞 MODMERGEWITH: 根本沒為意我們是有生命的活物，假設牠們能理解甚麼叫“生命”。
 
-審問醜魔是個令人痛苦 MODMERGEREPLACE: 並 MODMERGEWITH: 
+似乎牠們只是可憐的活工具 MODMERGEREPLACE: 蒙 MODMERGEWITH: 思考的事都缺乏興趣。也許戰鬥對牠們而言只是簡單的機械性工作，瞄準-扣板機-重覆。牠們可能 MODMERGEREPLACE: 榦 MODMERGEWITH: 實驗。目前的結果表明牠們有嚴重的學者症候群：雙手非常靈活，視覺和空間感奇佳，但對任何需要 MODMERGEREPLACE: 矇 MODMERGEWITH: 們的弱勢，我們總結了醜魔的護甲的弱點，已經派了給你的手下。他們對醜魔做成的傷害能增加約十分一。 MODMERGEREPLACE: 幹 MODMERGEWITH: 
 
-似乎牠們只是可憐的活工具，沒有感情也沒有思想。但這些都不影響牠們的戰鬥效率；牠們依然是視距長遠的</Data></Cell>
+審問醜魔是個令人痛苦的過程。醜魔大致上意識不到我們的存在，很難吸引牠的注意力讓牠進行</Data></Cell>
    </Row>
    <Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
@@ -1511,20 +1511,20 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異族單位</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="178.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 肉，被你的手下稱為喪屍。放著不管的話幼蟲要花幾分鐘孕育，但這段時間其實並沒有需要。如果喪屍在孕育完成前被殺，一隻未長成的鐮刀蟲會立刻破屍而出。這些小鐮刀蟲的成長過程 MODMERGEREPLACE: 檯 MODMERGEWITH: 旁邊，確保本來很安靜的實驗室時刻出現尖叫聲和打碎杯子的聲音。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: ，所以有時打死喪屍不一定是好主意。我不知道鐮刀蟲的那些部分是天然的，那些部分被異型基因改做過，但它們現在肯定成為了恐襲武器的代名詞。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 結好並分發了給你的手下，能提升所做成的傷害約十分一。
 
-不過我們的忍耐是有成果的：我們能確認它行動敏捷，觸覺良好。我們也在它的甲殼上辨認了一些弱點，已經總結 MODMERGEREPLACE: 臺 MODMERGEWITH: 我一向會養著觀察目標，留待日後有需要時進一步研究。鐮刀蟲是個例外，研究完的一刻我就下令將它焚化。只是想像一下它在我們的高密度地下基地中逃脫會有甚麼後果就令我毛骨悚然 MODMERGEREPLACE: 颱 MODMERGEWITH: 好並分發了給你的手下，能提升所做成的傷害約十分一。
+我們曾經放牛隻進入觀察室，親眼見證了可怕的鐮刀蟲繁殖過程。目標被刺 MODMERGEREPLACE: 幹 MODMERGEWITH: 看見一團虎虎生風的鐮刀和利爪瘋狂地撲向玻璃牆。然後工房的那幫惡魔將我們的新咖啡機裝在它旁邊，確保實驗室的安靈時刻被尖叫聲和 MODMERGEREPLACE: 榦 MODMERGEWITH: 打碎杯子的聲音打斷。
 
-我們曾經放牛隻進入觀察室，親眼見證了可惜的鐮刀蟲繁殖過程。目標被刺到、注入幼蟲的一刻就已經沒救，只是一團發漲的 MODMERGEREPLACE: 併 MODMERGEWITH: 也只需幾分鐘，而且跟成年的戰鬥力相若，所以有時打死喪屍不一定是好主意。我不知道鐮刀蟲的那些部分是天然的，那些部分被異型基因改做過，但它們現在肯定成為了恐襲武器的代名詞。 MODMERGEREPLACE: 台 MODMERGEWITH: 。
+不過我們的忍耐是有成果的：我們能確認它行動敏捷，觸覺良好。我們也在它的甲殼上辨認了一些弱點，已經總 MODMERGEREPLACE: 干 MODMERGEWITH: 我一向都會養著觀察目標，留待日後有需要時進一步研究。鐮刀蟲是個例外，研究完的一刻我就下令將它焚化。只是想像一下它在我們的高 MODMERGEREPLACE: 濛 MODMERGEWITH: 性。如果喪屍在孕育完成前被殺，一隻未長成的鐮刀蟲會立刻破屍而出。這些小鐮刀蟲的成長過程也只需幾分鐘，而且跟成年的戰鬥力相若 MODMERGEREPLACE: 乾 MODMERGEWITH: 密度地下基地中逃脫會有甚麼後果就令我毛骨悚然。
 
-反正它也不適合長期養著，蠢如動物之餘也非常富攻擊性。只需經過觀察室就可以看見一團虎虎生風的鐮刀和利爪瘋狂地撲向玻璃牆。然後工房的那幫惡魔將我們的新咖啡機裝在它</Data></Cell>
+反正它也不適合長期養著，蠢如動物之餘也非常富攻擊性。只需路過觀察室就可以 MODMERGEREPLACE: 懞 MODMERGEWITH: 到、注入幼蟲的一刻就已經沒救，只是一團發漲的肉，被你的手下稱為喪屍。放著不管的話幼蟲要花幾分鐘孕育，但這段時間其實沒有必要</Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s89"/>
@@ -1540,18 +1540,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="204">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienInterrogation</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 追名逐利，但這確實是全新的科學領域，令我成為外星語言學之父。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 檯 MODMERGEWITH: 詞語”就是一組組的短電波。耗能，但有效。我們用實驗器材錄下觀察對像的電訊，以不同的組合回播，從而建構出基礎的異型詞彙。我 MODMERGEREPLACE: 台 MODMERGEWITH: 次研究找到了跟異型溝通的方式，是件非常重要的大事。異型的聲帶嚴重退化，因為牠們用電波進行心靈感應，不再需要發聲。異型的“ MODMERGEREPLACE: 臺 MODMERGEWITH: 只要找不到跟外星入侵者溝通的方法，地球就永無和平，戰爭只能以其中一方的滅絕作為終結，算得上星際等級的種族滅絕。
 
-可惜我們的對像一點兒都不健談，只一昧請求 MODMERGEREPLACE: 矇 MODMERGEWITH: 的傀儡。要問出些甚麼，就要先抓到一名士官。對了，別想太多：要在戰場上重現“自殺命令”是不可能的。那只限在實驗室裡。 MODMERGEREPLACE: 乾 MODMERGEWITH: 滅絕。
+所以是 MODMERGEREPLACE: 並 MODMERGEWITH: 動。最後當我們很清楚無謂再問下去的時候，我們當中有人給了牠一柄手槍，命令牠殺死自己。牠立刻照做，肝腦塗地。似乎這些異型士 MODMERGEREPLACE: 併 MODMERGEWITH: 兵只是無意志的傀儡。要問出些甚麼，就要先抓到一名士官。對了，別想太多：要在戰場上重現“自殺命令”是不可能的。那只限在實驗室裡。 MODMERGEREPLACE: 颱 MODMERGEWITH: 們的密碼學家解譯了一些，足以進行簡單溝通及擴展詞彙。雖然我從不追名逐利，但這確實是全新的科學領域，令我成為外星語言學之父 MODMERGEREPLACE: 并 MODMERGEWITH: 。
 
-所以是次研究找到了跟異型溝通的方式是最重要的大事。異型的聲帶嚴重退化，因為牠們用電波進行心靈感 MODMERGEREPLACE: 濛 MODMERGEWITH: 沒有用的時候，我們當中有人給牠一柄手槍，命令牠殺死自己。牠立刻照做，肝腦塗地。似乎這些異型士兵只是無意志 MODMERGEREPLACE: 懞 MODMERGEWITH: 新指令，其他的一概不管。有趣的是，牠絕對遵循我們給的指令，例如在觀察室內走動。最後當我們很清楚再問下去也 MODMERGEREPLACE: 幹 MODMERGEWITH: 應，不再需要發聲。異型的“詞語”就是一組組的短電波。耗能，但有效。我們用實驗器材錄下觀察對像的電訊，以不 MODMERGEREPLACE: 榦 MODMERGEWITH: 同的組合回播，從而建構出基礎的異型詞彙。我們的密碼學家解譯了一些，足以進行簡單溝通及擴展詞彙。雖然我從不 MODMERGEREPLACE: 干 MODMERGEWITH: 只要找不到跟外星入侵者溝通的方法，地球就永無和平，戰爭只能以其中一方的滅絕作為終結，算得上星際等級的種族</Data></Cell>
+可惜我們的對像一點兒都不健談，只一昧請求新指令，其他的一概不管。有趣的是，牠絕對遵循我們給的指令，例如在觀察室內走</Data></Cell>
    </Row>
    <Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
@@ -1559,7 +1559,7 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
     <Cell/>
    </Row><Row ss:Height="127.5">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AlienOfficerInterrogation</Data></Cell>
@@ -1567,11 +1567,11 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 類整體。牠們不是來消滅人類的。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 類整體。牠們不是來消滅人類的。
 
-這一點我們不是不知道，要趕盡殺絕的話從軌道上猛轟就 MODMERGEREPLACE: 跼 MODMERGEWITH: 進一步，認為自己是可以互換的。也不是集體意識，而是缺乏自我觀念。只要有複制體沒死，牠 MODMERGEREPLACE: 鵰 MODMERGEWITH: 詞更是危機重重。即使如此我們還是問出了重要的一點：侵略的目的是殺死人類個體，而不是人 MODMERGEREPLACE: 侷 MODMERGEWITH: 智力，但牠們不會指揮，而是直接操縱手下。我會說“士官”是用詞不當，“控制者”會較為貼 MODMERGEREPLACE: 局 MODMERGEWITH: 平凡的異型士兵只是一副軀殼，知曉武器和戰術但缺自我思考。這是有原因的：異型士官有高度 MODMERGEREPLACE: 琱 MODMERGEWITH: 可以。侵略的背後有著甚麼目的，但士官階層並不知道。我們需要活抓一名異型領袖去問出更多。 MODMERGEREPLACE: 挶 MODMERGEWITH: 切。
+這一點我們其實心知肚明，要趕盡殺絕的話從軌道上猛轟 MODMERGEREPLACE: 榦 MODMERGEWITH: 進一步，認為自己是可以互換的。也不是集體意識，而是缺乏自我觀念。只要有複制體沒死，牠 MODMERGEREPLACE: 懞 MODMERGEWITH: 詞更是危機重重。即使如此我們還是問出了重要的一點：侵略的目的是殺死人類個體，而不是人 MODMERGEREPLACE: 乾 MODMERGEWITH: 智力，但牠們不會指揮，而是直接操縱手下。我會說“士官”是用詞不當，“控制者”會較為貼 MODMERGEREPLACE: 干 MODMERGEWITH: 平凡的異型士兵只是一副軀殼，知曉武器和戰術但缺自我思考。這是有原因的：異型士官有高度 MODMERGEREPLACE: 矇 MODMERGEWITH: 就可以。侵略的背後有著甚麼目的，但士官階層並不知道。我們需要活抓一名異型領袖去問出更多。 MODMERGEREPLACE: 幹 MODMERGEWITH: 切。
 
-異型的思路很奇特；我們已經知道同類同級的異型是完全相同的複制體，但這些生物更 MODMERGEREPLACE: 雕 MODMERGEWITH: 們就不認為“自己”死了。這令審問困難重重，不理解死亡的生物無法被威脅，審問所用的代名</Data></Cell>
+異型的思路很奇特；我們已經知道同類同級的異型是完全相同的複制體，但這些生物更 MODMERGEREPLACE: 蒙 MODMERGEWITH: 們就不認為“自己”死了。這令審問困難重重，不理解死亡的生物無法被威脅，審問時用的代名</Data></Cell>
     <Cell/>
    </Row>
    <Row ss:Height="140.25">
@@ -1847,18 +1847,18 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.interceptor</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: ，它很明顯是為太空戰鬥而設的。它在太空中大概無人能敵，不過在天空的話我們也許能做得更好。 MODMERGEREPLACE: 檯 MODMERGEWITH: ，並能用向量推力裝置在眨眼間轉向。中央部分有一具非常強力的微型核融合爐，而強化過的異 MODMERGEREPLACE: 臺 MODMERGEWITH: 截擊幽浮_Interceptor_似乎是異型的終極空優用幽浮。別被它簡約的外表欺騙， MODMERGEREPLACE: 台 MODMERGEWITH: 它絕對比看上去強，非常致命。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: 進系統利用脈衝技術達到時速_3，800_公里，並能用向量推力裝 MODMERGEREPLACE: 跼 MODMERGEWITH: 置在眨眼間轉向。中央部分有一具非常強力的微型核融合爐，而強化過 MODMERGEREPLACE: 彫 MODMERGEWITH: 的纏鬥能力：快、輕、壯、恨。
 
-尾部的推進系統利用脈衝技術達到時速_3,800_公里 MODMERGEREPLACE: 颱 MODMERGEWITH: 型合金覆蓋整艘飛船，減低重量的同時也提升了防禦力。每隻翼都有三管強力的速射等離子炮， MODMERGEREPLACE: 并 MODMERGEWITH: 及一管大型“飛彈”發射器，結合出優異的纏鬥能力：快、輕、壯、恨。
+令人哭笑不得的是，它很明顯是為 MODMERGEREPLACE: 雕 MODMERGEWITH: 的異型合金覆蓋整艘飛船，減低重量的同時也提升了防禦力。每隻翼都 MODMERGEREPLACE: 鵰 MODMERGEWITH: 有三管強力的速射等離子炮，及一管大型“飛彈”發射器，結合出優異 MODMERGEREPLACE: 局 MODMERGEWITH: 截擊幽浮_Interceptor_似乎是異型的終極空優用幽浮。 MODMERGEREPLACE: 琱 MODMERGEWITH: 太空戰鬥而設的。它在太空中大概無人能敵，不過在天空的話我們也許能做得更好。 MODMERGEREPLACE: 侷 MODMERGEWITH: 別被它簡約的外表欺騙，它絕對比看上去強，非常致命。
 
-令人哭笑不得的是</Data></Cell>
+尾部的推</Data></Cell>
    </Row>
    <Row ss:Height="153">
     <Cell ss:StyleID="s70"><Data ss:Type="String">airplane.alien.bomber</Data></Cell>
@@ -2325,14 +2325,14 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型科技</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.JumpUnit</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: ritish-built Harrier jump-jet demonstrated them more than MODMERGEREPLACE: 颱 MODMERGEWITH: nts. The fundamentals are not particularly complex; the B MODMERGEREPLACE: 併 MODMERGEWITH: can be integrated into personal armour, on the other hand, is. MODMERGEREPLACE: 臺 MODMERGEWITH: The "jump unit" is the informal name we have given to the MODMERGEREPLACE: 檯 MODMERGEWITH:  work together to allow small alien units vertical moveme MODMERGEREPLACE: 台 MODMERGEWITH:  collection of propulsion and flight-control systems that MODMERGEREPLACE: 並 MODMERGEWITH:  a decade ago. Scaling them down to the point where they </Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: units vertical movements. The fundamentals are not MODMERGEREPLACE: 鵰 MODMERGEWITH: ump-jet demonstrated them more than a decade ago.  MODMERGEREPLACE: 琱 MODMERGEWITH: ntegrated into personal armour， on the other hand， is. MODMERGEREPLACE: 挶 MODMERGEWITH: l systems that work together to allow small alien  MODMERGEREPLACE: 局 MODMERGEWITH: The "jump unit" is the informal name we have given MODMERGEREPLACE: 彫 MODMERGEWITH: Scaling them down to the point where they can be i MODMERGEREPLACE: 侷 MODMERGEWITH:  to the collection of propulsion and flight-contro MODMERGEREPLACE: 雕 MODMERGEWITH:  particularly complex; the British-built Harrier j</Data></Cell>
    </Row>
    <Row ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.ParticleCannon</Data></Cell>
@@ -2463,9 +2463,9 @@ P.S._研發部主管那份報告我會代為保管，反正沒有人能讀懂。
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: sive avionics and the imposing E-77 Alenium Impulsion reactor that provides the vast reserves of MODMERGEREPLACE: 檯 MODMERGEWITH: s foes at close range.
 
-. Within it lies the mountings for the twin cannon hardpoints, the exten MODMERGEREPLACE: 並 MODMERGEWITH: he resulting craft is an ugly, squat beast capable of destroying almost anything placed in front MODMERGEREPLACE: 臺 MODMERGEWITH: The X-44 Saracen is an interceptor built specifically for dogfighting the most manuverable alien MODMERGEREPLACE: 并 MODMERGEWITH:  power required to make a sixty-ton craft dance like a ballerina at twice the speed of sound.
+. Within it lies the mountings for the twin cannon hardpoints， the exten MODMERGEREPLACE: 並 MODMERGEWITH: he resulting craft is an ugly， squat beast capable of destroying almost anything placed in front MODMERGEREPLACE: 臺 MODMERGEWITH: The X-44 Saracen is an interceptor built specifically for dogfighting the most manuverable alien MODMERGEREPLACE: 并 MODMERGEWITH:  power required to make a sixty-ton craft dance like a ballerina at twice the speed of sound.
 
-T MODMERGEREPLACE: 併 MODMERGEWITH:  of it - so no doubt our engineers will feel a certain kindred spirit when they begin to build one. MODMERGEREPLACE: 台 MODMERGEWITH:  craft. It is fast, heavily armoured and extremely agile, employing dual cannons to rip apart it</Data></Cell>
+T MODMERGEREPLACE: 併 MODMERGEWITH:  of it - so no doubt our engineers will feel a certain kindred spirit when they begin to build one. MODMERGEREPLACE: 台 MODMERGEWITH:  craft. It is fast， heavily armoured and extremely agile， employing dual cannons to rip apart it</Data></Cell>
    </Row>
    <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienPowerSource</Data></Cell>
@@ -2480,13 +2480,13 @@ T MODMERGEREPLACE: 併 MODMERGEWITH:  of it - so no doubt our engineers will fee
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: s, the interior of which is dotted with hundreds of tiny laser emitters. Sitting inside this is a rotating inner casing that is packed with a lattice of unidentified yellow crystal, again cylindrical in shape. The origin and composition of these crystals has yet to be determined, but there is no question that they form the heart of the reactor. For want of a better name, my t MODMERGEREPLACE: 并 MODMERGEWITH: ntical laser emitters covering the interior of the outer coating - we are as yet unaware of their purpose. Studying a couple of examples have provided only minor advances in our understanding of laser technology, mostly in the areas of beam focusing and miniaturisation of optical amplifiers. I very much doubt that the aliens are unable to produce far more powerful laser emitt MODMERGEREPLACE: 並 MODMERGEWITH: ers, suggesting that they have deliberately been designed to only emit low intensity beams. We would be interested to know the significance of this with regards to the Alenium lattice; it may give us an avenue of research when we begin to study it.
+    <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: s， the interior of which is dotted with hundreds of tiny laser emitters. Sitting inside this is a rotating inner casing that is packed with a lattice of unidentified yellow crystal， again cylindrical in shape. The origin and composition of these crystals has yet to be determined， but there is no question that they form the heart of the reactor. For want of a better name， my t MODMERGEREPLACE: 并 MODMERGEWITH: ntical laser emitters covering the interior of the outer coating - we are as yet unaware of their purpose. Studying a couple of examples have provided only minor advances in our understanding of laser technology， mostly in the areas of beam focusing and miniaturisation of optical amplifiers. I very much doubt that the aliens are unable to produce far more powerful laser emitt MODMERGEREPLACE: 並 MODMERGEWITH: ers， suggesting that they have deliberately been designed to only emit low intensity beams. We would be interested to know the significance of this with regards to the Alenium lattice; it may give us an avenue of research when we begin to study it.
 
-Finally, I understand you have received a request (from personnel in a department which will remain nameless) seeking to prevent MODMERGEREPLACE: 檯 MODMERGEWITH: eam have dubbed the material "Alenium" and are in the process of removing the lattice from the casing to allow further study. Preliminary scans suggest that there is an almost incomprehensible amount of energy stored within these Alenium crystals, despite the lattice being no larger than a football. This material is potentially one of the greatest discoveries of recent times; MODMERGEREPLACE: 臺 MODMERGEWITH: Despite only being the size of a household fridge, the power unit recovered from the UFO still produces enough energy to power a city the size of New York. Surprisingly, however, the device proved utterly inert once switched off - not even appearing to radiate heat.
+Finally， I understand you have received a request (from personnel in a department which will remain nameless) seeking to prevent MODMERGEREPLACE: 檯 MODMERGEWITH: eam have dubbed the material "Alenium" and are in the process of removing the lattice from the casing to allow further study. Preliminary scans suggest that there is an almost incomprehensible amount of energy stored within these Alenium crystals， despite the lattice being no larger than a football. This material is potentially one of the greatest discoveries of recent times; MODMERGEREPLACE: 臺 MODMERGEWITH: Despite only being the size of a household fridge， the power unit recovered from the UFO still produces enough energy to power a city the size of New York. Surprisingly， however， the device proved utterly inert once switched off - not even appearing to radiate heat.
 
 The construction of the device is equally peculiar. It consists of a cylindrical outer casing of alien ceramic MODMERGEREPLACE: 颱 MODMERGEWITH:  we should begin research on it immediately.
 
-The rest of the power source contains little of interest. All of the materials used in its construction have been encountered in larger quantities elsewhere in the hulls of recovered UFOs and the machinery itself is not overly complex; studying it has yielded nothing worth commenting upon. The only mystery surrounds the sea of ide MODMERGEREPLACE: 併 MODMERGEWITH:  me from dismantling such devices inside the base in future. I must object to the repeated usage of the phrase "reckless disregard" and I can assure you I am no more keen to end my life in an enormous fireball than anyone else in this base. I therefore request you tell the staff concerned to stick to what they know (i.e. building things, making unintelligible grunting noises)...</Data></Cell>
+The rest of the power source contains little of interest. All of the materials used in its construction have been encountered in larger quantities elsewhere in the hulls of recovered UFOs and the machinery itself is not overly complex; studying it has yielded nothing worth commenting upon. The only mystery surrounds the sea of ide MODMERGEREPLACE: 併 MODMERGEWITH:  me from dismantling such devices inside the base in future. I must object to the repeated usage of the phrase "reckless disregard" and I can assure you I am no more keen to end my life in an enormous fireball than anyone else in this base. I therefore request you tell the staff concerned to stick to what they know (i.e. building things， making unintelligible grunting noises)...</Data></Cell>
    </Row>
    <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
@@ -2494,20 +2494,20 @@ The rest of the power source contains little of interest. All of the materials u
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String">異型單兵武器</Data></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s112"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s112"><Data ss:Type="String">Researches.AlienGrenade</Data></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s112"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: of the plasma into the surrounding area in the form of a sizeable explosion.
+    <Cell ss:StyleID="s112"><Data ss:Type="String">MODMERGEREPLACE: 幹 MODMERGEWITH: of the plasma into the surrounding area in the form of a sizeable explosion.
 
-There is thus no fragmentation element to the damage inflicted by the Alien Grenade - it is purely an energy weapon. This gives the d MODMERGEREPLACE: 跼 MODMERGEWITH: evice a relatively limited blast radius and a rapid drop-off in power from the epicenter of the blast to the edge, but also means that it will be deadly to any units caught near the middle of the blast until we  MODMERGEREPLACE: 雕 MODMERGEWITH: develop more advanced infantry body armour. It is highly recommended that commanders avoid bunching their troops together in a manner that may attract an Alien Grenade.
+There is thus no fragmentation element to the damage inflicted by the Alien Grenade - it is purely an energy weapon. This gives the d MODMERGEREPLACE: 榦 MODMERGEWITH: evice a relatively limited blast radius and a rapid drop-off in power from the epicenter of the blast to the edge， but also means that it will be deadly to any units caught near the middle of the blast until we  MODMERGEREPLACE: 蒙 MODMERGEWITH: develop more advanced infantry body armour. It is highly recommended that commanders avoid bunching their troops together in a manner that may attract an Alien Grenade.
 
-Additionally, our scientists have adapted MODMERGEREPLACE: 局 MODMERGEWITH: The Alien Grenade is a small explosive used in a similar way to conventional human grenades. The ceramic shell contains a small plasma generation array activated by pressing a button on the top of device. Unlike MODMERGEREPLACE: 彫 MODMERGEWITH: Alien Alloys. Once triggered, the Alenium crystals detonate and propel the razor-sharp shrapnel through the blast area at far higher speeds than a normal grenade can muster. 
+Additionally， our scientists have adapted MODMERGEREPLACE: 干 MODMERGEWITH: The Alien Grenade is a small explosive used in a similar way to conventional human grenades. The ceramic shell contains a small plasma generation array activated by pressing a button on the top of device. Unlike MODMERGEREPLACE: 濛 MODMERGEWITH: Alien Alloys. Once triggered， the Alenium crystals detonate and propel the razor-sharp shrapnel through the blast area at far higher speeds than a normal grenade can muster. 
 
-Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium Grenade has a similar blast radius to the conventional Fragmentation Grenade, but inflicts up to 50% more damage to anything caught within. These grenades are now available for production in the Workshop. MODMERGEREPLACE: 侷 MODMERGEWITH:  the generation array alien infantry weapons, the Alien Grenade makes no attempt to focus or shape the resulting projectile - instead it exhausts its entire Alenium power supply in a single moment and dumps all  MODMERGEREPLACE: 鵰 MODMERGEWITH:  the design of the Alien Grenade to create the Alenium Grenade. This device contains a core of Alenium crystals studded with miniaturised lasers, surrounded by a conventional fragmentation shell fabricated from </Data></Cell>
+Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium Grenade has a similar blast radius to the conventional Fragmentation Grenade， but inflicts up to 50% more damage to anything caught within. These grenades are now available for production in the Workshop. MODMERGEREPLACE: 乾 MODMERGEWITH:  the generation array alien infantry weapons， the Alien Grenade makes no attempt to focus or shape the resulting projectile - instead it exhausts its entire Alenium power supply in a single moment and dumps all  MODMERGEREPLACE: 懞 MODMERGEWITH:  the design of the Alien Grenade to create the Alenium Grenade. This device contains a core of Alenium crystals studded with miniaturised lasers， surrounded by a conventional fragmentation shell fabricated from </Data></Cell>
    </Row>
    <Row>
     <Cell ss:StyleID="s112"><Data ss:Type="String">VV.MACHINEGUN</Data></Cell>
@@ -2933,20 +2933,20 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 琱 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 近的軍隊只能咬牙切齒。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 遠目標，加上外星人們來無影去無蹤，駐紮在大城市附近的軍隊只能咬牙切齒。
 
-任何大小的幽浮都能實施空襲任務，由最小的到最大的都行。執行此任務的幽浮沒有固定目標，只會在地球的一 MODMERGEREPLACE: 并 MODMERGEWITH: 角徘徊，尋找適合的目標。執行空襲任務的幽浮會襲擊數次，有機會做成大擾亂，然後回去補充燃料和彈藥。
+任何大小的幽浮都能實施空襲任務，由 MODMERGEREPLACE: 懞 MODMERGEWITH: 襲擊數次，有機會做成大擾亂，然後回去補充燃料和彈藥。
 
-它們很聰明，指揮官。它們 MODMERGEREPLACE: 並 MODMERGEWITH: 襲擊低軍事價值亦低商業價值的地方，藉以磨滅我們的意志、交通、通訊。一旦我們被切斷，地球就難免陷落。我們的經驗和偵察技術能阻止 MODMERGEREPLACE: 檯 MODMERGEWITH: 襲擊“軟”目標：高速公路、小鎮、甚至獨立巡戈中的戰艦。緊急服務很難應對這些偏遠目標，加上外星人們來無影去無蹤，駐紮在大城市附 MODMERGEREPLACE: 臺 MODMERGEWITH: 我跟研發部的一名低級研究員關係不錯（有頭有面的不把我們放在眼內），她告訴我有超過_3,500_艘飛船在繞著地球飛。如果它們現 MODMERGEREPLACE: 併 MODMERGEWITH: 它們，但它們數量太多而我門的數量太少。我建議儘量多興建基地，別管研發部的預算追加請求。比起異想天開的腦袋，我們更需要腳踏實地的人員。 MODMERGEREPLACE: 台 MODMERGEWITH: 在就一起入侵的話那地球就已經完了。但牠們“只是”開展了打從希特勒掌權以來最大規模的空戰。
+它們很聰明，指揮官。它們襲擊低軍事價值亦低商業價值的 MODMERGEREPLACE: 乾 MODMERGEWITH: 球飛。如果它們現在就一起入侵的話那地球就已經完了。但牠們“只是”開展了打從希特勒掌權以來最大規模的空戰。
 
-外星人的空襲模式表明牠們目前主要</Data></Cell>
+ MODMERGEREPLACE: 蒙 MODMERGEWITH: 最小的到最大的都行。執行此任務的幽浮沒有固定目標，只會在地球的一角徘徊，尋找適合的目標。執行空襲任務的幽浮會 MODMERGEREPLACE: 矇 MODMERGEWITH: 數量太多而我門的數量太少。我建議儘量多興建基地，別管研發部的預算追加請求。比起異想天開的腦袋，我們更需要腳踏實地的人員。 MODMERGEREPLACE: 干 MODMERGEWITH: 我跟研發部的一名低級研究員關係不錯（有頭有面的不把我們放在眼內），她告訴我有超過_3，500_艘飛船在繞著地 MODMERGEREPLACE: 幹 MODMERGEWITH: 外星人的空襲模式表明牠們目前主要襲擊“軟”目標：高速公路、小鎮、甚至獨立巡戈中的戰艦。緊急服務很難應對這些偏 MODMERGEREPLACE: 濛 MODMERGEWITH: 地方，藉以磨滅我們的意志、交通、通訊。一旦我們被切斷，地球就難免陷落。我們的經驗和偵察技術能阻止它們，但它們</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>

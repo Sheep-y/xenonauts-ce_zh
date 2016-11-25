@@ -2523,7 +2523,7 @@
   <Cell><Data ss:Type="String">Destroyed Scuttler</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.DirectionalThrusterArray</Data></Cell>
-  <Cell><Data ss:Type="String">多角度推力陣列</Data></Cell>
+  <Cell><Data ss:Type="String">多向推力陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.GenericDestroyedAlienCorpse</Data></Cell>
   <Cell><Data ss:Type="String">血肉模糊的異型的屍骸</Data></Cell>
@@ -3908,10 +3908,10 @@
   <Cell><Data ss:Type="String">異型能源爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienReactor</Data></Cell>
-  <Cell><Data ss:Type="String">異型反應堆</Data></Cell>
+  <Cell><Data ss:Type="String">異型反應爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienReactorDesc</Data></Cell>
-  <Cell><Data ss:Type="String">這個能源狀置的輸出比以往的都要高出許多，也許就是製作等離子武器的關鍵。</Data></Cell>
+  <Cell><Data ss:Type="String">這個能源裝置的輸出比以往的都要高出許多，也許就是製作等離子武器的關鍵。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.AlienSingularityCore</Data></Cell>
   <Cell><Data ss:Type="String">異型奇點爐</Data></Cell>
@@ -3956,7 +3956,7 @@
   <Cell><Data ss:Type="String">開發一款更快更耐打的多用途攔捷機取代 F-17 神鷲。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArray</Data></Cell>
-  <Cell><Data ss:Type="String">多角度推力矩陣</Data></Cell>
+  <Cell><Data ss:Type="String">多向推力陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Researches.DirectionalThrusterArrayDesc</Data></Cell>
   <Cell><Data ss:Type="String">可以達成精細運動的異型推進器。開發新型運輸機的時候應該會非常有用。</Data></Cell>
