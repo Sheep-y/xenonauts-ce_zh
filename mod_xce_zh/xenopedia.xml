@@ -2559,13 +2559,13 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: ，能源需求也減少了，在背部甲片裝上簡單的異能晶電池就可以。頭盔由獨立的小電池驅動，足夠讓第二層抵禦大約三次心靈攻擊，而耗電較低的第一層可以長期維持。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 範圍的微量電擊，校正“正常”腦部活動的微小差異。第二層則是主動應戰。當有腦部活動出現高度異常時，比如說遭受心靈攻擊時，這護罩會施予較大 MODMERGEREPLACE: 懞 MODMERGEWITH: 的電擊去對抗和糾正。實驗者把它描述為愉快的刺痛感，然後就心如明鏡。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 足以強搶士兵的軀體。在研究灰人實驗體的腦波模式和士官及領袖的頭盔後，我成功開發出抵禦心靈攻擊的對策。
 
-護甲方面，我們借用了研發獵戶戰甲時開發的技術去強化灰狼戰甲。首先 MODMERGEREPLACE: 乾 MODMERGEWITH: 的能力足以強搶士兵的軀體。在研究灰人實驗體的腦波模式和士官及領袖的頭盔後，我成功開發出抵禦心靈攻擊的對策。
+灰人軍官所載的頭盔使用一個複雜 MODMERGEREPLACE: 幹 MODMERGEWITH: 的電脈衝系統放大穿載者的強力靈能。當我理解它後，要將它的功能反轉以保障穿載者的心靈免受外界侵擾簡直是易如反掌，還能順帶強化應對心理壓力 MODMERGEREPLACE: 榦 MODMERGEWITH: 的能耐。
 
-灰人軍官所載的頭盔使用一 MODMERGEREPLACE: 榦 MODMERGEWITH: 理壓力的能耐。
+這個被工程部錯誤地名為“心盾”的神經電磁護罩有兩層。第一層是一道被動防禦，類似城堡的護城河。它會針對性地對腦部施予小範圍的 MODMERGEREPLACE: 矇 MODMERGEWITH: 源需求也減少了，在背部甲片裝上簡單的異能晶電池就可以。頭盔由獨立的小電池驅動，足夠讓第二層抵禦大約三次心靈攻擊，而耗電較低的第一層可以長期維持。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 微量電擊，校正“正常”腦部活動的微小偏差。第二層則是主動應戰。當腦部活動出現高度異常時，比如說遭受心靈攻擊時，這護罩會施予較大的電擊去 MODMERGEREPLACE: 懞 MODMERGEWITH: 對抗和糾正腦波。實驗者描述說先是有愉快的刺痛感，然後就心如明鏡。
 
-這個被工程部錯誤地名為“心盾”的神經電磁護罩有兩層。第一層是一道被動防禦，類似城堡的護城河。它會針對性地對腦部施予小 MODMERGEREPLACE: 濛 MODMERGEWITH: 是異型甲片經過強化，提升保護力。裝甲外部裝設了輕量化的小型外骨架，雖然保護力不如龐大的獵戶甲但也足以強化使用者的肌力。由於整體的輕量化 MODMERGEREPLACE: 干 MODMERGEWITH: 因應戰場上日漸繁重的心靈攻擊，S-20“神盾”反靈能支援護甲_應運而生。雖然初期的靈能攻擊只限於打擊士氣，但現在事實擺在眼前，高階灰人 MODMERGEREPLACE: 幹 MODMERGEWITH: 個複雜的電脈衝系統放大穿載者的強力靈能。當我理解它後，要將它的功能反轉以保障穿載者的心靈免受外界侵擾簡直是易如反掌，順帶還能強化應對心</Data></Cell>
+護甲主體方面，我們借用了獵戶戰甲的一些技術去強化灰狼戰甲。首先是異 MODMERGEREPLACE: 濛 MODMERGEWITH: 型甲片經過強化，提升保護力。裝甲外部裝設了輕量化的小型外骨骼，雖然保護力不如龐大的獵戶甲但也足以強化使用者的肌力。由於整體的輕量化，能 MODMERGEREPLACE: 干 MODMERGEWITH: 因應戰場上日益繁重的心靈攻擊，S-20“神盾”反靈能支援護甲_應運而生。雖然戰爭初期的靈能攻擊只限於打擊士氣，但時至今曰高階灰人的能力</Data></Cell>
    </Row>
    <!-- Extended Weapon Descriptions for Fighters -->
    <Row ss:Height="114.75">
@@ -2581,7 +2581,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 雖然望上去有點像戰鬥機用的空戰炮，但只要仔細看就可 MODMERGEREPLACE: 併 MODMERGEWITH: 算散射激光在實戰中能對射程內的幽浮做成約兩部的傷害。 MODMERGEREPLACE: 檯 MODMERGEWITH: 根，而且它們現在不射子彈，槍管裝的是實驗室中最強的 MODMERGEREPLACE: 並 MODMERGEWITH: 我們所遇過的幽浮都特別有效，比子彈效果更好。我們估 MODMERGEREPLACE: 并 MODMERGEWITH: 只比空戰炮遠_15%。不過它所做成的熱能傷害似乎對 MODMERGEREPLACE: 颱 MODMERGEWITH: 原型激光武器。由於我們的大氣會折射激光束，它的射程 MODMERGEREPLACE: 台 MODMERGEWITH: 以發現散射激光跟它的元祖完全不同。我們將槍管減到三</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 雖然望上去有點像戰鬥機用的空戰炮，但只要仔細看就可 MODMERGEREPLACE: 并 MODMERGEWITH: 程只比空戰炮遠_15%。不過它所做成的熱能傷害似乎 MODMERGEREPLACE: 檯 MODMERGEWITH: 根，而且它們現在不射子彈，槍管裝的是實驗室中最強的 MODMERGEREPLACE: 並 MODMERGEWITH: 對我們所遇過的幽浮都特別有效，比子彈效果更好。我們 MODMERGEREPLACE: 颱 MODMERGEWITH: 原型激光武器。由於地球的大氣層會折射激光束，它的射 MODMERGEREPLACE: 併 MODMERGEWITH: 估算散射激光在實戰中能對射程內的幽浮做成約兩部的傷害。 MODMERGEREPLACE: 台 MODMERGEWITH: 以發現散射激光跟它的元祖完全不同。我們將槍管減到三</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMMISSILE</Data></Cell>
@@ -2596,7 +2596,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 雖然將炸藥完全換成異能晶的話可以大幅 MODMERGEREPLACE: 濛 MODMERGEWITH: 統，專一追蹤異型飛船。異能晶飛彈是首 MODMERGEREPLACE: 矇 MODMERGEWITH: 種採納這項調整的飛彈，鎖定時間比前代縮短了不少。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 省下空間則增加飛彈的射程。我們也用到 MODMERGEREPLACE: 懞 MODMERGEWITH: 目前為止的空戰數據調整了空對空尋標系 MODMERGEREPLACE: 榦 MODMERGEWITH: 彈大約能做成多_50%_的傷害，而所 MODMERGEREPLACE: 干 MODMERGEWITH: 將響尾蛇換裝異能晶彈頭是件簡單的事。 MODMERGEREPLACE: 幹 MODMERGEWITH: 增加爆炸力，但我們取了些平衡。新的飛</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: ，更有效地追蹤異型飛船。異能晶飛彈是 MODMERGEREPLACE: 矇 MODMERGEWITH: 首種採納這項調整的飛彈，鎖定時間比前代縮短了不少。 MODMERGEREPLACE: 乾 MODMERGEWITH: 雖然將炸藥完全換成異能晶的話可以大幅 MODMERGEREPLACE: 蒙 MODMERGEWITH: 省下空間則增加飛彈的射程。我們也利用 MODMERGEREPLACE: 懞 MODMERGEWITH: 所採集的空戰數據調整了空對空尋標系統 MODMERGEREPLACE: 榦 MODMERGEWITH: 彈大約能做成多_50%_的傷害，而所 MODMERGEREPLACE: 干 MODMERGEWITH: 將響尾蛇換裝異能晶彈頭是件簡單的事。 MODMERGEREPLACE: 幹 MODMERGEWITH: 增加爆炸力，但我們取了些平衡。新的飛</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.ALENIUMTORP</Data></Cell>
@@ -2619,14 +2619,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMABLASTER</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 離子扭成具體的能量束，能完整地跨越一段 MODMERGEREPLACE: 矇 MODMERGEWITH: 長距離，稍為提升了我們的戰鬥機的接戰距離。 MODMERGEREPLACE: 榦 MODMERGEWITH: 量高能等離子的電漿倉。實驗證明它比激光 MODMERGEREPLACE: 幹 MODMERGEWITH: 相對較寬鬆，我們有足夠空間裝上能產生大 MODMERGEREPLACE: 懞 MODMERGEWITH: 的重力子產生器也非常有效，它們可以將等 MODMERGEREPLACE: 乾 MODMERGEWITH: 的空戰武器。戰鬥機武器的體積和重量限制 MODMERGEREPLACE: 蒙 MODMERGEWITH: 武器的傷害多_50%。等離子噴射炮所裝 MODMERGEREPLACE: 干 MODMERGEWITH: 我們終於能將異型的等離子科技應用成我們</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: 高能等離子的電漿倉。實驗證明它比激光武 MODMERGEREPLACE: 鵰 MODMERGEWITH: 重力子產生器也非常有效，它們可以將等離 MODMERGEREPLACE: 琱 MODMERGEWITH: 距離，稍為提升了我們的戰鬥機的接戰距離。 MODMERGEREPLACE: 挶 MODMERGEWITH: 相對寬鬆，我們有足夠空間裝上能產生大量 MODMERGEREPLACE: 侷 MODMERGEWITH: 的空戰武器。戰鬥機武器的體積和重量限制 MODMERGEREPLACE: 局 MODMERGEWITH: 我們終於能將異型的等離子科技應用到我們 MODMERGEREPLACE: 彫 MODMERGEWITH: 子扭成具體的能量束，能完整地跨越一段長 MODMERGEREPLACE: 雕 MODMERGEWITH: 器的傷害多_50%。等離子噴射炮所裝的</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
@@ -2634,14 +2634,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMAMISSILE</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 雷，傷害力提升了_66% MODMERGEREPLACE: 干 MODMERGEWITH: 近期的異型空戰幽浮開始能 MODMERGEREPLACE: 懞 MODMERGEWITH: 的推進劑，於等離子飛彈上 MODMERGEREPLACE: 矇 MODMERGEWITH: 提升，但對射程多少還是有點幫助。 MODMERGEREPLACE: 濛 MODMERGEWITH: 採用。雖然沒有很戲劇性的 MODMERGEREPLACE: 乾 MODMERGEWITH: 抵禦我們的異能晶飛彈。我 MODMERGEREPLACE: 幹 MODMERGEWITH: 們的新設計仿效自等離子飛 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。我們也成功測試了一種新</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 近期的異型空戰幽浮開始能抵禦 MODMERGEREPLACE: 檯 MODMERGEWITH: 計仿效自等離子飛雷，傷害力提 MODMERGEREPLACE: 台 MODMERGEWITH: 我們的異能晶飛彈。我們的新設 MODMERGEREPLACE: 並 MODMERGEWITH: 彈上採用。雖然沒有戲劇性的提 MODMERGEREPLACE: 併 MODMERGEWITH: 升，但對射程多少還是有點幫助。 MODMERGEREPLACE: 颱 MODMERGEWITH: 升了_66%。我們也成功測試 MODMERGEREPLACE: 并 MODMERGEWITH: 了一種新的推進劑，於等離子飛</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.PLASMATORP</Data></Cell>
@@ -2656,7 +2656,7 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 近期的異型幽浮的裝甲嚴重阻礙我們的攔截行動。異能晶飛雷 MODMERGEREPLACE: 台 MODMERGEWITH: 的爆炸錐大部分都被重型幽浮的裝甲夾層吸收並打散。為了解 MODMERGEREPLACE: 併 MODMERGEWITH: 波深入異型飛船內部。新的先進推劑劑配方也令等離子飛雷飛得更遠。 MODMERGEREPLACE: 檯 MODMERGEWITH: 決這問題，我們的實驗室開發了一個原型，在彈頭的尖端裝設 MODMERGEREPLACE: 并 MODMERGEWITH: 入量產。這貫穿器的定向等離子束能令異能晶爆炸的大量爆炸 MODMERGEREPLACE: 颱 MODMERGEWITH: 一個等離子產生器進行貫穿。效果超乎預料，我們決定立刻投</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 近期的異型幽浮的裝甲嚴重阻礙我們的攔截行動。異能晶飛雷 MODMERGEREPLACE: 台 MODMERGEWITH: 的爆炸錐大部分都被重型幽浮的裝甲夾層吸收並打散。為了解 MODMERGEREPLACE: 併 MODMERGEWITH: 波深入異型飛船內部。新的先進推劑劑配方也令等離子飛雷飛得更遠。 MODMERGEREPLACE: 檯 MODMERGEWITH: 決這問題，我們的實驗室開發了一個原型，在彈頭的尖端裝設 MODMERGEREPLACE: 并 MODMERGEWITH: 入量產。這貫穿器的定向等離子束能令異能晶爆炸的大量爆炸 MODMERGEREPLACE: 颱 MODMERGEWITH: 一個等離子產生器負責貫穿。效果超乎預料，我們決定立刻投</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
@@ -2664,14 +2664,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員航機武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.MAGSTORM</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 超凡入聖。如果我們不是面對著莫大的外太空 MODMERGEREPLACE: 併 MODMERGEWITH: 磁風暴都只能讓我們跟無盡的異型戰列幽浮平起平坐。 MODMERGEREPLACE: 檯 MODMERGEWITH: 樣。但“電磁風暴”的破壞力和破壞規模完全 MODMERGEREPLACE: 台 MODMERGEWITH: 會做成動能傷害，跟不久前還在用的空戰炮一 MODMERGEREPLACE: 并 MODMERGEWITH: 威脅，數根這些炮就可以扭轉任何軍事戰役。 MODMERGEREPLACE: 並 MODMERGEWITH: 可惜的是雖然它比等離子噴射炮更強更遠，電 MODMERGEREPLACE: 臺 MODMERGEWITH: 似乎我們又回歸原點了。我們最新的戰機武器</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 離子噴射炮更強更遠，電磁風暴都只能讓 MODMERGEREPLACE: 雕 MODMERGEWITH: 著莫大的外太空威脅，數根這些炮就可以 MODMERGEREPLACE: 侷 MODMERGEWITH: 武器施予動能傷害，跟不久前還在用的空 MODMERGEREPLACE: 鵰 MODMERGEWITH: 扭轉任何軍事戰役。可惜的是雖然它比等 MODMERGEREPLACE: 挶 MODMERGEWITH: 戰炮一樣。但“電磁風暴”的破壞力和破 MODMERGEREPLACE: 琱 MODMERGEWITH: 我們跟無窮無盡的異型戰列幽浮平起平坐。 MODMERGEREPLACE: 跼 MODMERGEWITH: 壞規模完全超凡入聖。如果我們不是面對 MODMERGEREPLACE: 局 MODMERGEWITH: 似乎我們又回歸原點了。我們最新的空戰</Data></Cell>
    </Row>
    <Row ss:Height="114.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">AV.HYPERMISSILE</Data></Cell>
@@ -2710,20 +2710,20 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異種航員單兵武器</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="140.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: ，允許部隊在貼近突破點的地方待機。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 局 MODMERGEWITH: 行政備忘錄：幽浮結構初步推論
 
-（要使用破門包，先把它拿在手上設置起爆，然後把它放置在目標點旁邊的 MODMERGEREPLACE: 臺 MODMERGEWITH: 行政備忘錄：幽浮結構初步推論
+雖然冰島事件中的外星飛船幽浮無法被回收，但我們的研究員花了很 MODMERGEREPLACE: 雕 MODMERGEWITH: 磁吸盤緊貼外星飛船的外殼。設置好之後只需要退後幾步就已經安全，不會被炸到。炸藥包的破壞力很精 MODMERGEREPLACE: 鵰 MODMERGEWITH: 確，爆炸範圍很細，減少對幽浮內部可能做成的破壞之餘也不易誤傷，允許部隊在貼近突破點的地方待機 MODMERGEREPLACE: 挶 MODMERGEWITH: 或以上的弱點，也許能用特殊設計的炸藥包炸開，給地面部隊帶來戰術優勢。如果能從門口以外的地方進 MODMERGEREPLACE: 琱 MODMERGEWITH: 弱點的邊，鈄角不能破，非弱點也不能破。大型幽浮的結構弱點可以在回收數據中樞後進行研究分析。） MODMERGEREPLACE: 侷 MODMERGEWITH: 多時間去分析目擊者的口供和空中照片。從戰術角度而言，最重要的發現是確認了幽浮的外殼可能有一個 MODMERGEREPLACE: 跼 MODMERGEWITH: 入幽浮，突擊就會更有效，更易發揚火力壓倒外星守軍。
 
-雖然冰島事件中的外星飛船幽浮無法被回收，但我們的研究員花了很多時間去研究 MODMERGEREPLACE: 台 MODMERGEWITH: 目擊者的口供和空中照片。就戰術角度而言，最重要的發現是確認了幽浮的外殼可能有一個或以上的弱點，也許能用特 MODMERGEREPLACE: 檯 MODMERGEWITH: 殊設計的炸藥包炸開，給地面部隊帶來戰術優勢。如果能從門口以外的地方進入幽浮，突擊就會更有效，更易發揚火力 MODMERGEREPLACE: 并 MODMERGEWITH: 步就已經安全，不會被炸到。炸藥包的破壞力很精確，爆炸範圍很細，滅少對幽浮內部可能做成的破壞之餘也不易誤傷 MODMERGEREPLACE: 颱 MODMERGEWITH: 壓倒外星守軍。
+為此而設的破門炸藥非常簡單易用，能用電 MODMERGEREPLACE: 彫 MODMERGEWITH: 。
 
-為此而設的破門炸藥非常簡單易用，能用電磁吸盤緊貼外星飛船的外殼。設置好之後只需要退後幾 MODMERGEREPLACE: 併 MODMERGEWITH: 地上。放置點必需貼著弱點的邊，鈄角不能破，非弱點也不能破。大型幽浮的結構弱點可以在入手數據中樞後進行研究分析。）</Data></Cell>
+（要使用破門包，先把它拿在手上設置起爆，然後把它放置在目標點旁邊的地上。放置點必需貼著</Data></Cell>
    </Row>
    <Row ss:Height="255">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
@@ -2731,30 +2731,30 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
    </Row><Row ss:Height="255">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CruiserAssaultAnalysis</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 部隊從窄炸的雙翼進攻。但這個出入口相對脆弱，可以爆破。從這一面可以攻入較寬敞的 MODMERGEREPLACE: 彫 MODMERGEWITH: 連接引擎室的長通道。這樣就能夾擊雙翼的守兵。
-
-3)_最終的弱點在控制室前方。 MODMERGEREPLACE: 跼 MODMERGEWITH: 更有效地掌握接戰的區域：
-
-1)_地面上的主要出入口可能會被敵人鎖上，迫使我方 MODMERGEREPLACE: 挶 MODMERGEWITH: 方面同時進攻，但也會分敵隊伍的戰力和火力。
-
-方案
-
-應用數個可以爆破的弱點， MODMERGEREPLACE: 局 MODMERGEWITH: 文件類別：戰術分析
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 部隊從狹窄的雙翼進攻。但這個出入口相對脆弱，可以爆破。從這一面可以攻入較寬敞的主船艙，並能快速抵達控制室 MODMERGEREPLACE: 臺 MODMERGEWITH: 文件類別：戰術分析
 飛船類別：巡洋級
 
 分析
 
-巡洋級飛船的內部很緊湊，難以發 MODMERGEREPLACE: 侷 MODMERGEWITH: 揚火力，靠攏的部隊也易被敵人的爆炸武器一網打盡。雖然它有多個入口可以讓部隊從多 MODMERGEREPLACE: 琱 MODMERGEWITH: 具備跳躍能力的部隊可以直接從這兒殺入，跟攻佔主船艙的部隊裡應外合，打倒埋伏的敵人。
- MODMERGEREPLACE: 鵰 MODMERGEWITH: 主船艙，並能快速抵達控制室。
+巡洋級飛船的內部很緊湊，難以發揚火力，靠攏的部隊也易被敵 MODMERGEREPLACE: 台 MODMERGEWITH: 人的範圍武器一網打盡。雖然它有多個入口可以讓部隊從多方面同時進攻，但也會分敵隊伍的戰力和火力。
 
-2)_飛船雙翼的尾部相對較弱，爆破的話可以進入</Data></Cell>
+方案
+ MODMERGEREPLACE: 并 MODMERGEWITH: 。
+
+2)_飛船雙翼的尾部相對較弱，爆破的話可以進入連接引擎室的長通道。這樣就能夾擊雙翼的守兵。
+
+3) MODMERGEREPLACE: 併 MODMERGEWITH: _最終的弱點在控制室前方。具備跳躍能力的部隊可以直接從這兒殺入，跟攻佔主船艙的部隊裡應外合，打倒埋伏的敵人。
+ MODMERGEREPLACE: 檯 MODMERGEWITH: 
+應用數個可以爆破的弱點，更有效地控制接戰的區域：
+
+1)_地面上的主要出入口可能會被敵人鎖上，迫使我方</Data></Cell>
    </Row>
    <Row ss:Height="255">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
@@ -2762,29 +2762,29 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="255">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CarrierAssaultAnalysis</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 離控制室只有一步之遙。這也許是最有效的攻略法，先佔控制室然後由上而下逐層掃盪。 MODMERGEREPLACE: 懞 MODMERGEWITH: 躍能力的部隊可以從這兒清晰地掃盪上層的外星人，而不需要盲目地踩入傳送器。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 躍能力的部隊可以從這兒暢快地掃盪上層的外星人，而不需要冒險踏入傳送器。
 
- MODMERGEREPLACE: 幹 MODMERGEWITH: 有多個弱點，善用的話就能通行無阻：
+3 MODMERGEREPLACE: 挶 MODMERGEWITH: 有多個弱點，善用的話就能通行無阻：
 
-1)_飛船接地的一層在尾部有兩個弱點， MODMERGEREPLACE: 干 MODMERGEWITH: 文件類別：戰術分析
+1)_飛船接地的一層在尾部有兩個弱點， MODMERGEREPLACE: 局 MODMERGEWITH: 文件類別：戰術分析
 飛船類別：航母級
 
 分析
 
-航母級飛船體積超大，可以分成 MODMERGEREPLACE: 蒙 MODMERGEWITH: 室。
+航母級飛船體積巨大，可以分成 MODMERGEREPLACE: 琱 MODMERGEWITH: 控制室只有一步之遙。這也許是最有效的攻略法，先佔控制室然後由上而下逐層掃盪。 MODMERGEREPLACE: 雕 MODMERGEWITH: 室。
 
-2)_在地面之上，飛船中部有兩個弱點，直通第二甲板和第三甲板。具備跳 MODMERGEREPLACE: 乾 MODMERGEWITH: 四層甲板。各層以傳送器相連，給予敵人機動和突襲的優勢。
+2)_在地面之上，飛船中部有兩個弱點，直通第二甲板和第三甲板。具備跳 MODMERGEREPLACE: 侷 MODMERGEWITH: 四層甲板。各層以傳送器相連，給予敵人機動和突襲的優勢。
 
 方案
 
-航母級飛船 MODMERGEREPLACE: 榦 MODMERGEWITH: 允許部隊從兩方面同時突擊引擎室。這比正面突擊安全，因為上層的守軍無法直達引擎 MODMERGEREPLACE: 濛 MODMERGEWITH: 3)_最終的弱點在飛船前方離地兩層左右的高度。這兒直通第三甲板的上向傳送器，</Data></Cell>
+航母級飛船 MODMERGEREPLACE: 跼 MODMERGEWITH: 允許部隊從兩方面同時突擊引擎室。這比正面突擊安全，因為上層的守軍無法直達引擎 MODMERGEREPLACE: 彫 MODMERGEWITH: )_最終的弱點在飛船前方離地兩層左右的高度。這兒直通第三甲板的上向傳送器，離</Data></Cell>
    </Row>
    <Row ss:Height="267.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
@@ -2792,29 +2792,29 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="267.75">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BattleshipAssaultAnalysis</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 幹 MODMERGEWITH: 的火力。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: 純綷的火力。
 
 方案
 
-雖然戰列級船堅炮利，但還是有可以在戰術層面上利用的弱點。不過這 MODMERGEREPLACE: 矇 MODMERGEWITH: 的尾部，其餘兩個在飛船兩側的電機房。當要逐間房掃盪下層時，額外的攻堅火力可以從這兒送入。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 有兩個弱點，可以破入控制甲板的引擎室。配合地面部隊可以從上和下兩方面同時進攻敵飛船 MODMERGEREPLACE: 干 MODMERGEWITH: 文件類別：戰術分析
+雖然戰列級船堅炮利，但還是有可以在戰術層面上利用的弱點。 MODMERGEREPLACE: 侷 MODMERGEWITH: 精心設計，攻略部隊需要突破重重難關才能抵達控制室。要夾擊敵人非常困難，主要得依靠 MODMERGEREPLACE: 彫 MODMERGEWITH: 有效地支援地面部隊的突擊。
+
+3)_最後就是通往下層甲板的三個弱點。第一個在飛船 MODMERGEREPLACE: 局 MODMERGEWITH: 文件類別：戰術分析
 飛船類別：戰列級
 
 分析
 
-戰列級飛船超級龐大，內部結構經過精 MODMERGEREPLACE: 濛 MODMERGEWITH: 效地支援地面部隊的突擊。
+戰列級飛船超級龐大，內部結構經過 MODMERGEREPLACE: 雕 MODMERGEWITH: 後方有兩個弱點，可以破入控制甲板的引擎室。配合地面部隊可以從上和下兩方面同時進攻 MODMERGEREPLACE: 琱 MODMERGEWITH: 中央的尾部，其餘兩個在飛船兩側的電機房。當要逐間房掃盪下層時，可以從這兒送入額外的攻堅火力。 MODMERGEREPLACE: 跼 MODMERGEWITH: 不過這些弱點全都不接地，要突破就要靠具跳躍裝置的護甲：
 
-3)_最後就是通往下層甲板的三個弱點。第一個在飛船中央 MODMERGEREPLACE: 乾 MODMERGEWITH: 心設計，攻略部隊需要突破重重難關才能抵達控制室。要夾擊敵人非常困難，主要得依靠純綷 MODMERGEREPLACE: 榦 MODMERGEWITH: 些弱點全都不接觸地面，要突破就要靠具跳躍裝置的護甲：
+1)_先是飛船頂部，在 MODMERGEREPLACE: 鵰 MODMERGEWITH: 。
 
-1)_先是飛船頂部，在後方 MODMERGEREPLACE: 懞 MODMERGEWITH: 。
-
-2)_飛船中部的西南面中部有兩頭弱點，可以快速突入飛船的中央部分。從這兒能有</Data></Cell>
+2)_飛船中部的西南面中部有兩頭弱點，可以快速突入飛船的中央部分。從這兒能</Data></Cell>
    </Row>
    <!-- Lore+ -->
    <Row ss:Height="47.25">
@@ -2823,14 +2823,14 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 間！我提醒過了普羅沃警長，如果他要給實驗 MODMERGEREPLACE: 挶 MODMERGEWITH: 設計出完美的檔案系統，但他們依然隨便把文 MODMERGEREPLACE: 鵰 MODMERGEWITH: 累我們的武器開發進度，我們現在不能浪費時 MODMERGEREPLACE: 侷 MODMERGEWITH: 料？沒有？又來了！我用我的時間給我的團隊 MODMERGEREPLACE: 局 MODMERGEWITH: 指揮官你有沒有看見過我的異能晶幅射分析資 MODMERGEREPLACE: 琱 MODMERGEWITH: 室派駐守衛，守衛們就該認真工作。希望這會有用。 MODMERGEREPLACE: 雕 MODMERGEWITH: 告失蹤。每次失蹤都不超過一日，但始終會拖 MODMERGEREPLACE: 跼 MODMERGEWITH: 件拿走！這不是第一次了，已經有幾分研究報</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: ？沒有？又來了！我撥出珍貴的時間為我的團隊 MODMERGEREPLACE: 濛 MODMERGEWITH: 醒過了普羅沃警長，如果他堅持要給實驗室派駐 MODMERGEREPLACE: 蒙 MODMERGEWITH: 蹤。每次失蹤都不超過一日，但始終會拖累我們 MODMERGEREPLACE: 幹 MODMERGEWITH: 設計出完美的檔案系統，但他們依然隨便就拿走 MODMERGEREPLACE: 懞 MODMERGEWITH: 的武器開發進度，我們現在不能浪費時間！我提 MODMERGEREPLACE: 榦 MODMERGEWITH: 文件！這不是第一次了，已經有幾分研究報告失 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官你有沒有看見過我的異能晶幅射分析資料 MODMERGEREPLACE: 矇 MODMERGEWITH: 守衛，守衛們就該認真工作。希望這能解決問題。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage2</Data></Cell>
@@ -2845,13 +2845,13 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: ！現在全地球的政府和企業裡的猿人都在盜取我的理論。啍，就讓他們去！那臭老 MODMERGEREPLACE: 並 MODMERGEWITH: 鼠是在盜取原型時被抓的，表明他們即使讀了*我的*說明都依然搞不懂異型科技 MODMERGEREPLACE: 台 MODMERGEWITH: 誠信。奸細不會被我邀請加入阻止人類滅絕，然後借機將我的血淚成果拿出拍賣、 MODMERGEREPLACE: 併 MODMERGEWITH: 的奧妙。我不能說是次背叛會有甚麼長遠影響，但短期而言別指望能從售賣裝備中獲利。 MODMERGEREPLACE: 颱 MODMERGEWITH: 然》但被拒的報告！我們所寫的任何東西一旦經過那名蠢才的污穢賊手就會被洩露 MODMERGEREPLACE: 臺 MODMERGEWITH: 奸細。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 那臭老鼠是在盜取原型時被抓的，表明他們即使讀了*我的*解說都依然搞不懂異 MODMERGEREPLACE: 檯 MODMERGEWITH: 賣，價高者得！
+
+我.的.私.人.助.理！那些害羞的目光……那些我投寄到 MODMERGEREPLACE: 台 MODMERGEWITH: 誠信。奸細不會被我邀請加入一起阻止人類滅絕，然後借機將我的血淚成果拿去拍 MODMERGEREPLACE: 并 MODMERGEWITH: 被洩露！現在全地球的政府和企業裡的猿人都在盜取我的理論。啍，就讓他們去！ MODMERGEREPLACE: 臺 MODMERGEWITH: 奸細。
 
 在*我*的實驗室裡。
 
-不……不……比奸細更低下。奸細至少會有 MODMERGEREPLACE: 檯 MODMERGEWITH: 價高者得！
-
-我.的.私.人.助.理！那些害羞的目光……那些我投寄到《自</Data></Cell>
+不……不……比奸細更低下。奸細至少會有 MODMERGEREPLACE: 併 MODMERGEWITH: 型科技的奧妙。我不能說是次背叛會有甚麼長遠影響，但短期而言別指望能售賣裝備圖利。 MODMERGEREPLACE: 颱 MODMERGEWITH: 《自然》但被拒收的報告！我們所寫的任何東西只要碰到那名蠢才的污穢賊手就會</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
@@ -2859,16 +2859,16 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">外星人</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.Espionage3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 干 MODMERGEWITH: 那宗無法無天的盜竊案也許不是毫無建樹，指揮官。我用我的人脈追蹤著被竊技術的 MODMERGEREPLACE: 濛 MODMERGEWITH: 看遠點的話，異種觀星臺回報說異型艦隊差不多完成巨大幽浮的改裝。這些勇士為時 MODMERGEREPLACE: 懞 MODMERGEWITH: 異能晶和異型合金就變得很搶手。我們的資肋國將會跟我們爭奪這些戰爭資源。但再 MODMERGEREPLACE: 乾 MODMERGEWITH: 流向，得知集合全地球的腦力後終於能達成我們的一小部分成就。世界各地都開始用 MODMERGEREPLACE: 榦 MODMERGEWITH: 得以提升，照我們的估算一名非異種航員士兵的傷亡率會由_95%_減到_90% MODMERGEREPLACE: 矇 MODMERGEWITH: 己晚、心餘力拙。除非他們能趕上我們的技術水平，否則我們依然是人類的唯一希望。 MODMERGEREPLACE: 幹 MODMERGEWITH: 尚未被破壞的產能急就章地量產激光武器，配發給士兵。因此友方部隊的武裝預期會 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。
-
-不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: 那宗無法無天的盜竊案也許不是毫無建樹，指揮官。我用我的人脈追蹤著被竊技術的流向，得知集合全地球的腦力 MODMERGEREPLACE: 颱 MODMERGEWITH: 此友方部隊的武裝預期會得以提升，照我們的估算一名非異種航員士兵的傷亡率會由_95%_減到_90%。
+ MODMERGEREPLACE: 並 MODMERGEWITH: 我們的資肋國將會跟我們爭奪這些戰爭資源。但再看遠點的話，我們的異種觀星臺回報說異型艦隊差不多完成巨大 MODMERGEREPLACE: 檯 MODMERGEWITH: 後終於能達成我們的一小部分成就。世界各地都開始用尚未被破壞的產能急就章地量產激光武器，配發給士兵。因 MODMERGEREPLACE: 併 MODMERGEWITH: 幽浮的改裝。這些勇士為時己晚、心餘力拙。除非他們能趕上我們的技術水平，否則我們依然是人類的唯一希望。 MODMERGEREPLACE: 并 MODMERGEWITH: 
+不過凡事都有正反兩面，現在各國都有了自己的武器策略（不論成功與否），異能晶和異型合金就變得很搶手。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
@@ -2876,18 +2876,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ScoutingMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 濛 MODMERGEWITH: 長時間，搜集各種目標的情報。它們似乎沒有特定的路線或規劃，應該不難攔截。由於外星人有專門的偵察船，大部分偵察任務都應該由 MODMERGEREPLACE: 矇 MODMERGEWITH: 這些小型幽浮執行。偵察幽浮採集的資訊越多，日後的攻擊就越有效，所以應儘量擊落它們。那怕不能回收幽浮也好，最少能蒙住外星人的眼。 MODMERGEREPLACE: 懞 MODMERGEWITH: 要性及研發部對輕型偵察幽浮分析，我們肯定這些偵察飛船是在收集和發送潛在目標的情報。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 電波。德國、澳洲、香港亦傳來類似的報告。考慮到事發地點的重要性及研發部對輕型偵察幽浮的分析，我們肯定這些偵察飛船是在收集和發送潛在目標的情報 MODMERGEREPLACE: 併 MODMERGEWITH: 部分偵察任務都應該由這些小型幽浮執行。偵察幽浮採集的資訊越多，日後的攻擊就越有效，所以應儘量擊落它們。那怕不能回收幽浮也好，最少能蒙住外星人的眼。 MODMERGEREPLACE: 台 MODMERGEWITH: 析情報是我們的專長。每當我們對外星幽浮的活動有新發現，我都會向您報告，比如現在。
 
-執行偵察任務的幽浮會在空中滯留一段 MODMERGEREPLACE: 幹 MODMERGEWITH: 目擊報告，確認是輕型偵察幽浮，在美國的一所機密研究站上空盤旋。它並沒有採取任何著目的行動，但當地的無線電操作員偵察到多次 MODMERGEREPLACE: 乾 MODMERGEWITH: 發部的人很聰明，但分析情報是我們的專長。每當我們對外星幽浮的活動有新發現，我都會向您報告，比如現在。
+今天較早時的幽浮目擊報告，確認是輕型偵察幽浮，在美國的一 MODMERGEREPLACE: 臺 MODMERGEWITH: 指揮官您好。依照你的指示，我們戰略規劃部會監視並分析幽浮的活動，判斷它們的軍事目的。很高興您把這重任交給了最適當的人；研發部的人很聰明，但分 MODMERGEREPLACE: 檯 MODMERGEWITH: 所機密研究站上空盤旋。它沒有採取任何張揚的行動，但當地的無線電操作員偵察到多次異樣的瞬發_VHF_電波，而研究員亦同時偵察到瞬發的_SHF_ MODMERGEREPLACE: 并 MODMERGEWITH: 。
 
-今天較早時的幽浮 MODMERGEREPLACE: 榦 MODMERGEWITH: 異樣的瞬發_VHF_電波，而研究員亦同時偵察到瞬發的_SHF_電波。德國、澳洲、香港亦傳來類似的報告。考慮到事發地點的重 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官您好。依照你的指示，我們戰略規劃部會監視並分析幽浮的活動，判斷它們的軍事目的。很高興您把這重任交給了最適當的人；研</Data></Cell>
+執行偵察任務的幽浮會在空中滯留一段長時間，搜集各種目標的情報。它們似乎沒有特定的路線或規劃，應該不難攔截。由於外星人有專門的偵察船，大</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ResearchMission</Data></Cell>
@@ -2902,9 +2902,9 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 這些外星人似乎在進行研究，內容和動機都未知。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 者踢出！這些外星人似乎在進行研究，內容和動機都未知。
 
-研究任務似乎必定由偵察幽浮 MODMERGEREPLACE: 跼 MODMERGEWITH: 暴、弔詭的光點、被解剖的生畜等。有一分甚至宣稱自己被綁架然後被綁架者踢出！ MODMERGEREPLACE: 侷 MODMERGEWITH: 所有_CIA_檔案給我搬了過來。您眼前的這疊報告是最近發生的幽浮目擊報告， MODMERGEREPLACE: 局 MODMERGEWITH: 我離開空軍前的最後一分工作是處理靈異報告。不知情的人可能會以為是有攪蛋鬼將 MODMERGEREPLACE: 彫 MODMERGEWITH: 幽浮會經常降落，以採集樣本和進行地面活動。研究任務會引致一些傷亡，但不會很 MODMERGEREPLACE: 琱 MODMERGEWITH: 大規模。無論外星人的目的為何，最保險是全部擊落以確保我們不會知道。對嗎，指揮官？ MODMERGEREPLACE: 鵰 MODMERGEWITH: 執行。它們會掃瞄一片指定區域，尋找適合的實驗目標和地點。執行研究任務的偵察 MODMERGEREPLACE: 挶 MODMERGEWITH: 內容像漫畫情節多於現實。大多是繪形繪色的特殊或超自然事件，例如憑空出現的風</Data></Cell>
+研究任務似乎必定由 MODMERGEREPLACE: 挶 MODMERGEWITH: 擊報告，內容像漫畫情節多於現實。大多是繪形繪色的特殊或超自然事件，例如憑空 MODMERGEREPLACE: 局 MODMERGEWITH: 我離開空軍前的最後一分工作是處理靈異報告。不知情的人可能會以為是有攪蛋鬼將 MODMERGEREPLACE: 彫 MODMERGEWITH: 務的偵察幽浮會經常降落，以採集樣本和進行地面活動。研究任務會引致一些傷亡， MODMERGEREPLACE: 跼 MODMERGEWITH: 出現的風暴、弔詭的光點、被解剖的生畜等。有一分甚至宣稱自己被綁架然後被綁架 MODMERGEREPLACE: 鵰 MODMERGEWITH: 偵察幽浮執行。它們會掃瞄一片指定區域，尋找適合的實驗目標和地點。執行研究任 MODMERGEREPLACE: 琱 MODMERGEWITH: 但不會很大規模。無論外星人的目的為何，最保險是全部擊落以確保我們不會知道。對嗎，指揮官？ MODMERGEREPLACE: 侷 MODMERGEWITH: _CIA_總部的檔案搬過來堆在我的桌上。您眼前的這疊報告是最近發生的幽浮目</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
@@ -2912,20 +2912,20 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.TerrorMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: ，聽好了，並且襲擊了一場音樂會！主辦方錯誤地相信幽浮只會攻擊小鎮，因而選了開揚的野地。外星人並沒進行空襲；牠們派出了地面部隊，屠殺了 MODMERGEREPLACE: 蒙 MODMERGEWITH: 襲我們的資助國。我們有一名年輕人是歷史迷，覺得這跟像成吉思汗用過的戰略。他會徹底消滅一座城市，以此警告其他城市假若抵抗就會遭受相同的 MODMERGEREPLACE: 榦 MODMERGEWITH: 行動，牠們並派出了一種人類的科學怪人，有最少一隻被裸露的電線燒燬。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 併 MODMERGEWITH: ，每救下一座城市都是大功勞。執行恐襲活動的幽浮最少是中型的，而且幾乎一定會有護衛。它們會試圖混淆我們的視聽，但只要我們看見有幽浮緩慢地隨機繞著一堆城市在飛，它可能是在伺機恐襲。 MODMERGEREPLACE: 并 MODMERGEWITH: 的贊助國強烈暗示過必要時會動用核武去阻止“生化污染”。政客們為了自保就會怪責我們，我們的贊助和聲譽都會一落千丈。但只要我們能成功阻止外星人的恐襲，我們就能贏得聲望和更多的資助 MODMERGEREPLACE: 臺 MODMERGEWITH: 當我跟通訊及偵察部討論最近的幽浮動向時，我們發現了外星人的一項新的危險動向。不久之前（不能肯定多久之前），有一艘幽浮穿過了雷達網並且，聽好了，並且襲擊了一場音樂會！主辦方錯誤 MODMERGEREPLACE: 檯 MODMERGEWITH: 很多重要資訊。我們只能肯定有大量外星人參與了行動，牠們還派出了一種科學怪人，有最少一隻被裸露的電線燒燬。
 
-我們相信這只是一場演習，日後會有更多特種異型突擊隊屠殺平民、恐 MODMERGEREPLACE: 濛 MODMERGEWITH: 的贊助和聲譽都會一落千丈。但只要我們能成功阻止外星人的恐襲，我們就能贏得聲望和更多的資助，每救下一座城市都是大功勞。執行恐襲活動的幽 MODMERGEREPLACE: 干 MODMERGEWITH: 當我跟通訊及偵察部討論最近的幽浮動向時，我們發現了外星人的一項新的危險動向。不久之前（不能肯定多久之前），有一艘幽浮穿過了雷達網並且 MODMERGEREPLACE: 矇 MODMERGEWITH: 浮最少是中型的，而且幾乎一定會有護衛。它們會試圖混淆我們的視聽，但只要我們看見有幽浮緩慢地隨機繞著一堆城市在飛，它可能是在伺機恐襲。 MODMERGEREPLACE: 幹 MODMERGEWITH: 在場的會眾。
+我們相信這只是一場演習，日後會有更多特種異型突擊隊屠殺平民、恐襲我 MODMERGEREPLACE: 台 MODMERGEWITH: 地相信幽浮只會攻擊小鎮，因而選了開揚的野地。外星人沒有採取空襲；牠們派出了地面部隊屠殺在場的會眾。
 
-情報不多，我們的資助國比我們先一步帶走生還者，而我們所獲得的口供記錄缺乏很多重要資訊。我們只能肯定有大量外星人參與了 MODMERGEREPLACE: 懞 MODMERGEWITH: 下場。
+情報不多，我們的資助國比我們先一步帶走生還者，而我們所獲得的口供記錄缺乏 MODMERGEREPLACE: 颱 MODMERGEWITH: 們的資助國。我們有一名年輕人是歷史迷，覺得這很像成吉思汗用過的戰略。他會徹底消滅一座城市，以此警告其他城市假若抵抗就會遭受相同的下場。
 
-成功的恐怖襲擊將能大大打擊我們。我們的贊助國強烈暗示過必要時會動用核武去阻止“生化污染”。政客們為了自保就會怪責我們，我們</Data></Cell>
+成功的恐怖襲擊將能大大打擊我們。我們</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.GroundAttackMission</Data></Cell>
@@ -2940,13 +2940,13 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 遠目標，加上外星人們來無影去無蹤，駐紮在大城市附近的軍隊只能咬牙切齒。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: 量太多而我門的數量太少。我建議儘量多興建基地，別管研發部的預算追加請求。比起異想天開的腦袋，我們更需要腳踏實地的手足。 MODMERGEREPLACE: 懞 MODMERGEWITH: 襲數次，有機會做成大擾亂，然後回去補充燃料和彈藥。
 
-任何大小的幽浮都能實施空襲任務，由 MODMERGEREPLACE: 懞 MODMERGEWITH: 襲擊數次，有機會做成大擾亂，然後回去補充燃料和彈藥。
+它們很聰明，指揮官。它們襲擊低軍事價值亦低商業價值的地 MODMERGEREPLACE: 乾 MODMERGEWITH: 繞著地球轉。如果它們現在就一起攻進來的話那地球就已經完了。但牠們“只是”開展了希特勒掌權以來最大規模的空戰。 MODMERGEREPLACE: 濛 MODMERGEWITH: 方，藉以磨滅我們的意志、交通、通訊。一旦我們被切斷，地球就難免陷落。我們的經驗和偵察技術能阻止它們，但它們數 MODMERGEREPLACE: 干 MODMERGEWITH: 我跟研發部的一名低級研究員關係不錯（有頭有面的研究員都不把我們放在眼內），她告訴我有超過_3500_艘飛船在 MODMERGEREPLACE: 蒙 MODMERGEWITH: 小的到最大的都行。執行此任務的幽浮沒有固定目標，只會在地球的一角徘徊，尋找適合的目標。執行空襲任務的幽浮會施 MODMERGEREPLACE: 榦 MODMERGEWITH: 偏遠目標，加上外星人們來無影去無蹤，駐紮在大城市附近的軍隊只能咬牙切齒。
 
-它們很聰明，指揮官。它們襲擊低軍事價值亦低商業價值的 MODMERGEREPLACE: 乾 MODMERGEWITH: 球飛。如果它們現在就一起入侵的話那地球就已經完了。但牠們“只是”開展了打從希特勒掌權以來最大規模的空戰。
+任何大小的幽浮都能實施空襲，由最 MODMERGEREPLACE: 幹 MODMERGEWITH: 
 
- MODMERGEREPLACE: 蒙 MODMERGEWITH: 最小的到最大的都行。執行此任務的幽浮沒有固定目標，只會在地球的一角徘徊，尋找適合的目標。執行空襲任務的幽浮會 MODMERGEREPLACE: 矇 MODMERGEWITH: 數量太多而我門的數量太少。我建議儘量多興建基地，別管研發部的預算追加請求。比起異想天開的腦袋，我們更需要腳踏實地的人員。 MODMERGEREPLACE: 干 MODMERGEWITH: 我跟研發部的一名低級研究員關係不錯（有頭有面的不把我們放在眼內），她告訴我有超過_3，500_艘飛船在繞著地 MODMERGEREPLACE: 幹 MODMERGEWITH: 外星人的空襲模式表明牠們目前主要襲擊“軟”目標：高速公路、小鎮、甚至獨立巡戈中的戰艦。緊急服務很難應對這些偏 MODMERGEREPLACE: 濛 MODMERGEWITH: 地方，藉以磨滅我們的意志、交通、通訊。一旦我們被切斷，地球就難免陷落。我們的經驗和偵察技術能阻止它們，但它們</Data></Cell>
+外星人的空襲模式表明牠們目前主要襲擊“軟”目標：高速公路、小鎮、甚至獨立巡戈的戰艦。緊急服務很難應對這些</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
@@ -2954,18 +2954,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BombingRunMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 挶 MODMERGEWITH: 迅速地空襲一連串地點，最終對基地施以密集轟炸。似乎外星人將空戰升級了，指揮 MODMERGEREPLACE: 侷 MODMERGEWITH: 路線跨越多座城市的工業區及一所秘密基地。行程很短促，因此幽浮不會降落，只會 MODMERGEREPLACE: 鵰 MODMERGEWITH: 要目標，然後為大攻擊作準備，此時是攔截的最佳時機。轟擊幽浮經常會有護航，體 MODMERGEREPLACE: 雕 MODMERGEWITH: 致無法預測它們會向那兒下手。不過從這飛行路線來看，它們的任務是先攻擊多處次 MODMERGEREPLACE: 彫 MODMERGEWITH: 積中型或以上。它們會圍繞特定目標飛行但不會降落。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 檯 MODMERGEWITH: ，最終對基地施以密集轟炸。似乎外星人將空戰升級了，指揮官。
 
-每次轟炸任務都會做成幾 MODMERGEREPLACE: 局 MODMERGEWITH: 研發部從一艘被擊墜的轟擊幽浮裡修復及轉譯了它的飛行路線圖，交了給我們分析。 MODMERGEREPLACE: 琱 MODMERGEWITH: 百人傷亡，需要優先阻止。會降落的話我們可以出動地面部隊，但轟炸就只能在空中截擊。 MODMERGEREPLACE: 跼 MODMERGEWITH: 官。
+可以預期轟擊幽浮會轟炸 MODMERGEREPLACE: 並 MODMERGEWITH: 轟擊幽浮經常會有護航，體積中型或以上。它們會圍繞特定目標飛行但不會降落。
 
-可以預期轟擊幽浮會轟炸富具戰略或經濟價值的目標，但全球的目標太多以</Data></Cell>
+每項轟炸 MODMERGEREPLACE: 并 MODMERGEWITH: 路線來看，它們的任務是先攻擊多處次要目標，然後為大攻擊作準備，此時是攔截的最佳時機。 MODMERGEREPLACE: 臺 MODMERGEWITH: 研發部從一艘被擊墜的轟擊幽浮裡修復及轉譯了它的飛行路線圖，交了給我們分析。路線跨越多 MODMERGEREPLACE: 台 MODMERGEWITH: 座城市的工業區及一所秘密基地。行程很短促，因此幽浮不會降落，只會迅速地空襲一連串地點 MODMERGEREPLACE: 颱 MODMERGEWITH: 富具戰略或經濟價值的目標，但全球的目標太多以致無法預測它們會向那兒下手。不過從這飛行 MODMERGEREPLACE: 併 MODMERGEWITH: 任務都會做成幾百人傷亡，需要優先阻止。會降落的幽浮我們可以出動地面部隊，但轟炸就只能在空中截擊。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.InterceptionMission</Data></Cell>
@@ -2980,9 +2980,9 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 道監察），它們會直接飛過來戰鬥。截擊任務一般由空戰系的幽浮執行，微型體積的那些就 MODMERGEREPLACE: 并 MODMERGEWITH: 行截擊的幽浮會將異種航員的航機列為優先目標。當它們發現我們的航機（大概是從太空軌 MODMERGEREPLACE: 颱 MODMERGEWITH: 機。執行截擊任務的幽浮會在空中巡邏，攻擊民用和軍用的航機。從所搜集的數據來看，執 MODMERGEREPLACE: 併 MODMERGEWITH: 是了。運輸船毫無自保能力，所以在處理其他幽浮前應先掃盪截擊小隊，以免地面部隊遭遇不測。 MODMERGEREPLACE: 臺 MODMERGEWITH: 您想先聽好消息還是壞消息？好消息是我們大大打擊了外星人的空中部署。在我們的保護傘 MODMERGEREPLACE: 檯 MODMERGEWITH: 升級，引入空戰專用的幽浮。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 視），它們會直接飛過來戰鬥。截擊任務一般由空戰系的幽浮執行，微型體積的那些就是了 MODMERGEREPLACE: 颱 MODMERGEWITH: 機。執行截擊任務的幽浮會在空中徘徊，攻擊民用航機和軍機。從搜集的數據來看，執行截 MODMERGEREPLACE: 并 MODMERGEWITH: 擊的幽浮會將異種航員的航機列為優先目標。當它們發現我們的航機（大概是從太空軌道監 MODMERGEREPLACE: 臺 MODMERGEWITH: 您想先聽好消息還是壞消息？好消息是我們大大打擊了外星人的空中部署。在我們的保護傘 MODMERGEREPLACE: 檯 MODMERGEWITH: 升級，引入空戰專用的幽浮。
 
-外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥 MODMERGEREPLACE: 台 MODMERGEWITH: 下的事件數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動</Data></Cell>
+外星人設立了空中武力巡邏，直接對抗我們和各國的戰鬥 MODMERGEREPLACE: 台 MODMERGEWITH: 下的事故數目大減，研發部也很滿意我們虜獲的科技。壞消息是外星人的指揮部決定將行動 MODMERGEREPLACE: 併 MODMERGEWITH: 。運輸船毫無自保能力，所以在處理其他幽浮前應先掃盪截擊小隊，以免地面部隊遭遇不測。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseBuildMission</Data></Cell>
@@ -2997,19 +2997,19 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: 要能在地面上興建前哨基地就能減輕艦隊的補給負擔。基地可以補給和維修小型的幽浮，給地面行動提供部署空間，並能儲存從地上採集的資源。這條隧道應該是個試驗，測試這座山是 MODMERGEREPLACE: 挶 MODMERGEWITH: 而我們抓的蛋頭說這過程很累人，即使用牠們的高科技都無可奈何。這項依賴性意味著這太空艦隊需要長期維持著巨大的補給線，即使我們的星球有充足的資源垂手可得。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 飛、又迅速再降落，如此反覆幾次的訊號。這是勘探基地選址的行動。
 
-因此，只 MODMERGEREPLACE: 侷 MODMERGEWITH: 的隧道。不幸地，這不是單純的破壞，背後是有邪惡的動機。
+建成的基地也無法獨立運作，需要艦隊的補給。所以如果沒找到基地，也可以留意那些在偏遠地帶慢速飛行的 MODMERGEREPLACE: 雕 MODMERGEWITH: 試這座山是否適合興建基地。可惜牠們沒做好功課，對吧？
 
-外星人的太空艦隊雖然能隨意襲擊地球任一角的目標，但這自由亦受牠們的補給所限制。幽浮需要回到母艦補給燃料， MODMERGEREPLACE: 局 MODMERGEWITH: 我收到一分報告，外星人在一處有文化歷史的山脈跟當地部隊起了衝突，當地每年都有大量遊客聚集。看這張照片的這兒，及這兒。您可看見它們用某種器材在石山上挖出一條一公里長 MODMERGEREPLACE: 琱 MODMERGEWITH: 幽浮。只需要尾隨它們直到降落就應該能發現外星人的基地。
+不論有沒有文化價值，外星人的基地選址應該會很僻靜，遠離人煙稠密的地區，以利隱藏。我已經盡可能派員搜集情報， MODMERGEREPLACE: 挶 MODMERGEWITH: 而我們抓的蛋頭說這過程很累人，即使用牠們的高科技都無可奈何。這項依賴性意味著這太空艦隊需要長期維持著巨大的補給線，即使我們的星球有垂手可得的充足資源。
 
-基地放著不管的話會蠶食所在資助國的意志。雖然短期來說沒甚麼即時影響，但長遠影響跟直接的攻擊行動同樣高危害。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 員也在梳理歷來的幽浮目擊記錄，但這不單費時而且不太可靠。要偵察外星人基地，最可靠還是追蹤幽浮的活動。
+因此，外 MODMERGEREPLACE: 侷 MODMERGEWITH: 的隧道。不幸地，這不是單純的破壞，背後是有邪惡的動機。
 
-只有中型或以上的幽浮能興建基地，要特別注意那些降落、起飛、 MODMERGEREPLACE: 雕 MODMERGEWITH: 否適合興建基地。可惜牠們沒做好功課，對吧？
+外星人的太空艦隊雖然能隨意襲擊地球任一角的目標，但這自由亦受牠們的補給所限制。幽浮需要回到母艦補給燃料， MODMERGEREPLACE: 跼 MODMERGEWITH: 星人只要能在地面上興建前哨基地，就能減輕艦隊的補給負擔。基地可以補給和維修小型的幽浮，給地面行動提供部署空間，並能庫存從地上採集的資源。這條隧道應該只是個試驗，測 MODMERGEREPLACE: 局 MODMERGEWITH: 我收到一分報告，外星人在一處有文化歷史的山脈跟當地部隊起了衝突，該地每年都有大量遊客到訪。看這張照片的這兒，及這兒。您可看見它們用某種器材在石山上挖出一條一公里長 MODMERGEREPLACE: 鵰 MODMERGEWITH: 分析員也在梳理歷來的幽浮目擊記錄，但這不單費時而且不太可靠。要偵察外星人基地，最可靠還是追蹤幽浮的活動。
 
-不論有沒有文化價值，外星人的基地選址應該會很僻靜，遠離人煙稠密的地區，以利隱藏所在地。我已經盡可能派員搜集情報，分析 MODMERGEREPLACE: 彫 MODMERGEWITH: 又迅速再降落，如此反覆幾次的訊號。這是勘探基地選址的行動。
+只有中型或以上的幽浮能興建基地，要特別注意那些降落、起 MODMERGEREPLACE: 琱 MODMERGEWITH: 中型幽浮。只需要尾隨它們直到降落就應該能發現外星人的基地。
 
-建成的基地也無法獨立運作，需要艦隊的補給。所以如果沒找到基地，也可以留意那些在偏遠地帶慢速飛行的中型</Data></Cell>
+基地放著不管的話會蠶食所在資助國的意志。雖然短期來說沒甚麼即時影響，但長遠影響跟直接的攻擊行動同樣高危。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
@@ -3017,18 +3017,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">幽浮</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.BaseAttackMission</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 星人潛入了半里深的基地，所向披靡如入無人之境。基地的司令最終要下令坍方整個居住區才能保 MODMERGEREPLACE: 干 MODMERGEWITH: 我從一名軍方的老朋友聽到一些情報。一所深入地底的核彈發射場遭受到地面入侵。一隊隱密的外 MODMERGEREPLACE: 榦 MODMERGEWITH: 成功，我們會失去一座基地，基地內的所有戰略資源，及基地所提供的保護傘，直到我們建好新的 MODMERGEREPLACE: 濛 MODMERGEWITH: 市。兩者都是有護衛的中型或更大的幽浮。牠們會嘗試隱藏意圖，不過早晚都會直接飛過來。最有 MODMERGEREPLACE: 蒙 MODMERGEWITH: 基地。假若失敗，都可能已經對基地的設施做成重大破壞。別坐著等牠們來，指揮官。出去迎戰牠 MODMERGEREPLACE: 矇 MODMERGEWITH: 可能遇襲的基地就是牠們採集了最多情報的基地，也就是最舊的基地。最好能為此駐留一些士兵或興建防禦陣地。 MODMERGEREPLACE: 懞 MODMERGEWITH: 們！
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 颱 MODMERGEWITH: 資源，及基地所提供的保護傘，直到我們建好新的基地。假若失敗，都可能已經對基地的設施做成重大破壞。別坐 MODMERGEREPLACE: 并 MODMERGEWITH: 著等牠們來，指揮官。出去迎戰牠們！
 
-在無法截聽敵方通訊的前提下，也許不容易辦斷空中的幽浮是打算攻擊我們還是要攻擊城 MODMERGEREPLACE: 幹 MODMERGEWITH: 住基地。這令我很擔心……如果外星人敢動資助國，那早晚也會找上我們。
+在無法截聽敵方通訊的前提下，也許不容易辦斷空中的幽浮是打算攻擊 MODMERGEREPLACE: 台 MODMERGEWITH: 深的基地，所向披靡如入無人之境。基地的司令最終要下令坍方整個居住區才能保住基地。這令我很擔心……如果 MODMERGEREPLACE: 併 MODMERGEWITH: 有可能遇襲的基地就是牠們採集了最多情報的基地，也就是最舊的基地。因此最好能保留一些士兵駐守或興建防禦陣地。 MODMERGEREPLACE: 臺 MODMERGEWITH: 我從一名軍方的老朋友聽到一些情報。一所深入地底的核彈發射場遭受到地面入侵。一隊隱密的外星人潛入了半里 MODMERGEREPLACE: 並 MODMERGEWITH: 我們還是要攻擊城市。兩者都是有護衛的中型或更大的幽浮。牠們會嘗試隱藏意圖，不過早晚都會直接飛過來。最 MODMERGEREPLACE: 檯 MODMERGEWITH: 外星人敢動資助國，那早晚也會找上我們。
 
-外星人的入侵假若</Data></Cell>
+外星人的入侵假若成功，我們會失去一座基地，基地內的所有戰略</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
@@ -3036,22 +3036,22 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.ReaperClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 臺 MODMERGEWITH: 霍金的事件是宗不幸的意外，指揮官。我相信她是想打開灰人的倉門，但“謝天謝地”她錯手打開了鐮刀蟲的培育囊。從好的一點看，我們有機會近距離觀察 MODMERGEREPLACE: 台 MODMERGEWITH: 鐮刀蟲在人體內孕育的過程。依照你所下的對鐮刀蟲作更深入研究的指示，以下是目前所知的鐮刀蟲架構和喪屍的進一步情報。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 干 MODMERGEWITH: 霍金的事件是宗不幸的意外，指揮官。我相信她是想打開灰人的倉門，但“謝天謝地”她錯手打開了鐮刀蟲的培育囊。從好的方面想，我 MODMERGEREPLACE: 矇 MODMERGEWITH: 當你的士兵被感染時指揮官你要小心。雖然他們已經不能使用手上的武器，但他們身披的破護甲依然會提供一定程度的保護，不同於平民喪屍。 MODMERGEREPLACE: 蒙 MODMERGEWITH: 曲、四肢肥腫、肌肉橫生。駝起的背佈滿膨張的血管，也是鐮刀蟲長成後破體而出的地方。在孕育期間喪屍就只能痛苦地尖叫著，狂暴地 MODMERGEREPLACE: 懞 MODMERGEWITH: 揮舞四肢。不過別讓牠們靠太近！一旦主體被殺，幼蟲就會神速成長，而你絕對不會想鐮刀蟲出生的叫聲有士兵死前的哀哭作伴奏。
 
-鐮刀蟲王：似乎鐮刀蟲本 MODMERGEREPLACE: 並 MODMERGEWITH: 鐮刀蟲出生的叫聲作伴奏。
+ MODMERGEREPLACE: 榦 MODMERGEWITH: 對較少，但繁殖力絕不失色，放著不管的話能迅速地將多個城市化為喪屍之城。
 
-鐮刀蟲王：鐮刀蟲王有相同的外表，但孕育蟲王的過程也會令喪屍更暴力。為了承托蟲王的額外體重，喪屍會更大、更強壯、 MODMERGEREPLACE: 檯 MODMERGEWITH: 身還不夠糟，我們發現了比牠們更快、更強、更壯的鐮刀蟲王，殼色較淺。這些“蟲王”數量相對較少，但繁殖力絕不失色，放著不管的話能迅速地將多個城 MODMERGEREPLACE: 并 MODMERGEWITH: 的地方。在孕育期間喪屍就只能痛苦地尖叫著，狂暴地揮舞四肢。不過別讓牠們靠太近！一旦主體被殺，幼蟲就會神速成長，而你絕對不會想用士兵的嗚呼為 MODMERGEREPLACE: 併 MODMERGEWITH: 更強韌。
+喪屍：喪屍看上去就像是半溶化的駝背蠟像，五官扭 MODMERGEREPLACE: 濛 MODMERGEWITH: 喪屍王：喪屍王跟喪屍外表相同，但孕育蟲王的過程會令喪屍更為暴力。為了承托蟲王的額外體重，喪屍王更大、更強壯、更強韌。
 
-當你的士兵被感染時指揮官你要小心。雖然他們已經不能使用手上的武器，但他們身上掛著的殘破護甲依然會提供一定程度的保護，不同於平民喪屍。 MODMERGEREPLACE: 颱 MODMERGEWITH: 市化為喪屍之城。
+ MODMERGEREPLACE: 乾 MODMERGEWITH: 們有機會近距離觀察鐮刀蟲在人體內孕育的過程。依照你所下的對鐮刀蟲作更深入研究的指示，以下是目前所知的鐮刀蟲架構和喪屍的進 MODMERGEREPLACE: 幹 MODMERGEWITH: 一步情報。
 
-喪屍：喪屍看上去就像是半溶化的駝背蠟像，五官扭曲、四肢肥腫、肌肉橫生。駝起的背佈滿膨張的血管，也是鐮刀蟲長成後破體而出</Data></Cell>
+鐮刀蟲王：似乎鐮刀蟲本身還不夠糟，我們發現了比牠們更快、更強、更壯的鐮刀蟲王，殼色較淺。這些“蟲王”數量相</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
@@ -3059,24 +3059,24 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.WraithClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 干 MODMERGEWITH: 請勸勸你的手下，指揮官。當有研究目標逃出拘留時，正確的程序是將牠壓制、綁起，等待我們派出專人到場處理。程序無論如何都絕對不是用手邊的工具重演恐怖電影的血 MODMERGEREPLACE: 幹 MODMERGEWITH: 許因為鬼靈屬於精英階層：沒有鬼靈需要出賣自己的勞力！雖然鬼靈的護甲是劃一的綠色，但我們注意到每件護甲都有些個性修飾，沒有兩套是完全一樣的。也許這是鬼靈們 MODMERGEREPLACE: 乾 MODMERGEWITH: 腥情節，即使當目標在用餐時間傳送進入飯堂也不會改變。等你的暴徒們停手時，那隻鬼靈剩下的血肉連做組織分析都不夠。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: ，皮下裝甲的厚度和質量亦有所改善，提升承受打擊的能力。
 
-跟醜魔一樣，鬼靈的職能架構較為精簡，也 MODMERGEREPLACE: 榦 MODMERGEWITH: 突出自我的方法，意味著牠們在異型社會中有罕見的獨立思想。我們比對出幾種鬼靈部隊的軍階，可以從護甲的多寡分辨。
+士官：跟其他異型士官一樣，鬼靈士官是唯一佩帶頭盔的鬼靈，保護了全身最脆弱的頭部肉塊。我們依然不 MODMERGEREPLACE: 局 MODMERGEWITH: 請勸勸你的手下，指揮官。當有研究目標逃脫時，正確的程序是將牠壓制，綁起，等我們派專人到場處理。程序無論如何都絕不是用手邊的工具重演恐怖電影的血腥情節，即 MODMERGEREPLACE: 彫 MODMERGEWITH: 理解為甚麼其他鬼靈不載頭盔保護肉塊。雖然它們會發出高熱，但異型也有製作超導熱塗層的技術。
 
-士兵：鬼靈士兵穿著有肩甲的片狀護身甲，通 MODMERGEREPLACE: 矇 MODMERGEWITH: 是甲板經過強化處理。我們也找到了一個未知原理的植入物，能提升鬼靈的靈活性、敏捷、和耐久力。精英穿的甲最為完整，基部為類似斯巴蜥人精英的綠色戰衣，及保護較周全的甲片。 MODMERGEREPLACE: 濛 MODMERGEWITH: 我們依然不理解為甚麼其他鬼靈不載頭盔保護肉塊。雖然它們會發出高熱，但異型也有做出超導熱塗層的技術。
+精英：精英戰士的護甲有很多“出廠後”的改良，最明顯是甲板經過 MODMERGEREPLACE: 雕 MODMERGEWITH: 步槍。聽上去威力略有不足，但牠們可以用傳送夾擊或閃到戰車背後，因此也不需要重火力。
 
-精英：精英戰士的護甲有很多“出廠後”的改良，最明顯 MODMERGEREPLACE: 蒙 MODMERGEWITH: 常拿等離子步槍。聽上去威力略有不足，但牠們可以傳送到夾擊點或到戰車背後，因此也不需要重火力。
+戰士：戰士的武裝較多變，重等離子和等離子炮都頗常見。除了多了護腿外 MODMERGEREPLACE: 跼 MODMERGEWITH: 方法，意味著牠們在異型社會中有罕見的獨立思想。我們比對出幾種鬼靈部隊的軍階，可以從護甲的多寡分辨。
 
-戰士：戰士的武裝較多變，重等離子和等離子炮都頗常見。除了 MODMERGEREPLACE: 懞 MODMERGEWITH: 多了護腿外，皮下裝甲的厚度和質量亦有所改善，提升承受打擊的能力。
+士兵：鬼靈士兵穿著有肩甲的片狀護身甲，通常拿等離子 MODMERGEREPLACE: 琱 MODMERGEWITH: 強化處理。我們也找到了一個未知原理的植入物，能提升鬼靈的靈活性、敏捷、和耐久力。精英穿的甲最為完整，樣式類似斯巴蜥人精英的綠色戰衣，並有保護較周全的甲片。 MODMERGEREPLACE: 挶 MODMERGEWITH: 屬於精英階層：沒有鬼靈需要出賣自己的勞力！雖然鬼靈的護甲是劃一的綠色，但我們注意到每件護甲都有些個性修飾，沒有兩套是完全一樣的。這也許是鬼靈們突出自我的 MODMERGEREPLACE: 侷 MODMERGEWITH: 使當目標在用餐時間傳送進入飯堂也不會改變。等你的暴徒們收手時，那隻鬼靈剩下的血肉連做組織分析都嫌少。
 
-士官：跟其他異型士官一樣，鬼靈士官是唯一佩帶頭盔的鬼靈，保護了全身最脆弱的頭部肉塊。</Data></Cell>
+跟醜魔一樣，鬼靈的職能架構較為精簡，也許因為鬼靈</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
@@ -3084,24 +3084,24 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.HarridanClass</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 類，各穿不同質素、覆蓋、和保護效能的護甲。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 並 MODMERGEWITH: 黑灰飛行衣做工精湛，設有大幅提升肉體和心理素質的裝置。精英的戰術跟士官一樣佳，能力在所有其他醜魔之上。
 
-士兵：通常跟安卓機人一起行動（同時能提供技術支援和長距 MODMERGEREPLACE: 挶 MODMERGEWITH: 離支援），這些藍白色的醜魔是最常見的。牠們的槍法和飛行技術應該不用我多談。
+奇怪的是 MODMERGEREPLACE: 併 MODMERGEWITH: 醜魔似乎沒有更高階的領袖。我們假設這是因為醜魔缺乏策劃戰略所需的頭腦。牠們依賴其他種族的領袖提供指示……及射擊目標。 MODMERGEREPLACE: 并 MODMERGEWITH: 較像醜魔間的協調器。士官比普通醜魔聰明，也最能獨立思考，面對時要小心。
 
-戰士：紫衣戰士最顯眼的 MODMERGEREPLACE: 琱 MODMERGEWITH: 階的領袖。我們假設這是因為醜魔缺乏策劃戰略所需的頭腦。牠們依賴其他種族的領袖提供指示……及射擊目標。 MODMERGEREPLACE: 局 MODMERGEWITH: 跟錙銖必較的某些討厭經理一樣，醜魔的職能架構很簡單直接，狹窄地專注於自己的工作。我們比對出幾種醜魔分 MODMERGEREPLACE: 鵰 MODMERGEWITH: 能獨立思考，面對時要小心。
+精英：精英的肉體跟其他醜魔一樣，但所穿的 MODMERGEREPLACE: 臺 MODMERGEWITH: 跟錙銖必較的某些討厭經理一樣，醜魔的職能架構很簡單直接，狹窄地專注於自己的工作。我們比對出幾種醜魔分類，各穿不同質 MODMERGEREPLACE: 台 MODMERGEWITH: 素、覆蓋、和保護效能的護甲。
 
-精英：精英的肉體跟其他醜魔一樣，但所穿的黑灰飛行衣做工精湛，設有大幅提 MODMERGEREPLACE: 雕 MODMERGEWITH: 易認，跟背上額外的一對翼同樣顯眼。醜魔士官不發號司令，比較像醜魔間的協調器。士官比普通醜魔聰明，也最 MODMERGEREPLACE: 彫 MODMERGEWITH: 升肉體和心理素質的裝置。精英的戰術跟士官一樣佳，能力在所有其他醜魔之上。
+士兵：通常跟安卓機人一起行動（能同時提供技術支援和遠距離支援），這些藍白色的醜魔是 MODMERGEREPLACE: 檯 MODMERGEWITH: 最常見的。牠們的槍法和飛行技術應該不用我多談。
 
-奇怪的是醜魔似乎沒有更高 MODMERGEREPLACE: 跼 MODMERGEWITH: 升級是護腕和護脛，及更優良的觀察系統。戰士拿等離子步槍及等離子炮，所以要小心！
+戰士：紫衣戰士最顯眼的升級是護腕和護脛，及更優良的觀察系統。戰士 MODMERGEREPLACE: 颱 MODMERGEWITH: 拿等離子步槍及等離子炮，所以要小心！
 
-士官：士官的紅甲很</Data></Cell>
+士官：士官的紅甲很易認，跟背上額外的一對翼同樣顯眼。醜魔士官不發號司令，比</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
@@ -3109,18 +3109,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 術跟飛行技術一樣好。第二是我們從戰場搜集了兩類機人的數據。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: 飛行技術一樣好。第二是我們從戰場搜集了兩類機人的數據。
 
-護衛是異型的最後防線。 MODMERGEREPLACE: 幹 MODMERGEWITH: 行的殺人機器能進行精細操作，能用多功能的邏輯直接操作器材，不需外力輔助。它們的戰鬥技 MODMERGEREPLACE: 濛 MODMERGEWITH: 的士兵需小心應對。
+護衛是異型的最後防線。我們 MODMERGEREPLACE: 挶 MODMERGEWITH: 行的殺人機器能用適應性廣的邏輯直接對器具進行精細操作，不需外力輔助。它們的戰鬥技術跟 MODMERGEREPLACE: 琱 MODMERGEWITH: 武器，特別是重等離子。重等離子的短射程意味著機人要進行近距離戰鬥，但這也符合它們的作戰風格。 MODMERGEREPLACE: 侷 MODMERGEWITH: 捨本逐末的長篇論文交給你的手下讀？聽好了，首先你要知道的是安卓機人沒有技術員。這些步 MODMERGEREPLACE: 局 MODMERGEWITH: 指揮官呀，當你叫工程部提交安卓機人的報告時你是怎樣想的？將他們那滔滔不絕、術語連篇、 MODMERGEREPLACE: 雕 MODMERGEWITH: 將這些綠色機人稱為護衛，因為它們保護慾強，行為模式易於預測。它們也是戰場上最常遇到的 MODMERGEREPLACE: 鵰 MODMERGEWITH: 型號，通常持等離子槍但也有更重武裝的目擊報告。這些安卓機人為一般士兵所畏懼，輕裝的士 MODMERGEREPLACE: 彫 MODMERGEWITH: 兵需小心應對。
 
-不過海藍色的士兵級機人更大，更嚇人，裝甲更厚。它們幾乎清一色攜 MODMERGEREPLACE: 乾 MODMERGEWITH: 捨本逐末的長篇論文交給你的手下讀？聽好了，首先你要知道的是安卓機人沒有技術員。這些步 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官呀，當你叫工程部提交安卓機人的報告時你是怎樣想的？將他們那滔滔不絕、術語連篇、 MODMERGEREPLACE: 蒙 MODMERGEWITH: 我們將這些綠色機人稱為護衛，因為它們保護慾強，行為模式易於預測。它們也是戰場上最常遇 MODMERGEREPLACE: 矇 MODMERGEWITH: 帶重武器，特別是重等離子。重等離子的短射程意味著機人要到近離戰鬥，但這也符合它們的作戰風格。 MODMERGEREPLACE: 懞 MODMERGEWITH: 到的型號，通常持等離子槍但也有更重武裝的目擊報告。這些安卓機人為一般士兵所畏懼，輕裝</Data></Cell>
+不過海藍色的士兵級機人更大，更嚇人，裝甲更厚。它們幾乎清一色攜帶重</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
@@ -3128,20 +3128,20 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并並併</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 彫 MODMERGEWITH: 雙足迷你坦克，可以邊走邊發射重武器而不影響速度或精度。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 額外配件。巨大的精英級使用華麗的紅色塗彩，在戰士級的基礎之上增設了人引人入勝的退阻器、重力子穩定器、強化的承 MODMERGEREPLACE: 並 MODMERGEWITH: 重支架等，將精英機人化為雙足迷你坦克，可以邊走邊發射重武器而不影響速度或精度。
 
-士官：高貴的紫色機人跟精英一樣強，但 MODMERGEREPLACE: 琱 MODMERGEWITH: 機體更緊緻。士官級安卓機人是你所面對的最危險的機，這絕非輕言，因為它們結合了重火力和高等的戰術知慧。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 彩，在戰士級的基礎之上增設了人引人入勝的退阻器、重力子穩定器、強化的承重支架等，將精英機人化為 MODMERGEREPLACE: 挶 MODMERGEWITH: 強的是精英安卓機人。以下是我們所辨認出的安卓機人型號：
+士官：高貴的紫色機人跟精英 MODMERGEREPLACE: 台 MODMERGEWITH: 的專業意見而他們也提供了有用的見解。一般而言，越大越粗壯的機人越危險，其中最大最強的是精英安卓機人。以下是我 MODMERGEREPLACE: 颱 MODMERGEWITH: 機人比前線的士兵級裝備更精良，也有更卓越的邏輯及戰術分析系統。
 
-戰士：我不想將任何量產機械人稱為“老 MODMERGEREPLACE: 局 MODMERGEWITH: 工程部鬧脾氣是他們的事，不是我的錯。他們想混這行就要厚面皮一點。不過為了和睦的關係，我邀請了他 MODMERGEREPLACE: 雕 MODMERGEWITH: 分析系統。
+精英：安卓機人的豪華版就是精英級，裝有大量 MODMERGEREPLACE: 臺 MODMERGEWITH: 工程部鬧脾氣是他們的事，不是我的錯。他們想混這行就要厚面皮一點。不過為了和睦的關係，我邀請了他們提供安卓機人 MODMERGEREPLACE: 檯 MODMERGEWITH: 們所辨認出的安卓機人型號：
 
-精英：安卓機人的豪華版就是精英級，裝有大量額外配件。巨大的精英級使用華麗的紅色塗 MODMERGEREPLACE: 跼 MODMERGEWITH: 兵”，不過這是個合適的描述。淺藍色的戰士級機人比前線的士兵級裝備更精良，也有更卓越的邏輯及戰術 MODMERGEREPLACE: 侷 MODMERGEWITH: 們提供安卓機人的專業意見而他們也提供了有用的見解。一般而言，越大越粗壯的機人越危險，其中最大最</Data></Cell>
+戰士：我不想將任何量產機械人稱為“老兵”，不過這是個合適的描述。淺藍色的戰士級 MODMERGEREPLACE: 併 MODMERGEWITH: 一樣強，但機體更緊緻。士官級安卓機人是你所面對的最危險的機人，這絕非輕言，因為它們結合了重火力和高等的戰術智慧。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
@@ -3149,18 +3149,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 矇 MODMERGEWITH: ，只配進行技術工作的年輕異型。無論是那一種，牠們都不會離開墜地的幽浮太遠，更不可能參與有計劃的地面作戰。 MODMERGEREPLACE: 懞 MODMERGEWITH: 蜥人剝皮賣皮給你的手下的助理。你知不知英格蘭下士是名皮革匠？如果我是你我會檢查他們的制服。）
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 琱 MODMERGEWITH: ，只配做技術工作的年輕異型。無論是那一種，牠們都不會離開墜地的幽浮太遠，更不可能參與有計劃的地面作戰。 MODMERGEREPLACE: 鵰 MODMERGEWITH: 蜥人剝皮賣皮給你的手下的助理。你知不知英格蘭下士是名皮革匠？如果我是你我會檢查他們的制服。）
 
-我們 MODMERGEREPLACE: 乾 MODMERGEWITH: 結了當中較為有用的情報。
+我們 MODMERGEREPLACE: 侷 MODMERGEWITH: 結了當中較為實用的情報。
 
-我肯定你已經知道士兵們為上次的地面戰鬥感到多自豪和欣慰。我不想打擊他們（ MODMERGEREPLACE: 濛 MODMERGEWITH: 的異種社會學家認為牠們是奴隸階層，數以百萬計地服待上層種族，要不就是牠們是尚未在社會立足，尚不能佩槍 MODMERGEREPLACE: 榦 MODMERGEWITH: 的樣本都是不適合地面戰鬥的。牠們是幽浮的核心操作成員例如機師、工程師、領航員、及其他重要的非戰鬥岡位 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官，我們的異種社會學家正在收集斯巴蜥人的情報。當中大部分都跟地面戰鬥無關，不過我撥冗為你的手下總 MODMERGEREPLACE: 幹 MODMERGEWITH: 好吧，也許我想），不過這些“硬目標”大部分都，不暪你說，只是非戰鬥員。依照我們的數據分析，大部分回收 MODMERGEREPLACE: 蒙 MODMERGEWITH: 。牠們只受過基本的戰鬥訓練，身上只有手槍，護甲就是天生的厚皮。（順便說說，我已經嚴重苛責了那些將斯巴</Data></Cell>
+我肯定你已經知道士兵們為上次的地面戰鬥感到多自豪和欣慰。我不想打擊他們（ MODMERGEREPLACE: 彫 MODMERGEWITH: 的異種社會學家認為牠們是奴隸階層，數以百萬計地服待上層種族，要不就是牠們是尚未在社會立足，還不能佩槍 MODMERGEREPLACE: 跼 MODMERGEWITH: 的樣本都是不適合地面戰鬥的。牠們是幽浮的核心操作成員例如機師、工程師、領航員、及其他重要的非戰鬥岡位 MODMERGEREPLACE: 局 MODMERGEWITH: 指揮官，我們的異種社會學家正在收集斯巴蜥人的情報。當中大部分都跟地面戰鬥無關，不過我撥冗為你的手下總 MODMERGEREPLACE: 挶 MODMERGEWITH: 好吧，也許我想），不過這些“硬目標”大部分都，不暪你說，只是非戰鬥員。依照我們的數據分析，大部分回收 MODMERGEREPLACE: 雕 MODMERGEWITH: 。牠們只受過基本的戰鬥訓練，身上只有手槍，天生的厚皮就是護甲。（順便說說，我已經嚴重苛責了那些將斯巴</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
@@ -3168,20 +3168,20 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass2</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 檯 MODMERGEWITH: 體形稍大，配備等離子步槍並穿載用異型合金打造的護胸，增強保護力而不減行動的便利。依照我們的觀察，牠們偏向守勢， MODMERGEREPLACE: 并 MODMERGEWITH: 胸部至會陰。皮膚較薄的雙腿也有額外護具，並已知會使用更重（威力更強）的武器。資助國所提供的錄影片段顥示牠們的武 MODMERGEREPLACE: 台 MODMERGEWITH: 毫無根據的傳聞。當有可靠的資訊時我們就會公佈。以下是戰鬥型斯巴蜥人的分析情報。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 類。牠們穿載較為完整的護甲，覆蓋胸部至會陰。皮膚較薄的雙腿也有額外護具，並已知會使 MODMERGEREPLACE: 琱 MODMERGEWITH: 護甲的人類。
 
-護衛：護衛是技術員的晉級版， MODMERGEREPLACE: 臺 MODMERGEWITH: 指揮官，勞煩你阻止那些大兵學院的畢業生在休班期間別來騷擾我的職員。我們只管可以確認的事實，不會採納虛浮的謠言或 MODMERGEREPLACE: 颱 MODMERGEWITH: 岡位很可能是船上的保安而不是前線人員。
+如果你的手下的原始腦袋甚麼都塞不進，那最少將這條方程式刻進去：越多護甲＝越危險 MODMERGEREPLACE: 侷 MODMERGEWITH: 認的事實，不會採納虛浮的謠言或毫無根據的傳聞。當有可靠的資訊時我們就會公佈。以下是 MODMERGEREPLACE: 彫 MODMERGEWITH: 用更重（威力更強）的武器。資助國所提供的錄影片段顥示牠們的武器可以在幾秒內液化沒穿 MODMERGEREPLACE: 局 MODMERGEWITH: 指揮官，勞煩你阻止那些大兵學院的畢業生，在休班期間別來騷擾我的下屬。我們只管可以確 MODMERGEREPLACE: 挶 MODMERGEWITH: 戰鬥型斯巴蜥人的分析情報。
 
-士兵。斯巴蜥人士兵是最像前線部隊的一類。牠們穿載較為完整的護甲，覆蓋 MODMERGEREPLACE: 併 MODMERGEWITH: 器可以在幾秒內將沒有護甲的人液化。
+護衛：護衛是技術員的晉級版，體形稍大，配備等離子步槍 MODMERGEREPLACE: 雕 MODMERGEWITH: 勢，岡位很可能是船上的保安而不是前線人員。
 
-如果你的手下的原始腦袋甚麼都塞不進，那最少將這條方程式刻進去：越多護甲＝越危險</Data></Cell>
+士兵。斯巴蜥人士兵是最像前線部隊的一 MODMERGEREPLACE: 跼 MODMERGEWITH: 並穿載用異型合金打造的護胸，增強保護力而不減行動的便利。依照我們的觀察，牠們偏向守</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
@@ -3189,16 +3189,16 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.SebillianClass3</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 乾 MODMERGEWITH: 隊投入了牠們最精銳的單位，意圖踢走我們。但這將會被證明是個錯誤，因為牠們的士官和領袖現在會近距離監 MODMERGEREPLACE: 幹 MODMERGEWITH: 督地面戰鬥，給我們一個機會去抓捕這些高官獲取重要情報。我的團隊整理出了以下關於這些精英部隊的情報： MODMERGEREPLACE: 濛 MODMERGEWITH: 有士官和領袖才能佩載頭盔，可能是出於文化因素，因此要留神圓型的頭盔。牠們是最聰明的蜥人，不過這意義 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官，我分析了最近的行動報告，感到又喜又憂。為應對我們持續得勝的行動和日行千里的科技，斯巴蜥人部 MODMERGEREPLACE: 蒙 MODMERGEWITH: 壯、更快、更強。戰士的標準配備是重等離子及等離子炮。要特別小心在護甲下穿紅色戰衣的斯巴蜥人，只有等 MODMERGEREPLACE: 懞 MODMERGEWITH: 同特種部隊的斯巴蜥人獲發紅色戰衣。牠們是貨真價實的精英，對你的手下是個重大挑戰。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 侷 MODMERGEWITH: 隊投入了牠們最精銳的單位，意圖踢走我們。但這將會被證明是個錯誤，因為牠們的士官和領袖現在會近距離監 MODMERGEREPLACE: 挶 MODMERGEWITH: 督地面戰鬥，給我們一個機會去抓捕這些高官獲取重要情報。關於這些精英部隊，我的團隊整理出了以下情報： MODMERGEREPLACE: 彫 MODMERGEWITH: 有士官和領袖才能佩載頭盔，可能是出於文化因素，因此要留神圓型的頭盔。牠們是最聰明的蜥人，不過這意義 MODMERGEREPLACE: 局 MODMERGEWITH: 指揮官，我分析了最近的行動報告，感到又喜又憂。為應對我們持續得勝的行動和日行千里的科技，斯巴蜥人部 MODMERGEREPLACE: 雕 MODMERGEWITH: 壯、更快、更強。戰士的標準配備是重等離子及等離子炮。要特別小心在護甲下穿紅色戰衣的斯巴蜥人，只有等 MODMERGEREPLACE: 鵰 MODMERGEWITH: 同特種部隊的斯巴蜥人獲發紅色戰衣。牠們是貨真價實的精英，對你的手下是個重大挑戰。
 
-士官/領袖：只 MODMERGEREPLACE: 矇 MODMERGEWITH: 不大，因為斯巴蜥人的社會結構著重戰鬥力多於戰術能力。重點是，請指揮官你記著牠們比一般蜥人更難對付。 MODMERGEREPLACE: 榦 MODMERGEWITH: 
+士官/領袖：只 MODMERGEREPLACE: 琱 MODMERGEWITH: 不大，因為斯巴蜥人的社會結構著重戰鬥力多於戰術能力。重點是，請指揮官你記著牠們比一般蜥人更難對付。 MODMERGEREPLACE: 跼 MODMERGEWITH: 
 
 戰士/精英：斯巴蜥人的老兵比一般士兵有更精良的護甲，並佩載精緻的肩甲。牠們比以往的任何蜥人都更</Data></Cell>
    </Row>
@@ -3208,18 +3208,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;局侷挶跼雕鵰彫琱</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass1</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 榦 MODMERGEWITH: 許你可以當作床邊故事說給他們聽。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 跼 MODMERGEWITH: 許你可以當作床邊故事說給他們聽。
 
-我不驚訝我們的士兵好像游泳池裡的鯊魚一樣掃倒灰人。帶給 MODMERGEREPLACE: 乾 MODMERGEWITH: 的被虜等著名事件，人類對“來自火星的小綠人”一直充滿了好奇心。現在牠們來了，而且來者不善。 MODMERGEREPLACE: 幹 MODMERGEWITH: 每次我講解的時候我們的“勇士”都在睡覺，所以我將我們知道的情報寫下了，讓你可以派給他們。也 MODMERGEREPLACE: 蒙 MODMERGEWITH: 我們研究的好幾具樣本都不適合戰鬥。穿紅色飛行衣的灰人似乎是技術員，例如技師或領航員。基於牠 MODMERGEREPLACE: 干 MODMERGEWITH: 從_1910_年意太利普利亞的首宗墜機記錄到蓋茨熙德．格雷_Gateshead_Grey_ MODMERGEREPLACE: 濛 MODMERGEWITH: 師和工程師一樣，牠們只攜帶輕武裝，地面戰鬥能力有限。牠們的飛行衣有一定的衝擊抗力，能抵禦_ MODMERGEREPLACE: 懞 MODMERGEWITH: 們的基因，可以相信牠們是在生產線上量產然後因應人力需要而被灌輸所需求的技術。
+我不驚訝我們的士兵好像游泳池裡的鯊魚一樣掃倒灰人。帶給 MODMERGEREPLACE: 侷 MODMERGEWITH: 的被虜等著名事件，人類對“來自火星的小綠人”一直充滿了好奇心。現在牠們來了，而且來者不善。 MODMERGEREPLACE: 挶 MODMERGEWITH: 每次我講解的時候我們的“勇士”都在睡覺，所以我將我們知道的情報寫下了，讓你可以派給他們。也 MODMERGEREPLACE: 雕 MODMERGEWITH: 我們研究的好幾具樣本都不適合戰鬥。穿紅色飛行衣的灰人似乎是技術員，例如技師或領航員。基於牠 MODMERGEREPLACE: 局 MODMERGEWITH: 從_1910_年意太利普利亞的首宗墜機記錄到蓋茨熙德．格雷_Gateshead_Grey_ MODMERGEREPLACE: 彫 MODMERGEWITH: 師和工程師一樣，牠們只攜帶輕武裝，地面戰鬥能力有限。牠們的飛行衣有一定的衝擊抗力，能抵禦_ MODMERGEREPLACE: 鵰 MODMERGEWITH: 們的基因，可以相信牠們是在生產線上量產然後因應人力需要而被灌輸所需求的技術。
 
-跟我們的機 MODMERGEREPLACE: 矇 MODMERGEWITH: 9_毫米口徑子彈，但要擋一堆步槍子彈就難了。我認為所有幽浮都會載有技術員，但有計劃的地面行動就不會有了。</Data></Cell>
+跟我們的機 MODMERGEREPLACE: 琱 MODMERGEWITH: 9_毫米口徑子彈，但要擋一堆步槍子彈就難了。我認為所有幽浮都會載有技術員，但有計劃的地面行動就不會有。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass2</Data></Cell>
@@ -3253,11 +3253,11 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 雕 MODMERGEWITH: 選上旳少數真的能使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只保留給 MODMERGEREPLACE: 琱 MODMERGEWITH: 舉起汽車丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也因此加倍危險。 MODMERGEREPLACE: 侷 MODMERGEWITH: 能力並非只出於迷信和愚昧。但事實勝於雄辯，我不會巧立名目自我欺騙。指揮官，靈能是真正存在的。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 鵰 MODMERGEWITH: 這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。
 
- MODMERGEREPLACE: 挶 MODMERGEWITH: 現在我們知道為甚麼灰人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們 MODMERGEREPLACE: 局 MODMERGEWITH: 彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了奇蹟般的異型科技，我都從來、從來沒想過心靈 MODMERGEREPLACE: 跼 MODMERGEWITH: 尚未瞭解的反應，提供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被 MODMERGEREPLACE: 鵰 MODMERGEWITH: 少數精英。我們把這些灰人稱為“靈能師”，用牠們所穿的明亮紫色飛行衣就可以辨認。
+幸運地，靈能似乎只限於不同模 MODMERGEREPLACE: 侷 MODMERGEWITH: 愚昧的迷信。但事實勝於雄辯，我不會巧立名目自我欺騙。靈能是真正存在的。
 
-幸運地，靈能似 MODMERGEREPLACE: 彫 MODMERGEWITH: 乎只限於不同模式的心靈感應。對靈能師所作的徹查顯示牠可以操作整體思緒，特別是恐懼，但絕不能用念力</Data></Cell>
+現在我們知道為甚麼灰 MODMERGEREPLACE: 局 MODMERGEWITH: 彎曲湯匙。氣場師。預言家。讀心者。即使我的實驗室堆滿了創造奇蹟的異型科技，我都一直相信靈能只是 MODMERGEREPLACE: 彫 MODMERGEWITH: 式的心靈感應。對靈能師所作的徹查顯示牠可以操作粗略的思緒，特別是恐懼感，但絕不能用念力舉起汽車 MODMERGEREPLACE: 跼 MODMERGEWITH: 供能量以驅動各種我們稱為靈能的能力。不過，雖然似乎所有灰人都有心靈潛力，只有被選上旳少數真的能 MODMERGEREPLACE: 雕 MODMERGEWITH: 使用靈能。考慮到我們已知的灰人情報，靈能可能是蓄意從一般複制體中刪走的，只留給少數精英。我們把 MODMERGEREPLACE: 挶 MODMERGEWITH: 人的腦袋塞滿了納米異能晶，多到完全飽和。這些納米分子跟牠們的腦袋發生一些我們尚未瞭解的反應，提 MODMERGEREPLACE: 琱 MODMERGEWITH: 丟向士兵。不過，我依然建議小隊長們將紫衣的灰人列為優先對像。牠們的能力很隱蔽，也因此加倍危險。</Data></Cell>
    </Row>
    <Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
@@ -3265,18 +3265,18 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="47.25">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.CaesanClass4</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 并 MODMERGEWITH: 領袖：只有這兩者會載頭盔，而大部分的異常心理現像都圍繞著士官發生，能目擊到士官的時候尤其多。如果你能帶回完整的頭盔給我們分析就再好不 MODMERGEREPLACE: 併 MODMERGEWITH: 過；這頭盔可能並不簡單，也許某種裝置能導致這些現像，我們甚至也許能仿製。較常見的士官穿藍調的護甲，而領袖的則是紅調，設計類似精英所穿的。 MODMERGEREPLACE: 颱 MODMERGEWITH: 的顯眼護甲，精英的穿的更稱得上是全身甲。牠們拿最可怕的武器，包括令人聞風喪脆的等離子炮。戰士的護甲是紫色調，而精英是紅色。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 顯眼護甲，精英穿的甚至稱得上是全身甲。牠們拿最可怕的武器，包括令人聞風喪脆的等離子炮。戰士的護甲是 MODMERGEREPLACE: 矇 MODMERGEWITH: 裝置能引致這些現像，我們甚至也許能仿製。較常見的士官穿藍調的護甲，而領袖的則是紅調，設計類似精英所穿的。 MODMERGEREPLACE: 濛 MODMERGEWITH: 能目擊到士官的時候尤其多。如果你能帶回完整的頭盔給我們分析就再好不過；這頭盔可能並不簡單，也許某種 MODMERGEREPLACE: 懞 MODMERGEWITH: 紫色調，而精英是紅色。
 
-士官/ MODMERGEREPLACE: 檯 MODMERGEWITH: 的情報。
+士官/領袖：只有這兩者會載頭盔，而大部分的異常心理現像都圍繞著士官發生， MODMERGEREPLACE: 榦 MODMERGEWITH: 樣，灰人也有自己的老兵和特種部隊，雖然我有點懷疑牠們能簡單地量產這些部隊。牠們穿載具獨特鈄向肩甲的 MODMERGEREPLACE: 幹 MODMERGEWITH: 期的遠要普及，但我們缺乏足夠數據。以下是我們所能肯定的新型灰人的情報。
 
-戰士/精英：跟斯巴蜥人一樣，灰人也有自己的老兵和特種部隊，雖然我有點懷疑牠們能簡單地生產這些部隊。牠們穿載具獨特鈄向肩甲 MODMERGEREPLACE: 臺 MODMERGEWITH: 指揮官，灰人們升級了戰事。我們注意到灰人部隊的素質有顯著提升，正在蹍壓各國的軍隊。即使是面對靈能師以外的灰人，士兵們都有報告出現頭痛 MODMERGEREPLACE: 台 MODMERGEWITH: 、莫名的絕望、及其他類似的生理或心理現像。我非常擔憂靈能可能比我原先預期的遠要普及，但我們缺乏足夠數據。以下是我們所能肯定的新型灰人</Data></Cell>
+戰士/精英：跟斯巴蜥人一 MODMERGEREPLACE: 干 MODMERGEWITH: 指揮官，灰人們升級了戰事。我們注意到灰人部隊的素質有顯著提升，正在蹍壓各國的軍隊。即使是面對靈能師 MODMERGEREPLACE: 乾 MODMERGEWITH: 以外的灰人，士兵們都有報告出現頭痛、絕望、及其他類似的生理或心理現像。我非常擔憂靈能可能比我原先預</Data></Cell>
    </Row>
    <Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
@@ -3284,20 +3284,20 @@ Preliminary tests suggest that the  MODMERGEREPLACE: 矇 MODMERGEWITH: Alenium G
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">異型部隊</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;臺台檯颱并併</Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">&lt;font size='24'&gt;干乾幹榦蒙懞濛矇</Data></Cell>
    </Row><Row ss:Height="14.25" ss:StyleID="s112">
     <Cell ss:StyleID="s70"><Data ss:Type="String">Researches.AndronVivisection</Data></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String"/></Cell>
-    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 台 MODMERGEWITH: ，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷卻劑會避開冷的地方只聚在熱的地方，達成針對重點局部冷卻的效果。也 MODMERGEREPLACE: 檯 MODMERGEWITH: 跟其他結構一樣，這樣的設計不會帶來顯著的優勢。將處理單元分佈在全身會更易冷卻，存活性更好，被打掉一些單元也不會倒下。
+    <Cell ss:StyleID="s70"><Data ss:Type="String">MODMERGEREPLACE: 蒙 MODMERGEWITH: 識的神經網路。這層的思考和學習方式跟高等哺乳動物相若。不過要掘出它並不容易，因為第二層代碼將它暴力地覆蓋了，只重用了自我學習和自我改善的能力，而強力的服從指引則強迫 MODMERGEREPLACE: 幹 MODMERGEWITH: 計能預防局部地區過熱，超導體遍佈全腦，還有一種反常的冷卻劑會避開冷的地方只聚在熱的地方，達成針對重點局部冷卻的效果。也跟其他結構一樣，這樣的設計不會帶來顯著的優勢。 MODMERGEREPLACE: 濛 MODMERGEWITH: 爭機器之前又是甚麼樣子的？我們已經在試驗能否修改控制層。讓安卓機人所操作的幽浮群起叛變可能可以瓦解異型的入侵。
 
-對操作系統進行的電子鑑證揭示了兩層截然不同的指令碼。第一層較深層的是自動化、自由、有自我意識的神經 MODMERGEREPLACE: 颱 MODMERGEWITH: 網路。這層的思考和學習方式跟高等哺乳動物相若。不過要掘出它並不容易，因為第二層代碼將它暴力地覆蓋了，只重用了自我學習和自我改善的能力，而強力的服從指引則強迫決策矩陣只能參照來自主人的正式指令，將本來應有自我意志的生靈變 MODMERGEREPLACE: 併 MODMERGEWITH: 然安卓機人有卓越的速度和力量，它們的奴隸式指令集令它們很易預測，低至握武器的手法和戰鬥時會採取的精細行動。這些破綻及它們的裝甲的弱點己經被詳細記錄並分發給你的手下。利用這些情報，他們可以將對機人做成的傷害提升約十分一。 MODMERGEREPLACE: 并 MODMERGEWITH: 成盲目的機械奴隸。兩層指令之間的差異很令人在意。很明顯安卓機人以前不是現在這樣的……但在它們被改造成戰爭機器之前又是甚麼樣子的？我們已經在試驗能否修改控制層。讓安卓機人所操作的幽浮群起叛變可能可以瓦解異型的入侵。
+縱然安卓機人有卓越的速度和力量，它們的奴隸式指令集 MODMERGEREPLACE: 懞 MODMERGEWITH: 決策矩陣只能參照來自主人的正式指令，將本來應有自我意志的生靈變成盲目的機械奴隸。兩層指令之間的差異很令人在意。很明顯安卓機人以前不是現在這樣的……但在它們被改造成戰 MODMERGEREPLACE: 榦 MODMERGEWITH: 將處理單元分佈在全身會更易冷卻，存活性更好，被打掉一些單元也不會倒下。
 
-縱 MODMERGEREPLACE: 臺 MODMERGEWITH: 做得好，指揮官。不管是誰幸運地打壞了它的自我毀滅裝置，我們現在有了一分完整的樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦，也合情理地取得了成果。
+對操作系統進行的電子鑑證揭示了兩層截然不同的指令碼。第一層較深層的是自動化、自由、有自我意 MODMERGEREPLACE: 干 MODMERGEWITH: 做得好，指揮官。感謝那名幸運地打壞了自我毀滅裝置的士兵，我們現在有了一分完整的安卓機人樣本，而不是平常那種腦部被炸到糊裡糊塗的一團爛電線。我不眠不休地破解它的大腦， MODMERGEREPLACE: 矇 MODMERGEWITH: 令它們很易預測，低至握武器的手法和戰鬥時會採取的精細行動。這些破綻及它們的裝甲的弱點己經被詳細記錄並分發給你的手下。利用這些情報，他們可以將對機人做成的傷害提升約十分一。 MODMERGEREPLACE: 乾 MODMERGEWITH: 也合情理地取得了成果。
 
-安卓機人的腦袋令人嘆為觀止。跟身體一樣</Data></Cell>
+安卓機人的腦袋令人嘆為觀止。跟身體一樣，它的結構模仿活物，是一大團複雜的東西，為了冷卻以機器速度思考所產生的高熱花了許多心思。腦部的整體設</Data></Cell>
    </Row>
   </Table>
  </Worksheet>

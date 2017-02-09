@@ -30,7 +30,7 @@ This translation also use it as a standard.
 * [x] Translate splashscreen, launcher, buttons
 * [ ] Build font and preview package
 * [ ] Edit strings.xml
-* [ ] Edit Xenopedia.xml
+* [x] Edit Xenopedia.xml
 * [x] Edit solider names
 * [ ] Update doc screenshot
 * [ ] Release
@@ -84,10 +84,8 @@ Non-XCE mods with translate-able resoruces.
 ## 字型 Fonts ##
 
 本翻譯所用的字型皆為開源字型，可以自由轉換格式。
-出於體積考慮，漢化包的字型經過裁剪，並不包括所有常用字，可能無法顯示自訂命名。
 
 All fonts are open source and can be transformed freely.
-The fonts only contains used characters, not all common characters, and may not display custom names.
 
 * arial.mvec
   * Replace with WenQuanYi Micro Hei (文泉驛微米黑).
