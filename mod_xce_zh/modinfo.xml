@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ModInfo>
   <Name>xce (ZH)</Name>
-  <VisibleName>X:CE Default Mods (ZH)</VisibleName>
+  <VisibleName>Chinese Translation for X:CE and default xce mods</VisibleName>
   <Version>0.34.2.development</Version>
   <Author>Sheepy</Author>
   <Languages>zh</Languages>
