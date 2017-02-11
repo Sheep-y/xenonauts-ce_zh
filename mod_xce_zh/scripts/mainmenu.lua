@@ -148,7 +148,7 @@ MakeDialog
   		  bordersize = 2,
         label = "Exit",
         font = MainMenuButton,
-        fontScale = screenScaleY * 1.3,
+        fontScale = screenScaleY * 1.2,
 		overfontcolor = OverColor,
         downfontcolor = DownColor,
 		outlineselected = true,

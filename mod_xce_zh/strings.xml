@@ -29,7 +29,7 @@
   <Cell><Data ss:Type="String">終止</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AbortGame</Data></Cell>
-  <Cell><Data ss:Type="String">終止任務</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;終止任務</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">AC.AFTERBURNER</Data></Cell>
   <Cell><Data ss:Type="String">後燃器</Data></Cell>
@@ -1223,7 +1223,7 @@
   <Cell><Data ss:Type="String">容易</Data></Cell>
  </Row><Row ss:Height="49.5">
   <Cell><Data ss:Type="String">DiffSelect.easydiffdesc</Data></Cell>
-  <Cell><Data ss:Type="String">這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型的侵略速度緩慢，部隊也較弱。</Data></Cell>
+  <Cell><Data ss:Type="String">這難易度適合沒玩過多少策略遊戲的新手。&#10;&#10;異型會緩慢地侵略，部隊也較弱。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ExplanatoryTooltips</Data></Cell>
   <Cell><Data ss:Type="String">遊戲說明：</Data></Cell>
@@ -1232,7 +1232,7 @@
   <Cell><Data ss:Type="String">鐵人模式：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.ironmandesc</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;b&gt;鐵人模式：&lt;/b&gt;此模式會迫你接受所犯的錯，大大提升緊張感。在鐵人模式中，你將不能存檔或讀檔。&#10;&#10;遊戲會在各種事件及離開遊戲時自動存檔，並只會保留一個存檔。當你贏過幾次之後可以試試看！</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;&lt;b&gt;鐵人模式：&lt;/b&gt;在鐵人模式中，你將不能存檔或讀檔。你必需接受所犯的錯，大大提升緊張感。&#10;遊戲會在發生事件及離開時自動存檔，並只會保留一個存檔。贏過幾次普通遊戲後可以試試看！</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">DiffSelect.normdiff</Data></Cell>
   <Cell><Data ss:Type="String">普通</Data></Cell>
@@ -1929,7 +1929,7 @@
   <Cell><Data ss:Type="String">異種航員的回合</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GCObjectives</Data></Cell>
-  <Cell><Data ss:Type="String">任務目標</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;任務目標</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.PanicMessages.Bezerk</Data></Cell>
   <Cell><Data ss:Type="String">%1% 失控。</Data></Cell>
@@ -2816,7 +2816,7 @@
   <Cell><Data ss:Type="String">起居室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LoadGame</Data></Cell>
-  <Cell><Data ss:Type="String">載入遊戲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;載入遊戲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">LoadGame.MainMenu</Data></Cell>
   <Cell><Data ss:Type="String">載入遊戲</Data></Cell>
@@ -3332,7 +3332,7 @@
   <Cell><Data ss:Type="String">暫停</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Options</Data></Cell>
-  <Cell><Data ss:Type="String">遊戲選項</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;遊戲選項</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Options.MainMenu</Data></Cell>
   <Cell><Data ss:Type="String">遊戲選項</Data></Cell>
@@ -3602,7 +3602,7 @@
   <Cell><Data ss:Type="String">量子實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">QuitGame</Data></Cell>
-  <Cell><Data ss:Type="String">離開遊戲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;離開遊戲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Quito</Data></Cell>
   <Cell><Data ss:Type="String">基多</Data></Cell>
@@ -4381,7 +4381,7 @@
   <Cell><Data ss:Type="String">僱用費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ResumeGame</Data></Cell>
-  <Cell><Data ss:Type="String">繼續遊戲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;繼續遊戲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ReturningHome</Data></Cell>
   <Cell><Data ss:Type="String">返航中</Data></Cell>
@@ -4405,13 +4405,13 @@
   <Cell><Data ss:Type="String">聖地牙哥</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaveGame</Data></Cell>
-  <Cell><Data ss:Type="String">儲存遊戲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;儲存遊戲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaveGameDelete</Data></Cell>
   <Cell><Data ss:Type="String">真的要刪除這遊戲存檔？</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaveGameDialog.DoDelete</Data></Cell>
-  <Cell><Data ss:Type="String">刪除遊戲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;刪除遊戲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SaveGameDialog.DoLoad</Data></Cell>
   <Cell><Data ss:Type="String">載入</Data></Cell>
