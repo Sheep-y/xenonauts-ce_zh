@@ -1343,301 +1343,301 @@
   <Cell><Data ss:Type="String">歐洲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近有異型活動。當地部隊報告 %3% 死 %4% 被虜。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%附近有異型活動。當地部隊報告 %3% 死 %4% 被虜。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近目擊到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%附近目擊到幽浮盤旋。當地居民陷入恐慌。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">民用雷達在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;民用雷達在%2% %1%附近偵察到幽浮。多名當地農夫報稱有牲口失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">軍方巡邏機發現幽浮。當地部隊等待異種航員出動。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;軍方巡邏機發現幽浮。當地部隊等待異種航員出動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">廣泛地區受到電磁干擾，原因不明。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;廣泛地區受到電磁干擾，原因不明。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">地區通訊受到不明原因的重大干擾。政府認為可能涉及異型活動。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;地區通訊受到不明原因的重大干擾。政府認為可能涉及異型活動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land7</Data></Cell>
-  <Cell><Data ss:Type="String">當地農夫回報多個農場怪圓。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;當地農夫回報多個農場怪圓。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Land8</Data></Cell>
-  <Cell><Data ss:Type="String">當地政府回報多起不明山火。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;當地政府回報多起不明山火。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">發現無人的%1%，有明顯的能量放射痕跡。%2%名乘員估計被虜。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;發現無人的%1%，有明顯的能量放射痕跡。%2%名乘員估計被虜。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">漁民目擊幽浮。當地居民擔心人身安危。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;漁民目擊幽浮。當地居民擔心人身安危。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">商船目擊神秘光點，船員不願出航。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;商船目擊神秘光點，船員不願出航。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea4</Data></Cell>
-  <Cell><Data ss:Type="String">潮汐反常，原因不明。海洋學家苦無頭緒。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;潮汐反常，原因不明。海洋學家苦無頭緒。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea5</Data></Cell>
-  <Cell><Data ss:Type="String">晴空中無故形成五級颶風。氣像學家茫無頭緒，估計涉及異型活動。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;晴空中無故形成五級颶風。氣像學家茫無頭緒，估計涉及異型活動。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Abduction.Sea6</Data></Cell>
-  <Cell><Data ss:Type="String">漁民發現死亡海域，有數以千計的海洋生物死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;漁民發現死亡海域，有數以千計的海洋生物死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">空軍戰機小隊被幽浮擊墜，%3% 名機師陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;空軍戰機小隊被幽浮擊墜，%3% 名機師陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">軍用運輸機被幽浮擊墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;軍用運輸機被幽浮擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;航班 %1%-%2% 被擊墜，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">海軍巡邏機被幽浮擊墜，%3% 名機組人員據報失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海軍巡邏機被幽浮擊墜，%3% 名機組人員據報失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Airliner.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">海岸防衛隊的直昇機被幽浮擊墜，%3% 名機組人員陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海岸防衛隊的直昇機被幽浮擊墜，%3% 名機組人員陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%2%政府報告%1%附近的%4%電廠被毀，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2%政府報告%1%附近的%4%電廠被毀，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%附近有煉油廠受到幽浮轟炸，多起二次火災和爆炸。估計 %3% 死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%附近有煉油廠受到幽浮轟炸，多起二次火災和爆炸。估計 %3% 死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%2% %1%的主要橋樑被幽浮炸斷，%3% 死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%2% %1%的主要橋樑被幽浮炸斷，%3% 死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">鐵路樞紐受到幽浮轟炸，多列客車被毀。估算 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;鐵路樞紐受到幽浮轟炸，多列客車被毀。估算 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2%附近的天然氣井受到幽浮轟炸。估算 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2%附近的天然氣井受到幽浮轟炸。估算 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的醫院被幽浮炸毀，據報 %3% 死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的醫院被幽浮炸毀，據報 %3% 死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land7</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的發電水壩被幽浮炸穿，做成廣泛洪水。估算 %3% 人死。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的發電水壩被幽浮炸穿，做成廣泛洪水。估算 %3% 人死。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Land8</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的警察總部受到幽浮轟炸，%3% 死。當地警方陷入混亂。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的警察總部受到幽浮轟炸，%3% 死。當地警方陷入混亂。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">商船 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;商船 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">客船 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;客船 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">遊輪 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;遊輪 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea4</Data></Cell>
-  <Cell><Data ss:Type="String">油輪 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;油輪 SS-%2% 被幽浮炸沉，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMaj.Sea5</Data></Cell>
-  <Cell><Data ss:Type="String">海上油井 %2% 被幽浮炸毀，%1% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海上油井 %2% 被幽浮炸毀，%1% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">高速公路受到幽浮炮擊，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;高速公路受到幽浮炮擊，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">住宅區受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;住宅區受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">機場受到幽浮炮擊，估計 %3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;機場受到幽浮炮擊，估計 %3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">商場受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;商場受到幽浮炮擊，%3% 死 %4% 失蹤。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">列車因受到幽浮炮擊而出軌，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;列車因受到幽浮炮擊而出軌，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">公園受到幽浮炮擊，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;公園受到幽浮炮擊，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">捕漁船隊受到幽浮攻擊，%1% 隻拖船沉沒，%2% 名船員死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;捕漁船隊受到幽浮攻擊，%1% 隻拖船沉沒，%2% 名船員死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">海上油井 %3% 受到幽浮炮擊，嚴重受損，%2% 名工人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;海上油井 %3% 受到幽浮炮擊，嚴重受損，%2% 名工人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.CivAtkMin.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">軍機 %3% 被幽浮攻擊，%2% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;軍機 %3% 被幽浮攻擊，%2% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的軍事基地受到轟炸，損失 %4% 輛裝甲車及 %3% 名軍人。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的軍事基地受到轟炸，損失 %4% 輛裝甲車及 %3% 名軍人。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的雷達站被炸毀，%3% 名軍人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的雷達站被炸毀，%3% 名軍人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的軍火庫受到幽浮轟炸，%3% 人死亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的軍火庫受到幽浮轟炸，%3% 人死亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的軍事中心被幽浮炸毀，%3% 名軍人陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的軍事中心被幽浮炸毀，%3% 名軍人陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1% %2% 附近的空軍基地受到幽浮轟炸，損失 %4% 架飛機及 %3% 人。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% %2% 附近的空軍基地受到幽浮轟炸，損失 %4% 架飛機及 %3% 人。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">戰艦 %1% 在滿員狀態下被幽浮炸沉，%2% 名軍人陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;戰艦 %1% 在滿員狀態下被幽浮炸沉，%2% 名軍人陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.MilAtkMaj.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">航母 %1% 及其護衛艦受到幽浮轟炸，%2% 名軍人陣亡。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;航母 %1% 及其護衛艦受到幽浮轟炸，%2% 名軍人陣亡。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：虜拐事件</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 虜拐事件</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：電磁干擾</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 電磁干擾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：通訊干擾</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 通訊干擾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land7</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：農場怪圓</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 農場怪圓</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Land8</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：森林起火</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 森林起火</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：虜拐事件</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 虜拐事件</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：目擊幽浮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 目擊幽浮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：潮汐反常</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 潮汐反常</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea5</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：怪異颶風</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 怪異颶風</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Abduction.Sea6</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：死亡海域</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 死亡海域</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Airliner.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：航班遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 航班遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Airliner.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍機遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍機遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Airliner.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍機遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍機遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Airliner.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：航班遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 航班遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Airliner.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍機遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍機遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.Airliner.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍機遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍機遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：發電廠被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 發電廠被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：煉油廠被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 煉油廠被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：橋樑被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 橋樑被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：鐵路被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 鐵路被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：氣井被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 氣井被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：醫院被炸 </Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 醫院被炸 </Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land7</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2% ：水壩被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 水壩被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Land8</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：警局被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 警局被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：商船沉沒</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 商船沉沒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：客船沉沒</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 客船沉沒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：遊輪沉沒</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 遊輪沉沒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Sea4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：油船沉沒</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 油船沉沒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMaj.Sea5</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：油井被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 油井被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：公路遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 公路遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：小鎮遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 小鎮遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：機場遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 機場遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：商場遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 商場遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：火車遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 火車遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Land6</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：公園遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 公園遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：漁船遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 漁船遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：油井遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 油井遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.CivAtkMin.Sea3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍機遇襲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍機遇襲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍營被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍營被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：雷達站被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 雷達站被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land3</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍火庫被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍火庫被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land4</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：軍事中心被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 軍事中心被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Land5</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：空軍基地被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 空軍基地被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Sea1</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：戰艦沉沒</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 戰艦沉沒</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Short.MilAtkMaj.Sea2</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2%：航母群被炸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='14'&gt;%1%:%2% 航母群被炸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Events.Timestamp</Data></Cell>
-  <Cell><Data ss:Type="String">%1%.%2% (X:%3% Y:%4%):</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1%:%2%&lt;font size='12'&gt; (X:%3% Y:%4%):</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Exit</Data></Cell>
   <Cell><Data ss:Type="String">離開遊戲</Data></Cell>
