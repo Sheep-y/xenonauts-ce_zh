@@ -2,6 +2,8 @@ require "scripts/style"
 
 kIllegalCustChars = "!@#$%^&*()><\\\"\'[]{}|?/+=~`.,:-";
 
+local topOptionFont = 1.1; -- Originally 1
+
 MakeDialog
 {
 	OptionsWindow
@@ -10,23 +12,23 @@ MakeDialog
 	  y = 0,
 	  w = kMax,
 	  h = kMax,
-	  
+
 	  --image = "uitextures/transparent",
     bordersize = 2,
-	
+
 	hasExternalBorders = false, --!important!
-    
+
     NonUniformScaledImage
     {
       x = 0,
       y = 0,
       w = kMax,
       h = 1,
-      
+
   	  image = "uitextures/black",
   	  tint  = Black50A,
     },
-    
+
     ScalingText
     {
       font = XenonautsLabelFontSmallBlack,
@@ -34,7 +36,7 @@ MakeDialog
       y = 5,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.MouseSens",
     },
     ScalingText
@@ -44,7 +46,7 @@ MakeDialog
       y = 5 + Floor( 14 * screenScaleY ),
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.KbdScrollSens",
     },
     ScalingText
@@ -54,7 +56,7 @@ MakeDialog
       y = 5 + Floor( 14 * screenScaleY ) * 2,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.MusicVolume",
     },
     ScalingText
@@ -64,10 +66,10 @@ MakeDialog
       y = 5 + Floor( 14 * screenScaleY ) * 3,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.SfxVolume",
     },
-    
+
     ProgressBar
     {
       font = XenonautsDisabledFont,
@@ -85,8 +87,8 @@ MakeDialog
       bgtilebordersize = 4,
       percent  = false,
       slider = true,
-      
-      command = 
+
+      command =
         function()
           OnSliderChange( 0 );
         end,
@@ -109,7 +111,7 @@ MakeDialog
       percent  = false,
       slider = true,
 
-      command = 
+      command =
         function()
           OnSliderChange( 1 );
         end,
@@ -132,7 +134,7 @@ MakeDialog
       percent  = false,
       slider = true,
 
-      command = 
+      command =
         function()
           OnSliderChange( 2 );
         end,
@@ -155,7 +157,7 @@ MakeDialog
       percent  = false,
       slider = true,
 
-      command = 
+      command =
         function()
           OnSliderChange( 3 );
         end,
@@ -210,15 +212,15 @@ MakeDialog
       flags = kHAlignRight,
     },
 
-	
+
 			ScalingText
         {
 	        font = XenonautsLabelFontSmallBlack,
 			x = 5,
 			y = 5 + Floor( 14 * screenScaleY ) * 4,
 			w = kMax,
-			h = 12 * screenScaleY,
-			fontScale = screenScaleY,
+			h = 14 * screenScaleY,
+			fontScale = screenScaleY * topOptionFont,
 			label = "OptionsDialog.TuReserveMode",
 			flags  = kVAlignCenter,
 			name = "label",
@@ -230,12 +232,12 @@ MakeDialog
           x = kMax - (24 * screenScaleY),
 		  y = 5 + Floor( 14 * screenScaleY ) * 4,
           w = kMax,
-		  h = 12 * screenScaleY,
+		  h = 14 * screenScaleY,
   		bordersize = 2,
 	    label = "MainMenuOn",
 		offLabel = "MainMenuOff",
         font = XenonautsLabelFontSmallBlack,
-        fontScale = screenScaleY,
+        fontScale = screenScaleY * topOptionFont,
         overfontcolor = OverColor,
         downfontcolor = DownColor,
         outlineselected = true,
@@ -251,8 +253,8 @@ MakeDialog
 		x = 5,
 		y = 5 + Floor( 14 * screenScaleY ) * 5,
 		w = kMax,
-		h = 12 * screenScaleY,
-		fontScale = screenScaleY,
+		h = 14 * screenScaleY,
+		fontScale = screenScaleY * topOptionFont,
 		label = "OptionsDialog.ShowStatsIncrements",
 		flags  = kVAlignCenter,
 		name = "label",
@@ -264,12 +266,12 @@ MakeDialog
           x = kMax - (24 * screenScaleY),
 		  y = 5 + Floor( 14 * screenScaleY ) * 5,
           w = kMax,
-		  h = 12 * screenScaleY,
+		  h = 14 * screenScaleY,
   		bordersize = 2,
 	    label = "MainMenuOn",
 		offLabel = "MainMenuOff",
         font = XenonautsLabelFontSmallBlack,
-        fontScale = screenScaleY,
+        fontScale = screenScaleY * topOptionFont,
         overfontcolor = OverColor,
         downfontcolor = DownColor,
         outlineselected = true,
@@ -279,20 +281,20 @@ MakeDialog
 			ToggleStatsIncrements();
 		end,
 	},
-	
-	
-	
+
+
+
     NonUniformScaledImage
     {
       x = 0,
       y = 5 + Floor( 14 * screenScaleY ) * 6 + 2,
       w = kMax,
       h = 1,
-      
+
   	  image = "uitextures/black",
   	  tint  = Black50A,
     },
-    
+
     TiledImage
     {
       x = 5,
@@ -311,7 +313,7 @@ MakeDialog
         h = kMax - 2,
         font = MediumSoldierBlack,
         hcolor = WhiteColor,
-      
+
         TiledImage
         {
           name = "scrollbar",
@@ -341,7 +343,7 @@ MakeDialog
 	  y = kMax - 1*( 5 + Floor( 18 * screenScaleY ) ) - Floor( 5 * screenScaleY ),
       w = kMax,
       h = 1,
-      
+
   	  image = "uitextures/black",
   	  tint  = Black50A,
     },
@@ -353,7 +355,7 @@ MakeDialog
 	  y = kMax - 1*( 5 + Floor( 18 * screenScaleY ) ),
       w = kMax,
       h = Floor( 18 * screenScaleY ),
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.CustomSoldierList",
   	  flags  = kVAlignCenter,
     },
@@ -365,7 +367,7 @@ MakeDialog
 	    h      = Floor( 14 * screenScaleY ),
       image  = "ui_screens/mainmenu/forcesoldierbg",
       bordersize = 4,
-			
+
 		  ClearingTextEdit
 		  {
 		    x      = 2,
@@ -384,8 +386,8 @@ MakeDialog
 			  fontScale = screenScaleY * 0.9,
 		  },
 		},
-		
 
-        
+
+
 	},
 }

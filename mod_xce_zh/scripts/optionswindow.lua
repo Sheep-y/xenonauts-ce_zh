@@ -3,6 +3,7 @@ require "scripts/style"
 OverColor   = Color(255,255,255,155);
 DownColor   = Color(255,255,255,255);
 
+local topOptionFont = 1.1; -- Originally 1
 
 MakeDialog
 {
@@ -38,7 +39,7 @@ MakeDialog
       y = Floor( 16 * screenScaleY ) + 62 * screenScaleY,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.MouseSens",
     },
     ScalingText
@@ -48,7 +49,7 @@ MakeDialog
       y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) + 62 * screenScaleY,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.KbdScrollSens",
     },
     ScalingText
@@ -58,7 +59,7 @@ MakeDialog
       y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) * 2 + 62 * screenScaleY,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.MusicVolume",
     },
     ScalingText
@@ -68,7 +69,7 @@ MakeDialog
       y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) * 3 + 62 * screenScaleY,
       w = kMax,
       h = kMax,
-      fontScale = screenScaleY,
+      fontScale = screenScaleY * topOptionFont,
       label = "OptionsDialog.SfxVolume",
     },
     
@@ -171,8 +172,8 @@ MakeDialog
 		x = 8,
 		y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) * 4 + 62 * screenScaleY,
 		w = kMax,
-		h = 12 * screenScaleY,
-		fontScale = screenScaleY,
+		h = 14 * screenScaleY,
+		fontScale = screenScaleY * topOptionFont,
 		label = "OptionsDialog.TuReserveMode",
 		flags  = kVAlignCenter,
 		name = "label",
@@ -184,12 +185,12 @@ MakeDialog
 	  x = kMax - (24 * screenScaleY),
 	  y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) * 4 + 62 * screenScaleY,
 	  w = kMax,
-	  h = 12 * screenScaleY,
+	  h = 14 * screenScaleY,
 	    bordersize = 2,
 		label = "MainMenuOn",
 		offLabel = "MainMenuOff",
 		font = XenonautsLabelFontSmall,
-		fontScale = screenScaleY * 1,
+		fontScale = screenScaleY * topOptionFont,
 	  command =
 		function()
 			ToggleTuReserve();
@@ -202,8 +203,8 @@ MakeDialog
 		x = 8,
 		y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) * 5 + 62 * screenScaleY,
 		w = kMax,
-		h = 12 * screenScaleY,
-		fontScale = screenScaleY,
+		h = 14 * screenScaleY,
+		fontScale = screenScaleY * topOptionFont,
 		label = "OptionsDialog.ShowStatsIncrements",
 		flags  = kVAlignCenter,
 		name = "label",
@@ -215,12 +216,12 @@ MakeDialog
 	  x = kMax - (24 * screenScaleY),
 	  y = Floor( 16 * screenScaleY ) + Floor( 14 * screenScaleY ) * 5 + 62 * screenScaleY,
 	  w = kMax,
-	  h = 12 * screenScaleY,
+	  h = 14 * screenScaleY,
 	    bordersize = 2,
 		label = "MainMenuOn",
 		offLabel = "MainMenuOff",
 		font = XenonautsLabelFontSmall,
-		fontScale = screenScaleY * 1,
+		fontScale = screenScaleY * topOptionFont,
 	  command =
 		function()
 			ToggleStatsIncrements();

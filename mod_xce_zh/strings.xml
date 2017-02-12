@@ -134,7 +134,7 @@
   <Cell><Data ss:Type="String">發射所有已鎖定目標的飛彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACPause</Data></Cell>
-  <Cell><Data ss:Type="String">暫停 / 恢復戰鬥</Data></Cell>
+  <Cell><Data ss:Type="String">暫停 / 繼續戰鬥</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ACRollLeft</Data></Cell>
   <Cell><Data ss:Type="String">向戰機左方滾轉</Data></Cell>
@@ -2073,10 +2073,10 @@
   <Cell><Data ss:Type="String">&lt;b&gt;裝彈格：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;用此格可以便利地給目前所選的武器上彈。備用的彈匣數量在右下方顯示。&lt;br/&gt;&lt;br/&gt;跟手雷不同，即使有空手也不會減少上彈的 TU。&#10;</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GcGUI.Tooltips.SoldierInformationPanel</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;b&gt;士兵資訊：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;此欄顯示士兵的軍階、姓名、及狀態列。狀態列有三條：&#10;- 紅色 - HP&#10;- 綠色 - TU&#10;- 藍色 - 士氣&#10;&#10;當士兵受傷，在戰場上只能治療恢復所受的一半傷害，以灰色顯示。昏迷傷害不會顯示。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;b&gt;士兵資訊：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;此欄顯示士兵的軍階、姓名、及狀態列。狀態列有三條：&#10;- 紅色 - HP&#10;- 綠色 - TU&#10;- 藍色 - 士氣&#10;&#10;受傷的士兵在戰場上只能醫治所受的一半傷害，以灰色顯示。昏迷傷害不予顯示。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GcGUI.Tooltips.SoldierInformationPanelTimeUnitsFirst</Data></Cell>
-  <Cell><Data ss:Type="String">&lt;b&gt;士兵資訊：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;此欄顯示士兵的軍階、姓名、及狀態列。狀態列有三條：&#10;- 綠色 - TU&#10;- 紅色 - HP&#10;- 藍色 - 士氣&#10;&#10;當士兵受傷，在戰場上只能治療恢復所受的一半傷害，以灰色顯示。昏迷傷害不會顯示。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;b&gt;士兵資訊：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;此欄顯示士兵的軍階、姓名、及狀態列。狀態列有三條：&#10;- 綠色 - TU&#10;- 紅色 - HP&#10;- 藍色 - 士氣&#10;&#10;受傷的士兵在戰場上只能醫治所受的一半傷害，以灰色顯示。昏迷傷害不予顯示。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GcGUI.Tooltips.SoldierInventory</Data></Cell>
   <Cell><Data ss:Type="String">&lt;b&gt;裝備：&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;打開士兵的裝備欄，可以整理裝備，也可以拾起地上的物件或把物件丟落地。&#10;</Data></Cell>
