@@ -494,40 +494,40 @@
   <Cell><Data ss:Type="String">異型審問室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.alienplasmacell</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.flamethrower</Data></Cell>
-  <Cell><Data ss:Type="String">汽油瓶</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;汽油瓶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.machinegun</Data></Cell>
-  <Cell><Data ss:Type="String">機槍彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;機槍彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.particlebeam</Data></Cell>
-  <Cell><Data ss:Type="String">奇點炮彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點炮彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.pistol</Data></Cell>
-  <Cell><Data ss:Type="String">手槍彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;手槍彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.rifle</Data></Cell>
-  <Cell><Data ss:Type="String">步槍彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;步槍彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.shockbaton</Data></Cell>
-  <Cell><Data ss:Type="String">電擊棍電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊棍電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.shotgun</Data></Cell>
-  <Cell><Data ss:Type="String">霰彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;霰彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.ballistic.sniper</Data></Cell>
-  <Cell><Data ss:Type="String">狙擊槍彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;狙擊槍彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.laser.lasercell</Data></Cell>
-  <Cell><Data ss:Type="String">激光電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.MAG.MAGclip</Data></Cell>
-  <Cell><Data ss:Type="String">電磁彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ammo.plasma.plasmacell</Data></Cell>
-  <Cell><Data ss:Type="String">等離子電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Anchorage</Data></Cell>
   <Cell><Data ss:Type="String">安克拉治</Data></Cell>
@@ -1890,7 +1890,7 @@
   <Cell><Data ss:Type="String">摧毀異型基地</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SentToResearchDivision</Data></Cell>
-  <Cell><Data ss:Type="String">送交實驗室</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;送交實驗室</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">GC.MissionEnd.SoldierPromoted</Data></Cell>
   <Cell><Data ss:Type="String">晉升到%1%</Data></Cell>
@@ -2352,414 +2352,414 @@
   <Cell><Data ss:Type="String">以大利</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Destroyed</Data></Cell>
-  <Cell><Data ss:Type="String">已摧毀</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;已摧毀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Executed</Data></Cell>
-  <Cell><Data ss:Type="String">已槍斃</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;已槍斃</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Item.Dispose.Datacore</Data></Cell>
-  <Cell><Data ss:Type="String">順利回收</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;順利回收</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Alenium</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Alienalloys</Data></Cell>
-  <Cell><Data ss:Type="String">異型合金</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienAntigravityGenerator</Data></Cell>
-  <Cell><Data ss:Type="String">異型反重力儀</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反重力儀</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienFusionReactor</Data></Cell>
-  <Cell><Data ss:Type="String">異型核融合爐</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型核融合爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienArmourPlating</Data></Cell>
-  <Cell><Data ss:Type="String">異型裝甲板</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型裝甲板</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBaseCore</Data></Cell>
-  <Cell><Data ss:Type="String">異型基地數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型基地數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBattleshipDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;戰列幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCarrierDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;航母幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCommunicationArray</Data></Cell>
-  <Cell><Data ss:Type="String">異型通訊陣列</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型通訊陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCorvetteDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;護衛幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienElectronics</Data></Cell>
-  <Cell><Data ss:Type="String">異型航電</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型航電</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienFlamethrower</Data></Cell>
-  <Cell><Data ss:Type="String">異型噴火槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型噴火槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienFusionGrenade</Data></Cell>
-  <Cell><Data ss:Type="String">異型核融手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型核融手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienGrenade</Data></Cell>
-  <Cell><Data ss:Type="String">異型手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienHyperdrive</Data></Cell>
-  <Cell><Data ss:Type="String">異型超空間引擎</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型超空間引擎</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienKineticShield</Data></Cell>
-  <Cell><Data ss:Type="String">異型動能防禦系統</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型動能防禦系統</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLandingCraftDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;運輸幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLaunchTubes</Data></Cell>
-  <Cell><Data ss:Type="String">幽浮彈射軌</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;幽浮彈射軌</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienPowerSource</Data></Cell>
-  <Cell><Data ss:Type="String">異型能源爐</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型能源爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienReactor</Data></Cell>
-  <Cell><Data ss:Type="String">異型反應爐</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型反應爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienSensorArray</Data></Cell>
-  <Cell><Data ss:Type="String">異型感測陣列</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型感測陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienSignalDecoder</Data></Cell>
-  <Cell><Data ss:Type="String">異型解碼器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型解碼器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienSingularityCore</Data></Cell>
-  <Cell><Data ss:Type="String">異型奇點爐</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型奇點爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStunGrenades</Data></Cell>
-  <Cell><Data ss:Type="String">異型震擊手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型震擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronElite</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人精英</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人精英</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronEliteCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人精英的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人精英的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronGuard</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人護衛</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人護衛</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronGuardCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人護衛的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人護衛的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronOfficer</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人士官</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronOfficerCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人士官的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人士官的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronSoldierCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人士兵的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人士兵的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronWarrior</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人戰士</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人戰士</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AndronWarriorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">安卓機人戰士的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;安卓機人戰士的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanElite</Data></Cell>
-  <Cell><Data ss:Type="String">灰人精英</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人精英</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanEliteCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人精英的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人精英的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanGuard</Data></Cell>
-  <Cell><Data ss:Type="String">灰人護衛</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人護衛</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanGuardCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人護衛的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人護衛的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanLeader</Data></Cell>
-  <Cell><Data ss:Type="String">灰人領袖</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人領袖</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanLeaderCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人領袖的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人領袖的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanNonCombatant</Data></Cell>
-  <Cell><Data ss:Type="String">灰人技術員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanNonCombatantCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人技術員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人技術員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanOfficer</Data></Cell>
-  <Cell><Data ss:Type="String">灰人士官</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanOfficerCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人士官的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人士官的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanPsion</Data></Cell>
-  <Cell><Data ss:Type="String">灰人靈能師</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人靈能師</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanPsionCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人靈能師的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人靈能師的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">灰人士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanSoldierCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人士兵的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人士兵的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanWarrior</Data></Cell>
-  <Cell><Data ss:Type="String">灰人戰士</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人戰士</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.CaesanWarriorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">灰人戰士的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰人戰士的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.DestroyedScuttler</Data></Cell>
-  <Cell><Data ss:Type="String">Destroyed Scuttler</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;Destroyed Scuttler</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.DirectionalThrusterArray</Data></Cell>
-  <Cell><Data ss:Type="String">多向推力陣列</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;多向推力陣列</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.GenericDestroyedAlienCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">血肉模糊的異型的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;血肉模糊的異型的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.GenericDestroyedHumanCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">血肉模糊的人類的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;血肉模糊的人類的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.GenericDestroyedItem</Data></Cell>
-  <Cell><Data ss:Type="String">毀壞了的裝備</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;毀壞了的裝備</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanElite</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔精英</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔精英</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanEliteCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔精英的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔精英的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanNonCombatant</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔技術員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanNonCombatantCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔技術員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔技術員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanOfficer</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔士官</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanOfficerCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔士官的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔士官的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanSoldierCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔士兵的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔士兵的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanWarrior</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔戰士</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔戰士</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HarridanWarriorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">醜魔戰士的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醜魔戰士的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HeavyDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">重型無人機的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型無人機的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HumanNonCombatant</Data></Cell>
-  <Cell><Data ss:Type="String">平民</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;平民</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HumanNonCombatantCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">平民的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;平民的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HumanCombatant</Data></Cell>
-  <Cell><Data ss:Type="String">人類士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;人類士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.HumanCombatantCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">人類士兵的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;人類士兵的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.LightDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">輕型無人機的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;輕型無人機的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.MediumDroneWreckage</Data></Cell>
-  <Cell><Data ss:Type="String">中型無人機的殘骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;中型無人機的殘骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.PraetorLeader</Data></Cell>
-  <Cell><Data ss:Type="String">裁判官領袖</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;裁判官領袖</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.PraetorLeaderCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">裁判官領袖的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;裁判官領袖的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.ReaperCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.ReaperAlphaCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲王的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲王的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianElite</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人精英</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人精英</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianEliteCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人精英的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人精英的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianGuard</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人護衛</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人護衛</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianGuardCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人護衛的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人護衛的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianLeader</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人領袖</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人領袖</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianLeaderCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人領袖的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人領袖的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianNonCombatant</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人技術員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人技術員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianNonCombatantCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人技術員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人技術員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianOfficer</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人士官</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianOfficerCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人士官的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人士官的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianSoldierCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人士兵的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人士兵的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianWarrior</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人戰士</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人戰士</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.SebillianWarriorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">斯巴蜥人戰士的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;斯巴蜥人戰士的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithElite</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈精英</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈精英</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithEliteCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈精英的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈精英的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithOfficer</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈士官</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈士官</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithOfficerCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈士官的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈士官的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithSoldier</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈士兵</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈士兵</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithSoldierCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈士兵的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈士兵的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithWarrior</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈戰士</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈戰士</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.WraithWarriorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">鬼靈戰士的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鬼靈戰士的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNoneArmour</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNoneArmourCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBasicArmour</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBasicArmourCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBuzzard</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautBuzzardCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautColossus</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautColossusCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautJackal</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautJackalCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNone</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautNoneCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautPredator</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautPredatorCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautSentinel</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautSentinelCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautWolf</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.XenonautWolfCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBaseCoreDesc</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLightScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">輕型偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;輕型偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienScoutDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">偵察幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;偵察幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCorvetteDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">護衛幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;護衛幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienLandingCraftDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">運輸幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;運輸幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienCarrierDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">航母幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;航母幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBattleshipDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">戰列幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;戰列幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">空戰幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienHeavyFighterDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">重型空戰幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;重型空戰幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienInterceptorDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">截擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;截擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienBomberDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.AlienStrikeCruiserDatacore</Data></Cell>
-  <Cell><Data ss:Type="String">巡洋轟擊幽浮數據中樞</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;巡洋轟擊幽浮數據中樞</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.Reaper</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Items.ReaperAlpha</Data></Cell>
-  <Cell><Data ss:Type="String">鐮刀蟲王</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;鐮刀蟲王</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">January</Data></Cell>
   <Cell><Data ss:Type="String">一月</Data></Cell>
@@ -2858,226 +2858,226 @@
   <Cell><Data ss:Type="String">資金：%1%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AleniumEnrichment</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AleniumGrenade</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AleniumMissile</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶飛彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶飛彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AleniumTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶飛雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶飛雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AlienAlloyProduction</Data></Cell>
-  <Cell><Data ss:Type="String">異型合金</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型合金</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AssaultShield</Data></Cell>
-  <Cell><Data ss:Type="String">突擊盾</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;突擊盾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.AV.PLASMABLASTER</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴射炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Buzzard</Data></Cell>
-  <Cell><Data ss:Type="String">狼鷲戰衣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;狼鷲戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Corsair</Data></Cell>
-  <Cell><Data ss:Type="String">海賊戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;海賊戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.DHVR</Data></Cell>
-  <Cell><Data ss:Type="String">DHVR</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;DHVR</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ElectroshockGrenade</Data></Cell>
-  <Cell><Data ss:Type="String">電擊手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Fury</Data></Cell>
-  <Cell><Data ss:Type="String">天怒戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;天怒戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Fusiongrenade</Data></Cell>
-  <Cell><Data ss:Type="String">核融手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.FusionTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">核融飛雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融飛雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Hunter</Data></Cell>
-  <Cell><Data ss:Type="String">獵手偵察戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵手偵察戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.HyperionHovertank</Data></Cell>
-  <Cell><Data ss:Type="String">太陽神浮空坦克</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;太陽神浮空坦克</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.HypervelocityMissile</Data></Cell>
-  <Cell><Data ss:Type="String">特速飛彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;特速飛彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.HypervelocityRocket</Data></Cell>
-  <Cell><Data ss:Type="String">特速火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;特速火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Jackal</Data></Cell>
-  <Cell><Data ss:Type="String">豺狼護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;豺狼護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Lasercarbine</Data></Cell>
-  <Cell><Data ss:Type="String">激光卡賓槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光卡賓槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.LasercarbineDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光卡賓槍是適合突擊用的短距離武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Lasercell</Data></Cell>
-  <Cell><Data ss:Type="String">激光電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Laserpistol</Data></Cell>
-  <Cell><Data ss:Type="String">激光手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.LaserpistolDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光手槍是適合近接戰的單手武器，也可或作為副武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Laserrifle</Data></Cell>
-  <Cell><Data ss:Type="String">激光步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.LaserrifleDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光步槍是適用於各種戰鬥狀況的泛用武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MAGcarbine</Data></Cell>
-  <Cell><Data ss:Type="String">電磁霰彈槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁霰彈槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MAGclip</Data></Cell>
-  <Cell><Data ss:Type="String">電磁彈匣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁彈匣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MAGpistol</Data></Cell>
-  <Cell><Data ss:Type="String">電磁手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MAGprecision</Data></Cell>
-  <Cell><Data ss:Type="String">電磁狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MAGrifle</Data></Cell>
-  <Cell><Data ss:Type="String">電磁步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MAGSTORM</Data></Cell>
-  <Cell><Data ss:Type="String">電磁風暴</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁風暴</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Marauder</Data></Cell>
-  <Cell><Data ss:Type="String">賊王戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;賊王戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Medipack</Data></Cell>
-  <Cell><Data ss:Type="String">醫療包</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醫療包</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.MiG32</Data></Cell>
-  <Cell><Data ss:Type="String">狐步戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;狐步戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ParticleBeam</Data></Cell>
-  <Cell><Data ss:Type="String">奇點炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ParticleClip</Data></Cell>
-  <Cell><Data ss:Type="String">奇點爐</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點爐</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmacarbine</Data></Cell>
-  <Cell><Data ss:Type="String">等離子霰彈槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子霰彈槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmacaster</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴射器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmacell</Data></Cell>
-  <Cell><Data ss:Type="String">等離子電池</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子電池</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmagrenade</Data></Cell>
-  <Cell><Data ss:Type="String">等離子手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.PlasmaMissile</Data></Cell>
-  <Cell><Data ss:Type="String">等離子飛彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子飛彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmapistol</Data></Cell>
-  <Cell><Data ss:Type="String">等離子手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmarifle</Data></Cell>
-  <Cell><Data ss:Type="String">等離子步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.PlasmaRocket</Data></Cell>
-  <Cell><Data ss:Type="String">等離子火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Plasmatorch</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴火槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴火槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.PlasmaTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">等離子飛雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子飛雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Precisionlaser</Data></Cell>
-  <Cell><Data ss:Type="String">激光狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.PrecisionlaserDesc</Data></Cell>
   <Cell><Data ss:Type="String">激光狙擊槍是極住的狙擊武器，但近距離就不行了。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Precisionplasma</Data></Cell>
-  <Cell><Data ss:Type="String">等離子狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Predator</Data></Cell>
-  <Cell><Data ss:Type="String">獵戶戰甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;獵戶戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Saracen</Data></Cell>
-  <Cell><Data ss:Type="String">大食戰鬥機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;大食戰鬥機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Scatterlaser</Data></Cell>
-  <Cell><Data ss:Type="String">散射激光</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ScatterlaserDesc</Data></Cell>
   <Cell><Data ss:Type="String">散射激光是擅於掃倒敵步兵的進階重型武器。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ScimitarSupportTank</Data></Cell>
-  <Cell><Data ss:Type="String">彎刀支援戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;彎刀支援戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Sentinel</Data></Cell>
-  <Cell><Data ss:Type="String">衛士戰衣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;衛士戰衣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Shrike</Data></Cell>
-  <Cell><Data ss:Type="String">伯勞鳥運輸機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;伯勞鳥運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.StunRocket</Data></Cell>
-  <Cell><Data ss:Type="String">迷魂火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;迷魂火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.ToxinGrenade</Data></Cell>
-  <Cell><Data ss:Type="String">毒氣手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Valkyrie</Data></Cell>
-  <Cell><Data ss:Type="String">女武神運輸機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;女武神運輸機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.MAC</Data></Cell>
-  <Cell><Data ss:Type="String">磁軌炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;磁軌炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.MACHINEGUN</Data></Cell>
-  <Cell><Data ss:Type="String">機炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;機炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.MAGSTORM</Data></Cell>
-  <Cell><Data ss:Type="String">車載電磁風暴</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;車載電磁風暴</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.PLASMABLASTER</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴射炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.PLASMABOLT</Data></Cell>
-  <Cell><Data ss:Type="String">電磁集束炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁集束炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.PLASMACASTER</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴射器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.PULSELASER</Data></Cell>
-  <Cell><Data ss:Type="String">脈衝激光</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;脈衝激光</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.ROCKET</Data></Cell>
-  <Cell><Data ss:Type="String">火箭炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;火箭炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.SCATTERLASER</Data></Cell>
-  <Cell><Data ss:Type="String">散射激光</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.SCLASER</Data></Cell>
-  <Cell><Data ss:Type="String">散射激光</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.SCLASERDesc</Data></Cell>
   <Cell><Data ss:Type="String">散射激光是高速連射的反步兵武器。威力比 .50 口徑機槍強上不少。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.VV.SMAC</Data></Cell>
-  <Cell><Data ss:Type="String">SMAC 磁軌炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;SMAC 磁軌炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.Wolf</Data></Cell>
-  <Cell><Data ss:Type="String">灰狼戰甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;灰狼戰甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ManTech.SingularityTorpedo</Data></Cell>
-  <Cell><Data ss:Type="String">奇點飛雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點飛雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.Aircraft</Data></Cell>
   <Cell><Data ss:Type="String">航機</Data></Cell>
@@ -5169,267 +5169,267 @@
   <Cell><Data ss:Type="String">航行點</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.alienadvancedgrenade</Data></Cell>
-  <Cell><Data ss:Type="String">先進異型手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;先進異型手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.ak47</Data></Cell>
-  <Cell><Data ss:Type="String">步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.aliengrenade</Data></Cell>
-  <Cell><Data ss:Type="String">異型手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienHeavyPlasmaRifle</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子重步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子重步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienPlasmaCannon</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienPlasmaPistol</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienPlasmaRifle</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienBattleRifle</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子戰鬥步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子戰鬥步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienSniperPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.DHVRL</Data></Cell>
-  <Cell><Data ss:Type="String">拋棄式特速火箭發射器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;拋棄式特速火箭發射器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.C4</Data></Cell>
-  <Cell><Data ss:Type="String">C4 炸藥</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;C4 炸藥</Data></Cell>
  </Row><Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.explosive.C4.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;C4_炸藥：&lt;/b&gt;&#10;&#10;C4_炸藥是一塊塑膠炸藥。它的爆炸會對景物造成四倍傷害，因此適合用來爆破建築。士兵可以設定炸藥多少回合後引爆，然後丟下或拋出它。要小心的是，只要時間到了它就會爆炸，不管是不是還在士兵身上。&#10;&#10;傷害：65 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;投擲 TU：60%%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.farmershotgun</Data></Cell>
-  <Cell><Data ss:Type="String">民用霰彈槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;民用霰彈槍</Data></Cell>
  </Row><Row ss:Height="231">
   <Cell><Data ss:Type="String">weapon.farmershotgun.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;民用霰彈槍：&lt;/b&gt;&#10;&#10;似乎是農夫用的霰彈槍，傷害力會稍遜於軍用霰彈槍。&#10;&#10;射程：8&#10;傷害：20 動能（3次）&#10;壓制力：50 點&#10;穿甲力：0&#10;裝彈量：8 發&#10;反應倍率：1.5倍&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.advancedmedpack</Data></Cell>
-  <Cell><Data ss:Type="String">高級醫療包</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;高級醫療包</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.alenium</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.flare</Data></Cell>
-  <Cell><Data ss:Type="String">照明彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;照明彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.flashbang</Data></Cell>
-  <Cell><Data ss:Type="String">眩目彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;眩目彈</Data></Cell>
  </Row>
  <Row ss:Height="181.5">
   <Cell><Data ss:Type="String">weapon.grenade.flashbang.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;眩目彈：&lt;/b&gt;&#10;&#10;眩目彈是一種手雷，用於助攻固若金湯的敵陣。雖然它不會做成多少傷害，它會在爆炸區域內做成大量壓制傷害。被壓制的單位會失去所有_TU_，無法進行反應射擊，因此眩目彈可以大大減低衝入敵陣的風險。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：5 動能&#10;壓制：100 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.frag</Data></Cell>
-  <Cell><Data ss:Type="String">破片手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;破片手雷</Data></Cell>
  </Row><Row ss:Height="165">
   <Cell><Data ss:Type="String">weapon.grenade.frag.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破片手雷：&lt;/b&gt;&#10;&#10;破片手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：50 動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：1.5 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.fusion</Data></Cell>
-  <Cell><Data ss:Type="String">核融手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.medipack</Data></Cell>
-  <Cell><Data ss:Type="String">醫療包</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;醫療包</Data></Cell>
  </Row><Row ss:Height="82.5">
   <Cell><Data ss:Type="String">weapon.grenade.medipack.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;醫療包：&lt;/b&gt;&#10;&#10;手裡提著醫療包的士兵可以治療受傷的戰友，每花 1 TU 可治療 1 HP。但士兵所受的傷害只有一半能即場治療，其餘的要回基地治理。&#10;&#10;士兵也會常常因傷流血不止，會持續每回合扣減 HP。這些傷口也可以用醫療包止血。。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.nervegas</Data></Cell>
-  <Cell><Data ss:Type="String">毒氣手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.plasma</Data></Cell>
-  <Cell><Data ss:Type="String">等離子手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.shock</Data></Cell>
-  <Cell><Data ss:Type="String">電擊手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.shockbaton</Data></Cell>
-  <Cell><Data ss:Type="String">電擊棍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電擊棍</Data></Cell>
  </Row><Row ss:Height="99">
   <Cell><Data ss:Type="String">weapon.grenade.shockbaton.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電擊棍：&lt;/b&gt;&#10;&#10;電擊棍是用來擊暈敵人的非致命性單手武器。它只能用來攻擊臨接的敵人（不包括鈄角），但大部分敵人都捱不住兩三棍。&#10;&#10;暈眩傷害：60&#10;攻擊花費：20%% TU</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.smoke</Data></Cell>
-  <Cell><Data ss:Type="String">煙霧彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;煙霧彈</Data></Cell>
  </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.grenade.smoke.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;煙霧彈：&lt;/b&gt;&#10;&#10;煙霧彈不會做成傷害，只會在爆炸範圍內釋放大量濃煙。任何穿過這煙的射擊都會顯著降低命中率，減低士兵被異型擊中的機會。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;煙霧半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.stun</Data></Cell>
-  <Cell><Data ss:Type="String">迷暈手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;迷暈手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.toxin</Data></Cell>
-  <Cell><Data ss:Type="String">毒氣手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;毒氣手雷</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.lasercarbine</Data></Cell>
-  <Cell><Data ss:Type="String">激光卡賓槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光卡賓槍</Data></Cell>
  </Row>
  <Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.lasercarbine.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光卡賓槍：&lt;/b&gt;&#10;&#10;卡賓槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：38 能量（三發）&#10;壓制：58 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.laserpistol</Data></Cell>
-  <Cell><Data ss:Type="String">激光手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光手槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.laserpistol.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：45 能量&#10;壓制：23 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.laserprecision</Data></Cell>
-  <Cell><Data ss:Type="String">激光狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.laserprecision.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：55 能量&#10;壓制：29 點&#10;穿甲力：15&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.laserrifle</Data></Cell>
-  <Cell><Data ss:Type="String">激光步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;激光步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.laserrifle.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;激光步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：45 能量&#10;壓制：23 單發 / 69 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.machinegun</Data></Cell>
-  <Cell><Data ss:Type="String">機槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;機槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.machinegun.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;機槍：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：30 動能&#10;壓制：120 連發&#10;穿甲力：5&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGcarbine</Data></Cell>
-  <Cell><Data ss:Type="String">電磁霰彈槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁霰彈槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGpistol</Data></Cell>
-  <Cell><Data ss:Type="String">電磁手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁手槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGprecision</Data></Cell>
-  <Cell><Data ss:Type="String">電磁狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁狙擊槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGrifle</Data></Cell>
-  <Cell><Data ss:Type="String">電磁步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.MAGSTORM</Data></Cell>
-  <Cell><Data ss:Type="String">電磁風暴</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;電磁風暴</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.MAGSTORM.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;電磁風暴_MAGSTORM：&lt;/b&gt;&#10;&#10;機槍發射大量子彈，能做成巨額傷害及施予有效壓制。 但射擊需要消耗士兵的八成 TU（除非配合獵戶戰甲使用），令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70），除非配合獵戶戰甲使用。&#10;&#10;射程：25&#10;傷害：105 動能&#10;壓制：120 連發&#10;穿甲力：18&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.particlebeam</Data></Cell>
-  <Cell><Data ss:Type="String">奇點炮</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;奇點炮</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.pistol</Data></Cell>
-  <Cell><Data ss:Type="String">手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;手槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.pistol.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：30 動能&#10;壓制：20 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmacarbine</Data></Cell>
-  <Cell><Data ss:Type="String">等離子霰彈槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子霰彈槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.plasmacarbine.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會作出三次射擊，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：55 能量（三發）&#10;壓制：64 點&#10;穿甲力：0&#10;裝彈量：6 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmacaster</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴射器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴射器</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.plasmacaster.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子噴射器：&lt;/b&gt;&#10;&#10;此槍發射大量等離子束，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：70 能量&#10;壓制：150 連發&#10;穿甲力：12&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmapistol</Data></Cell>
-  <Cell><Data ss:Type="String">等離子手槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子手槍</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.plasmapistol.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子手槍：&lt;/b&gt;&#10;&#10;手槍是單手武器，傷害和射擊速度都跟步槍相若，但射程較短及不能連射。它們主要是作為狙擊手或機槍手的副武器，或作為護盾兵及擲彈兵的單手武器。&#10;&#10;1.5 倍的反應倍率令它適合偵察用：拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：10&#10;傷害：70 能量&#10;壓制：26 點&#10;穿甲力：0&#10;裝彈量：15 發&#10;反應倍率：1.5 倍&#10;裝彈需時：15 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmaprecision</Data></Cell>
-  <Cell><Data ss:Type="String">等離子狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.plasmaprecision.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：80 能量&#10;壓制：33 點&#10;穿甲力：25&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmarifle</Data></Cell>
-  <Cell><Data ss:Type="String">等離子步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.plasmarifle.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：70 能量&#10;壓制：26 單發 / 78 連發&#10;穿甲力：0&#10;裝彈量：12 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU 130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.plasmatorch</Data></Cell>
-  <Cell><Data ss:Type="String">等離子噴火槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子噴火槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rifle</Data></Cell>
-  <Cell><Data ss:Type="String">步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;步槍</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.rifle.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;步槍：&lt;/b&gt;&#10;&#10;步槍的適用性廣，是比較其他武器的基準。可以準確地遠距離單發射擊，也可以用連射去壓制敵人或在近距離做成高額傷害。因此步槍不限於特定崗位，是可靠的武器。&#10;&#10;射程：20&#10;傷害：30 動能&#10;壓制：20 單發 / 60 連發&#10;穿甲力：0&#10;裝彈量：20 發&#10;反應倍率：1x&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 45 精度 x 1 發&#10;- 40%% TU 80 精度 x 1 發&#10;- 55%% TU  130 精度 x 1 發&#10;&#10;- 60%% TU 45 精度 x 3 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.alenium</Data></Cell>
-  <Cell><Data ss:Type="String">異能晶火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異能晶火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.AP</Data></Cell>
-  <Cell><Data ss:Type="String">穿甲火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;穿甲火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.frag</Data></Cell>
-  <Cell><Data ss:Type="String">破片火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;破片火箭彈</Data></Cell>
  </Row><Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.rocket.frag.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破片火箭彈：&lt;/b&gt;&#10;&#10;破片火箭是對建築物專用的火箭，對景物會造成四倍傷害，爆炸高傷害而範圍廣。這些破片的穿甲力不怎樣，但依然能有效殺傷多名聚集的敵人。&#10;&#10;傷害類型：50 火焰（對景物四倍傷害）&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：4 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.fusion</Data></Cell>
-  <Cell><Data ss:Type="String">核融火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;核融火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.hyper</Data></Cell>
-  <Cell><Data ss:Type="String">特速火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;特速火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.incendiary</Data></Cell>
-  <Cell><Data ss:Type="String">燃燒火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;燃燒火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.plasma</Data></Cell>
-  <Cell><Data ss:Type="String">等離子火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocket.stun</Data></Cell>
-  <Cell><Data ss:Type="String">迷魂火箭彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;迷魂火箭彈</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.rocketlauncher</Data></Cell>
-  <Cell><Data ss:Type="String">火箭發射器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;火箭發射器</Data></Cell>
  </Row><Row ss:Height="313.5">
   <Cell><Data ss:Type="String">weapon.rocketlauncher.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;火箭發射器：&lt;/b&gt;&#10;&#10;火箭發射器能發射各式長程火箭彈（列在&quot;裝備&quot;分頁的&quot;火箭&quot;裡）。它們一般有廣大的影響範圍，能對敵人做成不少傷害，並且擅長破壞掩體和牆壁等景物。不過要記著被炸死的敵人不會留下甚麼可以回收的物資。&#10;&#10;火箭發射器是重型武器，只有強壯的士兵能有效地使用。準確度會以精度和力量當中的較低者計算，假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：30&#10;傷害：（視乎火箭彈）&#10;壓制：60&#10;裝彈量：1 發&#10;反應倍率：N/A （不能作反應射擊）&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 50%% TU 75 精度 x 1 發&#10;- 80%% TU 100 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.scatterlaser</Data></Cell>
-  <Cell><Data ss:Type="String">散射激光</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;散射激光</Data></Cell>
  </Row><Row ss:Height="280.5">
   <Cell><Data ss:Type="String">weapon.scatterlaser.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;散射激光：&lt;/b&gt;&#10;&#10;此槍發射大量激光，能做成巨額傷害及施予有效壓制。但射擊需要消耗士兵的八成 TU，令機動性受限。&#10;&#10;只有強壯的士兵能有效地使用重型武器，準確度會以精度和力量當中的較低者計算。假若士兵的力量低於 70 的話會有額外懲罰（因為回彈力有 70）。&#10;&#10;射程：25&#10;傷害：45 能量&#10;壓制：120 連發&#10;穿甲力：8&#10;裝彈量：30 發&#10;反應倍率：0.5 倍&#10;回彈力：70 力量&#10;裝彈需時：35 TU&#10;&#10;射擊模式：&#10;- 80%% TU 35 精度 x 10 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.shotgun</Data></Cell>
-  <Cell><Data ss:Type="String">霰彈槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;霰彈槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.shotgun.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;霰彈槍：&lt;/b&gt;&#10;&#10;霰彈槍每發都會射出三粒霰彈，可以做成極高的傷害。不過它們不很準確，需要加上近戰加值才能有效發揮。因此它們是強力的攻堅武器，但在難以突擊的時候就沒甚麼用了。&#10;&#10;1.5 倍的反應倍率令拿著它的士兵較易作出反應射擊，也較難被反應射擊。&#10;&#10;射程：8&#10;傷害：25 動能（三發）&#10;壓制：50 點&#10;穿甲力：0&#10;裝彈量：8 發&#10;反應倍率：1.5 倍&#10;裝彈需時：25 TU&#10;&#10;射擊模式：&#10;- 28%% TU 38 精度 x 1 發&#10;- 40%% TU 70 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.sniper</Data></Cell>
-  <Cell><Data ss:Type="String">狙擊槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;狙擊槍</Data></Cell>
  </Row><Row ss:Height="297">
   <Cell><Data ss:Type="String">weapon.sniper.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;狙擊槍：&lt;/b&gt;&#10;&#10;狙擊槍比步槍精確，傷害也略高些，適合遠距離的射擊。由於有穿甲力，它們在攻擊機械人等重裝甲敵人時有傷害優勢。&#10;&#10;不過射擊速度比步槍慢，也不能連射。狙擊槍也沒有近距離命中加值，以及負修正的反應倍率，令它不適合攻堅用。&#10;&#10;射程：30&#10;傷害：35 動能&#10;壓制：25 點&#10;穿甲力：10&#10;裝彈量：6 發&#10;反應倍率：0.5 倍&#10;裝彈需時：30 TU&#10;&#10;射擊模式：&#10;- 38%% TU  60 精度 x 1 發&#10;- 49%% TU 105 精度 x 1 發&#10;- 65%% TU 165 精度 x 1 發</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.plasma</Data></Cell>
-  <Cell><Data ss:Type="String">等離子炸彈</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;等離子炸彈</Data></Cell>
  </Row><Row ss:Height="148.5">
   <Cell><Data ss:Type="String">weapon.explosive.plasma.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;等離子炸彈：&lt;/b&gt;&#10;&#10;等離子炸彈是一塊主要用以爆破建築的爆破物，因為它的爆炸對景物會造成四倍的傷害。士兵可以設定炸彈多少回合後引爆，然後丟下或拋出它。要小心的時，只要時間到了它就會爆炸，不管是不是在士兵身上。&#10;&#10;傷害：100 火焰（對景物四倍傷害）&#10;壓制：200 點&#10;爆炸半徑：3.5 格&#10;TU 花費：60%</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.AlienAssaultPlasma</Data></Cell>
-  <Cell><Data ss:Type="String">異型等離子突擊步槍</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異型等離子突擊步槍</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.combatshield</Data></Cell>
-  <Cell><Data ss:Type="String">戰鬥盾</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;戰鬥盾</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.assaultshield</Data></Cell>
-  <Cell><Data ss:Type="String">突擊盾</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;突擊盾</Data></Cell>
  </Row>
  <Row ss:Height="132">
   <Cell><Data ss:Type="String">weapon.combatshield.desc</Data></Cell>
@@ -5504,7 +5504,7 @@
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;核融手雷：&lt;/b&gt;&#10;&#10;核融手雷是在一種小範圍內做成爆炸傷害的對人武器。它適合用來對付聚集的敵人，也可以拋過障礙物炸躲在後面的敵人。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：160  動能&#10;壓制：60 點&#10;穿甲力：0&#10;爆炸半徑：2 格</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.grenade.advancedmedipack</Data></Cell>
-  <Cell><Data ss:Type="String">高級醫療包</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;高級醫療包</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weaponcooldown.ready</Data></Cell>
   <Cell><Data ss:Type="String">（就緒）</Data></Cell>
@@ -7816,19 +7816,19 @@
  <!-- Aegia Armor -->
  <Row>
   <Cell><Data ss:Type="String">armour.seer</Data></Cell>
-  <Cell><Data ss:Type="String">神盾護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;神盾護甲</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Items.XenonautSeer</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Items.XenonautSeerCorpse</Data></Cell>
-  <Cell><Data ss:Type="String">異種航員的屍骸</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;異種航員的屍骸</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">ManTech.Seer</Data></Cell>
-  <Cell><Data ss:Type="String">神盾支援護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;神盾支援護甲</Data></Cell>
  </Row>
  <Row>
   <Cell><Data ss:Type="String">Researches.Seer</Data></Cell>
@@ -7852,10 +7852,10 @@
  <!-- Fire in the Hole -->
  <Row>
   <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge</Data></Cell>
-  <Cell><Data ss:Type="String">破門炸藥</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;破門炸藥</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.PlasmaBreachingCharge</Data></Cell>
-  <Cell><Data ss:Type="String">破門等離子</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;破門等離子</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">weapon.explosive.BreachingCharge.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;破門炸藥：&lt;/b&gt;&#10;&#10;破門炸藥是大型的爆炸包，用以攻破幽浮外殼的脆弱點。它不能投擲，使用者必需將它拿在手上，設置起爆，然後把它放在目標點旁邊的地上。然後只需要撤離到安全距離靜候引爆。&#10;&#10;傷害：3000 火焰（對景物四倍傷害）&#10;爆炸半徑：1 格直線</Data></Cell>
@@ -8008,7 +8008,7 @@
  <!-- X:CE Balance Adjustment -->
  <Row>
   <Cell><Data ss:Type="String">weapon.grenade.incendiary</Data></Cell>
-  <Cell><Data ss:Type="String">燃燒手雷</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;燃燒手雷</Data></Cell>
  </Row><Row ss:Height="115.5">
   <Cell><Data ss:Type="String">weapon.grenade.incendiary.desc</Data></Cell>
   <Cell><Data ss:Type="String">&lt;font face='fonts/arial.mvec'&gt;&lt;b&gt;燃燒手雷：&lt;/b&gt;&#10;&#10;燃燒手雷本身沒多少傷害力，但可以令爆炸範圍起火。&#10;&#10;手雷可以放在手上投擲，也可以用戰鬥介面的手雷框直接從背包或腰帶丟出去。（沒有空手也能丟，不過用的 TU 比較多。）&#10;&#10;傷害：10&#10;爆炸半徑：4 格</Data></Cell>
