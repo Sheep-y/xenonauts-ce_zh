@@ -1670,7 +1670,7 @@
   <Cell><Data ss:Type="String">空戰解說</Data></Cell>
  </Row><Row ss:Height="66">
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape</Data></Cell>
-  <Cell><Data ss:Type="String">歡迎，指揮官。這就是您所守護的世界。異型的幽浮每隔一段時間就會分批入侵大氣層，持續傷害我們與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷達的偵察範圍，飛進去的幽浮會立刻被發現。首個基地應儘覆蓋儘量多的地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流逝的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;我們的目標是擊落幽浮並從墜地的幽浮回收異型科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
+  <Cell><Data ss:Type="String">歡迎，指揮官。這就是您所守護的世界。異型每隔一段時間就會派出一波幽浮入侵大氣層，持續傷害我們與資助國的關係，直到幽浮被擊落或直到它們完成任務後自行消失。&lt;br&gt;&lt;br&gt;您接下來需要決定在那兒設立首個基地。遊標的藍圈表示基地雷達的偵察範圍，飛進去的幽浮會立刻被發現。首個基地應儘量覆蓋多個地域。&lt;br&gt;&lt;br&gt;安置好基地後就是靜待事件發生。畫面上方的藍色箭頭控制時間流動的速度，直接選最快的四個箭頭就可以。&lt;br&gt;&lt;br&gt;我們的目標是擊落幽浮並從墜地的幽浮回收異型科技，交給研究員去開發新技術及分析異型的目的。順利的話，當對異型有足夠深入的瞭解，也許就能阻止這場侵略。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">ExplanatoryTooltips.Geoscape.Title</Data></Cell>
   <Cell><Data ss:Type="String">地球示圖解說</Data></Cell>

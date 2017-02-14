@@ -37,7 +37,7 @@ MakeDialog
         flags = kHAlignCenter + kVAlignCenter,
         label = messageText,
         font = XenonautsLabelFontWhite11,
-        fontScale = screenScaleY,
+        fontScale = 1.2 * screenScaleY,
       },
         
       SetStyle( XenonautsTiledButton2Style ),
@@ -53,7 +53,7 @@ MakeDialog
     		bordersize = 2,
         label = "OK",
         font = XenonautsLabelFontMedium,
-        fontScale = screenScaleY,
+        fontScale = 1.2 * screenScaleY,
         
         command = 
           function()
