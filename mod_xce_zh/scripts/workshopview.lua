@@ -36,7 +36,7 @@ local tableTop              = cpbheight * 0.35;
 local tableHeight           = cpbheight * 0.65;
 local tableHeaderHeight     = tableHeight * 0.25;
 local tableHeaderFontHeight = screenResolutionH * 0.02; -- originally 0.014
-local navigationText = screenResolutionH * 0.016; -- originally 0.014
+local navigationText = screenResolutionH * 0.02; -- originally 0.014
 local buttonText = screenResolutionH * 0.024; -- originally navigationText
 
 local uniw = 0.96 / 7;

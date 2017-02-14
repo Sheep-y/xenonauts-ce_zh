@@ -377,7 +377,7 @@
   <Cell><Data ss:Type="String">Show missions</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Aircraft</Data></Cell>
-  <Cell><Data ss:Type="String">航機</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;航機</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">airplane.alien.battleship</Data></Cell>
   <Cell><Data ss:Type="String">戰列幽浮</Data></Cell>
@@ -3095,7 +3095,7 @@
   <Cell><Data ss:Type="String">裝備</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.Extraterrestrial</Data></Cell>
-  <Cell><Data ss:Type="String">外太空</Data></Cell>
+  <Cell><Data ss:Type="String">外星科技</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Manu.SoldierWeapons</Data></Cell>
   <Cell><Data ss:Type="String">單兵武器</Data></Cell>
@@ -3248,22 +3248,22 @@
   <Cell><Data ss:Type="String">資金不足。需要 %1%。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.NoLongerGrounded</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 已然修復到可以起飛。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 已經修復到可以起飛。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.RearmedRefuelledReady</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 裝彈及加油完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 裝彈及加油完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.Repaired</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 修理完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 修理完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.RearmedRefuelled</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 裝彈及加油完畢，修理中。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 裝彈及加油完畢，修理中。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.Rearmed</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 裝彈完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 裝彈完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Notify.Airplane.Refuelled</Data></Cell>
-  <Cell><Data ss:Type="String">%1% 加油完畢。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='16'&gt;%1% 加油完畢。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">November</Data></Cell>
   <Cell><Data ss:Type="String">十一月</Data></Cell>
@@ -4777,16 +4777,16 @@
   <Cell><Data ss:Type="String">總運費：</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.TransferBtn</Data></Cell>
-  <Cell><Data ss:Type="String">轉運</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='26'&gt;轉運</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.SellBtn</Data></Cell>
-  <Cell><Data ss:Type="String">售賣</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='26'&gt;售賣</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.Comment1</Data></Cell>
-  <Cell><Data ss:Type="String">這些是可以售賣或轉運的物資。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='20'&gt;這些是可以售賣或轉運的物資。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">StoreView.Comment2</Data></Cell>
-  <Cell><Data ss:Type="String">這倉庫沒有東西要勞您費心，指揮官。&lt;br/&gt;&lt;br/&gt;糧食、燃料、彈藥，這些全都由本地免費供應，而我會確保它們分配妥當。&lt;br/&gt;&lt;br/&gt;當我們開始生產自己的裝備或搜括到異型的科技，您可以來這兒管理它們。</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='22'&gt;這倉庫沒有東西要勞您費心，指揮官。&lt;br/&gt;&lt;br/&gt;糧食、燃料、彈藥，這些全都由本地免費供應，而我會確保它們分配妥當。&lt;br/&gt;&lt;br/&gt;當我們開始生產自己的裝備或搜括到異型的科技，您可以來這兒管理它們。</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SU</Data></Cell>
   <Cell><Data ss:Type="String">蘇維埃共和國</Data></Cell>
@@ -7757,19 +7757,19 @@
   <Cell><Data ss:Type="String">彈藥</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Armour</Data></Cell>
-  <Cell><Data ss:Type="String">護甲</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;護甲</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Equipment</Data></Cell>
   <Cell><Data ss:Type="String">裝備</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Extraterrestrial</Data></Cell>
-  <Cell><Data ss:Type="String">外太空</Data></Cell>
+  <Cell><Data ss:Type="String">外星科技</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">SoldierWeapons</Data></Cell>
-  <Cell><Data ss:Type="String">士兵武器</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;士兵武器</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">Vehicles</Data></Cell>
-  <Cell><Data ss:Type="String">戰車</Data></Cell>
+  <Cell><Data ss:Type="String">&lt;font size='19'&gt;戰車</Data></Cell>
  </Row><Row>
   <Cell><Data ss:Type="String">VehicleWeapons</Data></Cell>
   <Cell><Data ss:Type="String">戰車武器</Data></Cell>

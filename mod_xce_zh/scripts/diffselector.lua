@@ -6,7 +6,7 @@ DownColor   =  MainMenuWhiteColor;
 
 local diffButtonFont = 1.4; -- Originally 1.3
 local startButtonFont = 1.4;  -- Originally 1.1
-local descFont     = 1; -- Originally 1
+local descFont     = 0.7; -- Originally 1
 local optionFont     = 1; -- Originally 0.65
 
 MakeDialog

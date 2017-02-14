@@ -475,7 +475,7 @@ MakeDialog
       {
         font = AEQStatFont,
         name = "stathp",
-        x = stw * 0.030,
+        x = stw * 0.04,
         y = stw * 0.200 + Floor( stw * 0.042) * 6 + Floor( stw * 0.06 ) * 5,
         w = kMax - stw * 0.04,
         h = stw * statHeight,
